@@ -1,0 +1,1453 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Lyon",
+    "count": 76
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84711965,
+          45.75878924
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-038",
+        "name": "G.S. Mazenod, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75878924,4.84711965,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83182571,
+          45.76848776
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-011",
+        "name": "12, rue Terme, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) école de la Martinière",
+        "street_view": "https://www.google.com/maps/@45.76848776,4.83182571,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82982911,
+          45.76815845
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-012",
+        "name": "Place G. Rambaud, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (6 m²)",
+        "street_view": "https://www.google.com/maps/@45.76815845,4.82982911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83595022,
+          45.77065185
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-013",
+        "name": "Place Corix Paquet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3,8) plateforme",
+        "street_view": "https://www.google.com/maps/@45.77065185,4.83595022,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83613733,
+          45.77000175
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-014",
+        "name": "4, place Croix Paquet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77000175,4.83613733,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8362845,
+          45.76871596
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-015",
+        "name": "11, rue Griffon, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.76871596,4.8362845,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83423689,
+          45.77096371
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-016",
+        "name": "Place Chardonnet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77096371,4.83423689,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82777472,
+          45.77156827
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-017",
+        "name": "Montée des Carmélites, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) face rue Masson",
+        "street_view": "https://www.google.com/maps/@45.77156827,4.82777472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83468682,
+          45.77139011
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-018",
+        "name": "22, rue Imbert Colmès, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77139011,4.83468682,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83210886,
+          45.76959705
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-019",
+        "name": "9, rue René Leynaud, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76959705,4.83210886,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83549059,
+          45.76795951
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-110",
+        "name": "17, rue Puits Gaillot, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Mairie Annexe",
+        "street_view": "https://www.google.com/maps/@45.76795951,4.83549059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8333708,
+          45.77218232
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-111",
+        "name": "Rue Lemot, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) sur place Colbert",
+        "street_view": "https://www.google.com/maps/@45.77218232,4.8333708,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83096066,
+          45.76859636
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-112",
+        "name": "3 Rue Louis Vitet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.76859636,4.83096066,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83450567,
+          45.77161016
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-113",
+        "name": "29 rue Imbert Colomès , 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) traboules",
+        "street_view": "https://www.google.com/maps/@45.77161016,4.83450567,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8322458,
+          45.7601602
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-021",
+        "name": "9, rue de Savoie, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7601602,4.8322458,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83216181,
+          45.75475812
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-022",
+        "name": "face au 44, rue Sala, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75475812,4.83216181,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82996771,
+          45.75927774
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-023",
+        "name": "Place Antonin Gourju, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) côté rue c. Chambonnet",
+        "street_view": "https://www.google.com/maps/@45.75927774,4.82996771,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82576701,
+          45.75451403
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-024",
+        "name": "Square Janmot, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) côté quai Tilsitt",
+        "street_view": "https://www.google.com/maps/@45.75451403,4.82576701,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82240054,
+          45.75009832
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-025",
+        "name": " 2, quai Rambaud, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75009832,4.82240054,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8245971,
+          45.74750476
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-026",
+        "name": "Cours Charlemagne, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3)  angle cours Bayard",
+        "street_view": "https://www.google.com/maps/@45.74750476,4.8245971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82090255,
+          45.74240943
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-027",
+        "name": "85, cours Charlemagne, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.74240943,4.82090255,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82802755,
+          45.75538139
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-028",
+        "name": "2, Impasse Catelin, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75538139,4.82802755,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81980712,
+          45.74311961
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-029",
+        "name": " Gymnase Louis Chanfray, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) rue Casimir Périer",
+        "street_view": "https://www.google.com/maps/@45.74311961,4.81980712,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84825692,
+          45.75905078
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-031",
+        "name": "205 rue de Créqui, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) Bourse du Travail",
+        "street_view": "https://www.google.com/maps/@45.75905078,4.84825692,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8669219,
+          45.75086185
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-032",
+        "name": " G.S. N.Josserand, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75086185,4.8669219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86713017,
+          45.7538343
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-033",
+        "name": "château sans souci, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Maison des associations",
+        "street_view": "https://www.google.com/maps/@45.7538343,4.86713017,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8684379,
+          45.75175153
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-034",
+        "name": "Parc Sisley, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75175153,4.8684379,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86344847,
+          45.7490083
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-035",
+        "name": "maison du judo, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7490083,4.86344847,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88182526,
+          45.75167336
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-036",
+        "name": " Parc Bazin, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75167336,4.88182526,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87751653,
+          45.75054418
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-037",
+        "name": "stade Vivien Foé, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75054418,4.87751653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84997844,
+          45.76119341
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-039",
+        "name": " G.S. André Philip, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) rue Dunoir",
+        "street_view": "https://www.google.com/maps/@45.76119341,4.84997844,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81630805,
+          45.77654184
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-041",
+        "name": "45, rue Chazière, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77654184,4.81630805,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82626135,
+          45.78014139
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-042",
+        "name": "58, rue Henon, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78014139,4.82626135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8339266,
+          45.77491805
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-043",
+        "name": "face 1, rue Aimé Boussange, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77491805,4.8339266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81093216,
+          45.77561101
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-044",
+        "name": " Ecole des Entrepôts, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77561101,4.81093216,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82036903,
+          45.77895319
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-045",
+        "name": "G.S. Jean de la Fontaine, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77895319,4.82036903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82190503,
+          45.77945122
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-046",
+        "name": "85, rue Hénon, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77945122,4.82190503,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82508203,
+          45.75701303
+        ]
+      },
+      "properties": {
+        "id": "PAN-69385-051",
+        "name": "Rue Mouton , 69005 Lyon",
+        "city": "Lyon",
+        "postal_code": "69005",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (10,5) angle quai Fulchiron",
+        "street_view": "https://www.google.com/maps/@45.75701303,4.82508203,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78409067,
+          45.75686035
+        ]
+      },
+      "properties": {
+        "id": "PAN-69385-052",
+        "name": "29, avenue de Ménival, 69005 Lyon",
+        "city": "Lyon",
+        "postal_code": "69005",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (4,8) près MJC",
+        "street_view": "https://www.google.com/maps/@45.75686035,4.78409067,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84740299,
+          45.77182705
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-061",
+        "name": "Place Zoé Roche, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77182705,4.84740299,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84920175,
+          45.76829124
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-062",
+        "name": "angle rue Boileau - rue de Sèze, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (7,6) Mairie du 6ème",
+        "street_view": "https://www.google.com/maps/@45.76829124,4.84920175,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84258957,
+          45.76928776
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-063",
+        "name": "Place Maréchal Lyautey  , 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (6 m²)",
+        "street_view": "https://www.google.com/maps/@45.76928776,4.84258957,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86343386,
+          45.76523332
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-064",
+        "name": " 9, rue Germain, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76523332,4.86343386,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8382725,
+          45.73882106
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-071",
+        "name": "3, rue Clément Marot, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) GS N.D. des anges",
+        "street_view": "https://www.google.com/maps/@45.73882106,4.8382725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84665925,
+          45.75375203
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-072",
+        "name": "angle Jean Jaurès / rue Debourg, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Parvis ENS",
+        "street_view": "https://www.google.com/maps/@45.75375203,4.84665925,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83343697,
+          45.73154619
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-073",
+        "name": "angle Jean Jaurès / rue Ravier, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) GS Ravier",
+        "street_view": "https://www.google.com/maps/@45.73154619,4.83343697,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83549145,
+          45.73480191
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-074",
+        "name": "angle Jean Jaurès / rue André Bollier, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73480191,4.83549145,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83175113,
+          45.73154899
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-075",
+        "name": "angle rue Debourg / allée de Fontenay, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73154899,4.83175113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82773748,
+          45.73140418
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-076",
+        "name": " angle rue Debourg / rue de St Cloud, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73140418,4.82773748,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82614049,
+          45.73148541
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-077",
+        "name": "2, avenue Debourg, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73148541,4.82614049,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83857832,
+          45.753566
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-078",
+        "name": "Piscine du Rhône, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)  face Université",
+        "street_view": "https://www.google.com/maps/@45.753566,4.83857832,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85320655,
+          45.74932934
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-079",
+        "name": " face 170, Grande rue Guillotière, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) Place Stalingrad",
+        "street_view": "https://www.google.com/maps/@45.74932934,4.85320655,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84103094,
+          45.74958061
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-710",
+        "name": "Place du Prado, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3)",
+        "street_view": "https://www.google.com/maps/@45.74958061,4.84103094,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83939321,
+          45.75464888
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-711",
+        "name": "Place Raspail , 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.75464888,4.83939321,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84542128,
+          45.74652443
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-712",
+        "name": "G.S. M. Bloch, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.74652443,4.84542128,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83634927,
+          45.74713636
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-713",
+        "name": "G.S.. Berthelot, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.74713636,4.83634927,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86810265,
+          45.73722023
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-081",
+        "name": "Place du 11 Novembre 1918 , 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.73722023,4.86810265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88377707,
+          45.72907793
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-082",
+        "name": "5, rue Joseph Chalier, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.72907793,4.88377707,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86710853,
+          45.73298694
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-083",
+        "name": "3, rue Rochambeau, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.73298694,4.86710853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87906214,
+          45.72239476
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-084",
+        "name": "61, avenue Viviani, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.72239476,4.87906214,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86810265,
+          45.73722023
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-085",
+        "name": "Place du Bachut, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73722023,4.86810265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86908919,
+          45.73625979
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-086",
+        "name": "Avenue Paul Santy / rue Florent, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73625979,4.86908919,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86592328,
+          45.73106658
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-087",
+        "name": "Place 8 mai 1945, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (12)",
+        "street_view": "https://www.google.com/maps/@45.73106658,4.86592328,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85369494,
+          45.73427403
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-088",
+        "name": "Place Belleville / Audibert Lavirotte, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73427403,4.85369494,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88472237,
+          45.74063249
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-089",
+        "name": "Bd Ambroise Paré / rue Thomas Blanchet, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.74063249,4.88472237,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83350253,
+          45.80430458
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-091",
+        "name": "  Face 4 bis, rue Albert Falsan, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (2) devant station bus",
+        "street_view": "https://www.google.com/maps/@45.80430458,4.83350253,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83001007,
+          45.79844366
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-092",
+        "name": "Place Henri Barbusse, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Mairie annexe",
+        "street_view": "https://www.google.com/maps/@45.79844366,4.83001007,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80202177,
+          45.77069624
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-093",
+        "name": "71, rue St Pierre de Vaise, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77069624,4.80202177,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8023125,
+          45.76971123
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-094",
+        "name": "66, rue Gorge de Loup, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76971123,4.8023125,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80471144,
+          45.77545464
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-095",
+        "name": "30, rue Marietton, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77545464,4.80471144,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79570298,
+          45.76383112
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-096",
+        "name": "2, rue Frère Benoit, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76383112,4.79570298,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79914909,
+          45.7636894
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-097",
+        "name": " 140, avenue Barthélémy Buyer, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ensemble sportif La Rodhia",
+        "street_view": "https://www.google.com/maps/@45.7636894,4.79914909,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79355905,
+          45.76396541
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-098",
+        "name": "192, avenue Barthélémy Buyer, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76396541,4.79355905,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79514681,
+          45.78525807
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-099",
+        "name": "5, avenue du Plateau, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78525807,4.79514681,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79500598,
+          45.78478975
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-910",
+        "name": "Gymnase avenue du Plateau, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78478975,4.79500598,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79618853,
+          45.77159586
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-911",
+        "name": "36, avenue Sidoine Apollinaire, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77159586,4.79618853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

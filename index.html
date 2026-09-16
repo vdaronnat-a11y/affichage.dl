@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Tournée Affiches - Guidage optimisé affichage libre</title>
+  <meta name="description" content="Application d'optimisation de tournée de collage sur les panneaux d'affichage libre avec guidage routier pas à pas.">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 3 2%22><rect width=%221%22 height=%222%22 fill=%22%23002654%22/><rect width=%221%22 height=%222%22 x=%221%22 fill=%22%23FFFFFF%22/><rect width=%221%22 height=%222%22 x=%222%22 fill=%22%23CE1126%22/></svg>">
+</head>
+<body>
+
+  <!-- En-tête de l'application -->
+  <header class="app-header">
+    <div class="brand">
+      <div class="brand-icon" style="background: none; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4); border-radius: 4px; overflow: hidden; width: 30px; height: 20px; display: flex; flex-shrink: 0;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" style="width: 100%; height: 100%; display: block;">
+          <rect width="1" height="2" fill="#002654"/>
+          <rect width="1" height="2" x="1" fill="#FFFFFF"/>
+          <rect width="1" height="2" x="2" fill="#CE1126"/>
+        </svg>
+      </div>
+      <span>Tournée Affiches</span>
+    </div>
+    
+    <div class="header-actions">
+      <button id="active-city-badge" class="badge-city" title="Changer de ville">
+        📍 Lyon (76 panneaux)
+      </button>
+      <button id="btn-admin" class="btn-icon" title="Administration & Export" style="display: none;">
+        ⚙️
+      </button>
+    </div>
+  </header>
+
+  <!-- Conteneur principal -->
+  <main class="app-container">
+    <!-- Carte interactive Leaflet -->
+    <div id="map-container"></div>
+
+    <!-- Volet latéral / Bottom-sheet -->
+    <aside id="side-panel" class="side-panel">
+      <!-- Barre d'affordance de rabattement (environ 50% de la largeur du volet) -->
+      <div class="sheet-pull-handle" title="Glisser ou cliquer pour abaisser le volet">
+        <div class="sheet-pull-bar"></div>
+      </div>
+      
+      <!-- Étape 1 : Configuration initiale de la tournée -->
+      <section id="step-config" class="panel-content">
+        <div class="panel-header" style="padding: 0 0 12px 0; border: none;">
+          <h2>Organiser ma tournée</h2>
+        </div>
+
+        <!-- 1. Choix de la ville -->
+        <div class="form-group">
+          <label class="form-label" for="city-select">1. Ville / Secteur</label>
+          <select id="city-select" class="form-select">
+            <!-- Rempli dynamiquement -->
+          </select>
+        </div>
+
+        <!-- 2. Nombre de panneaux -->
+        <div class="form-group">
+          <label class="form-label">2. Nombre de panneaux</label>
+          <div class="count-pills">
+            <button type="button" class="count-pill-btn" data-count="5">5</button>
+            <button type="button" class="count-pill-btn active" data-count="10">10</button>
+            <button type="button" class="count-pill-btn" data-count="15">15</button>
+            <button type="button" class="count-pill-btn" data-count="20">20</button>
+          </div>
+        </div>
+
+        <!-- 3. Point de départ (et de retour) -->
+        <div class="form-group">
+          <div class="form-label">
+            <span>3. Départ & Retour (Boucle)</span>
+            <span style="font-size: 0.72rem; color: var(--accent-blue); font-weight: normal;">Boucle fermée</span>
+          </div>
+          <div class="address-input-wrapper">
+            <div class="address-row">
+              <div style="position: relative; flex: 1; display: flex; align-items: center;">
+                <input type="text" id="start-address" class="form-input" placeholder="Adresse de départ ou GPS..." autocomplete="off" style="padding-right: 32px;">
+                <button type="button" id="btn-clear-address" title="Effacer l'adresse" style="position: absolute; right: 8px; background: none; border: none; color: var(--text-muted); font-size: 1.1rem; cursor: pointer; padding: 4px; display: flex; align-items: center; justify-content: center; line-height: 1;">
+                  ✕
+                </button>
+              </div>
+              <button type="button" id="btn-gps" class="btn-gps" title="Utiliser ma position GPS">
+                📍 GPS
+              </button>
+            </div>
+            <!-- Liste d'autocomplétion BAN -->
+            <div id="address-suggestions" class="address-suggestions"></div>
+          </div>
+          <small style="color: var(--text-muted); font-size: 0.75rem;">
+            La tournée partira de cette adresse et vous y ramènera une fois tous les panneaux collés.
+          </small>
+        </div>
+
+        <!-- Bouton générer -->
+        <button id="btn-calculate-tour" class="btn-primary" style="margin-top: 10px;">
+          🚀 Générer la tournée optimisée
+        </button>
+      </section>
+
+      <!-- Étape 2 : Revue et ajustement de l'itinéraire -->
+      <section id="step-review" class="panel-content" style="display: none;">
+        <div class="panel-header" style="padding: 0 0 12px 0; border: none; display: flex; justify-content: space-between; align-items: center;">
+          <h2>Itinéraire calculé</h2>
+          <button id="btn-modify-config" class="btn-abandon" title="Abandonner cet itinéraire et recommencer">
+            ✕ Abandonner
+          </button>
+        </div>
+
+        <!-- Carte résumé statistique -->
+        <div class="route-summary-card">
+          <div class="stat-box">
+            <span id="summary-count" class="stat-val">10</span>
+            <span class="stat-label">Panneaux</span>
+          </div>
+          <div class="stat-box">
+            <span id="summary-distance" class="stat-val">12.4 km</span>
+            <span class="stat-label">Distance</span>
+          </div>
+          <div class="stat-box">
+            <span id="summary-time" class="stat-val">42 min</span>
+            <span class="stat-label">Temps estimé</span>
+          </div>
+        </div>
+
+        <p style="font-size: 0.8rem; color: var(--text-secondary);">
+          💡 <em>Vous pouvez cliquer sur un panneau sur la carte pour l'ajouter, ou sur ✕ dans la liste pour le retirer. L'ordre et les sens interdits sont automatiquement recalculés.</em>
+        </p>
+
+        <!-- Liste des panneaux dans l'ordre de passage -->
+        <div id="panels-list" class="panels-list">
+          <!-- Rempli dynamiquement -->
+        </div>
+
+        <div class="route-actions-bar">
+          <button id="btn-recalculate" class="btn-secondary" title="Recalculer le trajet">
+            🔄 Recalculer
+          </button>
+        </div>
+
+        <!-- Bouton de lancement du guidage -->
+        <button id="btn-start-guidance" class="btn-primary" style="background: linear-gradient(135deg, #0284c7, #2563eb);">
+          🧭 Démarrer le Mode Guidage
+        </button>
+      </section>
+
+    </aside>
+
+    <!-- Poignée tactile flottante au bas de l'écran (quand le volet est abaissé) -->
+    <button id="bottom-sheet-handle" class="bottom-sheet-handle" title="Ouvrir les détails de la tournée">
+      ▲ Détails tournée ▲
+    </button>
+
+    <!-- Overlay Mode Guidage (Spécial HUD Voiture sur smartphone) -->
+    <div id="guidance-overlay" class="guidance-overlay">
+      <div class="guidance-card">
+        
+        <div class="guidance-step-header">
+          <span id="guidance-step-indicator" class="step-indicator">
+            📍 Panneau 1 sur 10
+          </span>
+          <button id="btn-exit-guidance" class="btn-exit-guidance">
+            ✕ Quitter
+          </button>
+        </div>
+
+        <!-- Barre de progression -->
+        <div class="progress-track">
+          <div id="guidance-progress-bar" class="progress-bar"></div>
+        </div>
+
+        <!-- Adresse et instructions -->
+        <div class="target-address-box">
+          <div id="guidance-address" class="target-address">
+            Rue de la République, Lyon
+          </div>
+          <div id="guidance-notes" class="target-notes">
+            Face au parc • Panneau 4m²
+          </div>
+        </div>
+
+        <!-- Bouton principal : Guidage Google Maps -->
+        <a id="btn-nav-gmaps" class="btn-nav-gmaps" href="#" target="_blank" rel="noopener">
+          🚗 Ouvrir dans Google Maps
+        </a>
+
+        <!-- Alternatives navigation -->
+        <div class="nav-secondary-row">
+          <a id="btn-nav-waze" class="btn-nav-waze" href="#" target="_blank" rel="noopener">
+            🚙 Ouvrir Waze
+          </a>
+        </div>
+
+        <!-- Gros bouton tactile validation collage -->
+        <button id="btn-pasted-giant" class="btn-pasted-giant">
+          ✅ C'est collé ! Panneau suivant ➡️
+        </button>
+
+      </div>
+    </div>
+  </main>
+
+  <!-- Modale Administration & Export -->
+  <div id="admin-modal" class="modal-backdrop">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>Espace Administrateur & Données</h3>
+        <button id="btn-close-admin" class="btn-icon" style="border: none; background: none; font-size: 1.2rem;">✕</button>
+      </div>
+      <div class="modal-body">
+        
+        <!-- Export Google My Maps -->
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 14px; border-radius: var(--radius-md); border: 1px solid var(--border-color);">
+          <h4 style="font-size: 0.95rem; margin-bottom: 6px; color: var(--accent-blue);">🗺️ Export pour Google My Maps</h4>
+          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 10px;">
+            Téléchargez les panneaux de la ville active dans un fichier CSV ou KML pré-formaté, prêt à être importé dans <strong>Google My Maps</strong> pour créer vos propres calques cartographiques.
+          </p>
+          <button id="btn-export-mymaps" class="btn-secondary" style="width: 100%;">
+            📥 Exporter les panneaux pour Google My Maps (CSV)
+          </button>
+        </div>
+
+        <!-- Formulaire d'ajout d'une nouvelle ville -->
+        <form id="admin-add-city-form" style="display: flex; flex-direction: column; gap: 14px;">
+          <h4 style="font-size: 0.95rem; color: var(--accent-green);">➕ Ajouter une nouvelle ville</h4>
+          
+          <div class="form-group">
+            <label class="form-label" for="admin-city-name">Nom de la ville</label>
+            <input type="text" id="admin-city-name" class="form-input" placeholder="Ex: Grenoble, Bordeaux, Marseille..." required>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="admin-city-dept">Département ou Région</label>
+            <input type="text" id="admin-city-dept" class="form-input" placeholder="Ex: 38 - Isère">
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="admin-city-file">Fichier de panneaux (GeoJSON ou CSV)</label>
+            <input type="file" id="admin-city-file" class="form-input" accept=".geojson,.json,.csv" required style="padding: 8px;">
+            <small style="font-size: 0.75rem; color: var(--text-muted);">
+              Format supporté : GeoJSON officiel ou CSV avec colonnes latitude/longitude (ex: téléchargé depuis data.gouv.fr).
+            </small>
+          </div>
+
+          <button type="submit" class="btn-primary" style="margin-top: 6px;">
+            💾 Importer et enregistrer la ville
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Modale Félicitations Fin de Tournée -->
+  <div id="congrats-modal" class="modal-backdrop">
+    <div class="modal-card" style="text-align: center;">
+      <div class="modal-body" style="padding: 32px 24px;">
+        <div class="congrats-icon">🎉👏</div>
+        <h2 style="font-size: 1.5rem; margin-bottom: 8px;">Félicitations !</h2>
+        <p style="color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 20px;">
+          Tous les panneaux de votre tournée ont été visités et collés avec succès, et vous êtes de retour à bon port !
+        </p>
+        
+        <div id="congrats-stats-box" class="congrats-stats" style="margin-bottom: 24px;">
+          <!-- Injecté dynamiquement -->
+        </div>
+
+        <button id="btn-close-congrats" class="btn-primary" style="width: 100%;">
+          🎯 Prêt pour une nouvelle tournée
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Application JS (versionnée anti-cache) -->
+  <script type="module" src="js/app.js?v=3.0"></script>
+
+</body>
+</html>

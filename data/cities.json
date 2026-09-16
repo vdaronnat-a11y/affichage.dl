@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lyon",
+    "name": "Lyon (Ville)",
+    "department": "69 - Rhône",
+    "count": 76,
+    "center": [
+      4.8357,
+      45.764
+    ],
+    "file": "panels/lyon.geojson"
+  },
+  {
+    "id": "grand_lyon",
+    "name": "Métropole de Lyon (Grand Lyon)",
+    "department": "69 - Rhône",
+    "count": 275,
+    "center": [
+      4.845,
+      45.77
+    ],
+    "file": "panels/grand_lyon.geojson"
+  },
+  {
+    "id": "nantes",
+    "name": "Nantes Métropole",
+    "department": "44 - Loire-Atlantique",
+    "count": 490,
+    "center": [
+      -1.5536,
+      47.2183
+    ],
+    "file": "panels/nantes.geojson"
+  },
+  {
+    "id": "issy_les_moulineaux",
+    "name": "Issy-les-Moulineaux",
+    "department": "92 - Hauts-de-Seine",
+    "count": 21,
+    "center": [
+      2.274,
+      48.8208
+    ],
+    "file": "panels/issy_les_moulineaux.geojson"
+  },
+  {
+    "id": "fleury_sur_orne",
+    "name": "Fleury-sur-Orne",
+    "department": "14 - Calvados",
+    "count": 4,
+    "center": [
+      -0.3747,
+      49.1487
+    ],
+    "file": "panels/fleury_sur_orne.geojson"
+  }
+]

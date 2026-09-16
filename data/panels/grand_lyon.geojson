@@ -1,0 +1,5235 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Métropole de Lyon (Grand Lyon)",
+    "count": 275,
+    "source": "https://data.grandlyon.com/portail/fr/jeux-de-donnees/panneaux-affichage-libre-metropole-lyon/telechargements"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8997992,
+          45.7524796
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-001",
+        "name": "Route de Genas / Rue Clémenceau, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2+2:33,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.7524796,4.8997992,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90337163,
+          45.75011066
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-002",
+        "name": "Rue Léon Paviot / terrain multisport, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.75011066,4.90337163,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91389633,
+          45.73359699
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-020",
+        "name": "14 rue du 11 Novembre 1918, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73359699,4.91389633,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89930632,
+          45.73345446
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-027",
+        "name": "Rue de la Paix / rue Neuve des Essarts, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Ecole Anatole France",
+        "street_view": "https://www.google.com/maps/@45.73345446,4.89930632,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89896199,
+          45.73263517
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-028",
+        "name": "14 Rue Neuve des Essarts, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73263517,4.89896199,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89206215,
+          45.73234712
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-031",
+        "name": "Rue du Parc, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Maison de Quartier des Essarts",
+        "street_view": "https://www.google.com/maps/@45.73234712,4.89206215,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901474,
+          45.73131502
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-033",
+        "name": "Avenue E Herriot / square Laurent Bonnevay, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Square Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.73131502,4.901474,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90115741,
+          45.73114746
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-034",
+        "name": "Rue Claude Delaigue / rue Jean Jaures, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73114746,4.90115741,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90443068,
+          45.72997059
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-035",
+        "name": "6 rue Paul Pic, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.72997059,4.90443068,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90230575,
+          45.72811153
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-036",
+        "name": "100 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.72811153,4.90230575,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90091647,
+          45.72767493
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-037",
+        "name": "84 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.72767493,4.90091647,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90438903,
+          45.72675835
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-038",
+        "name": "110 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.72675835,4.90438903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91414764,
+          45.72904356
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-041",
+        "name": "13 avenue des Sports, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Stade Jean Jaurès",
+        "street_view": "https://www.google.com/maps/@45.72904356,4.91414764,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90491578,
+          45.75053381
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-003",
+        "name": "rue Jacques Daligand, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Maison de Quartier des Genêts",
+        "street_view": "https://www.google.com/maps/@45.75053381,4.90491578,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90824898,
+          45.75079596
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-004",
+        "name": "Route de Genas / trémie périphérique, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.75079596,4.90824898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90822603,
+          45.75082398
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-005",
+        "name": "Route de Genas / entrée ex-gendarmerie, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.75082398,4.90822603,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91181594,
+          45.74796394
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-006",
+        "name": "Rue Christian Lacouture, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Gymnase Louis Pradel",
+        "street_view": "https://www.google.com/maps/@45.74796394,4.91181594,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91127426,
+          45.75001661
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-007",
+        "name": "Rue Christian Lacouture, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Ecole La Garenne",
+        "street_view": "https://www.google.com/maps/@45.75001661,4.91127426,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91181764,
+          45.74796913
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-008",
+        "name": "Rue de la Batterie / rue Emile Chaze, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74796913,4.91181764,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91691477,
+          45.74397885
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-009",
+        "name": "Rue de Lessivas, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Résidence Marius Ledoux",
+        "street_view": "https://www.google.com/maps/@45.74397885,4.91691477,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91795072,
+          45.74187295
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-010",
+        "name": "Rue Gérard Philipe, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Centre social Gérard Philipe",
+        "street_view": "https://www.google.com/maps/@45.74187295,4.91795072,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92701571,
+          45.74585335
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-011",
+        "name": "Route de Genas / rue Nungesser et Coli, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74585335,4.92701571,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93229703,
+          45.74755799
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-012",
+        "name": "Rond Point des 7 Chemins, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74755799,4.93229703,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93203188,
+          45.74406415
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-013",
+        "name": "Avenue Salvador Allende, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Devant le garage",
+        "street_view": "https://www.google.com/maps/@45.74406415,4.93203188,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93215569,
+          45.7437583
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-014",
+        "name": "Avenue Salvador Allende, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Entrée terrain de tennis Wagner",
+        "street_view": "https://www.google.com/maps/@45.7437583,4.93215569,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91594839,
+          45.74376528
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-015",
+        "name": "Avenue Ferdinand Buisson / rue de Montferrat, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74376528,4.91594839,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91594839,
+          45.74376528
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-016",
+        "name": "Avenue Ferdinand Buisson / entrée du cimetière, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74376528,4.91594839,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91740499,
+          45.73782571
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-017",
+        "name": "Avenue Ferdinand Buisson / mur du cimetière, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73782571,4.91740499,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91050369,
+          45.73895528
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-018",
+        "name": "Avenue Jules Mas / rue de Reims, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73895528,4.91050369,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91416737,
+          45.73499677
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-019",
+        "name": "Rue Alsace Lorraine / rue des Aubépins, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73499677,4.91416737,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91749367,
+          45.7337861
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-021",
+        "name": "Rue Collomb / avenue De Lattre Tassigny, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.7337861,4.91749367,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90878782,
+          45.73228556
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-022",
+        "name": "Rue Roger Salengro, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Devant le supermarché Casino",
+        "street_view": "https://www.google.com/maps/@45.73228556,4.90878782,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92093972,
+          45.729658
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-023",
+        "name": "Avenue Général de Gaulle, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) En face du monument aux morts",
+        "street_view": "https://www.google.com/maps/@45.729658,4.92093972,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90924895,
+          45.72905583
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-024",
+        "name": "Avenue des Sports / rue Philippe Goy, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.72905583,4.90924895,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89224653,
+          45.73855512
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-025",
+        "name": "Avenue F Roosevelt , 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Le Grand Cèdre",
+        "street_view": "https://www.google.com/maps/@45.73855512,4.89224653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88997102,
+          45.735046
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-026",
+        "name": "Boulevard Pinel / rue des Essarts, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.735046,4.88997102,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89066941,
+          45.73473408
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-029",
+        "name": "Rue des Essarts, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) En face de l'école Jules Ferry",
+        "street_view": "https://www.google.com/maps/@45.73473408,4.89066941,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89674296,
+          45.73162498
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-030",
+        "name": "Rue des Essarts / rue Sigismond Brissy, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.73162498,4.89674296,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89950002,
+          45.72666096
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-032",
+        "name": "Boulevard Pinel / rue Lionel Terray, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Parking Martin",
+        "street_view": "https://www.google.com/maps/@45.72666096,4.89950002,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89253797,
+          45.738803
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-039",
+        "name": "Boulevard Pinel / avenue F Roosevelt, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.738803,4.89253797,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89272397,
+          45.74036696
+        ]
+      },
+      "properties": {
+        "id": "PAN-69029-040",
+        "name": "Boulevard Pinel / entrée Hôpitaux Est, 69500 Bron",
+        "city": "Bron",
+        "postal_code": "69500",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.74036696,4.89272397,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77908674,
+          45.7985918
+        ]
+      },
+      "properties": {
+        "id": "PAN-69040-003",
+        "name": "chemin du Coulouvrier, 69410 Champagne-au-Mont-d'Or",
+        "city": "Champagne-au-Mont-d'Or",
+        "postal_code": "69410",
+        "type": "Affichage libre",
+        "notes": "(1,30 x 0,97) sur le parking du stade René Eollet",
+        "street_view": "https://www.google.com/maps/@45.7985918,4.77908674,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84711965,
+          45.7587892
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-038",
+        "name": "G.S. Mazenod, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7587892,4.84711965,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81961218,
+          45.81436798
+        ]
+      },
+      "properties": {
+        "id": "PAN-69191-001",
+        "name": "route de Collonges, 69450 Saint-Cyr-au-Mont-d'Or",
+        "city": "Saint-Cyr-au-Mont-d'Or",
+        "postal_code": "69450",
+        "type": "Affichage libre",
+        "notes": "Pied / Recto (1,65 X 1,07) Au niveau du plateau traversant en face de l'Eglise",
+        "street_view": "https://www.google.com/maps/@45.81436798,4.81961218,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79473164,
+          45.82567382
+        ]
+      },
+      "properties": {
+        "id": "PAN-69194-001",
+        "name": "Place Martel, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d’Or",
+        "postal_code": "69370",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) A côté de l'arrêt de bus",
+        "street_view": "https://www.google.com/maps/@45.82567382,4.79473164,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79814705,
+          45.81130034
+        ]
+      },
+      "properties": {
+        "id": "PAN-69194-002",
+        "name": "Place Pradel, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d’Or",
+        "postal_code": "69370",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Angle nord est de la place à côté de l'entrée du parking",
+        "street_view": "https://www.google.com/maps/@45.81130034,4.79814705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79593193,
+          45.81039421
+        ]
+      },
+      "properties": {
+        "id": "PAN-69194-003",
+        "name": "5 rue de la chèvre, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d’Or",
+        "postal_code": "69370",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Devant la salle des associations",
+        "street_view": "https://www.google.com/maps/@45.81039421,4.79593193,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80386564,
+          45.79814652
+        ]
+      },
+      "properties": {
+        "id": "PAN-69194-004",
+        "name": "Avenue Pasteur, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d’Or",
+        "postal_code": "69370",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Au niveau du Rond point des tillieuls",
+        "street_view": "https://www.google.com/maps/@45.79814652,4.80386564,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95405015,
+          45.65276511
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-001",
+        "name": "81 rue de la libération, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle de l’espace vert",
+        "street_view": "https://www.google.com/maps/@45.65276511,4.95405015,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95534408,
+          45.66137165
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-002",
+        "name": "18 rue du 11 novembre 1918, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant la salle des arts martiaux",
+        "street_view": "https://www.google.com/maps/@45.66137165,4.95534408,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9584119,
+          45.6658147
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-003",
+        "name": "Centre commercial de la halle Rue du 19 mars 1962, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’entrée du parking rue du 19 mars 1962",
+        "street_view": "https://www.google.com/maps/@45.6658147,4.9584119,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96609492,
+          45.66712037
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-004",
+        "name": "8 rue Pasteur, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’ancien groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.66712037,4.96609492,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94963641,
+          45.66319756
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-005",
+        "name": "16 route de Corbas, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (2x2) A l’angle de la rue Victor Hugo",
+        "street_view": "https://www.google.com/maps/@45.66319756,4.94963641,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94274158,
+          45.66468111
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-006",
+        "name": "1 allée Etienne Jodelle, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle de la rue Albert ferrus",
+        "street_view": "https://www.google.com/maps/@45.66468111,4.94274158,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93826889,
+          45.66551719
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-007",
+        "name": "60 route de Corbas, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle du chemin du chrabonnier",
+        "street_view": "https://www.google.com/maps/@45.66551719,4.93826889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94071318,
+          45.66963181
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-008",
+        "name": "60 rue mangetemps, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’entrée de la salle convergence",
+        "street_view": "https://www.google.com/maps/@45.66963181,4.94071318,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94192798,
+          45.68052591
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-009",
+        "name": "18 rue Joliot-Curie, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’entrée du groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.68052591,4.94192798,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94902189,
+          45.68018102
+        ]
+      },
+      "properties": {
+        "id": "PAN-69283-010",
+        "name": "3 rue du 23 août 1944, 69780 Mions",
+        "city": "Mions",
+        "postal_code": "69780",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Au feu en bas du pont",
+        "street_view": "https://www.google.com/maps/@45.68018102,4.94902189,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83182571,
+          45.76848772
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-011",
+        "name": "12, rue Terme, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) école de la Martinière",
+        "street_view": "https://www.google.com/maps/@45.76848772,4.83182571,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82982911,
+          45.7681584
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-012",
+        "name": "Place G. Rambaud, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (6 m²)",
+        "street_view": "https://www.google.com/maps/@45.7681584,4.82982911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83595022,
+          45.77065181
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-013",
+        "name": "Place Corix Paquet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3,8) plateforme",
+        "street_view": "https://www.google.com/maps/@45.77065181,4.83595022,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83613733,
+          45.77000171
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-014",
+        "name": "4, place Croix Paquet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77000171,4.83613733,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8362845,
+          45.76871592
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-015",
+        "name": "11, rue Griffon, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.76871592,4.8362845,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83423689,
+          45.77096367
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-016",
+        "name": "Place Chardonnet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77096367,4.83423689,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82777472,
+          45.77156823
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-017",
+        "name": "Montée des Carmélites, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) face rue Masson",
+        "street_view": "https://www.google.com/maps/@45.77156823,4.82777472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83468682,
+          45.77139007
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-018",
+        "name": "22, rue Imbert Colmès, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77139007,4.83468682,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83210886,
+          45.76959701
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-019",
+        "name": "9, rue René Leynaud, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76959701,4.83210886,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83549059,
+          45.76795947
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-110",
+        "name": "17, rue Puits Gaillot, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Mairie Annexe",
+        "street_view": "https://www.google.com/maps/@45.76795947,4.83549059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8333708,
+          45.77218228
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-111",
+        "name": "Rue Lemot, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) sur place Colbert",
+        "street_view": "https://www.google.com/maps/@45.77218228,4.8333708,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83096066,
+          45.76859632
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-112",
+        "name": "3 Rue Louis Vitet, 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.76859632,4.83096066,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83450567,
+          45.77161012
+        ]
+      },
+      "properties": {
+        "id": "PAN-69381-113",
+        "name": "29 rue Imbert Colomès , 69001 Lyon",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) traboules",
+        "street_view": "https://www.google.com/maps/@45.77161012,4.83450567,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8322458,
+          45.76016016
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-021",
+        "name": "9, rue de Savoie, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76016016,4.8322458,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83216181,
+          45.75475808
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-022",
+        "name": "face au 44, rue Sala, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75475808,4.83216181,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82996771,
+          45.7592777
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-023",
+        "name": "Place Antonin Gourju, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) côté rue c. Chambonnet",
+        "street_view": "https://www.google.com/maps/@45.7592777,4.82996771,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82576701,
+          45.75451399
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-024",
+        "name": "Square Janmot, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) côté quai Tilsitt",
+        "street_view": "https://www.google.com/maps/@45.75451399,4.82576701,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82240054,
+          45.75009828
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-025",
+        "name": "2, quai Rambaud, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75009828,4.82240054,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8245971,
+          45.74750472
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-026",
+        "name": "Cours Charlemagne, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3)  angle cours Bayard",
+        "street_view": "https://www.google.com/maps/@45.74750472,4.8245971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82090255,
+          45.74240939
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-027",
+        "name": "85, cours Charlemagne, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5)",
+        "street_view": "https://www.google.com/maps/@45.74240939,4.82090255,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82802755,
+          45.75538135
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-028",
+        "name": "2, Impasse Catelin, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75538135,4.82802755,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81980712,
+          45.74311957
+        ]
+      },
+      "properties": {
+        "id": "PAN-69382-029",
+        "name": "Gymnase Louis Chanfray, 69002 Lyon",
+        "city": "Lyon",
+        "postal_code": "69002",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) rue Casimir Périer",
+        "street_view": "https://www.google.com/maps/@45.74311957,4.81980712,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84825692,
+          45.75905073
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-031",
+        "name": "205 rue de Créqui, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) Bourse du Travail",
+        "street_view": "https://www.google.com/maps/@45.75905073,4.84825692,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8669219,
+          45.75086181
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-032",
+        "name": "G.S. N.Josserand, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75086181,4.8669219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86713017,
+          45.75383426
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-033",
+        "name": "château sans souci, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Maison des associations",
+        "street_view": "https://www.google.com/maps/@45.75383426,4.86713017,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8684379,
+          45.75175149
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-034",
+        "name": "Parc Sisley, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75175149,4.8684379,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86344847,
+          45.74900826
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-035",
+        "name": "maison du judo, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.74900826,4.86344847,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88182526,
+          45.75167332
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-036",
+        "name": "Parc Bazin, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75167332,4.88182526,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87751653,
+          45.75054414
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-037",
+        "name": "stade Vivien Foé, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.75054414,4.87751653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84997844,
+          45.76119336
+        ]
+      },
+      "properties": {
+        "id": "PAN-69383-039",
+        "name": "G.S. André Philip, 69003 Lyon",
+        "city": "Lyon",
+        "postal_code": "69003",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) rue Dunoir",
+        "street_view": "https://www.google.com/maps/@45.76119336,4.84997844,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81630805,
+          45.7765418
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-041",
+        "name": "45, rue Chazière, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7765418,4.81630805,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82626135,
+          45.78014135
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-042",
+        "name": "58, rue Henon, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78014135,4.82626135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8339266,
+          45.77491801
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-043",
+        "name": "face 1, rue Aimé Boussange, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77491801,4.8339266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81093216,
+          45.77561097
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-044",
+        "name": "Ecole des Entrepôts, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77561097,4.81093216,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82036903,
+          45.77895315
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-045",
+        "name": "G.S. Jean de la Fontaine, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77895315,4.82036903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82190503,
+          45.77945118
+        ]
+      },
+      "properties": {
+        "id": "PAN-69384-046",
+        "name": "85, rue Hénon, 69004 Lyon",
+        "city": "Lyon",
+        "postal_code": "69004",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77945118,4.82190503,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82508203,
+          45.75701299
+        ]
+      },
+      "properties": {
+        "id": "PAN-69385-051",
+        "name": "Rue Mouton , 69005 Lyon",
+        "city": "Lyon",
+        "postal_code": "69005",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (10,5) angle quai Fulchiron",
+        "street_view": "https://www.google.com/maps/@45.75701299,4.82508203,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78409067,
+          45.75686031
+        ]
+      },
+      "properties": {
+        "id": "PAN-69385-052",
+        "name": "29, avenue de Ménival, 69005 Lyon",
+        "city": "Lyon",
+        "postal_code": "69005",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (4,8) près MJC",
+        "street_view": "https://www.google.com/maps/@45.75686031,4.78409067,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84740299,
+          45.77182701
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-061",
+        "name": "Place Zoé Roche, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77182701,4.84740299,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84920175,
+          45.7682912
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-062",
+        "name": "angle rue Boileau - rue de Sèze, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (7,6) Mairie du 6ème",
+        "street_view": "https://www.google.com/maps/@45.7682912,4.84920175,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84258957,
+          45.76928772
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-063",
+        "name": "Place Maréchal Lyautey , 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (6 m²)",
+        "street_view": "https://www.google.com/maps/@45.76928772,4.84258957,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86343386,
+          45.76523328
+        ]
+      },
+      "properties": {
+        "id": "PAN-69386-064",
+        "name": "9, rue Germain, 69006 Lyon",
+        "city": "Lyon",
+        "postal_code": "69006",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76523328,4.86343386,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8382725,
+          45.73882102
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-071",
+        "name": "3, rue Clément Marot, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) GS N.D. des anges",
+        "street_view": "https://www.google.com/maps/@45.73882102,4.8382725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84665925,
+          45.75375199
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-072",
+        "name": "angle Jean Jaurès / rue Debourg, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Parvis ENS",
+        "street_view": "https://www.google.com/maps/@45.75375199,4.84665925,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83343697,
+          45.73154615
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-073",
+        "name": "angle Jean Jaurès / rue Ravier, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) GS Ravier",
+        "street_view": "https://www.google.com/maps/@45.73154615,4.83343697,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83549145,
+          45.73480187
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-074",
+        "name": "angle Jean Jaurès / rue André Bollier, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73480187,4.83549145,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83175113,
+          45.73154895
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-075",
+        "name": "angle rue Debourg / allée de Fontenay, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73154895,4.83175113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82773748,
+          45.73140414
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-076",
+        "name": "angle rue Debourg / rue de St Cloud, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73140414,4.82773748,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82614049,
+          45.73148536
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-077",
+        "name": "2, avenue Debourg, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ENS",
+        "street_view": "https://www.google.com/maps/@45.73148536,4.82614049,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83857832,
+          45.75356596
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-078",
+        "name": "Piscine du Rhône, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)  face Université",
+        "street_view": "https://www.google.com/maps/@45.75356596,4.83857832,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85320655,
+          45.7493293
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-079",
+        "name": "face 170, Grande rue Guillotière, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3) Place Stalingrad",
+        "street_view": "https://www.google.com/maps/@45.7493293,4.85320655,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84103094,
+          45.74958057
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-710",
+        "name": "Place du Prado, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (3)",
+        "street_view": "https://www.google.com/maps/@45.74958057,4.84103094,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83939321,
+          45.75464884
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-711",
+        "name": "Place Raspail , 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.75464884,4.83939321,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84542128,
+          45.74652439
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-712",
+        "name": "G.S. M. Bloch, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.74652439,4.84542128,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83634927,
+          45.74713632
+        ]
+      },
+      "properties": {
+        "id": "PAN-69387-713",
+        "name": "G.S.. Berthelot, 69007 Lyon",
+        "city": "Lyon",
+        "postal_code": "69007",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.74713632,4.83634927,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86810265,
+          45.73722019
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-081",
+        "name": "Place du 11 Novembre 1918 , 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.73722019,4.86810265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88377707,
+          45.72907789
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-082",
+        "name": "5, rue Joseph Chalier, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.72907789,4.88377707,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86710853,
+          45.7329869
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-083",
+        "name": "3, rue Rochambeau, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7329869,4.86710853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87906214,
+          45.72239472
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-084",
+        "name": "61, avenue Viviani, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.72239472,4.87906214,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86810265,
+          45.73722019
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-085",
+        "name": "Place du Bachut, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73722019,4.86810265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86908919,
+          45.73625975
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-086",
+        "name": "Avenue Paul Santy / rue Florent, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73625975,4.86908919,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86592328,
+          45.73106654
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-087",
+        "name": "Place 8 mai 1945, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (12)",
+        "street_view": "https://www.google.com/maps/@45.73106654,4.86592328,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85369494,
+          45.73427399
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-088",
+        "name": "Place Belleville / Audibert Lavirotte, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.73427399,4.85369494,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88472237,
+          45.74063245
+        ]
+      },
+      "properties": {
+        "id": "PAN-69388-089",
+        "name": "Bd Ambroise Paré / rue Thomas Blanchet, 69008 Lyon",
+        "city": "Lyon",
+        "postal_code": "69008",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (6)",
+        "street_view": "https://www.google.com/maps/@45.74063245,4.88472237,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83350253,
+          45.80430454
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-091",
+        "name": "Face 4 bis, rue Albert Falsan, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (2) devant station bus",
+        "street_view": "https://www.google.com/maps/@45.80430454,4.83350253,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83001007,
+          45.79844362
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-092",
+        "name": "Place Henri Barbusse, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) Mairie annexe",
+        "street_view": "https://www.google.com/maps/@45.79844362,4.83001007,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80202177,
+          45.7706962
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-093",
+        "name": "71, rue St Pierre de Vaise, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7706962,4.80202177,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8023125,
+          45.76971119
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-094",
+        "name": "66, rue Gorge de Loup, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76971119,4.8023125,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80471144,
+          45.7754546
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-095",
+        "name": "30, rue Marietton, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.7754546,4.80471144,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79570298,
+          45.76383108
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-096",
+        "name": "2, rue Frère Benoit, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76383108,4.79570298,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79914909,
+          45.76368936
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-097",
+        "name": "140, avenue Barthélémy Buyer, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20) ensemble sportif La Rodhia",
+        "street_view": "https://www.google.com/maps/@45.76368936,4.79914909,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79355905,
+          45.76396537
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-098",
+        "name": "192, avenue Barthélémy Buyer, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.76396537,4.79355905,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79514681,
+          45.78525803
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-099",
+        "name": "5, avenue du Plateau, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78525803,4.79514681,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79500598,
+          45.78478971
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-910",
+        "name": "Gymnase avenue du Plateau, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.78478971,4.79500598,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79618853,
+          45.77159581
+        ]
+      },
+      "properties": {
+        "id": "PAN-69389-911",
+        "name": "36, avenue Sidoine Apollinaire, 69009 Lyon",
+        "city": "Lyon",
+        "postal_code": "69009",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.77159581,4.79618853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89161456,
+          45.77946734
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-001",
+        "name": "Angle Rue Professeur Emile Bouvier / Rue du 8 Mai 1945, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V",
+        "street_view": "https://www.google.com/maps/@45.77946734,4.89161456,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90429984,
+          45.75415286
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-012",
+        "name": "Angle Avenue Paul Kruger / Rue Pierre Bressat, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur la place d’Espagne",
+        "street_view": "https://www.google.com/maps/@45.75415286,4.90429984,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87739267,
+          45.75595437
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-016",
+        "name": "Place des Maisons Neuves, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V",
+        "street_view": "https://www.google.com/maps/@45.75595437,4.87739267,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90234086,
+          45.77865559
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-028",
+        "name": "Angle Petite Rue du Roulet / Rue de l'Epi de Blé, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur l'Allée Paulette Cornu",
+        "street_view": "https://www.google.com/maps/@45.77865559,4.90234086,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86350373,
+          45.77421487
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-030",
+        "name": "Angle Rue Jacques Brel / Rue Henri Rolland, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Dans la partie en sable",
+        "street_view": "https://www.google.com/maps/@45.77421487,4.86350373,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86789905,
+          45.77451576
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-032",
+        "name": "57 Avenue Condorcet, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du mur de l’immeuble",
+        "street_view": "https://www.google.com/maps/@45.77451576,4.86789905,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86552055,
+          45.77231855
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-033",
+        "name": "28 Cours André Philip, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du mur de clôture de l’hôpital",
+        "street_view": "https://www.google.com/maps/@45.77231855,4.86552055,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86500365,
+          45.77638129
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-034",
+        "name": "Angle Avenue Galine / Rue du Tonkin, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Devant pan coupé du parking",
+        "street_view": "https://www.google.com/maps/@45.77638129,4.86500365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88017567,
+          45.77513781
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-002",
+        "name": "49 Rue Edouard Vaillant, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au Square des Poulettes",
+        "street_view": "https://www.google.com/maps/@45.77513781,4.88017567,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89107365,
+          45.78251903
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-004",
+        "name": "Trémie du pont de Croix Luizet, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'ouest du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.78251903,4.89107365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89147124,
+          45.7826548
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-005",
+        "name": "Trémie du pont de Croix Luizet, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'est du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.7826548,4.89147124,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8993815,
+          45.76615334
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-006",
+        "name": "Place Victor Balland, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du transfo EDF",
+        "street_view": "https://www.google.com/maps/@45.76615334,4.8993815,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91050436,
+          45.7536422
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-010",
+        "name": "Angle Rue Nicolas Garnier / Rue Jean Voillot, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long de la barrière en bois",
+        "street_view": "https://www.google.com/maps/@45.7536422,4.91050436,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90273423,
+          45.75205801
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-011",
+        "name": "241 Route de Genas, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Angle Rue de Cyprian / Route de Genas",
+        "street_view": "https://www.google.com/maps/@45.75205801,4.90273423,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90712974,
+          45.75134815
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-013",
+        "name": "Angle Périphérique / Route de Genas, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'ouest du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.75134815,4.90712974,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90790279,
+          45.75125012
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-014",
+        "name": "Angle Périphérique / Route de Genas, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'est du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.75125012,4.90790279,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8786084,
+          45.75888084
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-017",
+        "name": "33 Avenue Antoine de Saint Exupéry, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Parking centre commercial",
+        "street_view": "https://www.google.com/maps/@45.75888084,4.8786084,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88414984,
+          45.76890106
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-018",
+        "name": "Angle Rue Anatole France / Avenue du Commandant Lherminier, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au parking du supermarché Carrefour, Place Georges Lévy",
+        "street_view": "https://www.google.com/maps/@45.76890106,4.88414984,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88455059,
+          45.76556645
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-020",
+        "name": "Face au 58 Rue Docteur Rollet, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30)",
+        "street_view": "https://www.google.com/maps/@45.76556645,4.88455059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88830005,
+          45.76969119
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-021",
+        "name": "Angle Rue Anatole France / Rue Gérard Maire, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30)",
+        "street_view": "https://www.google.com/maps/@45.76969119,4.88830005,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87398265,
+          45.7670541
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-022",
+        "name": "Au droit du 57 Cours de la République, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers l'entrée du parking sousterrain de la résidence",
+        "street_view": "https://www.google.com/maps/@45.7670541,4.87398265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86413364,
+          45.7707691
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-023",
+        "name": "Face au 20 Cours Emile Zola, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A la sortie du métro Charpennes",
+        "street_view": "https://www.google.com/maps/@45.7707691,4.86413364,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89229866,
+          45.7645303
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-024",
+        "name": "166 Rue du 4 Août 1789, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Devant la station Velo’V, vers la Rue de la Baïsse",
+        "street_view": "https://www.google.com/maps/@45.7645303,4.89229866,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78638889,
+          45.6804167
+        ]
+      },
+      "properties": {
+        "id": "PAN-69204-001",
+        "name": "20 Avenue Charles de Gaulle, 69230 Saint-Genis-Laval",
+        "city": "Saint-Genis-Laval",
+        "postal_code": "69230",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) A proximité du P’tit quignon",
+        "street_view": "https://www.google.com/maps/@45.6804167,4.78638889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.777648,
+          45.717173
+        ]
+      },
+      "properties": {
+        "id": "PAN-69204-002",
+        "name": "Chemin de Beaunant, 69230 Saint-Genis-Laval",
+        "city": "Saint-Genis-Laval",
+        "postal_code": "69230",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) Vers l’école de Beaunant",
+        "street_view": "https://www.google.com/maps/@45.717173,4.777648,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.782943,
+          45.69674
+        ]
+      },
+      "properties": {
+        "id": "PAN-69204-003",
+        "name": "2 Chemin de Beauversant, 69230 Saint-Genis-Laval",
+        "city": "Saint-Genis-Laval",
+        "postal_code": "69230",
+        "type": "Affichage libre",
+        "notes": "Mural | Recto (1,76 x 2,30) En faut de la rue des Martyrs",
+        "street_view": "https://www.google.com/maps/@45.69674,4.782943,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.806412,
+          45.692626
+        ]
+      },
+      "properties": {
+        "id": "PAN-69204-004",
+        "name": "Place des Collnges, 69230 Saint-Genis-Laval",
+        "city": "Saint-Genis-Laval",
+        "postal_code": "69230",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) A l’entrée du parking",
+        "street_view": "https://www.google.com/maps/@45.692626,4.806412,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88942618,
+          45.75947321
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-025",
+        "name": "Place Jules Grandclément, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au bureau de poste",
+        "street_view": "https://www.google.com/maps/@45.75947321,4.88942618,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89095225,
+          45.75561667
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-027",
+        "name": "Angle Avenue du Général Leclerc / Rue George Sand, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face à la piste cyclable",
+        "street_view": "https://www.google.com/maps/@45.75561667,4.89095225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90219987,
+          45.7764672
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-029",
+        "name": "Angle Rue Saint Jean / Rue de l'Epi de Blé, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Mural (1,76 x 1,50) Le long du transformateur EDF",
+        "street_view": "https://www.google.com/maps/@45.7764672,4.90219987,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86289638,
+          45.7793967
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-031",
+        "name": "Angle Boulevard du 11 novembre / Avenue Roberto Rossellini, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V à l’entrée de l’INSA",
+        "street_view": "https://www.google.com/maps/@45.7793967,4.86289638,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87352425,
+          45.77910285
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-035",
+        "name": "Angle Boulevard du 11 Novembre 1918 / Rue Léon Fabre, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face à la résidence \"La Doua\"",
+        "street_view": "https://www.google.com/maps/@45.77910285,4.87352425,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760558,
+          45.820662
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-001",
+        "name": "place de la Porte de Lyon, 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.820662,4.760558,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749136,
+          45.822494
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-002",
+        "name": "16 route de la tour de salvagny, 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.822494,4.749136,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.733048,
+          45.8091
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-003",
+        "name": "chemin de Traîne-Cul, 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.8091,4.733048,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87953285,
+          45.77830752
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-036",
+        "name": "Angle Avenue Roger Salengro / Rue Edouard Vaillant, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur la placette",
+        "street_view": "https://www.google.com/maps/@45.77830752,4.87953285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88446082,
+          45.78117286
+        ]
+      },
+      "properties": {
+        "id": "PAN-69266-037",
+        "name": "Angle Avenue Roger Salengro / Rue du Luizet, 69100 Villeurbanne",
+        "city": "Villeurbanne",
+        "postal_code": "69100",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au bureau de poste",
+        "street_view": "https://www.google.com/maps/@45.78117286,4.88446082,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90488649,
+          45.81874231
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-003",
+        "name": "85, route de Genève, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.81874231,4.90488649,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90403177,
+          45.81430277
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-005",
+        "name": "30 bis Avenue Général Leclerc, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.81430277,4.90403177,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89704306,
+          45.82132986
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-006",
+        "name": "2, rue Alexandre Bérard, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Entrée du Parc",
+        "street_view": "https://www.google.com/maps/@45.82132986,4.89704306,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91311522,
+          45.80817479
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-007",
+        "name": "163, route de Genève, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Proche groupe Scolaire",
+        "street_view": "https://www.google.com/maps/@45.80817479,4.91311522,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91316653,
+          45.80817582
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-008",
+        "name": "163, route de Genève, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Proche groupe Scolaire",
+        "street_view": "https://www.google.com/maps/@45.80817582,4.91316653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88627405,
+          45.81170681
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-012",
+        "name": "1659, Route de strasbourg, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) En face du 1659",
+        "street_view": "https://www.google.com/maps/@45.81170681,4.88627405,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88754657,
+          45.81095196
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-013",
+        "name": "Place Renoir, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Angle est du square",
+        "street_view": "https://www.google.com/maps/@45.81095196,4.88754657,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91110375,
+          45.8332059
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-019",
+        "name": "4811, route de Strasbourg, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.8332059,4.91110375,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8929049,
+          45.816007
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-020",
+        "name": "4 avenue des Combattebs en AFN, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00)",
+        "street_view": "https://www.google.com/maps/@45.816007,4.8929049,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89498885,
+          45.82487832
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-021",
+        "name": "Place du Château, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Contre le Mur du Bâtiment Dynacité",
+        "street_view": "https://www.google.com/maps/@45.82487832,4.89498885,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89489044,
+          45.82501125
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-022",
+        "name": "Place du Château, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Proche croisement Rosemontoise / Barse",
+        "street_view": "https://www.google.com/maps/@45.82501125,4.89489044,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89689882,
+          45.82092568
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-024",
+        "name": "Place Verdun, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.50 x 1.50) Proche rond point",
+        "street_view": "https://www.google.com/maps/@45.82092568,4.89689882,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91205923,
+          45.83438822
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-026",
+        "name": "4811, route de Strasbourg, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.0 x 2.00)",
+        "street_view": "https://www.google.com/maps/@45.83438822,4.91205923,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89499759,
+          45.82503272
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-027",
+        "name": "Place du Château, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Proche angel Rosemontoise / Barse",
+        "street_view": "https://www.google.com/maps/@45.82503272,4.89499759,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45238,
+          45.48465
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-004",
+        "name": "Chem. du Moulin Carron, 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.48465,4.45238,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89706089,
+          45.82133712
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-028",
+        "name": "2, rue Alexandre Bérard, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Entrée du Parc",
+        "street_view": "https://www.google.com/maps/@45.82133712,4.89706089,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90041196,
+          45.81433711
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-036",
+        "name": "avenue Général Leclerc devant MJC, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.81433711,4.90041196,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89476591,
+          45.81374729
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-037",
+        "name": "28 avenue de l'Europe, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.50 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.81374729,4.89476591,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89694923,
+          45.8210191
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-038",
+        "name": "place de verdun, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.8210191,4.89694923,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91137683,
+          45.83397888
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-039",
+        "name": "2 rue de l'école, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.83397888,4.91137683,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88689899,
+          45.81757118
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-040",
+        "name": "avenue Pierre Mendes France, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.81757118,4.88689899,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.903813,
+          45.81435627
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-041",
+        "name": "30 avenue Général Leclerc, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.81435627,4.903813,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89298224,
+          45.81178991
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-042",
+        "name": "847 chemin du Bois, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.81178991,4.89298224,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83696771,
+          45.88331062
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-001",
+        "name": "Rue Rey Loras, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (0,90 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.88331062,4.83696771,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85105958,
+          45.88801598
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-002",
+        "name": "Avenue du Parc , 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.88801598,4.85105958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8381892,
+          45.87693348
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-003",
+        "name": "Place du marché, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.87693348,4.8381892,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84535258,
+          45.87672379
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-004",
+        "name": "Chemin de la blanchisserie, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.87672379,4.84535258,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84188199,
+          45.87516228
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-005",
+        "name": "Rue Pierre Dugelay, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.87516228,4.84188199,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84238515,
+          45.87360275
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-006",
+        "name": "Avenue du 11 novembre, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.87360275,4.84238515,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84575259,
+          45.86957543
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-007",
+        "name": "Avenue de l'Europe, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.86957543,4.84575259,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83961328,
+          45.87088931
+        ]
+      },
+      "properties": {
+        "id": "PAN-69143-008",
+        "name": "Route de Lyon, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "postal_code": "69250",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.87088931,4.83961328,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87730007,
+          45.79994164
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-001",
+        "name": "Place de Crépieux, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,65)",
+        "street_view": "https://www.google.com/maps/@45.79994164,4.87730007,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87133537,
+          45.79419146
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-002",
+        "name": "Face au 55 route de Strasbourg, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,66) Face au chemin des Peupliers",
+        "street_view": "https://www.google.com/maps/@45.79419146,4.87133537,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83636137,
+          45.78490306
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-003",
+        "name": "Face au 28 rue de Margnolles, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,67) Carrefour Claude Baudrand",
+        "street_view": "https://www.google.com/maps/@45.78490306,4.83636137,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84751396,
+          45.79032003
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-004",
+        "name": "Face au 20 allée du Parc de la Jeunesse, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,68)",
+        "street_view": "https://www.google.com/maps/@45.79032003,4.84751396,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85360374,
+          45.79275016
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-005",
+        "name": "Avenue Elie Vignal, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,69) Angle rue Emile Romanet",
+        "street_view": "https://www.google.com/maps/@45.79275016,4.85360374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86630863,
+          45.7977168
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-006",
+        "name": "67bis chemin de Vassieux, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,70) A côté du cinéma Le Méliès",
+        "street_view": "https://www.google.com/maps/@45.7977168,4.86630863,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84292012,
+          45.79108643
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-007",
+        "name": "82 rue Pasteur, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,71)",
+        "street_view": "https://www.google.com/maps/@45.79108643,4.84292012,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83914601,
+          45.79313046
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-008",
+        "name": "Angle rue François Peissel / rue Curie, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,72) Parc Sportif Pierre Bourdan",
+        "street_view": "https://www.google.com/maps/@45.79313046,4.83914601,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8479134,
+          45.79982982
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-009",
+        "name": "Place de l'Eglise, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,73) Angle 86 rue Jean Moulin",
+        "street_view": "https://www.google.com/maps/@45.79982982,4.8479134,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91086934,
+          45.83309415
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-035",
+        "name": "4811 route de Strasbourg, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.83309415,4.91086934,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8542274,
+          45.80593339
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-010",
+        "name": "44 Avenue Général de Gaulle, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,74)",
+        "street_view": "https://www.google.com/maps/@45.80593339,4.8542274,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85965572,
+          45.8125414
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-011",
+        "name": "113 Avenue Général de Gaulle, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,75) Angle chemin Bois Roux",
+        "street_view": "https://www.google.com/maps/@45.8125414,4.85965572,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83067239,
+          45.79045261
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-012",
+        "name": "67 rue Pierre Brunier, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,76) Angle Montée de l’église",
+        "street_view": "https://www.google.com/maps/@45.79045261,4.83067239,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82886809,
+          45.79498218
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-013",
+        "name": "42 Quai clémenceau, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,77) Angle Impasse de l’écluse",
+        "street_view": "https://www.google.com/maps/@45.79498218,4.82886809,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84883821,
+          45.81379557
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-014",
+        "name": "Parking Quai Clémenceau, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,78) Face à la Montée du Vernay",
+        "street_view": "https://www.google.com/maps/@45.81379557,4.84883821,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86447041,
+          45.80442201
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-015",
+        "name": "1 Avenue Barthélémy Thimonnier, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,79) Face à la salle des fêtes",
+        "street_view": "https://www.google.com/maps/@45.80442201,4.86447041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86919348,
+          45.80160602
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-016",
+        "name": "111 chemin de Crépieux, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,80)",
+        "street_view": "https://www.google.com/maps/@45.80160602,4.86919348,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84664678,
+          45.7943065
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-017",
+        "name": "118 rue Pasteur, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,81)",
+        "street_view": "https://www.google.com/maps/@45.7943065,4.84664678,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8466814,
+          45.79327053
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-018",
+        "name": "Allée Turba Choux, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,82)",
+        "street_view": "https://www.google.com/maps/@45.79327053,4.8466814,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87563425,
+          45.79670067
+        ]
+      },
+      "properties": {
+        "id": "PAN-69034-019",
+        "name": "81 route de Strasbourg, 69300 Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "postal_code": "69300",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,83)",
+        "street_view": "https://www.google.com/maps/@45.79670067,4.87563425,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79219615,
+          45.79162149
+        ]
+      },
+      "properties": {
+        "id": "PAN-69040-001",
+        "name": "avenue de Lanessan, 69410 Champagne-au-Mont-d'Or",
+        "city": "Champagne-au-Mont-d'Or",
+        "postal_code": "69410",
+        "type": "Affichage libre",
+        "notes": "(1,30 x 0,97) sur le parking du Centre Technique Municipal",
+        "street_view": "https://www.google.com/maps/@45.79162149,4.79219615,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79288374,
+          45.79698678
+        ]
+      },
+      "properties": {
+        "id": "PAN-69040-002",
+        "name": "place de la Mairie, 69410 Champagne-au-Mont-d'Or",
+        "city": "Champagne-au-Mont-d'Or",
+        "postal_code": "69410",
+        "type": "Affichage libre",
+        "notes": "(1,30 x 0,97) sur le parking derrière la Mairie",
+        "street_view": "https://www.google.com/maps/@45.79698678,4.79288374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77822524,
+          45.7747826
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-001",
+        "name": "Place Charles de Gaulle, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,58 X 1,55) Coté Eglise Saint-Blaise",
+        "street_view": "https://www.google.com/maps/@45.7747826,4.77822524,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7678547,
+          45.77041036
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-002",
+        "name": "Place d'Helvetie, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Angle Chemin du Plat & des Genêts",
+        "street_view": "https://www.google.com/maps/@45.77041036,4.7678547,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78255625,
+          45.77292004
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-003",
+        "name": "Chemin du Randin, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Angle Vernique/Randin",
+        "street_view": "https://www.google.com/maps/@45.77292004,4.78255625,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78773565,
+          45.78366791
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-004",
+        "name": "Chemin de la Sauvegarde, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Entrée Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.78366791,4.78773565,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78181192,
+          45.79075143
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-005",
+        "name": "Rue du Collovrier, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Place du Perollier",
+        "street_view": "https://www.google.com/maps/@45.79075143,4.78181192,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78397781,
+          45.7902348
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-006",
+        "name": "Avenue des Sources, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Niveau arrêt bus n°44",
+        "street_view": "https://www.google.com/maps/@45.7902348,4.78397781,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77621736,
+          45.77408184
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-007",
+        "name": "Rue Benoît Tabard, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Face Groupe scolaire du Centre",
+        "street_view": "https://www.google.com/maps/@45.77408184,4.77621736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7714336,
+          45.77986831
+        ]
+      },
+      "properties": {
+        "id": "PAN-69081-008",
+        "name": "Chemin de Charrière Blanche, 69130 Écully",
+        "city": "Écully",
+        "postal_code": "69130",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Dépendance Centre PTT",
+        "street_view": "https://www.google.com/maps/@45.77986831,4.7714336,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77043655,
+          45.60072196
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-001",
+        "name": "18 Avenue Youri Gagarine, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Parking du Palais des Sports (coté nationale)",
+        "street_view": "https://www.google.com/maps/@45.60072196,4.77043655,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76375187,
+          45.60465793
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-002",
+        "name": "Avenue Gisèle Halimi, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : A côté de l’arrêt de bus Givors – Charles de Gaulle",
+        "street_view": "https://www.google.com/maps/@45.60465793,4.76375187,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76273308,
+          45.60153352
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-003",
+        "name": "2 Chemin de la Côte à Cailloux, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : Parking Cote à Cailloux, au croisement avec la Rue du Docteur Roux",
+        "street_view": "https://www.google.com/maps/@45.60153352,4.76273308,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74535567,
+          45.59018878
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-004",
+        "name": "106 Montée des Autrichiens, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Plateau de Montrond : Montée des Autrichiens (au niveau des aires de jeux)",
+        "street_view": "https://www.google.com/maps/@45.59018878,4.74535567,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75937418,
+          45.58839923
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-005",
+        "name": "19 Rue de Montrond, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Gier : Parking de la rue de Montrond (à côté du conteneur à verres)",
+        "street_view": "https://www.google.com/maps/@45.58839923,4.75937418,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76010994,
+          45.58434159
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-006",
+        "name": "24 Rue Fleury Neuvesel, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Freydière : croisement Route d’Echalas / Rue Fleury-Neuvesel",
+        "street_view": "https://www.google.com/maps/@45.58434159,4.76010994,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76805043,
+          45.58412308
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-007",
+        "name": "226 Rue Jacques Prévert, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : rue Jacques Prévert (entre le parking et l’école Simone Veil)",
+        "street_view": "https://www.google.com/maps/@45.58412308,4.76805043,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7746066,
+          45.5831007
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-008",
+        "name": "Place Jean Jaurès, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : Place Jean Jaurès, face à l’école Jean Jaurès (vers les jeux d’enfants)",
+        "street_view": "https://www.google.com/maps/@45.5831007,4.7746066,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77734376,
+          45.57645467
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-009",
+        "name": "1713 Route Neuve, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Hauts de Givors : Parking du cimetière de Badin",
+        "street_view": "https://www.google.com/maps/@45.57645467,4.77734376,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7953071,
+          45.56929086
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-010",
+        "name": "16 Rue Renée Peillon, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Bans : Parking du gymnase",
+        "street_view": "https://www.google.com/maps/@45.56929086,4.7953071,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77304024,
+          45.58939443
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-011",
+        "name": "Place des Tours, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Canal : Tours Thorez (à l’entrée du chemin entre le City stade et le parc)",
+        "street_view": "https://www.google.com/maps/@45.58939443,4.77304024,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7708164,
+          45.59109239
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-012",
+        "name": "Rue Jean Ligonnet (Square du 17 Octobre 1961), 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Maison des Associations (place Picard)",
+        "street_view": "https://www.google.com/maps/@45.59109239,4.7708164,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74962527,
+          45.5784533
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-013",
+        "name": "42 Chemin de la Rama, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) La Rama (sur le parking en dessous du centre aéré)",
+        "street_view": "https://www.google.com/maps/@45.5784533,4.74962527,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76712793,
+          45.59307371
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-014",
+        "name": "ZA La Plaine Robinson, Rue Yves Farge, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Plaine Robinson : Parking des commerces (à côté de la Maison citoyenne)",
+        "street_view": "https://www.google.com/maps/@45.59307371,4.76712793,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76756981,
+          45.59574921
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-015",
+        "name": "13 Rue Julian Grimau, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Plaines : vers l’école Joliot Curie (au croisement des Rues Julian Grimau et Jean Macé)",
+        "street_view": "https://www.google.com/maps/@45.59574921,4.76756981,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72531348,
+          45.57983155
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-016",
+        "name": "Route de Rive-de-Gier, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Givors Ouest : Au croisement du chemin des Biesses et de la route de rive de Gier)",
+        "street_view": "https://www.google.com/maps/@45.57983155,4.72531348,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77385039,
+          45.59702376
+        ]
+      },
+      "properties": {
+        "id": "PAN-69091-017",
+        "name": "1a Cité du Garon, 69700 Givors",
+        "city": "Givors",
+        "postal_code": "69700",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Cité du Garon (croisement chemin du Garon / Cité du Garon)",
+        "street_view": "https://www.google.com/maps/@45.59702376,4.77385039,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90829232,
+          45.81924555
+        ]
+      },
+      "properties": {
+        "id": "PAN-69286-004",
+        "name": "2246, avenue de l'Europee, 69140 Rillieux-la-Pape",
+        "city": "Rillieux-la-Pape",
+        "postal_code": "69140",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2,50 x 3,50) Au croisement  Teysonnière / Europe sur le Parking",
+        "street_view": "https://www.google.com/maps/@45.81924555,4.90829232,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86891115,
+          45.81993018
+        ]
+      },
+      "properties": {
+        "id": "PAN-69292-001",
+        "name": "5 boulevard de l'ouest, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "postal_code": "69580",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Place Arnaud Beltrame",
+        "street_view": "https://www.google.com/maps/@45.81993018,4.86891115,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87257164,
+          45.82751214
+        ]
+      },
+      "properties": {
+        "id": "PAN-69292-002",
+        "name": "rue Garibaldi, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "postal_code": "69580",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Parkinf Val de Saone",
+        "street_view": "https://www.google.com/maps/@45.82751214,4.87257164,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87089239,
+          45.8202588
+        ]
+      },
+      "properties": {
+        "id": "PAN-69292-003",
+        "name": "16 avenue Paul Delorme, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "postal_code": "69580",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Place de la mutualité",
+        "street_view": "https://www.google.com/maps/@45.8202588,4.87089239,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87648176,
+          45.82205111
+        ]
+      },
+      "properties": {
+        "id": "PAN-69292-004",
+        "name": "40 avenue de Pérouges, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "postal_code": "69580",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.82205111,4.87648176,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764407,
+          45.80485
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-005",
+        "name": "Rond-ppoint du Paisy , 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.80485,4.764407,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.728462,
+          45.805289
+        ]
+      },
+      "properties": {
+        "id": "PAN-69072-006",
+        "name": "32 chemin de la Beffe , 69570 Dardilly",
+        "city": "Dardilly",
+        "postal_code": "69570",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.805289,4.728462,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74009369,
+          45.78055723
+        ]
+      },
+      "properties": {
+        "id": "PAN-69044-001",
+        "name": "24 avenue Lamartine, 69260 Charbonnières-les-Bains",
+        "city": "Charbonnières-les-Bains",
+        "postal_code": "69260",
+        "type": "Affichage libre",
+        "notes": "pied (0,80x1,20) terre-plein central",
+        "street_view": "https://www.google.com/maps/@45.78055723,4.74009369,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91920041,
+          45.77866519
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-438",
+        "name": "21 rue Jules Romains, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (1,61 X 1,23) Angle rue Condorcet",
+        "street_view": "https://www.google.com/maps/@45.77866519,4.91920041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91022903,
+          45.7826086
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-442",
+        "name": "Avenue Gisèle Halimi, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Avenue Gisèle Halimi près du terrain de basket-ball",
+        "street_view": "https://www.google.com/maps/@45.7826086,4.91022903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9105836,
+          45.78246373
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-443",
+        "name": "7 chemin Grand Bois, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Avenue Gisèle Halimi derrière le 7 chemin Grand Bois",
+        "street_view": "https://www.google.com/maps/@45.78246373,4.9105836,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91165846,
+          45.78278989
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-444",
+        "name": "6 chemin Grand Bois, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) entre le n° 6 chemin Grand Bois et la voie de tram",
+        "street_view": "https://www.google.com/maps/@45.78278989,4.91165846,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9132958,
+          45.78097455
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-445",
+        "name": "5 avenue Maurice Thorez, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Contre la maternelle Andrée Viénot",
+        "street_view": "https://www.google.com/maps/@45.78097455,4.9132958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91636946,
+          45.78262376
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-446",
+        "name": "11 chemin de la Godille, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35)",
+        "street_view": "https://www.google.com/maps/@45.78262376,4.91636946,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91909553,
+          45.78351859
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-447",
+        "name": "41 avenue Georges Rougé, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Monopied (1,70 X 1,25)",
+        "street_view": "https://www.google.com/maps/@45.78351859,4.91909553,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9176934,
+          45.7868978
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-449",
+        "name": "134 avenue du 8 mai 1945, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60) Angle avenue Henri Barbusse",
+        "street_view": "https://www.google.com/maps/@45.7868978,4.9176934,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92546167,
+          45.78787572
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-450",
+        "name": "33 rue Franklin, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Monopied (1,70 X 1,25) angle Rue Louis Duclos",
+        "street_view": "https://www.google.com/maps/@45.78787572,4.92546167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92672538,
+          45.79150696
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-451",
+        "name": "48 rue Lamartine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60)",
+        "street_view": "https://www.google.com/maps/@45.79150696,4.92672538,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92660639,
+          45.77844038
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-452",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Proximité groupe scolaire Makarenko",
+        "street_view": "https://www.google.com/maps/@45.77844038,4.92660639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92848314,
+          45.77897272
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-453",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Angle chemin Debusssy, proximité Collège Valdo",
+        "street_view": "https://www.google.com/maps/@45.77897272,4.92848314,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92961849,
+          45.76621692
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-454",
+        "name": "72 avenue de Böhlen, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Angle Avenue de Böhlen et Avenue Roger Salengro",
+        "street_view": "https://www.google.com/maps/@45.76621692,4.92961849,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92302022,
+          45.75888782
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-455",
+        "name": "8 avenue Bataillon Carmagnole Liberté, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60) Angle Rue de l'Ancienne Eglise - Face à l'Espace Carmagnole",
+        "street_view": "https://www.google.com/maps/@45.75888782,4.92302022,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92838811,
+          45.75717084
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-456",
+        "name": "74 avenue Roger Salengro, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Angle rue Joseph Blein",
+        "street_view": "https://www.google.com/maps/@45.75717084,4.92838811,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92355825,
+          45.74844229
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-458",
+        "name": "58 rue André Chénier, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Mural (1,24 x 1,60) Sté Suez",
+        "street_view": "https://www.google.com/maps/@45.74844229,4.92355825,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92322787,
+          45.77749528
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-462",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) à gauche du 28 Avenue Georges Dimitrov",
+        "street_view": "https://www.google.com/maps/@45.77749528,4.92322787,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92089782,
+          45.78844051
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-463",
+        "name": "13 rue Lakanal, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23)",
+        "street_view": "https://www.google.com/maps/@45.78844051,4.92089782,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9256627,
+          45.77943276
+        ]
+      },
+      "properties": {
+        "id": "PAN-69256-464",
+        "name": "4 rue Hector Berlioz, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "postal_code": "69120",
+        "type": "Affichage libre",
+        "notes": "Bipied (3,95 x 1,35) angle Rue Hector Berlioz, face aux tennis",
+        "street_view": "https://www.google.com/maps/@45.77943276,4.9256627,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

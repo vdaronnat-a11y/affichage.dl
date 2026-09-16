@@ -1,0 +1,352 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Caluire-et-Cuire (Grand Lyon)",
+    "count": 19,
+    "source_url": "https://data.grandlyon.com/geoserver/ville-de-caluire-et-cuire/ows?SERVICE=WFS&VERSION=2.0.0&request=GetFeature&typename=ville-de-caluire-et-cuire:caluire.panneauaffichage&outputFormat=application/json&SRSNAME=EPSG:4326"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87730007,
+          45.79994168
+        ]
+      },
+      "properties": {
+        "id": "258",
+        "name": "Place de Crépieux, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79994168,4.87730007,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87133537,
+          45.7941915
+        ]
+      },
+      "properties": {
+        "id": "259",
+        "name": "Face au 55 route de Strasbourg, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.7941915,4.87133537,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83636137,
+          45.7849031
+        ]
+      },
+      "properties": {
+        "id": "260",
+        "name": "Face au 28 rue de Margnolles, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.7849031,4.83636137,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84751396,
+          45.79032007
+        ]
+      },
+      "properties": {
+        "id": "261",
+        "name": "Face au 20 allée du Parc de la Jeunesse, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79032007,4.84751396,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85360374,
+          45.7927502
+        ]
+      },
+      "properties": {
+        "id": "262",
+        "name": "Avenue Elie Vignal, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.7927502,4.85360374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86630863,
+          45.79771684
+        ]
+      },
+      "properties": {
+        "id": "263",
+        "name": "67bis chemin de Vassieux, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79771684,4.86630863,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84292012,
+          45.79108647
+        ]
+      },
+      "properties": {
+        "id": "264",
+        "name": "82 rue Pasteur, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79108647,4.84292012,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83914601,
+          45.7931305
+        ]
+      },
+      "properties": {
+        "id": "265",
+        "name": "Angle rue François Peissel / rue Curie, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.7931305,4.83914601,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8479134,
+          45.79982986
+        ]
+      },
+      "properties": {
+        "id": "266",
+        "name": "Place de l'Eglise, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79982986,4.8479134,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8542274,
+          45.80593344
+        ]
+      },
+      "properties": {
+        "id": "267",
+        "name": "44 Avenue Général de Gaulle, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.80593344,4.8542274,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85965572,
+          45.81254144
+        ]
+      },
+      "properties": {
+        "id": "268",
+        "name": "113 Avenue Général de Gaulle, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.81254144,4.85965572,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83067239,
+          45.79045265
+        ]
+      },
+      "properties": {
+        "id": "269",
+        "name": "67 rue Pierre Brunier, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79045265,4.83067239,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82886809,
+          45.79498222
+        ]
+      },
+      "properties": {
+        "id": "270",
+        "name": "42 Quai clémenceau, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79498222,4.82886809,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84883821,
+          45.81379561
+        ]
+      },
+      "properties": {
+        "id": "271",
+        "name": "Parking Quai Clémenceau, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.81379561,4.84883821,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86447041,
+          45.80442205
+        ]
+      },
+      "properties": {
+        "id": "272",
+        "name": "1 Avenue Barthélémy Thimonnier, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.80442205,4.86447041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86919348,
+          45.80160606
+        ]
+      },
+      "properties": {
+        "id": "281",
+        "name": "111  chemin de Crépieux, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.80160606,4.86919348,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84664678,
+          45.79430654
+        ]
+      },
+      "properties": {
+        "id": "282",
+        "name": "118 rue Pasteur, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79430654,4.84664678,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8466814,
+          45.79327057
+        ]
+      },
+      "properties": {
+        "id": "283",
+        "name": "Allée Turba  Choux, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79327057,4.8466814,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87563425,
+          45.79670071
+        ]
+      },
+      "properties": {
+        "id": "284",
+        "name": "81 route de Strasbourg, Caluire-et-Cuire",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@45.79670071,4.87563425,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

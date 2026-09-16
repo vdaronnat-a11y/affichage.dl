@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Fleury-sur-Orne",
+    "count": 4
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37479612976312604,
+          49.148749563876144
+        ]
+      },
+      "properties": {
+        "id": "fleury_1",
+        "name": "Panneau d'affichage libre #1, Fleury-sur-Orne",
+        "city": "Fleury-sur-Orne",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@49.148749563876144,-0.37479612976312604,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.374942310154438,
+          49.14547788975531
+        ]
+      },
+      "properties": {
+        "id": "fleury_2",
+        "name": "Panneau d'affichage libre #2, Fleury-sur-Orne",
+        "city": "Fleury-sur-Orne",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@49.14547788975531,-0.374942310154438,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38662601262331003,
+          49.14383341800922
+        ]
+      },
+      "properties": {
+        "id": "fleury_3",
+        "name": "Panneau d'affichage libre #3, Fleury-sur-Orne",
+        "city": "Fleury-sur-Orne",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@49.14383341800922,-0.38662601262331003,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38230229169130303,
+          49.14347350433719
+        ]
+      },
+      "properties": {
+        "id": "fleury_4",
+        "name": "Panneau d'affichage libre #4, Fleury-sur-Orne",
+        "city": "Fleury-sur-Orne",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@49.14347350433719,-0.38230229169130303,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}
