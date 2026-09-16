@@ -81,9 +81,23 @@ class TourneeHandler(http.server.SimpleHTTPRequestHandler):
                 self.wfile.write(json.dumps({"success": True, "city": city_meta}).encode("utf-8"))
                 print(f"[+] Nouvelle ville enregistrée sur disque : {city_meta['name']} ({city_meta['count']} panneaux)")
                 return
-
             except Exception as e:
                 print(f"[X] Erreur /api/cities/add: {e}")
+                self.send_error(500, str(e))
+                return
+
+        elif self.path == "/api/webhook/log":
+            try:
+                content_length = int(self.headers.get("Content-Length", 0))
+                body = self.rfile.read(content_length)
+                data = json.loads(body.decode("utf-8"))
+                print(f"📊 [TÉLÉMÉTRIE] {data.get('event')} | Appareil: {data.get('device_id')} | Tournée: {data.get('tour_id')} | {data.get('step', '')} | {data.get('panel_name', '')} ({data.get('elapsed_since_last', '')})")
+                self.send_response(200)
+                self.send_header("Content-Type", "application/json")
+                self.end_headers()
+                self.wfile.write(json.dumps({"status": "success"}).encode("utf-8"))
+                return
+            except Exception as e:
                 self.send_error(500, str(e))
                 return
 

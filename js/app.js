@@ -2,10 +2,11 @@
  * Contrôleur principal de l'application Tournée Affiches
  */
 
-import { TourMap } from "./map.js?v=3.0";
-import { TourRouter } from "./router.js?v=3.0";
-import { TourGuidance } from "./guidance.js?v=3.0";
-import { TourAdmin } from "./admin.js?v=3.0";
+import { TourMap } from "./map.js?v=3.2";
+import { TourRouter } from "./router.js?v=3.2";
+import { TourGuidance } from "./guidance.js?v=3.2";
+import { TourAdmin } from "./admin.js?v=3.2";
+import { TourTracker } from "./tracker.js?v=3.2";
 
 class TourApp {
   constructor() {
@@ -22,6 +23,7 @@ class TourApp {
     this.router = null;
     this.guidance = null;
     this.admin = null;
+    this.tracker = null;
 
     this.debounceTimer = null;
   }
@@ -34,6 +36,9 @@ class TourApp {
   }
 
   initMapAndServices() {
+    this.tracker = new TourTracker();
+    window.tourTracker = this.tracker;
+
     this.map = new TourMap(
       "map-container",
       (panelToAdd) => this.handleAddPanel(panelToAdd),
@@ -45,6 +50,7 @@ class TourApp {
     this.guidance = new TourGuidance({
       container: document.getElementById("guidance-overlay"),
       map: this.map,
+      tracker: this.tracker,
       onFinish: (stats) => this.showFinishedModal(stats),
       onExit: () => this.exitGuidance()
     });
@@ -643,7 +649,11 @@ class TourApp {
     }
 
     // Lancer le module de guidage pas à pas
-    this.guidance.start(this.startCoord, this.startAddress, this.orderedPanels);
+    this.guidance.start(this.startCoord, this.startAddress, this.orderedPanels, {
+      city: this.activeCity ? this.activeCity.name : "",
+      distanceKm: this.summaryDistanceEl ? this.summaryDistanceEl.textContent : "",
+      durationMin: this.summaryDurationEl ? this.summaryDurationEl.textContent : ""
+    });
   }
 
   exitGuidance() {

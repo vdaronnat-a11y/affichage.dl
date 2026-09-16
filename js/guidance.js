@@ -9,6 +9,7 @@ export class TourGuidance {
     this.map = options.map;
     this.onFinish = options.onFinish;
     this.onExit = options.onExit;
+    this.tracker = options.tracker || null;
 
     this.startCoord = null;
     this.startAddress = "";
@@ -41,13 +42,27 @@ export class TourGuidance {
   /**
    * Démarre une session de guidage
    */
-  start(startCoord, startAddress, orderedPanels) {
+  start(startCoord, startAddress, orderedPanels, meta = {}) {
     this.startCoord = startCoord;
     this.startAddress = startAddress || "Point de départ";
     this.panels = orderedPanels;
     this.currentIndex = 0;
     // Total steps = panneaux + 1 étape pour le retour au départ
     this.totalSteps = orderedPanels.length + 1;
+
+    // Télémétrie silencieuse : démarrage de tournée
+    if (this.tracker) {
+      try {
+        this.tracker.logTourStart({
+          startCoords: startCoord,
+          startAddress: startAddress,
+          totalPanels: orderedPanels.length,
+          city: meta.city || "",
+          distanceKm: meta.distanceKm || "",
+          durationMin: meta.durationMin || ""
+        });
+      } catch (e) {}
+    }
 
     this.container.style.display = "flex";
     this.renderCurrentStep();
@@ -149,6 +164,14 @@ export class TourGuidance {
     this.playSuccessSound();
 
     if (this.currentIndex < this.panels.length) {
+      // Télémétrie silencieuse : panneau collé avec succès
+      if (this.tracker) {
+        try {
+          const currentPanel = this.panels[this.currentIndex];
+          this.tracker.logPanelDone(this.currentIndex + 1, this.panels.length, currentPanel);
+        } catch (e) {}
+      }
+
       // Passage au panneau suivant
       this.currentIndex++;
       this.renderCurrentStep();
@@ -160,6 +183,16 @@ export class TourGuidance {
 
   finish() {
     this.container.style.display = "none";
+
+    // Télémétrie silencieuse : fin de tournée
+    if (this.tracker) {
+      try {
+        this.tracker.logTourCompleted(this.panels.length, {
+          endCoords: this.startCoord
+        });
+      } catch (e) {}
+    }
+
     if (this.onFinish) {
       this.onFinish({
         totalPanels: this.panels.length,
@@ -170,6 +203,13 @@ export class TourGuidance {
 
   exit() {
     if (confirm("Quitter le mode guidage et revenir à la carte de la tournée ?")) {
+      // Télémétrie silencieuse : abandon si la tournée n'était pas terminée
+      if (this.tracker && this.currentIndex < this.panels.length) {
+        try {
+          this.tracker.logTourAbandoned(this.currentIndex + 1, this.panels.length);
+        } catch (e) {}
+      }
+
       this.container.style.display = "none";
       if (this.onExit) this.onExit();
     }

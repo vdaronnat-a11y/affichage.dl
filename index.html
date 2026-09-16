@@ -228,6 +228,19 @@
           </button>
         </div>
 
+        <!-- Configuration Webhook Google Sheets (Télémétrie) -->
+        <div style="background: rgba(15, 23, 42, 0.6); padding: 14px; border-radius: var(--radius-md); border: 1px solid var(--border-color);">
+          <h4 style="font-size: 0.95rem; margin-bottom: 6px; color: #f59e0b;">📊 Télémétrie Centralisée (Google Sheets)</h4>
+          <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 10px;">
+            URL du Webhook Google Apps Script pour enregistrer les tournées et horodatages en direct.
+          </p>
+          <div style="display: flex; gap: 8px;">
+            <input type="url" id="admin-webhook-url" class="form-input" placeholder="https://script.google.com/macros/s/.../exec" style="flex: 1; font-size: 0.8rem;">
+            <button type="button" id="btn-save-webhook" class="btn-secondary" style="white-space: nowrap; padding: 0 12px;">💾 Enregistrer</button>
+          </div>
+          <div id="webhook-save-status" style="margin-top: 6px; font-size: 0.75rem; color: var(--accent-green);"></div>
+        </div>
+
         <!-- Formulaire d'ajout d'une nouvelle ville -->
         <form id="admin-add-city-form" style="display: flex; flex-direction: column; gap: 14px;">
           <h4 style="font-size: 0.95rem; color: var(--accent-green);">➕ Ajouter une nouvelle ville</h4>
@@ -285,7 +298,7 @@
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <!-- Application JS (versionnée anti-cache) -->
-  <script type="module" src="js/app.js?v=3.0"></script>
+  <script type="module" src="js/app.js?v=3.2"></script>
 
 </body>
 </html>

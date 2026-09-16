@@ -28,6 +28,30 @@ export class TourAdmin {
     if (this.btnExportMyMapsEl) {
       this.btnExportMyMapsEl.addEventListener("click", () => this.exportCurrentCityToMyMaps());
     }
+
+    this.webhookInputEl = document.getElementById("admin-webhook-url");
+    this.btnSaveWebhookEl = document.getElementById("btn-save-webhook");
+    this.webhookStatusEl = document.getElementById("webhook-save-status");
+
+    if (this.webhookInputEl) {
+      this.webhookInputEl.value = localStorage.getItem("tour_tracker_webhook_url") || "";
+    }
+
+    if (this.btnSaveWebhookEl) {
+      this.btnSaveWebhookEl.addEventListener("click", () => {
+        const url = (this.webhookInputEl.value || "").trim();
+        if (url) {
+          localStorage.setItem("tour_tracker_webhook_url", url);
+          if (window.tourTracker) window.tourTracker.setWebhookUrl(url);
+          this.webhookStatusEl.textContent = "✅ URL enregistrée ! Vos tournées seront envoyées sur ce Google Sheet.";
+        } else {
+          localStorage.removeItem("tour_tracker_webhook_url");
+          if (window.tourTracker) window.tourTracker.setWebhookUrl("");
+          this.webhookStatusEl.textContent = "ℹ️ Webhook désactivé.";
+        }
+        setTimeout(() => { if (this.webhookStatusEl) this.webhookStatusEl.textContent = ""; }, 3500);
+      });
+    }
   }
 
   open() {
