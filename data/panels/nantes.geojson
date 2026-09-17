@@ -16,7 +16,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0009",
-        "name": "Rue du Pont de Forge (angle Rue des Closeaux, La Chapelle-sur-Erdre",
+        "name": "Rue du Pont de Forge (angle Rue des Closeaux)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -34,7 +34,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0005",
-        "name": "Route de Sucé-sur-Erdre (angle Bout des Rues, Mauves-sur-Loire",
+        "name": "Route de Sucé-sur-Erdre (angle Bout des Rues)",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -52,7 +52,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0029",
-        "name": "Rue du Moulin (angle Rue des 3 Croissants, Nantes",
+        "name": "Rue du Moulin (angle Rue des 3 Croissants)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -70,7 +70,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0032",
-        "name": "Rue du Moulin (Entrée du Parking, Nantes",
+        "name": "Rue du Moulin (Entrée du Parking)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -88,7 +88,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0043",
-        "name": "Rue de l'Hérault (Angle Bd Jean Moulin, Nantes",
+        "name": "Rue de l'Hérault (Angle Bd Jean Moulin)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -106,7 +106,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0053",
-        "name": "Rue Philippe de Cabrol (Angle Rue Joseph Naud, Nantes",
+        "name": "Rue Philippe de Cabrol (Angle Rue Joseph Naud)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -124,7 +124,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0070",
-        "name": "Boulevard de la Fraternité (Face au 62bis, Nantes",
+        "name": "Boulevard de la Fraternité (Face au 62bis)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -142,7 +142,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0004",
-        "name": "Rue Albert Camus (Face au 11, La Montagne",
+        "name": "Rue Albert Camus (Face au 11)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -160,7 +160,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0060",
-        "name": "Rue de la Bourdonnais (Angle Rue de l’amiral Duchaffaut, Nantes",
+        "name": "Rue de la Bourdonnais (Angle Rue de l’amiral Duchaffaut)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -178,7 +178,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0095",
-        "name": "Boulevard Clovis Constant (Face Rue Edison, Nantes",
+        "name": "Boulevard Clovis Constant (Face Rue Edison)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -196,7 +196,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0103",
-        "name": "Boulevard Robert Schuman (A l’entrée du parc de la Gaudinière, Nantes",
+        "name": "Boulevard Robert Schuman (A l’entrée du parc de la Gaudinière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -214,7 +214,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0097",
-        "name": "Boulevard Auguste Pageot (Angle Bd Gaston Serpette, Nantes",
+        "name": "Boulevard Auguste Pageot (Angle Bd Gaston Serpette)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -232,7 +232,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0108",
-        "name": "Rue du Ballet (Face au 21, Nantes",
+        "name": "Rue du Ballet (Face au 21)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -250,7 +250,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0112",
-        "name": "Rue Paul Bellamy (Rue de Bouillé, Nantes",
+        "name": "Rue Paul Bellamy (Rue de Bouillé)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -268,7 +268,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0106",
-        "name": "Avenue Camus (Face au 28, Nantes",
+        "name": "Avenue Camus (Face au 28)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -286,7 +286,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0126",
-        "name": "Boulevard Pierre de Coubertin (Angle Rue des Plantes, Nantes",
+        "name": "Boulevard Pierre de Coubertin (Angle Rue des Plantes)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -304,7 +304,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0153",
-        "name": "Rue de Lorraine (Face au 9, Nantes",
+        "name": "Rue de Lorraine (Face au 9)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -322,7 +322,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0164",
-        "name": "Rue d'Allonville (Au 4, Nantes",
+        "name": "Rue d'Allonville (Au 4)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -340,7 +340,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0165",
-        "name": "Rue du Gois (Angle Rue des Agenets, Nantes",
+        "name": "Rue du Gois (Angle Rue des Agenets)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -358,7 +358,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0007",
-        "name": "Avenue des Noieries (Rue Léo Lagrange, La Chapelle-sur-Erdre",
+        "name": "Avenue des Noieries (Rue Léo Lagrange)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -376,7 +376,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0010",
-        "name": "Rue de l'Hocmard (Angle Rue Pont Pillet, La Chapelle-sur-Erdre",
+        "name": "Rue de l'Hocmard (Angle Rue Pont Pillet)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -394,7 +394,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0010",
-        "name": "Route de Vertou (Angle Rue de Sèvre, Nantes",
+        "name": "Route de Vertou (Angle Rue de Sèvre)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -412,7 +412,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0124",
-        "name": "Boulevard des Américains (Angle G Bizot, Nantes",
+        "name": "Boulevard des Américains (Angle G Bizot)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -430,7 +430,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0127",
-        "name": "Boulevard René Cassin (Angle Avenue du Bout des Landes, Nantes",
+        "name": "Boulevard René Cassin (Angle Avenue du Bout des Landes)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -448,7 +448,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0145",
-        "name": "Chemin de la Censive du Tertre (Mail André Breton, Nantes",
+        "name": "Chemin de la Censive du Tertre (Mail André Breton)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -466,7 +466,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0187",
-        "name": "Boulevard des Poilus (Angle Bd de Doulon, Nantes",
+        "name": "Boulevard des Poilus (Angle Bd de Doulon)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -484,7 +484,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0186",
-        "name": "Rue de la Rivière (angle Place du Vieux Doulon, Nantes",
+        "name": "Rue de la Rivière (angle Place du Vieux Doulon)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -502,7 +502,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0176",
-        "name": "Rue du Landreau (Angle Route de Ste Luce, Nantes",
+        "name": "Rue du Landreau (Angle Route de Ste Luce)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -520,7 +520,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0203",
-        "name": "Rue de l'Eraudière (Au 53, Nantes",
+        "name": "Rue de l'Eraudière (Au 53)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -538,7 +538,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0222",
-        "name": "Place des Tonneliers (face est de l’Église, Nantes",
+        "name": "Place des Tonneliers (face est de l’Église)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -556,7 +556,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0005",
-        "name": "Rue du Château de Rezé (face Rue Maurice Utrillo, Rezé",
+        "name": "Rue du Château de Rezé (face Rue Maurice Utrillo)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -574,7 +574,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0001",
-        "name": "Rue du Landreau (Rond-point des Anciens Combattants, Orvault",
+        "name": "Rue du Landreau (Rond-point des Anciens Combattants)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -592,7 +592,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0030",
-        "name": "Boulevard du Massacre (Rond Point Abel Durand, Saint-Herblain",
+        "name": "Boulevard du Massacre (Rond Point Abel Durand)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -610,7 +610,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0032",
-        "name": "Rue de Tillay (angle Allée des Droits de l'homme, Saint-Herblain",
+        "name": "Rue de Tillay (angle Allée des Droits de l'homme)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -628,7 +628,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0038",
-        "name": "Avenue de Cheverny (face au 75, Saint-Herblain",
+        "name": "Avenue de Cheverny (face au 75)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -646,7 +646,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0046",
-        "name": "Boulevard Winston Churchill (angle rue Marcel Marnier, Saint-Herblain",
+        "name": "Boulevard Winston Churchill (angle rue Marcel Marnier)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -664,7 +664,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0042",
-        "name": "Rue du Docteur Alfred Corlay (angle rue du 16 septembre, Saint-Herblain",
+        "name": "Rue du Docteur Alfred Corlay (angle rue du 16 septembre)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -682,7 +682,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0023",
-        "name": "Rue Georges Guynemer (Ecole du Fougan De Mer, Bouguenais",
+        "name": "Rue Georges Guynemer (Ecole du Fougan De Mer)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -700,7 +700,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0002",
-        "name": "Avenue des Noieries (Rue Olivier de Sesmaisons, La Chapelle-sur-Erdre",
+        "name": "Avenue des Noieries (Rue Olivier de Sesmaisons)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -718,7 +718,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0024",
-        "name": "Rue Pasteur (angle Rue Georges Guynemer, Bouguenais",
+        "name": "Rue Pasteur (angle Rue Georges Guynemer)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -736,7 +736,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0007",
-        "name": "Rue de la Corbardière (super U, Couëron",
+        "name": "Rue de la Corbardière (super U)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -754,7 +754,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0006",
-        "name": "Rue du Rocher (Angle rue de la Ménerais, Carquefou",
+        "name": "Rue du Rocher (Angle rue de la Ménerais)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -772,7 +772,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0006",
-        "name": "Rue Salvator Allende (Au 5, La Montagne",
+        "name": "Rue Salvator Allende (Au 5)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -790,7 +790,7 @@
       },
       "properties": {
         "id": "AL_NM_07_0003",
-        "name": "Rue Denis Rivière (face au 4, Indre",
+        "name": "Rue Denis Rivière (face au 4)",
         "city": "Indre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -808,7 +808,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0017",
-        "name": "Rue Aristide Briand (Au 21, La Montagne",
+        "name": "Rue Aristide Briand (Au 21)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -826,7 +826,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0018",
-        "name": "Rue de la Mairie (Au 10, La Montagne",
+        "name": "Rue de la Mairie (Au 10)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -844,7 +844,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0004",
-        "name": "Stade des Loquets (Parking, Mauves-sur-Loire",
+        "name": "Stade des Loquets (Parking)",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -862,7 +862,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0001",
-        "name": "Boulevard Louis Pasteur (au 16, Sainte-Luce-sur-Loire",
+        "name": "Boulevard Louis Pasteur (au 16)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -880,7 +880,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0002",
-        "name": "Place du Général De Gaulle, Sainte-Luce-sur-Loire",
+        "name": "Place du Général De Gaulle",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -898,7 +898,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0005",
-        "name": "Route de la Gendronnerie (Au 26, Saint-Aignan de Grand Lieu",
+        "name": "Route de la Gendronnerie (Au 26)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -916,7 +916,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0005",
-        "name": "Rue de la Bournière (angle rue de la Fresnaie, Sainte-Luce-sur-Loire",
+        "name": "Rue de la Bournière (angle rue de la Fresnaie)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -934,7 +934,7 @@
       },
       "properties": {
         "id": "AL_NM_23_0001",
-        "name": "Le Chemin Nantais (au 40, Thouaré-sur-Loire",
+        "name": "Le Chemin Nantais (au 40)",
         "city": "Thouaré-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -952,7 +952,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0034",
-        "name": "Rue du Pont de Retz, Couëron",
+        "name": "Rue du Pont de Retz",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -970,7 +970,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0003",
-        "name": "Rue du Stade (au 1, Bouaye",
+        "name": "Rue du Stade (au 1)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -988,7 +988,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0005",
-        "name": "Avenue de Plaisance (angle Madeleine Joret, Bouaye",
+        "name": "Avenue de Plaisance (angle Madeleine Joret)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1006,7 +1006,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0191",
-        "name": "Boulevard Louis Millet (Angle rue des Epinettes, Nantes",
+        "name": "Boulevard Louis Millet (Angle rue des Epinettes)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -1024,7 +1024,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0182",
-        "name": "Rue de la Bottière (Face Rue G Lippman, Nantes",
+        "name": "Rue de la Bottière (Face Rue G Lippman)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -1042,7 +1042,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0067",
-        "name": "Boulevard Jean Ingres (Angle rue de la Contrie, Nantes",
+        "name": "Boulevard Jean Ingres (Angle rue de la Contrie)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1060,7 +1060,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0007",
-        "name": "Rue du Champ de Foire (Square de la Flamme Olympique, Les Sorinières",
+        "name": "Rue du Champ de Foire (Square de la Flamme Olympique)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1078,7 +1078,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0105",
-        "name": "Rue Villebois Mareuil (Angle Rue Alphonse Daudet, Nantes",
+        "name": "Rue Villebois Mareuil (Angle Rue Alphonse Daudet)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1096,7 +1096,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0235",
-        "name": "Rue des Remorqueurs, Nantes",
+        "name": "Rue des Remorqueurs",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1114,7 +1114,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0016",
-        "name": "Rue Pierre Etienne Flandin (devanr École publique Pauline Kergomard, Nantes",
+        "name": "Rue Pierre Etienne Flandin (devanr École publique Pauline Kergomard)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1132,7 +1132,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0038",
-        "name": "Chaussée de la Madeleine (Face au 23, Nantes",
+        "name": "Chaussée de la Madeleine (Face au 23)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1150,7 +1150,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0066",
-        "name": "Rue du Corps de Garde (Angle Rond point Abel Durand, Nantes",
+        "name": "Rue du Corps de Garde (Angle Rond point Abel Durand)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1168,7 +1168,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0071",
-        "name": "Boulevard de la Solidarité (Au 48, Nantes",
+        "name": "Boulevard de la Solidarité (Au 48)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1186,7 +1186,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0076",
-        "name": "Rue des Renardières (Au 113, Nantes",
+        "name": "Rue des Renardières (Au 113)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1204,7 +1204,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0078",
-        "name": "Avenue du Parc de Procé (Angle Rue Grillaud, Nantes",
+        "name": "Avenue du Parc de Procé (Angle Rue Grillaud)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1222,7 +1222,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0073",
-        "name": "Place du Repos de Chasse, Nantes",
+        "name": "Place du Repos de Chasse",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1240,7 +1240,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0093",
-        "name": "Boulevard Michelet (Face au 115, Nantes",
+        "name": "Boulevard Michelet (Face au 115)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1258,7 +1258,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0099",
-        "name": "Rue Félix Faure (Angle Rue Casimir Perier, Nantes",
+        "name": "Rue Félix Faure (Angle Rue Casimir Perier)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1276,7 +1276,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0096",
-        "name": "Boulevard des Anglais (Face 89, Nantes",
+        "name": "Boulevard des Anglais (Face 89)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1294,7 +1294,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0121",
-        "name": "Rue Georges Méliès (Angle Rue Maison Blanche, Nantes",
+        "name": "Rue Georges Méliès (Angle Rue Maison Blanche)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1312,7 +1312,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0123",
-        "name": "Rue Jacques Feyder (Angle Julien Duvivier, Nantes",
+        "name": "Rue Jacques Feyder (Angle Julien Duvivier)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1330,7 +1330,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0115",
-        "name": "Boulevard Gaston Serpette (Angle Rue douet garnier, Nantes",
+        "name": "Boulevard Gaston Serpette (Angle Rue douet garnier)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1348,7 +1348,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0119",
-        "name": "Boulevard de Longchamp (Face au 2, Nantes",
+        "name": "Boulevard de Longchamp (Face au 2)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1366,7 +1366,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0168",
-        "name": "Rue Jules Bréchoir, Nantes",
+        "name": "Rue Jules Bréchoir",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1384,7 +1384,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0229",
-        "name": "Rue du limousin (angle rue du bourget, Nantes",
+        "name": "Rue du limousin (angle rue du bourget)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1402,7 +1402,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0006",
-        "name": "Rue de la Libération (au 2 angle Rue de la Fonderie, Saint-Sébastien-sur-Loire",
+        "name": "Rue de la Libération (au 2 angle Rue de la Fonderie)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1420,7 +1420,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0005",
-        "name": "Boulevard de l'Hopitau (face Rue jacques Demy, La Chapelle-sur-Erdre",
+        "name": "Boulevard de l'Hopitau (face Rue jacques Demy)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1438,7 +1438,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0131",
-        "name": "Rue du Fresche Blanc (Angle Route de la Jonelière, Nantes",
+        "name": "Rue du Fresche Blanc (Angle Route de la Jonelière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1456,7 +1456,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0138",
-        "name": "Rue de la Bourgeonnière (Gymnase de la Barboire, Nantes",
+        "name": "Rue de la Bourgeonnière (Gymnase de la Barboire)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1474,7 +1474,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0132",
-        "name": "Route de Rennes (Arrêt Vallée face au 55, Nantes",
+        "name": "Route de Rennes (Arrêt Vallée face au 55)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1492,7 +1492,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0142",
-        "name": "Rue des Renards (TRAM Boissière, Nantes",
+        "name": "Rue des Renards (TRAM Boissière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1510,7 +1510,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0135",
-        "name": "Boulevard de la Chauvinière (Angle Rue Jean Poulain, Nantes",
+        "name": "Boulevard de la Chauvinière (Angle Rue Jean Poulain)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1528,7 +1528,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0177",
-        "name": "Rue de la Marrière (Face 26, Nantes",
+        "name": "Rue de la Marrière (Face 26)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -1546,7 +1546,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0197",
-        "name": "Route de Sainte Luce (Angle Rue de la Basse Chenaie, Nantes",
+        "name": "Route de Sainte Luce (Angle Rue de la Basse Chenaie)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1564,7 +1564,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0195",
-        "name": "Rue de la Basse Chênaie (Face au 8, Nantes",
+        "name": "Rue de la Basse Chênaie (Face au 8)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1582,7 +1582,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0192",
-        "name": "Rue de la Bottière (Angle Rue Urbain Le Verrier, Nantes",
+        "name": "Rue de la Bottière (Angle Rue Urbain Le Verrier)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -1600,7 +1600,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0200",
-        "name": "Route de Saint Joseph (Au 499, Nantes",
+        "name": "Route de Saint Joseph (Au 499)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1618,7 +1618,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0208",
-        "name": "Rue du Stade de la Noue (Au 1, Nantes",
+        "name": "Rue du Stade de la Noue (Au 1)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1636,7 +1636,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0212",
-        "name": "Rue des Marsauderies (Angle Rue Anne Claude Godeau, Nantes",
+        "name": "Rue des Marsauderies (Angle Rue Anne Claude Godeau)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1654,7 +1654,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0219",
-        "name": "Boulevard Jules Verne (Angle Rue Michaudière, Nantes",
+        "name": "Boulevard Jules Verne (Angle Rue Michaudière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1672,7 +1672,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0223",
-        "name": "Route de Paris (Arret Chemin Rouge, Nantes",
+        "name": "Route de Paris (Arret Chemin Rouge)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1690,7 +1690,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0225",
-        "name": "Rue du Port Durand (face au 2, Nantes",
+        "name": "Rue du Port Durand (face au 2)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1708,7 +1708,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0005",
-        "name": "Rond-Point de la Chataigneraie (angle av Charles De Gaulle, Orvault",
+        "name": "Rond-Point de la Chataigneraie (angle av Charles De Gaulle)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1726,7 +1726,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0007",
-        "name": "Avenue de la Praudière (angle  Av de la Balance, Orvault",
+        "name": "Avenue de la Praudière (angle  Av de la Balance)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1744,7 +1744,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0008",
-        "name": "Rue du Taillis (angle rue des Hortensias, Orvault",
+        "name": "Rue du Taillis (angle rue des Hortensias)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1762,7 +1762,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0003",
-        "name": "Rue Léon Gaumont (angle Rue Jean Rouxel, Orvault",
+        "name": "Rue Léon Gaumont (angle Rue Jean Rouxel)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1780,7 +1780,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0020",
-        "name": "Quai Léon Sécher (Pont de la Morinère, Rezé",
+        "name": "Quai Léon Sécher (Pont de la Morinère)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1798,7 +1798,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0024",
-        "name": "Rue de la Gourdonnière (angle Rue du Genetais, Rezé",
+        "name": "Rue de la Gourdonnière (angle Rue du Genetais)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1816,7 +1816,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0025",
-        "name": "Allée de Touraine (à côté de commissariat, Rezé",
+        "name": "Allée de Touraine (à côté de commissariat)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1834,7 +1834,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0009",
-        "name": "Rue Océane (angle Boulevard Marcel Paul, Saint-Herblain",
+        "name": "Rue Océane (angle Boulevard Marcel Paul)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1852,7 +1852,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0019",
-        "name": "Rue des Sencives (angle Chemin des Bazins, Bouguenais",
+        "name": "Rue des Sencives (angle Chemin des Bazins)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1870,7 +1870,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0034",
-        "name": "Avenue de la Baraudière (face rue des Floralies, Saint-Herblain",
+        "name": "Avenue de la Baraudière (face rue des Floralies)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1888,7 +1888,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0037",
-        "name": "Avenue Alain Gerbault (face MJC Bouvardière, Saint-Herblain",
+        "name": "Avenue Alain Gerbault (face MJC Bouvardière)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1906,7 +1906,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0007",
-        "name": "Rue Jean Baptiste Robert (angle Rue des Becques, Saint-Sébastien-sur-Loire",
+        "name": "Rue Jean Baptiste Robert (angle Rue des Becques)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1924,7 +1924,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0002",
-        "name": "Rue de l'Ile Chaland (angle rue du moulin, Basse-Goulaine",
+        "name": "Rue de l'Ile Chaland (angle rue du moulin)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1942,7 +1942,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0005",
-        "name": "Rue de la Jarnigarnière (angle Rue de l'Ouche aux Roux, Basse-Goulaine",
+        "name": "Rue de la Jarnigarnière (angle Rue de l'Ouche aux Roux)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1960,7 +1960,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0007",
-        "name": "Rue des Vallées (angle Impasse des Trois Cheminées, Basse-Goulaine",
+        "name": "Rue des Vallées (angle Impasse des Trois Cheminées)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1978,7 +1978,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0002",
-        "name": "Rue Célestin Freinet (Centre Baptiste Marcet, Bouguenais",
+        "name": "Rue Célestin Freinet (Centre Baptiste Marcet)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -1996,7 +1996,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0013",
-        "name": "Rue de la Pierre (angle Rue Rosenberg, Bouguenais",
+        "name": "Rue de la Pierre (angle Rue Rosenberg)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2014,7 +2014,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0018",
-        "name": "Rue des Roseaux (face au 10 angle Rue de la Voute, Bouguenais",
+        "name": "Rue des Roseaux (face au 10 angle Rue de la Voute)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2032,7 +2032,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0017",
-        "name": "Rue des Drouards (au 124 Après Village de Bel Air, Bouguenais",
+        "name": "Rue des Drouards (au 124 Après Village de Bel Air)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2050,7 +2050,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0002",
-        "name": "Rue de la Corberie (Angle Rue des Flamants, Les Sorinières",
+        "name": "Rue de la Corberie (Angle Rue des Flamants)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2068,7 +2068,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0012",
-        "name": "Rue du Pavillon (angle Rue de la Bougrière, Sainte-Luce-sur-Loire",
+        "name": "Rue du Pavillon (angle Rue de la Bougrière)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2086,7 +2086,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0008",
-        "name": "Rue de la Salle (entre le 87 et le 91 T Rue de la Salle, Carquefou",
+        "name": "Rue de la Salle (entre le 87 et le 91 T Rue de la Salle)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2104,7 +2104,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0029",
-        "name": "Les Epinettes (Europe/Gautier, Couëron",
+        "name": "Les Epinettes (Europe/Gautier)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2122,7 +2122,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0030",
-        "name": "Rue Jean-Claude Maisonneuve (Au 30, Couëron",
+        "name": "Rue Jean-Claude Maisonneuve (Au 30)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2140,7 +2140,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0005",
-        "name": "Place des Reigniers, Vertou",
+        "name": "Place des Reigniers",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2158,7 +2158,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0010",
-        "name": "Route des Sorinières (angle Rue Auguste Garnier, Vertou",
+        "name": "Route des Sorinières (angle Rue Auguste Garnier)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2176,7 +2176,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0015",
-        "name": "Rue les Mortiers (angle Rue Auguste Lerat,voie ferrée, Vertou",
+        "name": "Rue les Mortiers (angle Rue Auguste Lerat,voie ferrée)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2194,7 +2194,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0001",
-        "name": "Avenue du Maréchal De Lattre de Tassigny (Sous le Pont, Rezé",
+        "name": "Avenue du Maréchal De Lattre de Tassigny (Sous le Pont)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -2212,7 +2212,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0011",
-        "name": "Rue Joseph Cugnot (à coté du rond point Joseph Cugnot, Carquefou",
+        "name": "Rue Joseph Cugnot (à coté du rond point Joseph Cugnot)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2230,7 +2230,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0012",
-        "name": "Rue du Danemark (parallèle à la Route de Paris, Carquefou",
+        "name": "Rue du Danemark (parallèle à la Route de Paris)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2248,7 +2248,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0199",
-        "name": "Route de Saint Joseph (Angle Rue du Port la Blanche, Nantes",
+        "name": "Route de Saint Joseph (Angle Rue du Port la Blanche)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2266,7 +2266,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0001",
-        "name": "Rue de Pornic (Au 26, Bouaye",
+        "name": "Rue de Pornic (Au 26)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2284,7 +2284,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0230",
-        "name": "Rue de la Souillarderie (angle Rue des Tamaris, Nantes",
+        "name": "Rue de la Souillarderie (angle Rue des Tamaris)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -2302,7 +2302,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0001",
-        "name": "Route de l'Halbrandière (Au 3 bis, Saint-Aignan de Grand Lieu",
+        "name": "Route de l'Halbrandière (Au 3 bis)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2320,7 +2320,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0003",
-        "name": "Rue Charles Lindbergh (Face rue Antoine de St Exupéry, Bouguenais",
+        "name": "Rue Charles Lindbergh (Face rue Antoine de St Exupéry)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2338,7 +2338,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0006",
-        "name": "Rue de la Gilarderie (Au 152 bis, Nantes",
+        "name": "Rue de la Gilarderie (Au 152 bis)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2356,7 +2356,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0008",
-        "name": "Allée de la Civelière (Angle Rue de la Gilarderie, Nantes",
+        "name": "Allée de la Civelière (Angle Rue de la Gilarderie)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2374,7 +2374,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0024",
-        "name": "Rue Mercoeur (face au 8, Nantes",
+        "name": "Rue Mercoeur (face au 8)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2392,7 +2392,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0019",
-        "name": "Rue de l'Ecole (angle avenue du Kurun, Saint-Herblain",
+        "name": "Rue de l'Ecole (angle avenue du Kurun)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2410,7 +2410,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0037",
-        "name": "Rue de la Bléterie (Angle Rue Beauregard, Nantes",
+        "name": "Rue de la Bléterie (Angle Rue Beauregard)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2428,7 +2428,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0025",
-        "name": "Place de la Petite Hollande, Nantes",
+        "name": "Place de la Petite Hollande",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2446,7 +2446,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0046",
-        "name": "Rue Francis Portais (angle Allée des Roitelets, Nantes",
+        "name": "Rue Francis Portais (angle Allée des Roitelets)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2464,7 +2464,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0051",
-        "name": "Rue de Saint Brévin (angle Rue des Bourderies, Nantes",
+        "name": "Rue de Saint Brévin (angle Rue des Bourderies)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2482,7 +2482,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0072",
-        "name": "Boulevard de la Solidarité (Angle Rue Jean Huss, Nantes",
+        "name": "Boulevard de la Solidarité (Angle Rue Jean Huss)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2500,7 +2500,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0077",
-        "name": "Rue du Bouillon (Angle Rue de la Chevasnerie, Nantes",
+        "name": "Rue du Bouillon (Angle Rue de la Chevasnerie)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2518,7 +2518,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0081",
-        "name": "Route de Saint Herblain (Au 40, Nantes",
+        "name": "Route de Saint Herblain (Au 40)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2536,7 +2536,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0109",
-        "name": "Rue de Bel Air (Angle Rue Jules Polo, Nantes",
+        "name": "Rue de Bel Air (Angle Rue Jules Polo)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2554,7 +2554,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0149",
-        "name": "Rue de la Béraudière (Angle rue du Général Margueritte, Nantes",
+        "name": "Rue de la Béraudière (Angle rue du Général Margueritte)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2572,7 +2572,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0151",
-        "name": "Rue Général Margueritte (Angle Rue de Chanzy, Nantes",
+        "name": "Rue Général Margueritte (Angle Rue de Chanzy)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2590,7 +2590,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0160",
-        "name": "Rue Dufour (Angle Rue St Charles, Nantes",
+        "name": "Rue Dufour (Angle Rue St Charles)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2608,7 +2608,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0082",
-        "name": "Boulevard Paul Langevin (Angle Place Melinet, Nantes",
+        "name": "Boulevard Paul Langevin (Angle Place Melinet)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2626,7 +2626,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0184",
-        "name": "Boulevard du Manoir Saint-Lo (Face 11, Nantes",
+        "name": "Boulevard du Manoir Saint-Lo (Face 11)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2644,7 +2644,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0174",
-        "name": "Rue du Bois Briand (Angle Rue de la Garde, Nantes",
+        "name": "Rue du Bois Briand (Angle Rue de la Garde)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2662,7 +2662,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0175",
-        "name": "Boulevard des Poilus (Angle Rue de la Marrière, Nantes",
+        "name": "Boulevard des Poilus (Angle Rue de la Marrière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2680,7 +2680,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0189",
-        "name": "Route de Sainte Luce (Au 127, Nantes",
+        "name": "Route de Sainte Luce (Au 127)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2698,7 +2698,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0204",
-        "name": "Rue Jacques Duclos (Angle Rue de la Turballe, Nantes",
+        "name": "Rue Jacques Duclos (Angle Rue de la Turballe)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2716,7 +2716,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0002",
-        "name": "Chemin du Doucet (Square angle chemin de la retardière, Orvault",
+        "name": "Chemin du Doucet (Square angle chemin de la retardière)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2734,7 +2734,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0006",
-        "name": "Boulevard Mendès France (angle Rue Toussaint Deniaud, Orvault",
+        "name": "Boulevard Mendès France (angle Rue Toussaint Deniaud)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2752,7 +2752,7 @@
       },
       "properties": {
         "id": "AL_NM_14_0004",
-        "name": "Rue du Pont Marchand (Face au 9 arrêt Pont Marchand, Orvault",
+        "name": "Rue du Pont Marchand (Face au 9 arrêt Pont Marchand)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2770,7 +2770,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0015",
-        "name": "Quai Surcouf (angle allée Claude Choemet, Rezé",
+        "name": "Quai Surcouf (angle allée Claude Choemet)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2788,7 +2788,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0026",
-        "name": "Place François Mitterrand, Rezé",
+        "name": "Place François Mitterrand",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2806,7 +2806,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0020",
-        "name": "Avenue de la Branchoire (Place du marché, Saint-Herblain",
+        "name": "Avenue de la Branchoire (Place du marché)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2824,7 +2824,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0031",
-        "name": "Rue de la Garotterie (face au 15, Saint-Herblain",
+        "name": "Rue de la Garotterie (face au 15)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2842,7 +2842,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0024",
-        "name": "Rue de Charente (entrée Ecole de Musique, Saint-Herblain",
+        "name": "Rue de Charente (entrée Ecole de Musique)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2860,7 +2860,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0035",
-        "name": "Avenue du Docteur Roux (angle avenue de la Bouvardière, Saint-Herblain",
+        "name": "Avenue du Docteur Roux (angle avenue de la Bouvardière)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2878,7 +2878,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0040",
-        "name": "Avenue des Thébaudières (angle rue du Danube, Saint-Herblain",
+        "name": "Avenue des Thébaudières (angle rue du Danube)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2896,7 +2896,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0009",
-        "name": "Avenue de la Martellière (au 19, Saint-Sébastien-sur-Loire",
+        "name": "Avenue de la Martellière (au 19)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2914,7 +2914,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0027",
-        "name": "Chemin du Couvent (angle rue de la Loire, Bouguenais",
+        "name": "Chemin du Couvent (angle rue de la Loire)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2932,7 +2932,7 @@
       },
       "properties": {
         "id": "AL_NM_04_0001",
-        "name": "Place de la Mairie (sur façade, Brains",
+        "name": "Place de la Mairie (sur façade)",
         "city": "Brains",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2950,7 +2950,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0016",
-        "name": "Rue des Coteaux (Parking angle Rue Haie d’Anchteau, Bouguenais",
+        "name": "Rue des Coteaux (Parking angle Rue Haie d’Anchteau)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2968,7 +2968,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0008",
-        "name": "Rue de Bel Air (face au 3, La Montagne",
+        "name": "Rue de Bel Air (face au 3)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -2986,7 +2986,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0012",
-        "name": "rue Jean Mermoz (Rue du Drouillard, La Montagne",
+        "name": "rue Jean Mermoz (Rue du Drouillard)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3004,7 +3004,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0015",
-        "name": "Rue de Verdun (angle rue de la Paix, La Montagne",
+        "name": "Rue de Verdun (angle rue de la Paix)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3022,7 +3022,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0003",
-        "name": "Place du Onze Novembre 1918, Sainte-Luce-sur-Loire",
+        "name": "Place du Onze Novembre 1918",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3040,7 +3040,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0006",
-        "name": "Rue du Carteron, Mauves-sur-Loire",
+        "name": "Rue du Carteron",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -3058,7 +3058,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0006",
-        "name": "Rue des Remparts (angle rue du Chat qui guette, Saint-Jean-de-Boiseau",
+        "name": "Rue des Remparts (angle rue du Chat qui guette)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3076,7 +3076,7 @@
       },
       "properties": {
         "id": "AL_NM_23_0002",
-        "name": "Rue de Mauves (hotel de ville, Thouaré-sur-Loire",
+        "name": "Rue de Mauves (hotel de ville)",
         "city": "Thouaré-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3094,7 +3094,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0033",
-        "name": "Rue de la Frémondière, Couëron",
+        "name": "Rue de la Frémondière",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3112,7 +3112,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0011",
-        "name": "Rue de la Billardière (angle Rue des Chaffauts, Vertou",
+        "name": "Rue de la Billardière (angle Rue des Chaffauts)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3130,7 +3130,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0100",
-        "name": "Boulevard Jean XXIII (Parking, Nantes",
+        "name": "Boulevard Jean XXIII (Parking)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3148,7 +3148,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0004",
-        "name": "Route de Bouguenais (au 27, Bouaye",
+        "name": "Route de Bouguenais (au 27)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3166,7 +3166,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0198",
-        "name": "Route de Gachet (IDAC / Angle chemin de Boisbonne, Nantes",
+        "name": "Route de Gachet (IDAC / Angle chemin de Boisbonne)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3184,7 +3184,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0004",
-        "name": "Rue des Antilles (Angle Avenue de l'Arquebusier, Carquefou",
+        "name": "Rue des Antilles (Angle Avenue de l'Arquebusier)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3202,7 +3202,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0014",
-        "name": "Place du 8 Mai 1945 (angle Rue André Malraux, Rezé",
+        "name": "Place du 8 Mai 1945 (angle Rue André Malraux)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3220,7 +3220,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0045",
-        "name": "Rue Lucie Aubrac (angle boulevard Salvador Allende, Saint-Herblain",
+        "name": "Rue Lucie Aubrac (angle boulevard Salvador Allende)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3238,7 +3238,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0064",
-        "name": "Rue des Olivettes (Allée Baco, Nantes",
+        "name": "Rue des Olivettes (Allée Baco)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3256,7 +3256,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0083",
-        "name": "Place Catinat (Angle Rue de la Motte Picquet, Nantes",
+        "name": "Place Catinat (Angle Rue de la Motte Picquet)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -3274,7 +3274,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0019",
-        "name": "Rue de Gigant (Angle Rue Lamoricière, Nantes",
+        "name": "Rue de Gigant (Angle Rue Lamoricière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3292,7 +3292,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0022",
-        "name": "Rue Faustin Hélie, Nantes",
+        "name": "Rue Faustin Hélie",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3310,7 +3310,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0027",
-        "name": "Rue Lamartine (Angle Rue Desgrée du Lou, Nantes",
+        "name": "Rue Lamartine (Angle Rue Desgrée du Lou)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3328,7 +3328,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0028",
-        "name": "Rue de l'Arche Sèche (Au 7, Nantes",
+        "name": "Rue de l'Arche Sèche (Au 7)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3346,7 +3346,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0039",
-        "name": "Rue Lekain (Au 10, Nantes",
+        "name": "Rue Lekain (Au 10)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3364,7 +3364,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0061",
-        "name": "Rue du Roi Baco (Angle rue de Misery, Nantes",
+        "name": "Rue du Roi Baco (Angle rue de Misery)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3382,7 +3382,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0079",
-        "name": "Boulevard Paul Chabas (Angle bd de  la Fraternité, Nantes",
+        "name": "Boulevard Paul Chabas (Angle bd de  la Fraternité)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3400,7 +3400,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0086",
-        "name": "Rue de la Montagne (Face au 84, Nantes",
+        "name": "Rue de la Montagne (Face au 84)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3418,7 +3418,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0102",
-        "name": "Rue Alphonse Daudet (Rue Ernest Legouvé, Nantes",
+        "name": "Rue Alphonse Daudet (Rue Ernest Legouvé)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3436,7 +3436,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0122",
-        "name": "Rue Georges Méliès (Angle Rue de Malville, Nantes",
+        "name": "Rue Georges Méliès (Angle Rue de Malville)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3454,7 +3454,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0152",
-        "name": "Rue Henri Cochard (Angle Rue Bonnefoy, Nantes",
+        "name": "Rue Henri Cochard (Angle Rue Bonnefoy)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3472,7 +3472,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0156",
-        "name": "Avenue Chanzy (Angle Rue A Ronarc’h, Nantes",
+        "name": "Avenue Chanzy (Angle Rue A Ronarc’h)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3490,7 +3490,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0158",
-        "name": "Rue de Coulmiers (Angle Rue du Pipay, Nantes",
+        "name": "Rue de Coulmiers (Angle Rue du Pipay)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3508,7 +3508,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0169",
-        "name": "Rue André Baugé (Angle Rue Casterneau, Nantes",
+        "name": "Rue André Baugé (Angle Rue Casterneau)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3526,7 +3526,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0001",
-        "name": "Côte Saint Sébastien (sous pt G. Clémenceau, Nantes",
+        "name": "Côte Saint Sébastien (sous pt G. Clémenceau)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3544,7 +3544,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0016",
-        "name": "Brimberne, Couëron",
+        "name": "Brimberne",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3562,7 +3562,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0012",
-        "name": "Rue Bonne Garde (Angle Rue Hendaye, Nantes",
+        "name": "Rue Bonne Garde (Angle Rue Hendaye)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3580,7 +3580,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0129",
-        "name": "Avenue du Bout des Landes (Angle Rue de Vancouver, Nantes",
+        "name": "Avenue du Bout des Landes (Angle Rue de Vancouver)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3598,7 +3598,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0140",
-        "name": "Route de la Jonelière (Angle Av du Sequoia, Nantes",
+        "name": "Route de la Jonelière (Angle Av du Sequoia)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3616,7 +3616,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0139",
-        "name": "Quai de la Jonelière (Au 11bis, Nantes",
+        "name": "Quai de la Jonelière (Au 11bis)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3634,7 +3634,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0193",
-        "name": "Rue des Platanes (Angle Bd Jules Verne, Nantes",
+        "name": "Rue des Platanes (Angle Bd Jules Verne)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3652,7 +3652,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0196",
-        "name": "Route de Vertou (Au 45, Nantes",
+        "name": "Route de Vertou (Au 45)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3670,7 +3670,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0027",
-        "name": "Rue des Chardonnerets, Couëron",
+        "name": "Rue des Chardonnerets",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3688,7 +3688,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0218",
-        "name": "Boulevard des Belges (angle Boulevard Jules Verne, Nantes",
+        "name": "Boulevard des Belges (angle Boulevard Jules Verne)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3706,7 +3706,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0003",
-        "name": "Rue du Château de Rezé (angle Avenue de Vendée, Rezé",
+        "name": "Rue du Château de Rezé (angle Avenue de Vendée)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3724,7 +3724,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0007",
-        "name": "Rue des Déportés (au 10, Rezé",
+        "name": "Rue des Déportés (au 10)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3742,7 +3742,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0022",
-        "name": "Rue des Brêches (face au 3, Rezé",
+        "name": "Rue des Brêches (face au 3)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3760,7 +3760,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0023",
-        "name": "Rue de la Maillardière (face au n°81, Rezé",
+        "name": "Rue de la Maillardière (face au n°81)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3778,7 +3778,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0027",
-        "name": "Rue Henri Barbusse (angle Rue Emile Zola, Rezé",
+        "name": "Rue Henri Barbusse (angle Rue Emile Zola)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3796,7 +3796,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0029",
-        "name": "Rue Jean Baptiste Vigier (au 134, Rezé",
+        "name": "Rue Jean Baptiste Vigier (au 134)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3814,7 +3814,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0010",
-        "name": "Rue Victor Schoelcher (angle Boulevard Salvador Allende, Saint-Herblain",
+        "name": "Rue Victor Schoelcher (angle Boulevard Salvador Allende)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3832,7 +3832,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0003",
-        "name": "Allée de la Bourgonnière (giratoire après Piscine, Saint-Herblain",
+        "name": "Allée de la Bourgonnière (giratoire après Piscine)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3850,7 +3850,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0011",
-        "name": "Rue Christophe Colomb (coté Giratoire Ar Mor, Saint-Herblain",
+        "name": "Rue Christophe Colomb (coté Giratoire Ar Mor)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3868,7 +3868,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0025",
-        "name": "Rue de Saint Nazaire (angle rue de la Gironde, Saint-Herblain",
+        "name": "Rue de Saint Nazaire (angle rue de la Gironde)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3886,7 +3886,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0022",
-        "name": "Rue Jean Jaurès (face rue Benoit Frachon, Saint-Herblain",
+        "name": "Rue Jean Jaurès (face rue Benoit Frachon)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3904,7 +3904,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0043",
-        "name": "Rue du Docteur Boubée (face rue du Corlay, Saint-Herblain",
+        "name": "Rue du Docteur Boubée (face rue du Corlay)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3922,7 +3922,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0047",
-        "name": "Avenue Louis Guilloux (Bd du Val de Chézine, Saint-Herblain",
+        "name": "Avenue Louis Guilloux (Bd du Val de Chézine)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3940,7 +3940,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0044",
-        "name": "Rue du Rocher (angle rue Noëlles Tesseries, Saint-Herblain",
+        "name": "Rue du Rocher (angle rue Noëlles Tesseries)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3958,7 +3958,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0011",
-        "name": "Route de Clisson (Au 199, Saint-Sébastien-sur-Loire",
+        "name": "Route de Clisson (Au 199)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3976,7 +3976,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0004",
-        "name": "Rue de Galheur (angle Rue des Genets, Bouguenais",
+        "name": "Rue de Galheur (angle Rue des Genets)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -3994,7 +3994,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0007",
-        "name": "Rue de la Bouguinière (angle Chemin du Puits, Bouguenais",
+        "name": "Rue de la Bouguinière (angle Chemin du Puits)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4012,7 +4012,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0004",
-        "name": "Route du Champ de Pies (la Bazilière, Couëron",
+        "name": "Route du Champ de Pies (la Bazilière)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4030,7 +4030,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0021",
-        "name": "Quai du Commandant Lucas, Couëron",
+        "name": "Quai du Commandant Lucas",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4048,7 +4048,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0001",
-        "name": "Rue de la Champagnère (Parking école Champagnere, Basse-Goulaine",
+        "name": "Rue de la Champagnère (Parking école Champagnere)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4066,7 +4066,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0036",
-        "name": "Rue de Trévellec (angle Rue de la Lionnière, Couëron",
+        "name": "Rue de Trévellec (angle Rue de la Lionnière)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4084,7 +4084,7 @@
       },
       "properties": {
         "id": "AL_NM_10_0002",
-        "name": "Rue du Port Chassé (Au 1 bis, Le Pellerin",
+        "name": "Rue du Port Chassé (Au 1 bis)",
         "city": "Le Pellerin",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4102,7 +4102,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0002",
-        "name": "Rue de la Briandière (Au 35 sur façade privé, La Montagne",
+        "name": "Rue de la Briandière (Au 35 sur façade privé)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -4120,7 +4120,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0001",
-        "name": "Rue du Bac (proche Rd Pt, La Montagne",
+        "name": "Rue du Bac (proche Rd Pt)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4138,7 +4138,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0010",
-        "name": "Rue Violin (Au 51 côté parking, La Montagne",
+        "name": "Rue Violin (Au 51 côté parking)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4156,7 +4156,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0006",
-        "name": "Rue des Quarterons (Au 15, Saint-Aignan de Grand Lieu",
+        "name": "Rue des Quarterons (Au 15)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4174,7 +4174,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0008",
-        "name": "Route des Ecobuts (face au 24, Saint-Aignan de Grand Lieu",
+        "name": "Route des Ecobuts (face au 24)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4192,7 +4192,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0002",
-        "name": "Rue du Surchaud (face rue des Celliers, Saint-Jean-de-Boiseau",
+        "name": "Rue du Surchaud (face rue des Celliers)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4210,7 +4210,7 @@
       },
       "properties": {
         "id": "AL_NM_23_0004",
-        "name": "Rue de Nantes (face au super U, Thouaré-sur-Loire",
+        "name": "Rue de Nantes (face au super U)",
         "city": "Thouaré-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4228,7 +4228,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0032",
-        "name": "Boulevard Francois Blancho, Couëron",
+        "name": "Boulevard Francois Blancho",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4246,7 +4246,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0014",
-        "name": "Rue de la Rousselière (angle rue de la Croix, Vertou",
+        "name": "Rue de la Rousselière (angle rue de la Croix)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4264,7 +4264,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0075",
-        "name": "Rue Danton (parking face au 41, Nantes",
+        "name": "Rue Danton (parking face au 41)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4282,7 +4282,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0001",
-        "name": "Rue Jean Jaurès (Au 17, La Chapelle-sur-Erdre",
+        "name": "Rue Jean Jaurès (Au 17)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -4300,7 +4300,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0185",
-        "name": "Rue de la Papotière (Au 11, Nantes",
+        "name": "Rue de la Papotière (Au 11)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -4318,7 +4318,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0021",
-        "name": "Rue Pablo Néruda (au 11, Saint-Herblain",
+        "name": "Rue Pablo Néruda (au 11)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4336,7 +4336,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0002",
-        "name": "Rue Charles de Gaulle (Angle Rue Georges Clemenceau, Carquefou",
+        "name": "Rue Charles de Gaulle (Angle Rue Georges Clemenceau)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4354,7 +4354,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0034",
-        "name": "Rue Jeanne d'Arc (Face au 41, Nantes",
+        "name": "Rue Jeanne d'Arc (Face au 41)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4372,7 +4372,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0020",
-        "name": "Rue de Gigant (angle Rue Huchette, Nantes",
+        "name": "Rue de Gigant (angle Rue Huchette)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4390,7 +4390,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0055",
-        "name": "Rue des Réformes (Au 14, Nantes",
+        "name": "Rue des Réformes (Au 14)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4408,7 +4408,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0080",
-        "name": "Rue Bouchaud (Au 68, Nantes",
+        "name": "Rue Bouchaud (Au 68)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4426,7 +4426,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0068",
-        "name": "Place des Dervallières, Nantes",
+        "name": "Place des Dervallières",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4444,7 +4444,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0085",
-        "name": "Rue Ampère (Face au 18, Nantes",
+        "name": "Rue Ampère (Face au 18)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4462,7 +4462,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0089",
-        "name": "Rue Richer (Angle Rue de la Ville aux Bois, Nantes",
+        "name": "Rue Richer (Angle Rue de la Ville aux Bois)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4480,7 +4480,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0101",
-        "name": "Rue Alexandre Dumas (Face au 14, Nantes",
+        "name": "Rue Alexandre Dumas (Face au 14)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4498,7 +4498,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0110",
-        "name": "Rue de Bel Air (Face au 51, Nantes",
+        "name": "Rue de Bel Air (Face au 51)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4516,7 +4516,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0114",
-        "name": "Avenue Camus (Angle Rue Mondésir, Nantes",
+        "name": "Avenue Camus (Angle Rue Mondésir)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4534,7 +4534,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0157",
-        "name": "Rue de Coulmiers (Au 10, Nantes",
+        "name": "Rue de Coulmiers (Au 10)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4552,7 +4552,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0012",
-        "name": "Rue Mendès France (Angle Rue Hautière, La Chapelle-sur-Erdre",
+        "name": "Rue Mendès France (Angle Rue Hautière)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4570,7 +4570,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0007",
-        "name": "Rue de la Ripossière (face au 69, Nantes",
+        "name": "Rue de la Ripossière (face au 69)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4588,7 +4588,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0002",
-        "name": "Route de Saint Sébastien (face au 31, Nantes",
+        "name": "Route de Saint Sébastien (face au 31)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4606,7 +4606,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0128",
-        "name": "Avenue du Bout des Landes (Angle Av du Point du Jour, Nantes",
+        "name": "Avenue du Bout des Landes (Angle Av du Point du Jour)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4624,7 +4624,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0130",
-        "name": "Route de la Chapelle Sur Erdre (Face au 19, Nantes",
+        "name": "Route de la Chapelle Sur Erdre (Face au 19)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4642,7 +4642,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0144",
-        "name": "Chemin de la Censive du Tertre (Angle Pôle étudiant, Nantes",
+        "name": "Chemin de la Censive du Tertre (Angle Pôle étudiant)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4660,7 +4660,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0141",
-        "name": "Rue Paul Claudel (angle Rue André Gide, Nantes",
+        "name": "Rue Paul Claudel (angle Rue André Gide)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4678,7 +4678,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0148",
-        "name": "Avenue Chanzy (Angle Rue Talma, Nantes",
+        "name": "Avenue Chanzy (Angle Rue Talma)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4696,7 +4696,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0167",
-        "name": "Rue des Chambelles (Angle Rue de l’Ouchette, Nantes",
+        "name": "Rue des Chambelles (Angle Rue de l’Ouchette)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4714,7 +4714,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0180",
-        "name": "Rue du Landreau (Angle Chemin Vert, Nantes",
+        "name": "Rue du Landreau (Angle Chemin Vert)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4732,7 +4732,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0202",
-        "name": "Rue du Port Boyer (Angle Chemin de l’Eraudière, Nantes",
+        "name": "Rue du Port Boyer (Angle Chemin de l’Eraudière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4750,7 +4750,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0205",
-        "name": "Rue Jacques Duclos (Angle Rue du Port Boyer, Nantes",
+        "name": "Rue Jacques Duclos (Angle Rue du Port Boyer)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4768,7 +4768,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0006",
-        "name": "Rue de la Galarnière (Devant le gymnase, Rezé",
+        "name": "Rue de la Galarnière (Devant le gymnase)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4786,7 +4786,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0233",
-        "name": "Rue des Boires (Angle rue de Cochabamba, Nantes",
+        "name": "Rue des Boires (Angle rue de Cochabamba)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4804,7 +4804,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0010",
-        "name": "Rue Maurice Lagathu (face au 4, Rezé",
+        "name": "Rue Maurice Lagathu (face au 4)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4822,7 +4822,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0013",
-        "name": "Rue du Vivier (angle rue Ernest Sauvestre, Rezé",
+        "name": "Rue du Vivier (angle rue Ernest Sauvestre)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4840,7 +4840,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0011",
-        "name": "Rue de la Vallée (angle Rue de la Chaussée, Rezé",
+        "name": "Rue de la Vallée (angle Rue de la Chaussée)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4858,7 +4858,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0028",
-        "name": "Rue Guy Le Lan (entrée Théatre, Rezé",
+        "name": "Rue Guy Le Lan (entrée Théatre)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4876,7 +4876,7 @@
       },
       "properties": {
         "id": "AL_NM_22_0001",
-        "name": "Halle de la linière (Parking de la Gendarmerie, Sautron",
+        "name": "Halle de la linière (Parking de la Gendarmerie)",
         "city": "Sautron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4894,7 +4894,7 @@
       },
       "properties": {
         "id": "AL_NM_22_0002",
-        "name": "Rue de la Pépinière (devant la poste, Sautron",
+        "name": "Rue de la Pépinière (devant la poste)",
         "city": "Sautron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4912,7 +4912,7 @@
       },
       "properties": {
         "id": "AL_NM_22_0004",
-        "name": "Rue de la Ferme (Parking, Sautron",
+        "name": "Rue de la Ferme (Parking)",
         "city": "Sautron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4930,7 +4930,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0007",
-        "name": "Rue Vincent Auriol (angle  rue Petit village, Saint-Herblain",
+        "name": "Rue Vincent Auriol (angle  rue Petit village)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4948,7 +4948,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0004",
-        "name": "Rue de la Gare (face au 66, Saint-Herblain",
+        "name": "Rue de la Gare (face au 66)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4966,7 +4966,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0006",
-        "name": "Rue des Calvaires (entrée école Jacqueline Auriol, Saint-Herblain",
+        "name": "Rue des Calvaires (entrée école Jacqueline Auriol)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -4984,7 +4984,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0013",
-        "name": "Impasse du Bourrelier (angle Rue du Charron, Saint-Herblain",
+        "name": "Impasse du Bourrelier (angle Rue du Charron)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5002,7 +5002,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0016",
-        "name": "Boulevard Marcel Paul (angle rue de la Bergerie, Saint-Herblain",
+        "name": "Boulevard Marcel Paul (angle rue de la Bergerie)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5020,7 +5020,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0033",
-        "name": "Rue Jean Jacques Rousseau (angle Boulevard du Massacre, Saint-Herblain",
+        "name": "Rue Jean Jacques Rousseau (angle Boulevard du Massacre)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5038,7 +5038,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0029",
-        "name": "Rue des Merisiers (Au 5, Saint-Herblain",
+        "name": "Rue des Merisiers (Au 5)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5056,7 +5056,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0048",
-        "name": "Rue du Zambèze (angle Bd des Thébaudières, Saint-Herblain",
+        "name": "Rue du Zambèze (angle Bd des Thébaudières)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5074,7 +5074,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0005",
-        "name": "Rue du Général De Gaulle (angle rue du Genetay, Saint-Sébastien-sur-Loire",
+        "name": "Rue du Général De Gaulle (angle rue du Genetay)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5092,7 +5092,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0008",
-        "name": "Rue de la Jaunaie (Angle Rue Mendes France, Saint-Sébastien-sur-Loire",
+        "name": "Rue de la Jaunaie (Angle Rue Mendes France)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5110,7 +5110,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0003",
-        "name": "Rue de Beau Soleil (angle Chemin des Grands Champs, Bouguenais",
+        "name": "Rue de Beau Soleil (angle Chemin des Grands Champs)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5128,7 +5128,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0008",
-        "name": "Rue de la Couillauderie (face à la rue des Champs de Bougon, Bouguenais",
+        "name": "Rue de la Couillauderie (face à la rue des Champs de Bougon)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5146,7 +5146,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0001",
-        "name": "Rue de l'Hommeau (face au 19, Saint-Jean-de-Boiseau",
+        "name": "Rue de l'Hommeau (face au 19)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5164,7 +5164,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0009",
-        "name": "Rue de la Gagnerie (angle Rue Léon Blum, Bouguenais",
+        "name": "Rue de la Gagnerie (angle Rue Léon Blum)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5182,7 +5182,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0012",
-        "name": "Rue de la Pagerie (angle Chemin de la Sangle, Bouguenais",
+        "name": "Rue de la Pagerie (angle Chemin de la Sangle)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5200,7 +5200,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0003",
-        "name": "Rue Hervé Le Guyader (Face au 10, La Chapelle-sur-Erdre",
+        "name": "Rue Hervé Le Guyader (Face au 10)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5218,7 +5218,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0015",
-        "name": "Rue de la Ville au Denis (angle Chemin de la Grande Nouelle, Bouguenais",
+        "name": "Rue de la Ville au Denis (angle Chemin de la Grande Nouelle)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5236,7 +5236,7 @@
       },
       "properties": {
         "id": "AL_NM_10_0001",
-        "name": "Quai du Docteur Provost (Place du Président René Coty, Le Pellerin",
+        "name": "Quai du Docteur Provost (Place du Président René Coty)",
         "city": "Le Pellerin",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5254,7 +5254,7 @@
       },
       "properties": {
         "id": "AL_NM_10_0004",
-        "name": "Route du Grand Chemin (angle rue de la Ville au Vay, Le Pellerin",
+        "name": "Route du Grand Chemin (angle rue de la Ville au Vay)",
         "city": "Le Pellerin",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5272,7 +5272,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0001",
-        "name": "Rue de la Blanchardière (angle Rue des Doizelleries, Les Sorinières",
+        "name": "Rue de la Blanchardière (angle Rue des Doizelleries)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5290,7 +5290,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0014",
-        "name": "Rue de la Courante (face au 31, La Montagne",
+        "name": "Rue de la Courante (face au 31)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5308,7 +5308,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0005",
-        "name": "Rue des Lauriers (face au 44, Les Sorinières",
+        "name": "Rue des Lauriers (face au 44)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5326,7 +5326,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0006",
-        "name": "Rue des Papillons (Devant salle de sportd J Marnier, Les Sorinières",
+        "name": "Rue des Papillons (Devant salle de sportd J Marnier)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5344,7 +5344,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0004",
-        "name": "Route de la Blanchardais (Route de la Paillerie, Saint-Aignan de Grand Lieu",
+        "name": "Route de la Blanchardais (Route de la Paillerie)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5362,7 +5362,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0003",
-        "name": "Rue de la Fontaine (Rue de la Loire, Saint-Jean-de-Boiseau",
+        "name": "Rue de la Fontaine (Rue de la Loire)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5380,7 +5380,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0004",
-        "name": "Rue de l'Ouche Jacquet (Au 6, Saint-Jean-de-Boiseau",
+        "name": "Rue de l'Ouche Jacquet (Au 6)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5398,7 +5398,7 @@
       },
       "properties": {
         "id": "AL_NM_23_0003",
-        "name": "Rue de Mauves (angle Rue de Chinon, Thouaré-sur-Loire",
+        "name": "Rue de Mauves (angle Rue de Chinon)",
         "city": "Thouaré-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5416,7 +5416,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0028",
-        "name": "Rue des Maraîchers (Au 31, Couëron",
+        "name": "Rue des Maraîchers (Au 31)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5434,7 +5434,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0146",
-        "name": "Chemin de la Censive du Tertre (Mail André Breton, Nantes",
+        "name": "Chemin de la Censive du Tertre (Mail André Breton)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -5452,7 +5452,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0003",
-        "name": "Rue des Monceaux (Angle avenue de la Dagonnière, Carquefou",
+        "name": "Rue des Monceaux (Angle avenue de la Dagonnière)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5470,7 +5470,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0002",
-        "name": "Rue du Choiseau (Parking de la Croix aire de covoiturage, Mauves-sur-Loire",
+        "name": "Rue du Choiseau (Parking de la Croix aire de covoiturage)",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5488,7 +5488,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0026",
-        "name": "Rue de La Matrasserie (face à la rue du Jauvray, Bouguenais",
+        "name": "Rue de La Matrasserie (face à la rue du Jauvray)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5506,7 +5506,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0155",
-        "name": "Rue du Haut Moreau (Angle Rue Coquebert, Nantes",
+        "name": "Rue du Haut Moreau (Angle Rue Coquebert)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5524,7 +5524,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0035",
-        "name": "Rue Préfet Bonnefoy (Angle Allée de la Reine Margot, Nantes",
+        "name": "Rue Préfet Bonnefoy (Angle Allée de la Reine Margot)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5542,7 +5542,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0042",
-        "name": "Rue de la Verrerie (Au 2, Nantes",
+        "name": "Rue de la Verrerie (Au 2)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -5560,7 +5560,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0050",
-        "name": "Rue de la Marseillaise (angle Bd de l’égalité, Nantes",
+        "name": "Rue de la Marseillaise (angle Bd de l’égalité)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5578,7 +5578,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0052",
-        "name": "Rue des Pavillons (Angle Rue Fonteny, Nantes",
+        "name": "Rue des Pavillons (Angle Rue Fonteny)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5596,7 +5596,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0049",
-        "name": "Rue de la Hérelle (Angle Rue Gutenberg, Nantes",
+        "name": "Rue de la Hérelle (Angle Rue Gutenberg)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5614,7 +5614,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0074",
-        "name": "Rue d’Irlande (angle rue d’Angleterre, Nantes",
+        "name": "Rue d’Irlande (angle rue d’Angleterre)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5632,7 +5632,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0059",
-        "name": "Rue de la Barbinais (Au 14, Nantes",
+        "name": "Rue de la Barbinais (Au 14)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5650,7 +5650,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0234",
-        "name": "Boulevard de Berlin (devant parking Basic Fit, Nantes",
+        "name": "Boulevard de Berlin (devant parking Basic Fit)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5668,7 +5668,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0084",
-        "name": "Place Saint Clair (Angle Rue du Général Torquat, Nantes",
+        "name": "Place Saint Clair (Angle Rue du Général Torquat)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -5686,7 +5686,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0003",
-        "name": "Rue des Ardillets (Au 19, Couëron",
+        "name": "Rue des Ardillets (Au 19)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5704,7 +5704,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0094",
-        "name": "Boulevard Clovis Constant (Angle rue d’Arsonval, Nantes",
+        "name": "Boulevard Clovis Constant (Angle rue d’Arsonval)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5722,7 +5722,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0161",
-        "name": "Place Sophie Trébuchet, Nantes",
+        "name": "Place Sophie Trébuchet",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5740,7 +5740,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0162",
-        "name": "Rue Maréchal Joffre (Angle Rue de Chanzy, Nantes",
+        "name": "Rue Maréchal Joffre (Angle Rue de Chanzy)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5758,7 +5758,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0170",
-        "name": "Rue Georges Clemenceau (Arret Trébuchet, Nantes",
+        "name": "Rue Georges Clemenceau (Arret Trébuchet)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5776,7 +5776,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0171",
-        "name": "Rue des Remorqueurs (Angle Quai Malakoff, Nantes",
+        "name": "Rue des Remorqueurs (Angle Quai Malakoff)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5794,7 +5794,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0004",
-        "name": "Rue Hervé Le Guyader (Face au 20, La Chapelle-sur-Erdre",
+        "name": "Rue Hervé Le Guyader (Face au 20)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5812,7 +5812,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0008",
-        "name": "Allée de la Coutancière (Allée des Favrières, La Chapelle-sur-Erdre",
+        "name": "Allée de la Coutancière (Allée des Favrières)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5830,7 +5830,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0011",
-        "name": "Rue du Gibot (Angle Rue du Hillet, La Chapelle-sur-Erdre",
+        "name": "Rue du Gibot (Angle Rue du Hillet)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5848,7 +5848,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0014",
-        "name": "Boulevard Victor Hugo (Au 9, Nantes",
+        "name": "Boulevard Victor Hugo (Au 9)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5866,7 +5866,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0178",
-        "name": "Rue Donatien Bahaud (Angle Rue de la Marrière, Nantes",
+        "name": "Rue Donatien Bahaud (Angle Rue de la Marrière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5884,7 +5884,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0179",
-        "name": "Rue du Croissant (Angle Rue de la Bottière, Nantes",
+        "name": "Rue du Croissant (Angle Rue de la Bottière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5902,7 +5902,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0194",
-        "name": "Rue Jules Grandjouan (Angle Bd route de Paris, Nantes",
+        "name": "Rue Jules Grandjouan (Angle Bd route de Paris)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5920,7 +5920,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0207",
-        "name": "Route de Saint Joseph (Angle Rue de Kouffra, Nantes",
+        "name": "Route de Saint Joseph (Angle Rue de Kouffra)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5938,7 +5938,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0214",
-        "name": "Boulevard de la Beaujoire (Angle Rue du Moulin de la Garde, Nantes",
+        "name": "Boulevard de la Beaujoire (Angle Rue du Moulin de la Garde)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5956,7 +5956,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0009",
-        "name": "Rue Maurice Lagathu (face au 29, Rezé",
+        "name": "Rue Maurice Lagathu (face au 29)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5974,7 +5974,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0018",
-        "name": "Rue des Poyaux (Face Chemin des Faulx, Rezé",
+        "name": "Rue des Poyaux (Face Chemin des Faulx)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -5992,7 +5992,7 @@
       },
       "properties": {
         "id": "AL_NM_22_0003",
-        "name": "Rue de la Forêt (face rue de la Ferme, Sautron",
+        "name": "Rue de la Forêt (face rue de la Ferme)",
         "city": "Sautron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6010,7 +6010,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0005",
-        "name": "Rue de la Gare (angle Av Beauregard, Saint-Herblain",
+        "name": "Rue de la Gare (angle Av Beauregard)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6028,7 +6028,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0018",
-        "name": "Rue de la Blanche (Face au 39, Saint-Herblain",
+        "name": "Rue de la Blanche (Face au 39)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6046,7 +6046,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0036",
-        "name": "Avenue du Parnasse (face au 72, Saint-Herblain",
+        "name": "Avenue du Parnasse (face au 72)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6064,7 +6064,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0028",
-        "name": "Esplanade des Quatre Vents, Saint-Herblain",
+        "name": "Esplanade des Quatre Vents",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6082,7 +6082,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0049",
-        "name": "Rue du Danube (devant l’école Nelson Mandela, Saint-Herblain",
+        "name": "Rue du Danube (devant l’école Nelson Mandela)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6100,7 +6100,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0010",
-        "name": "Place Alfred Radigois (Au 31, Saint-Sébastien-sur-Loire",
+        "name": "Place Alfred Radigois (Au 31)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6118,7 +6118,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0008",
-        "name": "Rue Jean Charcot (angle rue de l’Atlantique, Basse-Goulaine",
+        "name": "Rue Jean Charcot (angle rue de l’Atlantique)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6136,7 +6136,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0010",
-        "name": "Rue de la Haie d'Ancheteau (angle avenue des Plantes, Bouguenais",
+        "name": "Rue de la Haie d'Ancheteau (angle avenue des Plantes)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6154,7 +6154,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0022",
-        "name": "Rue Georges Clémenceau (angle Rue des Saules, Bouguenais",
+        "name": "Rue Georges Clémenceau (angle Rue des Saules)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6172,7 +6172,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0025",
-        "name": "Rue Salvador Allende (angle Rue Fernand Pelloutier, Bouguenais",
+        "name": "Rue Salvador Allende (angle Rue Fernand Pelloutier)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6190,7 +6190,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0014",
-        "name": "Le Fraîche Pasquier, Couëron",
+        "name": "Le Fraîche Pasquier",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6208,7 +6208,7 @@
       },
       "properties": {
         "id": "AL_NM_07_0001",
-        "name": "Avenue de la Loire (proche de la mairie, Indre",
+        "name": "Avenue de la Loire (proche de la mairie)",
         "city": "Indre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6226,7 +6226,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0003",
-        "name": "Rue des Antilles (Centre Commercial de la Désirade, Carquefou",
+        "name": "Rue des Antilles (Centre Commercial de la Désirade)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -6244,7 +6244,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0003",
-        "name": "Rue Jules Verne (Ecole, La Montagne",
+        "name": "Rue Jules Verne (Ecole)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6262,7 +6262,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0011",
-        "name": "D58 (face au 43 Le Chateau d’Aux, La Montagne",
+        "name": "D58 (face au 43 Le Chateau d’Aux)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6280,7 +6280,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0008",
-        "name": "Rue de la Loire (angle Rue du Patisseau, Sainte-Luce-sur-Loire",
+        "name": "Rue de la Loire (angle Rue du Patisseau)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -6298,7 +6298,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0010",
-        "name": "Rue des Roches, Sainte-Luce-sur-Loire",
+        "name": "Rue des Roches",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6316,7 +6316,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0001",
-        "name": "Allée de l'Hippodrome, Vertou",
+        "name": "Allée de l'Hippodrome",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6334,7 +6334,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0002",
-        "name": "Rue Charles Chollet (Parking parc de la sèvre, Vertou",
+        "name": "Rue Charles Chollet (Parking parc de la sèvre)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6352,7 +6352,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0003",
-        "name": "Place de la Poste (Bibliothèque municipale, Vertou",
+        "name": "Place de la Poste (Bibliothèque municipale)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6370,7 +6370,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0009",
-        "name": "Rue Denis Papin (angle Rue Gustave Eiffel, Sainte-Luce-sur-Loire",
+        "name": "Rue Denis Papin (angle Rue Gustave Eiffel)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6388,7 +6388,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0031",
-        "name": "Bac de loire, Couëron",
+        "name": "Bac de loire",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6406,7 +6406,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0009",
-        "name": "Route des Pégers (angle route de Pont Caffino, Vertou",
+        "name": "Route des Pégers (angle route de Pont Caffino)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6424,7 +6424,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0013",
-        "name": "Place du Huit Mai 1945, Nantes",
+        "name": "Place du Huit Mai 1945",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -6442,7 +6442,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0002",
-        "name": "Rue de l'Hôtel de Ville, Carquefou",
+        "name": "Rue de l'Hôtel de Ville",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -6460,7 +6460,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0005",
-        "name": "Place des Tennis (Angle Avenue du Housseau, Carquefou",
+        "name": "Place des Tennis (Angle Avenue du Housseau)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6478,7 +6478,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0007",
-        "name": "Chemin des Haies (Angle chemin de la Gayonnais, Carquefou",
+        "name": "Chemin des Haies (Angle chemin de la Gayonnais)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6496,7 +6496,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0014",
-        "name": "Boulevard Marcel Paul (angle rue Jacques Brel, Saint-Herblain",
+        "name": "Boulevard Marcel Paul (angle rue Jacques Brel)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6514,7 +6514,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0215",
-        "name": "Boulevard Professeur René Auvigné (devant ecole de la beaujoire, Nantes",
+        "name": "Boulevard Professeur René Auvigné (devant ecole de la beaujoire)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6532,7 +6532,7 @@
       },
       "properties": {
         "id": "AL_NM_22_0005",
-        "name": "Rue du Muguet (angle Chemin de la Loire, Sautron",
+        "name": "Rue du Muguet (angle Chemin de la Loire)",
         "city": "Sautron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6550,7 +6550,7 @@
       },
       "properties": {
         "id": "AL_NM_07_0002",
-        "name": "Rue du Pont Allard (Angle Rue Elsa Triolet, Indre",
+        "name": "Rue du Pont Allard (Angle Rue Elsa Triolet)",
         "city": "Indre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6568,7 +6568,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0120",
-        "name": "Rue du Vélodrome de Longchamp (Au 8, Nantes",
+        "name": "Rue du Vélodrome de Longchamp (Au 8)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6586,7 +6586,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0009",
-        "name": "Place François Mitterrand, La Montagne",
+        "name": "Place François Mitterrand",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6604,7 +6604,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0005",
-        "name": "Rue Saint Jacques (Face au 72, Nantes",
+        "name": "Rue Saint Jacques (Face au 72)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6622,7 +6622,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0091",
-        "name": "Rue Dudrézène (angle Place Louis Daubenton, Nantes",
+        "name": "Rue Dudrézène (angle Place Louis Daubenton)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6640,7 +6640,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0150",
-        "name": "Rue Desaix (Angle Rue du Général Margueritte, Nantes",
+        "name": "Rue Desaix (Angle Rue du Général Margueritte)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6658,7 +6658,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0045",
-        "name": "Rue du Bois Hardy (face au 86bis, Nantes",
+        "name": "Rue du Bois Hardy (face au 86bis)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6676,7 +6676,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0047",
-        "name": "Rue Jean Olivesi, Nantes",
+        "name": "Rue Jean Olivesi",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -6694,7 +6694,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0054",
-        "name": "Boulevard Maréchal Alphonse Juin (Gare, Nantes",
+        "name": "Boulevard Maréchal Alphonse Juin (Gare)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6712,7 +6712,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0056",
-        "name": "Rue Gutenberg (Angle Bd de la Liberté, Nantes",
+        "name": "Rue Gutenberg (Angle Bd de la Liberté)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6730,7 +6730,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0048",
-        "name": "Boulevard Président René Coty (Angle Bd de l’Egalité, Nantes",
+        "name": "Boulevard Président René Coty (Angle Bd de l’Egalité)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6748,7 +6748,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0057",
-        "name": "Boulevard Président René Coty (Au 7, Nantes",
+        "name": "Boulevard Président René Coty (Au 7)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6766,7 +6766,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0062",
-        "name": "Rue Gabriel Péri (Angle Rue Varlin, Nantes",
+        "name": "Rue Gabriel Péri (Angle Rue Varlin)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6784,7 +6784,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0069",
-        "name": "Rue Jean Marc Nattier, Nantes",
+        "name": "Rue Jean Marc Nattier",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6802,7 +6802,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0065",
-        "name": "Rue de la Convention (Au 49, Nantes",
+        "name": "Rue de la Convention (Au 49)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6820,7 +6820,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0111",
-        "name": "Rue Paul Bellamy (Face au 52, Nantes",
+        "name": "Rue Paul Bellamy (Face au 52)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6838,7 +6838,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0113",
-        "name": "Rue Saint Stanislas (Angle Rue Paul Bellamy, Nantes",
+        "name": "Rue Saint Stanislas (Angle Rue Paul Bellamy)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6856,7 +6856,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0118",
-        "name": "Boulevard Robert Schuman (Au 133, Nantes",
+        "name": "Boulevard Robert Schuman (Au 133)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6874,7 +6874,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0154",
-        "name": "Rue du Coudray (Angle Rue Guillet de la Brosse, Nantes",
+        "name": "Rue du Coudray (Angle Rue Guillet de la Brosse)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6892,7 +6892,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0163",
-        "name": "Rue d'Allonville (Face au 80, Nantes",
+        "name": "Rue d'Allonville (Face au 80)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6910,7 +6910,7 @@
       },
       "properties": {
         "id": "AL_NM_08_0006",
-        "name": "Boulevard du Gesvres (face Rue jacques Demy, La Chapelle-sur-Erdre",
+        "name": "Boulevard du Gesvres (face Rue jacques Demy)",
         "city": "La Chapelle-sur-Erdre",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6928,7 +6928,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0004",
-        "name": "Rue Gabriel Goudy (Au 16, Nantes",
+        "name": "Rue Gabriel Goudy (Au 16)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6946,7 +6946,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0011",
-        "name": "Rue des Fromenteaux (Angle Rue André Messager, Nantes",
+        "name": "Rue des Fromenteaux (Angle Rue André Messager)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6964,7 +6964,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0063",
-        "name": "Rue Mounet Sully (Angle Rue St Gohard, Nantes",
+        "name": "Rue Mounet Sully (Angle Rue St Gohard)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -6982,7 +6982,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0137",
-        "name": "Rue Chanoine Poupard (Face Av Castellano, Nantes",
+        "name": "Rue Chanoine Poupard (Face Av Castellano)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7000,7 +7000,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0181",
-        "name": "Boulevard Louis Millet (Au 5, Nantes",
+        "name": "Boulevard Louis Millet (Au 5)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7018,7 +7018,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0206",
-        "name": "Rue des Pays de la Loire (face entrée Parc Expo, Nantes",
+        "name": "Rue des Pays de la Loire (face entrée Parc Expo)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7036,7 +7036,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0201",
-        "name": "Route de Saint Joseph (Rue du Port Boyer, Nantes",
+        "name": "Route de Saint Joseph (Rue du Port Boyer)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7054,7 +7054,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0210",
-        "name": "Rue d'El Alamein, Nantes",
+        "name": "Rue d'El Alamein",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7072,7 +7072,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0216",
-        "name": "Rue Eugénie Cotton (Au 7, Nantes",
+        "name": "Rue Eugénie Cotton (Au 7)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7090,7 +7090,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0217",
-        "name": "Rue du Champ de Tir (Devant la Société Générale, Nantes",
+        "name": "Rue du Champ de Tir (Devant la Société Générale)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7108,7 +7108,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0224",
-        "name": "Route de Gachet (Arret Parc Chantrerie, Nantes",
+        "name": "Route de Gachet (Arret Parc Chantrerie)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7126,7 +7126,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0227",
-        "name": "Rue de la Convention (Au 100, Nantes",
+        "name": "Rue de la Convention (Au 100)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7144,7 +7144,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0220",
-        "name": "Route de Saint Joseph (Angle Rue de la Grange au Loup, Nantes",
+        "name": "Route de Saint Joseph (Angle Rue de la Grange au Loup)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7162,7 +7162,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0008",
-        "name": "Rue Jean Fraix (face Rue Théodore Patry, Rezé",
+        "name": "Rue Jean Fraix (face Rue Théodore Patry)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7180,7 +7180,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0021",
-        "name": "Rue Jean Jaurès (Au 78, Rezé",
+        "name": "Rue Jean Jaurès (Au 78)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7198,7 +7198,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0001",
-        "name": "Place de la Paix (Rue du Lieutenant Mouillie, Saint-Herblain",
+        "name": "Place de la Paix (Rue du Lieutenant Mouillie)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7216,7 +7216,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0015",
-        "name": "Rue de la Bergerie (Face Rue Le Corbusier, Saint-Herblain",
+        "name": "Rue de la Bergerie (Face Rue Le Corbusier)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7234,7 +7234,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0002",
-        "name": "Boulevard François Mitterrand (devant la Médiathèque, Saint-Herblain",
+        "name": "Boulevard François Mitterrand (devant la Médiathèque)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7252,7 +7252,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0023",
-        "name": "La Montagne (Ront-point, Couëron",
+        "name": "La Montagne (Ront-point)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7270,7 +7270,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0012",
-        "name": "Boulevard Marcel Paul (Au 358, Saint-Herblain",
+        "name": "Boulevard Marcel Paul (Au 358)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7288,7 +7288,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0026",
-        "name": "Rue de Saint Nazaire (angle Rue d’Aquitaine, Saint-Herblain",
+        "name": "Rue de Saint Nazaire (angle Rue d’Aquitaine)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7306,7 +7306,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0027",
-        "name": "Rue de l'Aquitaine (angle rue de la Gironde, Saint-Herblain",
+        "name": "Rue de l'Aquitaine (angle rue de la Gironde)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7324,7 +7324,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0023",
-        "name": "Rue de Saint Servan (face piscine (N°1 rue de Saint Servan, Saint-Herblain",
+        "name": "Rue de Saint Servan (face piscine (N°1 rue de Saint Servan)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7342,7 +7342,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0041",
-        "name": "Avenue de l'Angevinière (entrée parking du college, Saint-Herblain",
+        "name": "Avenue de l'Angevinière (entrée parking du college)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7360,7 +7360,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0039",
-        "name": "Avenue des Thébaudières (angle route de Vannes, Saint-Herblain",
+        "name": "Avenue des Thébaudières (angle route de Vannes)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7378,7 +7378,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0005",
-        "name": "Rue de l'Aviation (angle Av du Brossais, Bouguenais",
+        "name": "Rue de l'Aviation (angle Av du Brossais)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7396,7 +7396,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0001",
-        "name": "Avenue du Général De Gaulle (Au 33 Ecole Chateaubriand, Bouguenais",
+        "name": "Avenue du Général De Gaulle (Au 33 Ecole Chateaubriand)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7414,7 +7414,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0002",
-        "name": "Place des Pêcheurs (Rue de l’Etier au 1, Bouaye",
+        "name": "Place des Pêcheurs (Rue de l’Etier au 1)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7432,7 +7432,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0011",
-        "name": "Rue de la Mouchonnerie (angle La Mouchonnerie, Bouguenais",
+        "name": "Rue de la Mouchonnerie (angle La Mouchonnerie)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7450,7 +7450,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0020",
-        "name": "Rue des Pêcheurs (angle Rue du Port Lavigne, Bouguenais",
+        "name": "Rue des Pêcheurs (angle Rue du Port Lavigne)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7468,7 +7468,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0021",
-        "name": "Rue Eugène Pottier (angle Rue de Beauvoir, Bouguenais",
+        "name": "Rue Eugène Pottier (angle Rue de Beauvoir)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7486,7 +7486,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0035",
-        "name": "Rue de la Batellerie (angle Route des Prés de la Rivière, Couëron",
+        "name": "Rue de la Batellerie (angle Route des Prés de la Rivière)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7504,7 +7504,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0024",
-        "name": "Rue de la Minée (Intersection rues Minée/Sinière, Couëron",
+        "name": "Rue de la Minée (Intersection rues Minée/Sinière)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7522,7 +7522,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0015",
-        "name": "L'Erdurière, Couëron",
+        "name": "L'Erdurière",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7540,7 +7540,7 @@
       },
       "properties": {
         "id": "AL_NM_10_0003",
-        "name": "Place du Commandant l'Herminier, Le Pellerin",
+        "name": "Place du Commandant l'Herminier",
         "city": "Le Pellerin",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7558,7 +7558,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0003",
-        "name": "Rue de la Fernière (Angle Chemin de l'Enclose, Les Sorinières",
+        "name": "Rue de la Fernière (Angle Chemin de l'Enclose)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7576,7 +7576,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0007",
-        "name": "Rue Salvator Allende (angle rue du Grand Clos, La Montagne",
+        "name": "Rue Salvator Allende (angle rue du Grand Clos)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7594,7 +7594,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0002",
-        "name": "Route du Champ de Foire (face au 24, Saint-Aignan de Grand Lieu",
+        "name": "Route du Champ de Foire (face au 24)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7612,7 +7612,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0004",
-        "name": "Route de Thouaré (angle Route du Patis Mandin, Sainte-Luce-sur-Loire",
+        "name": "Route de Thouaré (angle Route du Patis Mandin)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7630,7 +7630,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0003",
-        "name": "Gare de Mauves, Mauves-sur-Loire",
+        "name": "Gare de Mauves",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7648,7 +7648,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0005",
-        "name": "Passage de Ménaka (Rue du Commerce, Saint-Jean-de-Boiseau",
+        "name": "Passage de Ménaka (Rue du Commerce)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7666,7 +7666,7 @@
       },
       "properties": {
         "id": "AL_NM_23_0005",
-        "name": "Rue du Belem (angle Rue des Palmiers, Thouaré-sur-Loire",
+        "name": "Rue du Belem (angle Rue des Palmiers)",
         "city": "Thouaré-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7684,7 +7684,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0007",
-        "name": "Quai de la Chaussée des Moines, Vertou",
+        "name": "Quai de la Chaussée des Moines",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7702,7 +7702,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0012",
-        "name": "Rue de la Garenne (ruelle de la Garenne  Centre Médico Social, Vertou",
+        "name": "Rue de la Garenne (ruelle de la Garenne  Centre Médico Social)",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7720,7 +7720,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0026",
-        "name": "Avenue Carnot (Angle Rue Jemmapes, Nantes",
+        "name": "Avenue Carnot (Angle Rue Jemmapes)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Démonté",
@@ -7738,7 +7738,7 @@
       },
       "properties": {
         "id": "AL_NM_02_0006",
-        "name": "Boulevard Jean Monnet (Lycée, Bouaye",
+        "name": "Boulevard Jean Monnet (Lycée)",
         "city": "Bouaye",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7756,7 +7756,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0009",
-        "name": "Boulevard Ampère (angle rond point Boulevard Ampère, Carquefou",
+        "name": "Boulevard Ampère (angle rond point Boulevard Ampère)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7774,7 +7774,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0010",
-        "name": "Route de Paris Chemin Nantais (Lieu Dit La Chalandière VM723, Carquefou",
+        "name": "Route de Paris Chemin Nantais (Lieu Dit La Chalandière VM723)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7792,7 +7792,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0017",
-        "name": "Rue de la Gare (Rue Alexandre Olivier, Couëron",
+        "name": "Rue de la Gare (Rue Alexandre Olivier)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7810,7 +7810,7 @@
       },
       "properties": {
         "id": "AL_NM_12_0001",
-        "name": "Rue du Choiseau (Angle avenue de Bretagne, Mauves-sur-Loire",
+        "name": "Rue du Choiseau (Angle avenue de Bretagne)",
         "city": "Mauves-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7828,7 +7828,7 @@
       },
       "properties": {
         "id": "AL_NM_06_0022",
-        "name": "Rue de la Sensive (angle Rue de la Bourdinière, Couëron",
+        "name": "Rue de la Sensive (angle Rue de la Bourdinière)",
         "city": "Couëron",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7846,7 +7846,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0136",
-        "name": "Rue des Renards (Angle Rue Santos Dumont, Nantes",
+        "name": "Rue des Renards (Angle Rue Santos Dumont)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7864,7 +7864,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0006",
-        "name": "Rue de la Cadoire (angle Avenue de l'Aiguillon, Sainte-Luce-sur-Loire",
+        "name": "Rue de la Cadoire (angle Avenue de l'Aiguillon)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7882,7 +7882,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0009",
-        "name": "Rue Ambroise Pierre Audouard (angle Rue Marc Sangnier, Nantes",
+        "name": "Rue Ambroise Pierre Audouard (angle Rue Marc Sangnier)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7900,7 +7900,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0015",
-        "name": "Rue Gaëtan Rondeau (Angle Bd Millerand, Nantes",
+        "name": "Rue Gaëtan Rondeau (Angle Bd Millerand)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7918,7 +7918,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0017",
-        "name": "Boulevard Georges Mandel (Au niveau du pont, Nantes",
+        "name": "Boulevard Georges Mandel (Au niveau du pont)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7936,7 +7936,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0036",
-        "name": "Rue Léopold Cassegrain (Angle Rue Edmond Prieur, Nantes",
+        "name": "Rue Léopold Cassegrain (Angle Rue Edmond Prieur)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7954,7 +7954,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0018",
-        "name": "Rue Notre Dame (angle Rue de Strasbourg, Nantes",
+        "name": "Rue Notre Dame (angle Rue de Strasbourg)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7972,7 +7972,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0044",
-        "name": "Rue Marange Sylvange (Au 12, Nantes",
+        "name": "Rue Marange Sylvange (Au 12)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -7990,7 +7990,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0087",
-        "name": "Rue Evariste Luminais, Nantes",
+        "name": "Rue Evariste Luminais",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8008,7 +8008,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0092",
-        "name": "Rue de la Durantière (Face au 33, Nantes",
+        "name": "Rue de la Durantière (Face au 33)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8026,7 +8026,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0098",
-        "name": "Boulevard Michelet (Au 41, Nantes",
+        "name": "Boulevard Michelet (Au 41)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8044,7 +8044,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0107",
-        "name": "Boulevard Van Iseghem (Angle Rue Etienne Etiennez, Nantes",
+        "name": "Boulevard Van Iseghem (Angle Rue Etienne Etiennez)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8062,7 +8062,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0117",
-        "name": "Boulevard Robert Schuman (Angle Rue Pierre Yvernogeau, Nantes",
+        "name": "Boulevard Robert Schuman (Angle Rue Pierre Yvernogeau)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8080,7 +8080,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0014",
-        "name": "Rue de la Ravardière (Au 13, Bouguenais",
+        "name": "Rue de la Ravardière (Au 13)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8098,7 +8098,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0116",
-        "name": "Rue Félix Thomas (face au 32, Nantes",
+        "name": "Rue Félix Thomas (face au 32)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8116,7 +8116,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0125",
-        "name": "Rue de la Martinière (Angle Rue du Cardinal Richard, Nantes",
+        "name": "Rue de la Martinière (Angle Rue du Cardinal Richard)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8134,7 +8134,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0228",
-        "name": "Rue Etienne Coutan (Face au 14, Nantes",
+        "name": "Rue Etienne Coutan (Face au 14)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8152,7 +8152,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0226",
-        "name": "Rue des 3 Ormeaux (Angle Rue Mélinière, Nantes",
+        "name": "Rue des 3 Ormeaux (Angle Rue Mélinière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8170,7 +8170,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0003",
-        "name": "Rue Gabriel Goudy (Angle Rue Esnoul Des Chatelets, Nantes",
+        "name": "Rue Gabriel Goudy (Angle Rue Esnoul Des Chatelets)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8188,7 +8188,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0104",
-        "name": "Rue Sarrazin (Angle Rue Fredureau, Nantes",
+        "name": "Rue Sarrazin (Angle Rue Fredureau)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8206,7 +8206,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0134",
-        "name": "Boulevard Albert Einstein (Au 46, Nantes",
+        "name": "Boulevard Albert Einstein (Au 46)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8224,7 +8224,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0133",
-        "name": "Route de Rennes (Face au 33, Nantes",
+        "name": "Route de Rennes (Face au 33)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8242,7 +8242,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0147",
-        "name": "Chemin de la Censive du Tertre (Mail André Breton, Nantes",
+        "name": "Chemin de la Censive du Tertre (Mail André Breton)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8260,7 +8260,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0173",
-        "name": "Rue Louis Guiotton (Angle Bd Henri Dunant, Nantes",
+        "name": "Rue Louis Guiotton (Angle Bd Henri Dunant)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8278,7 +8278,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0188",
-        "name": "Rue Henri Loiret (Au 1, Nantes",
+        "name": "Rue Henri Loiret (Au 1)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8296,7 +8296,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0209",
-        "name": "Boulevard Jules Verne (Angle Rue de Koufra, Nantes",
+        "name": "Boulevard Jules Verne (Angle Rue de Koufra)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8314,7 +8314,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0211",
-        "name": "Rue de Koufra (Angle Rue de la Bertinière, Nantes",
+        "name": "Rue de Koufra (Angle Rue de la Bertinière)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8332,7 +8332,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0213",
-        "name": "Boulevard de la Beaujoire (Angle Rue du Champ de Tir, Nantes",
+        "name": "Boulevard de la Beaujoire (Angle Rue du Champ de Tir)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8350,7 +8350,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0221",
-        "name": "Route de Saint Joseph (Angle Rue du Fort, Nantes",
+        "name": "Route de Saint Joseph (Angle Rue du Fort)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8368,7 +8368,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0002",
-        "name": "Rue Ordronneau (angle Rue de Californie, Rezé",
+        "name": "Rue Ordronneau (angle Rue de Californie)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8386,7 +8386,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0004",
-        "name": "Rue du Château de Rezé (face Rue Maurice Utrillo, Rezé",
+        "name": "Rue du Château de Rezé (face Rue Maurice Utrillo)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8404,7 +8404,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0016",
-        "name": "Route de Bouguenais (face au 50, La Montagne",
+        "name": "Route de Bouguenais (face au 50)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8422,7 +8422,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0012",
-        "name": "Rue des Hucasseries (Giratoire Jaunais, Rezé",
+        "name": "Rue des Hucasseries (Giratoire Jaunais)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8440,7 +8440,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0016",
-        "name": "Avenue Léon Blum (Entrée du Stade, Rezé",
+        "name": "Avenue Léon Blum (Entrée du Stade)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8458,7 +8458,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0017",
-        "name": "Rue de la Robinière (accés du stade, Rezé",
+        "name": "Rue de la Robinière (accés du stade)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8476,7 +8476,7 @@
       },
       "properties": {
         "id": "AL_NM_15_0019",
-        "name": "Rue de la Basse Lande (au 22 Face au Square, Rezé",
+        "name": "Rue de la Basse Lande (au 22 Face au Square)",
         "city": "Rezé",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8494,7 +8494,7 @@
       },
       "properties": {
         "id": "AL_NM_17_0008",
-        "name": "Chemin de la Solvardière (angle rue Francoise Dolto, Saint-Herblain",
+        "name": "Chemin de la Solvardière (angle rue Francoise Dolto)",
         "city": "Saint-Herblain",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8512,7 +8512,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0001",
-        "name": "Rue de Beaugency (Face au 18, Saint-Sébastien-sur-Loire",
+        "name": "Rue de Beaugency (Face au 18)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8530,7 +8530,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0004",
-        "name": "Avenue de Glinde (Angle Rue du Général de Gaulle, Saint-Sébastien-sur-Loire",
+        "name": "Avenue de Glinde (Angle Rue du Général de Gaulle)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8548,7 +8548,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0002",
-        "name": "Rue de la Fontaine (Rue des Déportés, Saint-Sébastien-sur-Loire",
+        "name": "Rue de la Fontaine (Rue des Déportés)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8566,7 +8566,7 @@
       },
       "properties": {
         "id": "AL_NM_20_0003",
-        "name": "Avenue de Montréal (angle Rue Louis Brochu, Saint-Sébastien-sur-Loire",
+        "name": "Avenue de Montréal (angle Rue Louis Brochu)",
         "city": "Saint-Sébastien-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8584,7 +8584,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0004",
-        "name": "Rue de la Fresnaie, Basse-Goulaine",
+        "name": "Rue de la Fresnaie",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8602,7 +8602,7 @@
       },
       "properties": {
         "id": "AL_NM_01_0006",
-        "name": "Rue des Rouleaux (angle Rue des Landes de la Plée, Basse-Goulaine",
+        "name": "Rue des Rouleaux (angle Rue des Landes de la Plée)",
         "city": "Basse-Goulaine",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8620,7 +8620,7 @@
       },
       "properties": {
         "id": "AL_NM_03_0006",
-        "name": "Rue de la Bauche Bertin (au 2 Village Des Bauches Du Désert, Bouguenais",
+        "name": "Rue de la Bauche Bertin (au 2 Village Des Bauches Du Désert)",
         "city": "Bouguenais",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8638,7 +8638,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0001",
-        "name": "Place de la Libération, Carquefou",
+        "name": "Place de la Libération",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Supprimé",
@@ -8656,7 +8656,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0013",
-        "name": "Rue des Fauvettes (D58, La Montagne",
+        "name": "Rue des Fauvettes (D58)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8674,7 +8674,7 @@
       },
       "properties": {
         "id": "AL_NM_09_0005",
-        "name": "Rue Paul Eluard (angle rue Joachim Du Bellay, La Montagne",
+        "name": "Rue Paul Eluard (angle rue Joachim Du Bellay)",
         "city": "La Montagne",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8692,7 +8692,7 @@
       },
       "properties": {
         "id": "AL_NM_11_0004",
-        "name": "Rue de la Pierre Percée (angle Rue de l'Ilette, Les Sorinières",
+        "name": "Rue de la Pierre Percée (angle Rue de l'Ilette)",
         "city": "Les Sorinières",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8710,7 +8710,7 @@
       },
       "properties": {
         "id": "AL_NM_16_0007",
-        "name": "Route de la Marionnière (Square route de la Noé Nozou, Saint-Aignan de Grand Lieu",
+        "name": "Route de la Marionnière (Square route de la Noé Nozou)",
         "city": "Saint-Aignan de Grand Lieu",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8728,7 +8728,7 @@
       },
       "properties": {
         "id": "AL_NM_21_0007",
-        "name": "Rue de la Cadoire (angle Rue Louis Gaudin, Sainte-Luce-sur-Loire",
+        "name": "Rue de la Cadoire (angle Rue Louis Gaudin)",
         "city": "Sainte-Luce-sur-Loire",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8746,7 +8746,7 @@
       },
       "properties": {
         "id": "AL_NM_18_0008",
-        "name": "Rue du Vieux Four (Au 59, Saint-Jean-de-Boiseau",
+        "name": "Rue du Vieux Four (Au 59)",
         "city": "Saint-Jean-de-Boiseau",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8764,7 +8764,7 @@
       },
       "properties": {
         "id": "AL_NM_24_0013",
-        "name": "Rue de la Grande Ile, Vertou",
+        "name": "Rue de la Grande Ile",
         "city": "Vertou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8782,7 +8782,7 @@
       },
       "properties": {
         "id": "AL_NM_13_0166",
-        "name": "Boulevard de Stalingrad (Face au 1, Nantes",
+        "name": "Boulevard de Stalingrad (Face au 1)",
         "city": "Nantes",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8800,7 +8800,7 @@
       },
       "properties": {
         "id": "AL_NM_05_0001",
-        "name": "Chemin de la Savaudière (Angle Chemin de l'Ouche à Bas, Carquefou",
+        "name": "Chemin de la Savaudière (Angle Chemin de l'Ouche à Bas)",
         "city": "Carquefou",
         "type": "Affichage libre",
         "notes": "Monté",
@@ -8818,7 +8818,7 @@
       },
       "properties": {
         "id": "AL_NM_14_70009",
-        "name": "avenue du Couchant (face au 5, Orvault",
+        "name": "avenue du Couchant (face au 5)",
         "city": "Orvault",
         "type": "Affichage libre",
         "notes": "Monté",

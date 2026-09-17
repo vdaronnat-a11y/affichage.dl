@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "givors_1",
-        "name": "18 Avenue Youri Gagarine, 69700 Givors",
+        "name": "18 Avenue Youri Gagarine",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Parking du Palais des Sports (coté nationale)",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "givors_2",
-        "name": "Avenue Gisèle Halimi, 69700 Givors",
+        "name": "Avenue Gisèle Halimi",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : A côté de l’arrêt de bus Givors – Charles de Gaulle",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "givors_3",
-        "name": "2 Chemin de la Côte à Cailloux, 69700 Givors",
+        "name": "2 Chemin de la Côte à Cailloux",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : Parking Cote à Cailloux, au croisement avec la Rue du Docteur Roux",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "givors_4",
-        "name": "106 Montée des Autrichiens, 69700 Givors",
+        "name": "106 Montée des Autrichiens",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Plateau de Montrond : Montée des Autrichiens (au niveau des aires de jeux)",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "givors_5",
-        "name": "19 Rue de Montrond, 69700 Givors",
+        "name": "19 Rue de Montrond",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Gier : Parking de la rue de Montrond (à côté du conteneur à verres)",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "givors_6",
-        "name": "24 Rue Fleury Neuvesel, 69700 Givors",
+        "name": "24 Rue Fleury Neuvesel",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Freydière : croisement Route d’Echalas / Rue Fleury-Neuvesel",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "givors_7",
-        "name": "226 Rue Jacques Prévert, 69700 Givors",
+        "name": "226 Rue Jacques Prévert",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : rue Jacques Prévert (entre le parking et l’école Simone Veil)",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "givors_8",
-        "name": "Place Jean Jaurès, 69700 Givors",
+        "name": "Place Jean Jaurès",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : Place Jean Jaurès, face à l’école Jean Jaurès (vers les jeux d’enfants)",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "givors_9",
-        "name": "1713 Route Neuve, 69700 Givors",
+        "name": "1713 Route Neuve",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Hauts de Givors : Parking du cimetière de Badin",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "givors_10",
-        "name": "16 Rue Renée Peillon, 69700 Givors",
+        "name": "16 Rue Renée Peillon",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Bans : Parking du gymnase",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "givors_11",
-        "name": "Place des Tours, 69700 Givors",
+        "name": "Place des Tours",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Canal : Tours Thorez (à l’entrée du chemin entre le City stade et le parc)",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "givors_12",
-        "name": "Rue Jean Ligonnet (Square du 17 Octobre 1961), 69700 Givors",
+        "name": "Rue Jean Ligonnet (Square du 17 Octobre 1961)",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Maison des Associations (place Picard)",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "givors_13",
-        "name": "42 Chemin de la Rama, 69700 Givors",
+        "name": "42 Chemin de la Rama",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) La Rama (sur le parking en dessous du centre aéré)",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "givors_14",
-        "name": "ZA La Plaine Robinson, Rue Yves Farge, 69700 Givors",
+        "name": "ZA La Plaine Robinson, Rue Yves Farge",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Plaine Robinson : Parking des commerces (à côté de la Maison citoyenne)",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "givors_15",
-        "name": "13 Rue Julian Grimau, 69700 Givors",
+        "name": "13 Rue Julian Grimau",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Les Plaines : vers l’école Joliot Curie (au croisement des Rues Julian Grimau et Jean Macé)",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "givors_16",
-        "name": "Route de Rive-de-Gier, 69700 Givors",
+        "name": "Route de Rive-de-Gier",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Givors Ouest : Au croisement du chemin des Biesses et de la route de rive de Gier)",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "givors_17",
-        "name": "1a Cité du Garon, 69700 Givors",
+        "name": "1a Cité du Garon",
         "city": "Givors",
         "type": "Affichage libre",
         "notes": "Sur pied | Recto (1,20 x 0,80) Cité du Garon (croisement chemin du Garon / Cité du Garon)",

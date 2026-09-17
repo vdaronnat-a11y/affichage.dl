@@ -13,7 +13,7 @@
       },
       "properties": {
         "id": "le_havre_1",
-        "name": "98 rue du Président Wilson, Le Havre",
+        "name": "98 rue du Président Wilson",
         "city": "Le Havre",
         "notes": ""
       }
@@ -30,7 +30,7 @@
       },
       "properties": {
         "id": "le_havre_2",
-        "name": "rue Gustave Flaubert, Le Havre",
+        "name": "rue Gustave Flaubert",
         "city": "Le Havre",
         "notes": "Angle rue d’Ingouville"
       }
@@ -47,7 +47,7 @@
       },
       "properties": {
         "id": "le_havre_3",
-        "name": "rue Anatole France, Le Havre",
+        "name": "rue Anatole France",
         "city": "Le Havre",
         "notes": "Angle rue Michelet"
       }
@@ -64,7 +64,7 @@
       },
       "properties": {
         "id": "le_havre_4",
-        "name": "boulevard de Strasbourg, Le Havre",
+        "name": "boulevard de Strasbourg",
         "city": "Le Havre",
         "notes": "Angle rue du Colonel Fabien"
       }
@@ -81,7 +81,7 @@
       },
       "properties": {
         "id": "le_havre_5",
-        "name": "quai Casimir Delavigne, Le Havre",
+        "name": "quai Casimir Delavigne",
         "city": "Le Havre",
         "notes": "Angle rue d’Edreville"
       }
@@ -98,7 +98,7 @@
       },
       "properties": {
         "id": "le_havre_6",
-        "name": "rue Roger Salengro, Le Havre",
+        "name": "rue Roger Salengro",
         "city": "Le Havre",
         "notes": "Angle rue Jean Borda"
       }
@@ -115,7 +115,7 @@
       },
       "properties": {
         "id": "le_havre_7",
-        "name": "place Bayonvillers, Le Havre",
+        "name": "place Bayonvillers",
         "city": "Le Havre",
         "notes": ""
       }
@@ -132,7 +132,7 @@
       },
       "properties": {
         "id": "le_havre_8",
-        "name": "rue de la cavée Verte, Le Havre",
+        "name": "rue de la cavée Verte",
         "city": "Le Havre",
         "notes": "Angle rue Clément Marical"
       }
@@ -149,7 +149,7 @@
       },
       "properties": {
         "id": "le_havre_9",
-        "name": "rue de la cavée Verte, Le Havre",
+        "name": "rue de la cavée Verte",
         "city": "Le Havre",
         "notes": "Angle rue Docteur de Boissière"
       }
@@ -166,7 +166,7 @@
       },
       "properties": {
         "id": "le_havre_10",
-        "name": "rue de la Sous-Bretonne, Le Havre",
+        "name": "rue de la Sous-Bretonne",
         "city": "Le Havre",
         "notes": "Angle rue d’Estienne d’Orves"
       }
@@ -183,7 +183,7 @@
       },
       "properties": {
         "id": "le_havre_11",
-        "name": "cours de la République, Le Havre",
+        "name": "cours de la République",
         "city": "Le Havre",
         "notes": "Angle rue Dumé d’Aplemont"
       }
@@ -200,7 +200,7 @@
       },
       "properties": {
         "id": "le_havre_12",
-        "name": "boulevard de Graville, Le Havre",
+        "name": "boulevard de Graville",
         "city": "Le Havre",
         "notes": "Angle rue Bourdaloue"
       }
@@ -217,7 +217,7 @@
       },
       "properties": {
         "id": "le_havre_13",
-        "name": "rue Démidoff, Le Havre",
+        "name": "rue Démidoff",
         "city": "Le Havre",
         "notes": "Angle rue Berthelot"
       }
@@ -234,7 +234,7 @@
       },
       "properties": {
         "id": "le_havre_14",
-        "name": "rue Ferrer, Le Havre",
+        "name": "rue Ferrer",
         "city": "Le Havre",
         "notes": "Devant la Maison de Quartier"
       }
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "le_havre_15",
-        "name": "bd Amiral Mouchez, Le Havre",
+        "name": "bd Amiral Mouchez",
         "city": "Le Havre",
         "notes": "Au droit du n°91-93"
       }
@@ -268,7 +268,7 @@
       },
       "properties": {
         "id": "le_havre_16",
-        "name": "Rue Ambroise Croizat, Le Havre",
+        "name": "Rue Ambroise Croizat",
         "city": "Le Havre",
         "notes": "Angle rue Stendhal"
       }
@@ -285,7 +285,7 @@
       },
       "properties": {
         "id": "le_havre_17",
-        "name": "rue Pierre Farcis, Le Havre",
+        "name": "rue Pierre Farcis",
         "city": "Le Havre",
         "notes": "Angle rue Henri Labbay devant la Mairie"
       }
@@ -302,7 +302,7 @@
       },
       "properties": {
         "id": "le_havre_18",
-        "name": "rue Théophile Gautier giratoire Jean Monnet, Le Havre",
+        "name": "rue Théophile Gautier giratoire Jean Monnet",
         "city": "Le Havre",
         "notes": ""
       }
@@ -319,7 +319,7 @@
       },
       "properties": {
         "id": "le_havre_19",
-        "name": "rue Irène Joliot Curie, Le Havre",
+        "name": "rue Irène Joliot Curie",
         "city": "Le Havre",
         "notes": "Angle rue Desramé"
       }
@@ -336,7 +336,7 @@
       },
       "properties": {
         "id": "le_havre_20",
-        "name": "parking AUCHAN, Le Havre",
+        "name": "parking AUCHAN",
         "city": "Le Havre",
         "notes": "Devant le centre Emmanuel"
       }
@@ -353,7 +353,7 @@
       },
       "properties": {
         "id": "le_havre_21",
-        "name": "place Raymond Queneau, Le Havre",
+        "name": "place Raymond Queneau",
         "city": "Le Havre",
         "notes": ""
       }
@@ -370,7 +370,7 @@
       },
       "properties": {
         "id": "le_havre_22",
-        "name": "rue Maurice Tronelle, Le Havre",
+        "name": "rue Maurice Tronelle",
         "city": "Le Havre",
         "notes": "À proximité du centre commercial"
       }
@@ -387,7 +387,7 @@
       },
       "properties": {
         "id": "le_havre_23",
-        "name": "rue Fernand Chatel, Le Havre",
+        "name": "rue Fernand Chatel",
         "city": "Le Havre",
         "notes": ""
       }
@@ -404,7 +404,7 @@
       },
       "properties": {
         "id": "le_havre_24",
-        "name": "rue Henri Cayeux Cité Commerciale de la Mare Rouge, Le Havre",
+        "name": "rue Henri Cayeux Cité Commerciale de la Mare Rouge",
         "city": "Le Havre",
         "notes": ""
       }
@@ -421,7 +421,7 @@
       },
       "properties": {
         "id": "le_havre_25",
-        "name": "rue Henri Dunant, Le Havre",
+        "name": "rue Henri Dunant",
         "city": "Le Havre",
         "notes": "Face avenue du Bois de Bléville"
       }
@@ -438,7 +438,7 @@
       },
       "properties": {
         "id": "le_havre_26",
-        "name": "place de la Liberté, Le Havre",
+        "name": "place de la Liberté",
         "city": "Le Havre",
         "notes": ""
       }
@@ -455,7 +455,7 @@
       },
       "properties": {
         "id": "le_havre_27",
-        "name": "rue du Docteur Charles Richet, Le Havre",
+        "name": "rue du Docteur Charles Richet",
         "city": "Le Havre",
         "notes": "Angle rue des Œillets"
       }
@@ -472,7 +472,7 @@
       },
       "properties": {
         "id": "le_havre_28",
-        "name": "avenue Paul Bert, Le Havre",
+        "name": "avenue Paul Bert",
         "city": "Le Havre",
         "notes": "Angle rue du Lieutenant Clérivet"
       }
@@ -489,7 +489,7 @@
       },
       "properties": {
         "id": "le_havre_29",
-        "name": "avenue du Val aux Corneilles, Le Havre",
+        "name": "avenue du Val aux Corneilles",
         "city": "Le Havre",
         "notes": "Angle avenue de Frileuse"
       }
@@ -506,7 +506,7 @@
       },
       "properties": {
         "id": "le_havre_30",
-        "name": "rue Pierre Mendes France, Le Havre",
+        "name": "rue Pierre Mendes France",
         "city": "Le Havre",
         "notes": "Angle rue des Trembles"
       }
@@ -523,7 +523,7 @@
       },
       "properties": {
         "id": "le_havre_31",
-        "name": "avenue Pablo Picasso, Le Havre",
+        "name": "avenue Pablo Picasso",
         "city": "Le Havre",
         "notes": "Angle rue du Bocage"
       }
@@ -540,7 +540,7 @@
       },
       "properties": {
         "id": "le_havre_32",
-        "name": "place Jean Maridor, Le Havre",
+        "name": "place Jean Maridor",
         "city": "Le Havre",
         "notes": ""
       }
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "le_havre_33",
-        "name": "rue de Verdun, Le Havre",
+        "name": "rue de Verdun",
         "city": "Le Havre",
         "notes": "Angle rue Auguste Blanqui"
       }
@@ -574,7 +574,7 @@
       },
       "properties": {
         "id": "le_havre_34",
-        "name": "Avenue Léo Lagrange, Le Havre",
+        "name": "Avenue Léo Lagrange",
         "city": "Le Havre",
         "notes": "Angle rue du Commandant Abadie"
       }
@@ -591,7 +591,7 @@
       },
       "properties": {
         "id": "le_havre_35",
-        "name": "place Médéric Chauvin, Le Havre",
+        "name": "place Médéric Chauvin",
         "city": "Le Havre",
         "notes": ""
       }
@@ -608,7 +608,7 @@
       },
       "properties": {
         "id": "le_havre_36",
-        "name": "rue des Chantiers, Le Havre",
+        "name": "rue des Chantiers",
         "city": "Le Havre",
         "notes": "Angle rue Claude Lefèvre"
       }
@@ -625,7 +625,7 @@
       },
       "properties": {
         "id": "le_havre_37",
-        "name": "rue François Chenel, Le Havre",
+        "name": "rue François Chenel",
         "city": "Le Havre",
         "notes": ""
       }
@@ -642,7 +642,7 @@
       },
       "properties": {
         "id": "le_havre_38",
-        "name": "boulevard Jules Durand, Le Havre",
+        "name": "boulevard Jules Durand",
         "city": "Le Havre",
         "notes": "Angle rue Viviani"
       }
@@ -659,7 +659,7 @@
       },
       "properties": {
         "id": "le_havre_39",
-        "name": "rue de la Vallée, Le Havre",
+        "name": "rue de la Vallée",
         "city": "Le Havre",
         "notes": "Angle rue Viviani"
       }
@@ -676,7 +676,7 @@
       },
       "properties": {
         "id": "le_havre_40",
-        "name": "rue des Chantiers, Le Havre",
+        "name": "rue des Chantiers",
         "city": "Le Havre",
         "notes": "Angle du Homet"
       }
@@ -693,7 +693,7 @@
       },
       "properties": {
         "id": "le_havre_41",
-        "name": "avenue du 8 Mai 1945, Le Havre",
+        "name": "avenue du 8 Mai 1945",
         "city": "Le Havre",
         "notes": "Angle avenue du Mont Le Comte"
       }
@@ -710,7 +710,7 @@
       },
       "properties": {
         "id": "le_havre_42",
-        "name": "place Robert Schuman, Le Havre",
+        "name": "place Robert Schuman",
         "city": "Le Havre",
         "notes": ""
       }
@@ -727,7 +727,7 @@
       },
       "properties": {
         "id": "le_havre_43",
-        "name": "place de la Mare au Clerc, Le Havre",
+        "name": "place de la Mare au Clerc",
         "city": "Le Havre",
         "notes": ""
       }
@@ -744,7 +744,7 @@
       },
       "properties": {
         "id": "le_havre_44",
-        "name": "rue Jules Verne, Le Havre",
+        "name": "rue Jules Verne",
         "city": "Le Havre",
         "notes": "Angle rue Edmond Meyer"
       }
@@ -761,7 +761,7 @@
       },
       "properties": {
         "id": "le_havre_45",
-        "name": "rue des Acacias, Le Havre",
+        "name": "rue des Acacias",
         "city": "Le Havre",
         "notes": "Angle rue Louis Blanc"
       }
@@ -778,7 +778,7 @@
       },
       "properties": {
         "id": "le_havre_46",
-        "name": "rue Eugène Mopin, Le Havre",
+        "name": "rue Eugène Mopin",
         "city": "Le Havre",
         "notes": "Angle rue André Vimbert"
       }

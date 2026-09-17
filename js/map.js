@@ -3,6 +3,8 @@
  * Affichage des panneaux, des tracés d'itinéraire et des interactions
  */
 
+import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
+
 export class TourMap {
   constructor(containerId, onAddPanelCallback, onRemovePanelCallback) {
     this.containerId = containerId;
@@ -63,14 +65,16 @@ export class TourMap {
    */
   setUnusedPanels(panels) {
     this.unusedPanelsGroup.clearLayers();
+    const isMultiCity = checkIsMultiCityTour(panels);
 
     panels.forEach(panel => {
       const coords = panel.geometry.coordinates;
       const props = panel.properties;
+      const displayName = formatPanelDisplayName(panel, isMultiCity);
 
       const icon = L.divIcon({
         className: "custom-div-icon",
-        html: `<div class="marker-panel-unused" title="${props.name}"></div>`,
+        html: `<div class="marker-panel-unused" title="${displayName}"></div>`,
         iconSize: [14, 14],
         iconAnchor: [7, 7]
       });
@@ -82,7 +86,7 @@ export class TourMap {
 
       const popupContent = `
         <div style="font-size: 0.9rem; min-width: 180px;">
-          <b>${props.name}</b><br>
+          <b>${displayName}</b><br>
           ${notesHtml}
           <button id="btn-add-${props.id}" style="margin-top: 8px; width: 100%; background: #0284c7; color: white; border: none; padding: 6px; border-radius: 6px; font-weight: bold; cursor: pointer;">
             ➕ Ajouter à ma tournée
@@ -110,11 +114,13 @@ export class TourMap {
    */
   setActivePanels(orderedPanels, currentTargetIndex = -1) {
     this.activePanelsGroup.clearLayers();
+    const isMultiCity = checkIsMultiCityTour(orderedPanels);
 
     orderedPanels.forEach((panel, idx) => {
       const coords = panel.geometry.coordinates;
       const props = panel.properties;
       const stepNum = idx + 1;
+      const displayName = formatPanelDisplayName(panel, isMultiCity);
 
       let markerClass = "marker-panel-active";
       if (currentTargetIndex === idx) {
@@ -138,7 +144,7 @@ export class TourMap {
       const popupContent = `
         <div style="font-size: 0.9rem; min-width: 180px;">
           <b style="color: #0284c7;">Étape #${stepNum}</b><br>
-          <b>${props.name}</b><br>
+          <b>${displayName}</b><br>
           ${notesHtml}
           <button id="btn-remove-${props.id}" style="margin-top: 8px; width: 100%; background: #ef4444; color: white; border: none; padding: 6px; border-radius: 6px; font-weight: bold; cursor: pointer;">
             ❌ Retirer de la tournée

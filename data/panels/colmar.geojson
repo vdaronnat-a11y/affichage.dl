@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "colmar_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.375733,
+          48.089312
+        ]
+      },
+      "properties": {
+        "id": "colmar_1",
+        "name": "42 Rue Ampère",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.368222,
+          48.082963
+        ]
+      },
+      "properties": {
+        "id": "colmar_2",
+        "name": "14 Rue Billing",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.369845,
+          48.08213
+        ]
+      },
+      "properties": {
+        "id": "colmar_3",
+        "name": "11 Rue des Bonnes Gens",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.356154,
+          48.092779
+        ]
+      },
+      "properties": {
+        "id": "colmar_4",
+        "name": "65 Rue des Carlovingiens",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.326442,
+          48.080198
+        ]
+      },
+      "properties": {
+        "id": "colmar_5",
+        "name": "Avenue de l'Europe (Angle rue de Zimmerbach)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.352894,
+          48.069261
+        ]
+      },
+      "properties": {
+        "id": "colmar_6",
+        "name": "5 Avenue Foch",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.350874,
+          48.065845
+        ]
+      },
+      "properties": {
+        "id": "colmar_7",
+        "name": "26 Avenue Foch",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.380329,
+          48.101979
+        ]
+      },
+      "properties": {
+        "id": "colmar_8",
+        "name": "172 Rue du Ladhof",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.353357,
+          48.071802
+        ]
+      },
+      "properties": {
+        "id": "colmar_9",
+        "name": "4 Avenue Joffre",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.340495,
+          48.076094
+        ]
+      },
+      "properties": {
+        "id": "colmar_10",
+        "name": "16b Avenue de la Liberté",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342653,
+          48.083082
+        ]
+      },
+      "properties": {
+        "id": "colmar_11",
+        "name": "49 Rue du Logelbach",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.345806,
+          48.082695
+        ]
+      },
+      "properties": {
+        "id": "colmar_12",
+        "name": "68 Rue du Logelbach",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.343004,
+          48.073122
+        ]
+      },
+      "properties": {
+        "id": "colmar_13",
+        "name": "Rue de Mulhouse (Angle rue de Soultz)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342461,
+          48.07247
+        ]
+      },
+      "properties": {
+        "id": "colmar_14",
+        "name": "Rue de Mulhouse (Angle rue Erckmann-Chatrian)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.381484,
+          48.080142
+        ]
+      },
+      "properties": {
+        "id": "colmar_15",
+        "name": "132 Route de Neuf-Brisach",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.336249,
+          48.06984
+        ]
+      },
+      "properties": {
+        "id": "colmar_16",
+        "name": "11 Place du Chanoine Oberlechner",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.337913,
+          48.061616
+        ]
+      },
+      "properties": {
+        "id": "colmar_17",
+        "name": "102 Route de Rouffach",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.376072,
+          48.068514
+        ]
+      },
+      "properties": {
+        "id": "colmar_18",
+        "name": "80 Rue de la Semm",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.362982,
+          48.108242
+        ]
+      },
+      "properties": {
+        "id": "colmar_19",
+        "name": "Avenue Gilbert Meyer (Angle avenue de la Foire aux Vins)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.366493,
+          48.077928
+        ]
+      },
+      "properties": {
+        "id": "colmar_20",
+        "name": "10 Rue Thomas",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.331324,
+          48.06917
+        ]
+      },
+      "properties": {
+        "id": "colmar_21",
+        "name": "Route de Wintzenheim (Angle rue Wimpfeling)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33478,
+          48.073067
+        ]
+      },
+      "properties": {
+        "id": "colmar_22",
+        "name": "Route d'Ingersheim (Angle rue du Pflixbourg)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "colmar_23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.347656,
+          48.073093
+        ]
+      },
+      "properties": {
+        "id": "colmar_23",
+        "name": "Place de la Gare (Angle avenue Raymond Poincaré)",
+        "city": "Colmar",
+        "notes": "Colonne Morris"
+      }
+    }
+  ]
+}

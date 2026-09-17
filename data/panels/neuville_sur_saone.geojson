@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_1",
-        "name": "Rue Rey Loras, 69250 Neuville-sur-Saône",
+        "name": "Rue Rey Loras",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (0,90 x 1,10)",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_2",
-        "name": "Avenue du Parc , 69250 Neuville-sur-Saône",
+        "name": "Avenue du Parc",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_3",
-        "name": "Place du marché, 69250 Neuville-sur-Saône",
+        "name": "Place du marché",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_4",
-        "name": "Chemin de la blanchisserie, 69250 Neuville-sur-Saône",
+        "name": "Chemin de la blanchisserie",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_5",
-        "name": "Rue Pierre Dugelay, 69250 Neuville-sur-Saône",
+        "name": "Rue Pierre Dugelay",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_6",
-        "name": "Avenue du 11 novembre, 69250 Neuville-sur-Saône",
+        "name": "Avenue du 11 novembre",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_7",
-        "name": "Avenue de l'Europe, 69250 Neuville-sur-Saône",
+        "name": "Avenue de l'Europe",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "neuville_sur_saone_8",
-        "name": "Route de Lyon, 69250 Neuville-sur-Saône",
+        "name": "Route de Lyon",
         "city": "Neuville-sur-Saône",
         "type": "Affichage libre",
         "notes": "Pied (1,80 x 1,10)",

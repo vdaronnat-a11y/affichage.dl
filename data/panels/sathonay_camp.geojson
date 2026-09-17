@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "sathonay_camp_1",
-        "name": "5 boulevard de l'ouest, 69580 Sathonay-Camp",
+        "name": "5 boulevard de l'ouest",
         "city": "Sathonay-Camp",
         "type": "Affichage libre",
         "notes": "Pied (1,60 x 1,20) Place Arnaud Beltrame",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "sathonay_camp_2",
-        "name": "rue Garibaldi, 69580 Sathonay-Camp",
+        "name": "rue Garibaldi",
         "city": "Sathonay-Camp",
         "type": "Affichage libre",
         "notes": "Pied (1,60 x 1,20) Parkinf Val de Saone",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "sathonay_camp_3",
-        "name": "16 avenue Paul Delorme, 69580 Sathonay-Camp",
+        "name": "16 avenue Paul Delorme",
         "city": "Sathonay-Camp",
         "type": "Affichage libre",
         "notes": "Pied (1,60 x 1,20) Place de la mutualité",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "sathonay_camp_4",
-        "name": "40 avenue de Pérouges, 69580 Sathonay-Camp",
+        "name": "40 avenue de Pérouges",
         "city": "Sathonay-Camp",
         "type": "Affichage libre",
         "notes": "Pied (1,60 x 1,20)",

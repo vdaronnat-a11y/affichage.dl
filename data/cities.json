@@ -88,6 +88,17 @@
     "file": "panels/clermont_ferrand.geojson"
   },
   {
+    "id": "colmar",
+    "name": "Colmar",
+    "department": "68 - Haut-Rhin",
+    "count": 23,
+    "center": [
+      7.3536,
+      48.0784
+    ],
+    "file": "panels/colmar.geojson"
+  },
+  {
     "id": "dardilly",
     "name": "Dardilly",
     "department": "69 - Rhône",

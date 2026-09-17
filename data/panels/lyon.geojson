@@ -16,7 +16,7 @@
       },
       "properties": {
         "id": "PAN-69383-038",
-        "name": "G.S. Mazenod, 69003 Lyon",
+        "name": "G.S. Mazenod",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "PAN-69381-011",
-        "name": "12, rue Terme, 69001 Lyon",
+        "name": "12, rue Terme",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -54,7 +54,7 @@
       },
       "properties": {
         "id": "PAN-69381-012",
-        "name": "Place G. Rambaud, 69001 Lyon",
+        "name": "Place G. Rambaud",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -73,7 +73,7 @@
       },
       "properties": {
         "id": "PAN-69381-013",
-        "name": "Place Corix Paquet, 69001 Lyon",
+        "name": "Place Corix Paquet",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -92,7 +92,7 @@
       },
       "properties": {
         "id": "PAN-69381-014",
-        "name": "4, place Croix Paquet, 69001 Lyon",
+        "name": "4, place Croix Paquet",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -111,7 +111,7 @@
       },
       "properties": {
         "id": "PAN-69381-015",
-        "name": "11, rue Griffon, 69001 Lyon",
+        "name": "11, rue Griffon",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -130,7 +130,7 @@
       },
       "properties": {
         "id": "PAN-69381-016",
-        "name": "Place Chardonnet, 69001 Lyon",
+        "name": "Place Chardonnet",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -149,7 +149,7 @@
       },
       "properties": {
         "id": "PAN-69381-017",
-        "name": "Montée des Carmélites, 69001 Lyon",
+        "name": "Montée des Carmélites",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -168,7 +168,7 @@
       },
       "properties": {
         "id": "PAN-69381-018",
-        "name": "22, rue Imbert Colmès, 69001 Lyon",
+        "name": "22, rue Imbert Colmès",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -187,7 +187,7 @@
       },
       "properties": {
         "id": "PAN-69381-019",
-        "name": "9, rue René Leynaud, 69001 Lyon",
+        "name": "9, rue René Leynaud",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -206,7 +206,7 @@
       },
       "properties": {
         "id": "PAN-69381-110",
-        "name": "17, rue Puits Gaillot, 69001 Lyon",
+        "name": "17, rue Puits Gaillot",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -225,7 +225,7 @@
       },
       "properties": {
         "id": "PAN-69381-111",
-        "name": "Rue Lemot, 69001 Lyon",
+        "name": "Rue Lemot",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -244,7 +244,7 @@
       },
       "properties": {
         "id": "PAN-69381-112",
-        "name": "3 Rue Louis Vitet, 69001 Lyon",
+        "name": "3 Rue Louis Vitet",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -263,7 +263,7 @@
       },
       "properties": {
         "id": "PAN-69381-113",
-        "name": "29 rue Imbert Colomès , 69001 Lyon",
+        "name": "29 rue Imbert Colomès",
         "city": "Lyon",
         "postal_code": "69001",
         "type": "Affichage libre",
@@ -282,7 +282,7 @@
       },
       "properties": {
         "id": "PAN-69382-021",
-        "name": "9, rue de Savoie, 69002 Lyon",
+        "name": "9, rue de Savoie",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -301,7 +301,7 @@
       },
       "properties": {
         "id": "PAN-69382-022",
-        "name": "face au 44, rue Sala, 69002 Lyon",
+        "name": "face au 44, rue Sala",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -320,7 +320,7 @@
       },
       "properties": {
         "id": "PAN-69382-023",
-        "name": "Place Antonin Gourju, 69002 Lyon",
+        "name": "Place Antonin Gourju",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -339,7 +339,7 @@
       },
       "properties": {
         "id": "PAN-69382-024",
-        "name": "Square Janmot, 69002 Lyon",
+        "name": "Square Janmot",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -358,7 +358,7 @@
       },
       "properties": {
         "id": "PAN-69382-025",
-        "name": " 2, quai Rambaud, 69002 Lyon",
+        "name": "2, quai Rambaud",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "PAN-69382-026",
-        "name": "Cours Charlemagne, 69002 Lyon",
+        "name": "Cours Charlemagne",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -396,7 +396,7 @@
       },
       "properties": {
         "id": "PAN-69382-027",
-        "name": "85, cours Charlemagne, 69002 Lyon",
+        "name": "85, cours Charlemagne",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -415,7 +415,7 @@
       },
       "properties": {
         "id": "PAN-69382-028",
-        "name": "2, Impasse Catelin, 69002 Lyon",
+        "name": "2, Impasse Catelin",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -434,7 +434,7 @@
       },
       "properties": {
         "id": "PAN-69382-029",
-        "name": " Gymnase Louis Chanfray, 69002 Lyon",
+        "name": "Gymnase Louis Chanfray",
         "city": "Lyon",
         "postal_code": "69002",
         "type": "Affichage libre",
@@ -453,7 +453,7 @@
       },
       "properties": {
         "id": "PAN-69383-031",
-        "name": "205 rue de Créqui, 69003 Lyon",
+        "name": "205 rue de Créqui",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -472,7 +472,7 @@
       },
       "properties": {
         "id": "PAN-69383-032",
-        "name": " G.S. N.Josserand, 69003 Lyon",
+        "name": "G.S. N.Josserand",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -491,7 +491,7 @@
       },
       "properties": {
         "id": "PAN-69383-033",
-        "name": "château sans souci, 69003 Lyon",
+        "name": "château sans souci",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -510,7 +510,7 @@
       },
       "properties": {
         "id": "PAN-69383-034",
-        "name": "Parc Sisley, 69003 Lyon",
+        "name": "Parc Sisley",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -529,7 +529,7 @@
       },
       "properties": {
         "id": "PAN-69383-035",
-        "name": "maison du judo, 69003 Lyon",
+        "name": "maison du judo",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -548,7 +548,7 @@
       },
       "properties": {
         "id": "PAN-69383-036",
-        "name": " Parc Bazin, 69003 Lyon",
+        "name": "Parc Bazin",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -567,7 +567,7 @@
       },
       "properties": {
         "id": "PAN-69383-037",
-        "name": "stade Vivien Foé, 69003 Lyon",
+        "name": "stade Vivien Foé",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -586,7 +586,7 @@
       },
       "properties": {
         "id": "PAN-69383-039",
-        "name": " G.S. André Philip, 69003 Lyon",
+        "name": "G.S. André Philip",
         "city": "Lyon",
         "postal_code": "69003",
         "type": "Affichage libre",
@@ -605,7 +605,7 @@
       },
       "properties": {
         "id": "PAN-69384-041",
-        "name": "45, rue Chazière, 69004 Lyon",
+        "name": "45, rue Chazière",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -624,7 +624,7 @@
       },
       "properties": {
         "id": "PAN-69384-042",
-        "name": "58, rue Henon, 69004 Lyon",
+        "name": "58, rue Henon",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -643,7 +643,7 @@
       },
       "properties": {
         "id": "PAN-69384-043",
-        "name": "face 1, rue Aimé Boussange, 69004 Lyon",
+        "name": "face 1, rue Aimé Boussange",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -662,7 +662,7 @@
       },
       "properties": {
         "id": "PAN-69384-044",
-        "name": " Ecole des Entrepôts, 69004 Lyon",
+        "name": "Ecole des Entrepôts",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -681,7 +681,7 @@
       },
       "properties": {
         "id": "PAN-69384-045",
-        "name": "G.S. Jean de la Fontaine, 69004 Lyon",
+        "name": "G.S. Jean de la Fontaine",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -700,7 +700,7 @@
       },
       "properties": {
         "id": "PAN-69384-046",
-        "name": "85, rue Hénon, 69004 Lyon",
+        "name": "85, rue Hénon",
         "city": "Lyon",
         "postal_code": "69004",
         "type": "Affichage libre",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "PAN-69385-051",
-        "name": "Rue Mouton , 69005 Lyon",
+        "name": "Rue Mouton",
         "city": "Lyon",
         "postal_code": "69005",
         "type": "Affichage libre",
@@ -738,7 +738,7 @@
       },
       "properties": {
         "id": "PAN-69385-052",
-        "name": "29, avenue de Ménival, 69005 Lyon",
+        "name": "29, avenue de Ménival",
         "city": "Lyon",
         "postal_code": "69005",
         "type": "Affichage libre",
@@ -757,7 +757,7 @@
       },
       "properties": {
         "id": "PAN-69386-061",
-        "name": "Place Zoé Roche, 69006 Lyon",
+        "name": "Place Zoé Roche",
         "city": "Lyon",
         "postal_code": "69006",
         "type": "Affichage libre",
@@ -776,7 +776,7 @@
       },
       "properties": {
         "id": "PAN-69386-062",
-        "name": "angle rue Boileau - rue de Sèze, 69006 Lyon",
+        "name": "angle rue Boileau - rue de Sèze",
         "city": "Lyon",
         "postal_code": "69006",
         "type": "Affichage libre",
@@ -795,7 +795,7 @@
       },
       "properties": {
         "id": "PAN-69386-063",
-        "name": "Place Maréchal Lyautey  , 69006 Lyon",
+        "name": "Place Maréchal Lyautey",
         "city": "Lyon",
         "postal_code": "69006",
         "type": "Affichage libre",
@@ -814,7 +814,7 @@
       },
       "properties": {
         "id": "PAN-69386-064",
-        "name": " 9, rue Germain, 69006 Lyon",
+        "name": "9, rue Germain",
         "city": "Lyon",
         "postal_code": "69006",
         "type": "Affichage libre",
@@ -833,7 +833,7 @@
       },
       "properties": {
         "id": "PAN-69387-071",
-        "name": "3, rue Clément Marot, 69007 Lyon",
+        "name": "3, rue Clément Marot",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -852,7 +852,7 @@
       },
       "properties": {
         "id": "PAN-69387-072",
-        "name": "angle Jean Jaurès / rue Debourg, 69007 Lyon",
+        "name": "angle Jean Jaurès / rue Debourg",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -871,7 +871,7 @@
       },
       "properties": {
         "id": "PAN-69387-073",
-        "name": "angle Jean Jaurès / rue Ravier, 69007 Lyon",
+        "name": "angle Jean Jaurès / rue Ravier",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -890,7 +890,7 @@
       },
       "properties": {
         "id": "PAN-69387-074",
-        "name": "angle Jean Jaurès / rue André Bollier, 69007 Lyon",
+        "name": "angle Jean Jaurès / rue André Bollier",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -909,7 +909,7 @@
       },
       "properties": {
         "id": "PAN-69387-075",
-        "name": "angle rue Debourg / allée de Fontenay, 69007 Lyon",
+        "name": "angle rue Debourg / allée de Fontenay",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -928,7 +928,7 @@
       },
       "properties": {
         "id": "PAN-69387-076",
-        "name": " angle rue Debourg / rue de St Cloud, 69007 Lyon",
+        "name": "angle rue Debourg / rue de St Cloud",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -947,7 +947,7 @@
       },
       "properties": {
         "id": "PAN-69387-077",
-        "name": "2, avenue Debourg, 69007 Lyon",
+        "name": "2, avenue Debourg",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -966,7 +966,7 @@
       },
       "properties": {
         "id": "PAN-69387-078",
-        "name": "Piscine du Rhône, 69007 Lyon",
+        "name": "Piscine du Rhône",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -985,7 +985,7 @@
       },
       "properties": {
         "id": "PAN-69387-079",
-        "name": " face 170, Grande rue Guillotière, 69007 Lyon",
+        "name": "face 170, Grande rue Guillotière",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -1004,7 +1004,7 @@
       },
       "properties": {
         "id": "PAN-69387-710",
-        "name": "Place du Prado, 69007 Lyon",
+        "name": "Place du Prado",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -1023,7 +1023,7 @@
       },
       "properties": {
         "id": "PAN-69387-711",
-        "name": "Place Raspail , 69007 Lyon",
+        "name": "Place Raspail",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -1042,7 +1042,7 @@
       },
       "properties": {
         "id": "PAN-69387-712",
-        "name": "G.S. M. Bloch, 69007 Lyon",
+        "name": "G.S. M. Bloch",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -1061,7 +1061,7 @@
       },
       "properties": {
         "id": "PAN-69387-713",
-        "name": "G.S.. Berthelot, 69007 Lyon",
+        "name": "G.S.. Berthelot",
         "city": "Lyon",
         "postal_code": "69007",
         "type": "Affichage libre",
@@ -1080,7 +1080,7 @@
       },
       "properties": {
         "id": "PAN-69388-081",
-        "name": "Place du 11 Novembre 1918 , 69008 Lyon",
+        "name": "Place du 11 Novembre 1918",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1099,7 +1099,7 @@
       },
       "properties": {
         "id": "PAN-69388-082",
-        "name": "5, rue Joseph Chalier, 69008 Lyon",
+        "name": "5, rue Joseph Chalier",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1118,7 +1118,7 @@
       },
       "properties": {
         "id": "PAN-69388-083",
-        "name": "3, rue Rochambeau, 69008 Lyon",
+        "name": "3, rue Rochambeau",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1137,7 +1137,7 @@
       },
       "properties": {
         "id": "PAN-69388-084",
-        "name": "61, avenue Viviani, 69008 Lyon",
+        "name": "61, avenue Viviani",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1156,7 +1156,7 @@
       },
       "properties": {
         "id": "PAN-69388-085",
-        "name": "Place du Bachut, 69008 Lyon",
+        "name": "Place du Bachut",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1175,7 +1175,7 @@
       },
       "properties": {
         "id": "PAN-69388-086",
-        "name": "Avenue Paul Santy / rue Florent, 69008 Lyon",
+        "name": "Avenue Paul Santy / rue Florent",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1194,7 +1194,7 @@
       },
       "properties": {
         "id": "PAN-69388-087",
-        "name": "Place 8 mai 1945, 69008 Lyon",
+        "name": "Place 8 mai 1945",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1213,7 +1213,7 @@
       },
       "properties": {
         "id": "PAN-69388-088",
-        "name": "Place Belleville / Audibert Lavirotte, 69008 Lyon",
+        "name": "Place Belleville / Audibert Lavirotte",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1232,7 +1232,7 @@
       },
       "properties": {
         "id": "PAN-69388-089",
-        "name": "Bd Ambroise Paré / rue Thomas Blanchet, 69008 Lyon",
+        "name": "Bd Ambroise Paré / rue Thomas Blanchet",
         "city": "Lyon",
         "postal_code": "69008",
         "type": "Affichage libre",
@@ -1251,7 +1251,7 @@
       },
       "properties": {
         "id": "PAN-69389-091",
-        "name": "  Face 4 bis, rue Albert Falsan, 69009 Lyon",
+        "name": "Face 4 bis, rue Albert Falsan",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1270,7 +1270,7 @@
       },
       "properties": {
         "id": "PAN-69389-092",
-        "name": "Place Henri Barbusse, 69009 Lyon",
+        "name": "Place Henri Barbusse",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1289,7 +1289,7 @@
       },
       "properties": {
         "id": "PAN-69389-093",
-        "name": "71, rue St Pierre de Vaise, 69009 Lyon",
+        "name": "71, rue St Pierre de Vaise",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1308,7 +1308,7 @@
       },
       "properties": {
         "id": "PAN-69389-094",
-        "name": "66, rue Gorge de Loup, 69009 Lyon",
+        "name": "66, rue Gorge de Loup",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1327,7 +1327,7 @@
       },
       "properties": {
         "id": "PAN-69389-095",
-        "name": "30, rue Marietton, 69009 Lyon",
+        "name": "30, rue Marietton",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1346,7 +1346,7 @@
       },
       "properties": {
         "id": "PAN-69389-096",
-        "name": "2, rue Frère Benoit, 69009 Lyon",
+        "name": "2, rue Frère Benoit",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1365,7 +1365,7 @@
       },
       "properties": {
         "id": "PAN-69389-097",
-        "name": " 140, avenue Barthélémy Buyer, 69009 Lyon",
+        "name": "140, avenue Barthélémy Buyer",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1384,7 +1384,7 @@
       },
       "properties": {
         "id": "PAN-69389-098",
-        "name": "192, avenue Barthélémy Buyer, 69009 Lyon",
+        "name": "192, avenue Barthélémy Buyer",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1403,7 +1403,7 @@
       },
       "properties": {
         "id": "PAN-69389-099",
-        "name": "5, avenue du Plateau, 69009 Lyon",
+        "name": "5, avenue du Plateau",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1422,7 +1422,7 @@
       },
       "properties": {
         "id": "PAN-69389-910",
-        "name": "Gymnase avenue du Plateau, 69009 Lyon",
+        "name": "Gymnase avenue du Plateau",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",
@@ -1441,7 +1441,7 @@
       },
       "properties": {
         "id": "PAN-69389-911",
-        "name": "36, avenue Sidoine Apollinaire, 69009 Lyon",
+        "name": "36, avenue Sidoine Apollinaire",
         "city": "Lyon",
         "postal_code": "69009",
         "type": "Affichage libre",

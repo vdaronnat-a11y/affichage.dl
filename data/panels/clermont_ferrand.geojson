@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_1",
-        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet, Clermont-Ferrand",
+        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 1-01)",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_2",
-        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet, Clermont-Ferrand",
+        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Devant  groupe scolaire (Réf: PAA 1-02)",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_3",
-        "name": "Rue du Château des Vergnes, Clermont-Ferrand",
+        "name": "Rue du Château des Vergnes",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Romain Rolland (Réf: PAA 1-04)",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_4",
-        "name": "Rue d'Aulteribe, Clermont-Ferrand",
+        "name": "Rue d'Aulteribe",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire  Jules Verne (Réf: PAA 1-05)",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_5",
-        "name": "Rue du Champ des roseaux - Rue des Aulnes, Clermont-Ferrand",
+        "name": "Rue du Champ des roseaux - Rue des Aulnes",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Gymnase Jules Verne (Réf: PAA 1-06)",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_6",
-        "name": "Rue du Château des Vergnes - Rue du Champs des Roseaux, Clermont-Ferrand",
+        "name": "Rue du Château des Vergnes - Rue du Champs des Roseaux",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 1-07)",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_7",
-        "name": "Rue des Aulnes - Rue du Château des Vergnes, Clermont-Ferrand",
+        "name": "Rue des Aulnes - Rue du Château des Vergnes",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 1-08)",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_8",
-        "name": "Rue de Champratel - Rue Louise Michel - Stade Leclanché, Clermont-Ferrand",
+        "name": "Rue de Champratel - Rue Louise Michel - Stade Leclanché",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 1-09)",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_9",
-        "name": "Rue des Hauts de Chanturgue - Groupe scolaire Philippe Arbos, Clermont-Ferrand",
+        "name": "Rue des Hauts de Chanturgue - Groupe scolaire Philippe Arbos",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 1-11)",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_10",
-        "name": "Rue de Neyrat, Clermont-Ferrand",
+        "name": "Rue de Neyrat",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Amil Club (Réf: PAA 1-12)",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_11",
-        "name": "Rue du Solayer - Rue du Torpilleur Sirocco, Clermont-Ferrand",
+        "name": "Rue du Solayer - Rue du Torpilleur Sirocco",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire jules Valles (Réf: PAA 1-13)",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_12",
-        "name": "Rue Rouvier, Clermont-Ferrand",
+        "name": "Rue Rouvier",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Devant  terrain de boules (Réf: PAA 1-15)",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_13",
-        "name": "Rue Champfleuri - Rue du Docteur Hospital, Clermont-Ferrand",
+        "name": "Rue Champfleuri - Rue du Docteur Hospital",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Jean Butez (Réf: PAA 2-01)",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_14",
-        "name": "Rue Champfleuri - Allée de Chanturgue, Clermont-Ferrand",
+        "name": "Rue Champfleuri - Allée de Chanturgue",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Salle Chanteranne (Réf: PAA 2-02)",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_15",
-        "name": "Rue Champfleuri - Rue de la Barre, Clermont-Ferrand",
+        "name": "Rue Champfleuri - Rue de la Barre",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Chanteranne (Réf: PAA 2-03)",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_16",
-        "name": "Rue du Docteur Hospital, Clermont-Ferrand",
+        "name": "Rue du Docteur Hospital",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "LEP Roger Claustres (Réf: PAA 2-04)",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_17",
-        "name": "Rue Chateaubriand - Place de la Glacière, Clermont-Ferrand",
+        "name": "Rue Chateaubriand - Place de la Glacière",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 2-05)",
@@ -323,7 +323,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_18",
-        "name": "Rue Abbe Prevost - Rue des Chanelles, Clermont-Ferrand",
+        "name": "Rue Abbe Prevost - Rue des Chanelles",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire  Pierre et Marie Curie (Réf: PAA 2-06)",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_19",
-        "name": "Rue Jean Monnet - Rue Jacques Brel, Clermont-Ferrand",
+        "name": "Rue Jean Monnet - Rue Jacques Brel",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Collège de Trémonteix (Réf: PAA 2-07)",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_20",
-        "name": "Avenue Anatole France, Clermont-Ferrand",
+        "name": "Avenue Anatole France",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaie Anatole France (Réf: PAA 3-02)",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_21",
-        "name": "Rue de la Pradelle - Rue de l'Oradou, Clermont-Ferrand",
+        "name": "Rue de la Pradelle - Rue de l'Oradou",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Paul Bert (Réf: PAA 3-03)",
@@ -395,7 +395,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_22",
-        "name": "Boulevard Gergovia - Cours Raymond Poincarré, Clermont-Ferrand",
+        "name": "Boulevard Gergovia - Cours Raymond Poincarré",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Fac de Lettres (Réf: PAA 3-04)",
@@ -413,7 +413,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_23",
-        "name": "Rue Clovis Hugues, Clermont-Ferrand",
+        "name": "Rue Clovis Hugues",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Collège de l’Oradou (Réf: PAA 3-07)",
@@ -431,7 +431,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_24",
-        "name": "Rue Pablo Picasso, Clermont-Ferrand",
+        "name": "Rue Pablo Picasso",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Entrée sud du Parc du Creux de l’Enfer (Réf: PAA 3-08)",
@@ -449,7 +449,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_25",
-        "name": "Rue de l'Eminée, Clermont-Ferrand",
+        "name": "Rue de l'Eminée",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Entrée du Parc Ernest Cristal (Réf: PAA 3-10)",
@@ -467,7 +467,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_26",
-        "name": "Rue de l’Eminée, Clermont-Ferrand",
+        "name": "Rue de l’Eminée",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Entrée du Parc Ernest Cristal (Réf: PAA 3-11)",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_27",
-        "name": "Rue Canrobert - Rue de Durtol, Clermont-Ferrand",
+        "name": "Rue Canrobert - Rue de Durtol",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Jean Zay (Réf: PAA 4-01)",
@@ -503,7 +503,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_28",
-        "name": "Rue de Blanzat - Place des Bughes, Clermont-Ferrand",
+        "name": "Rue de Blanzat - Place des Bughes",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Maison des boulistes (Réf: PAA 5-01)",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_29",
-        "name": "Boulevard Jean Baptiste Dumas - Rue du Souvenir Français, Clermont-Ferrand",
+        "name": "Boulevard Jean Baptiste Dumas - Rue du Souvenir Français",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Abords Michelin (Réf: PAA 5-02)",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_30",
-        "name": "Rue Jean Richepin - Rue Henri Simon, Clermont-Ferrand",
+        "name": "Rue Jean Richepin - Rue Henri Simon",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 5-03)",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_31",
-        "name": "Rue du Coche - Rue de la Tour D'Auvergne, Clermont-Ferrand",
+        "name": "Rue du Coche - Rue de la Tour D'Auvergne",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 5-06)",
@@ -575,7 +575,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_32",
-        "name": "Rue des Petits Fauchers - Rue Saint Herem, Clermont-Ferrand",
+        "name": "Rue des Petits Fauchers - Rue Saint Herem",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 5-12)",
@@ -593,7 +593,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_33",
-        "name": "Rue Henri Tourette - Rue des Trioux, Clermont-Ferrand",
+        "name": "Rue Henri Tourette - Rue des Trioux",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 6-01)",
@@ -611,7 +611,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_34",
-        "name": "Rue de la Grande Combaude, Clermont-Ferrand",
+        "name": "Rue de la Grande Combaude",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Groupe scolaire Jean de la Fontaine (Réf: PAA 6-02)",
@@ -629,7 +629,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_35",
-        "name": "Rue de Portefort - Rue de la Grande Combaude, Clermont-Ferrand",
+        "name": "Rue de Portefort - Rue de la Grande Combaude",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 6-03)",
@@ -647,7 +647,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_36",
-        "name": "Place de la Rodade, Clermont-Ferrand",
+        "name": "Place de la Rodade",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Terrain de boules (Réf: PAA 6-05)",
@@ -665,7 +665,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_37",
-        "name": "Rue Pierre de Coubertin, Clermont-Ferrand",
+        "name": "Rue Pierre de Coubertin",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Stade Nautique (Réf: PAA 7-03)",
@@ -683,7 +683,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_38",
-        "name": "Rue Etienne Dolet, Clermont-Ferrand",
+        "name": "Rue Etienne Dolet",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Sous le pont SNCF (Réf: PAA 7-04)",
@@ -701,7 +701,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_39",
-        "name": "Rue Alexandre Ribot - Rue Sévigné, Clermont-Ferrand",
+        "name": "Rue Alexandre Ribot - Rue Sévigné",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-05)",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_40",
-        "name": "Rue Volnev - Avenue Marx Dormov, Clermont-Ferrand",
+        "name": "Rue Volnev - Avenue Marx Dormov",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-06)",
@@ -737,7 +737,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_41",
-        "name": "Rue Poncillon - Rue Charles Bruyant, Clermont-Ferrand",
+        "name": "Rue Poncillon - Rue Charles Bruyant",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-07)",
@@ -755,7 +755,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_42",
-        "name": "Rue Etienne Dolet, Clermont-Ferrand",
+        "name": "Rue Etienne Dolet",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Cité Universitaire CROUS (Réf: PAA 7-08)",
@@ -773,7 +773,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_43",
-        "name": "Avenue de la Libération - Stade Philippe Marcombes, Clermont-Ferrand",
+        "name": "Avenue de la Libération - Stade Philippe Marcombes",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-09)",
@@ -791,7 +791,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_44",
-        "name": "Rue de la Rotonde - Rue du Pont Saint Jacques, Clermont-Ferrand",
+        "name": "Rue de la Rotonde - Rue du Pont Saint Jacques",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-10)",
@@ -809,7 +809,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_45",
-        "name": "Rue Alexandre Ribot - Rue du Docteur Vigenaud, Clermont-Ferrand",
+        "name": "Rue Alexandre Ribot - Rue du Docteur Vigenaud",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: PAA 7-11)",
@@ -827,7 +827,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_46",
-        "name": "Avenue Bergougnan, Clermont-Ferrand",
+        "name": "Avenue Bergougnan",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Entrée de l’ancien IUFM (Réf: N1)",
@@ -845,7 +845,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_47",
-        "name": "Boulevard Claude Bernard – Rue Desdevises du Dézert, Clermont-Ferrand",
+        "name": "Boulevard Claude Bernard – Rue Desdevises du Dézert",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: N3)",
@@ -863,7 +863,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_48",
-        "name": "Rue Beaudelaire, Clermont-Ferrand",
+        "name": "Rue Beaudelaire",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Maison de quartier Oradou (Réf: PAA 7-14)",
@@ -881,7 +881,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_49",
-        "name": "Rue des Chambrette, Clermont-Ferrand",
+        "name": "Rue des Chambrette",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "Placette des Neuf Soleils (Réf: N5)",
@@ -899,7 +899,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_50",
-        "name": "Allée de Baulieu, Clermont-Ferrand",
+        "name": "Allée de Baulieu",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "(Réf: N6)",
@@ -917,7 +917,7 @@
       },
       "properties": {
         "id": "clermont_ferrand_51",
-        "name": "Rue de la Charme, Clermont-Ferrand",
+        "name": "Rue de la Charme",
         "city": "Clermont-Ferrand",
         "type": "Affichage libre",
         "notes": "devant le collège (Réf: PAA 6-07)",

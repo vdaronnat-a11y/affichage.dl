@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "soissons_1",
-        "name": "Rue Edmond Michelet, Soissons",
+        "name": "Rue Edmond Michelet",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "soissons_2",
-        "name": "Rue des Minimes, Soissons",
+        "name": "Rue des Minimes",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "soissons_3",
-        "name": "Avenue de Coucy, Soissons",
+        "name": "Avenue de Coucy",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "soissons_4",
-        "name": "Rue de Vailly, Soissons",
+        "name": "Rue de Vailly",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "soissons_5",
-        "name": "Rue Jean de Dormans, Soissons",
+        "name": "Rue Jean de Dormans",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "soissons_6",
-        "name": "Avenue de Pasly, Soissons",
+        "name": "Avenue de Pasly",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "soissons_7",
-        "name": "Rue Jean de Dormans, Soissons",
+        "name": "Rue Jean de Dormans",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "soissons_8",
-        "name": "Square Pillot, Soissons",
+        "name": "Square Pillot",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "soissons_9",
-        "name": "Place de Finfe, Soissons",
+        "name": "Place de Finfe",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "soissons_10",
-        "name": "Avenue de Reims, Soissons",
+        "name": "Avenue de Reims",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "soissons_11",
-        "name": "Rue du Paradis, Soissons",
+        "name": "Rue du Paradis",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "soissons_12",
-        "name": "Rue Pétrot Labarre, Soissons",
+        "name": "Rue Pétrot Labarre",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "soissons_13",
-        "name": "Boulevard Victor Hugo, Soissons",
+        "name": "Boulevard Victor Hugo",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "soissons_14",
-        "name": "Rue de la Victoire, Soissons",
+        "name": "Rue de la Victoire",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "soissons_15",
-        "name": "Rue Bois des Chassis, Soissons",
+        "name": "Rue Bois des Chassis",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "soissons_16",
-        "name": "Rue du Général Lafayette, Soissons",
+        "name": "Rue du Général Lafayette",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "soissons_17",
-        "name": "Avenue du Mail, Soissons",
+        "name": "Avenue du Mail",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -323,7 +323,7 @@
       },
       "properties": {
         "id": "soissons_18",
-        "name": "Rue de Vailly, Soissons",
+        "name": "Rue de Vailly",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "id": "soissons_19",
-        "name": "Place Winston Churchill, Soissons",
+        "name": "Place Winston Churchill",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "id": "soissons_20",
-        "name": "Avenue Robert Shumann, Soissons",
+        "name": "Avenue Robert Shumann",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "soissons_21",
-        "name": "Boulevard Paul Doumer, Soissons",
+        "name": "Boulevard Paul Doumer",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -395,7 +395,7 @@
       },
       "properties": {
         "id": "soissons_22",
-        "name": "Rue Salvador Allendre, Soissons",
+        "name": "Rue Salvador Allendre",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -413,7 +413,7 @@
       },
       "properties": {
         "id": "soissons_23",
-        "name": "Boulevard Tour de ville, Soissons",
+        "name": "Boulevard Tour de ville",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -431,7 +431,7 @@
       },
       "properties": {
         "id": "soissons_24",
-        "name": "Place de la Gare, Soissons",
+        "name": "Place de la Gare",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -449,7 +449,7 @@
       },
       "properties": {
         "id": "soissons_25",
-        "name": "Grand Place, Soissons",
+        "name": "Grand Place",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -467,7 +467,7 @@
       },
       "properties": {
         "id": "soissons_26",
-        "name": "Rue du Maréchal Lyautey, Soissons",
+        "name": "Rue du Maréchal Lyautey",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "soissons_27",
-        "name": "Avenue du Général de Gaulle, Soissons",
+        "name": "Avenue du Général de Gaulle",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -503,7 +503,7 @@
       },
       "properties": {
         "id": "soissons_28",
-        "name": "Rue de Croisy, Soissons",
+        "name": "Rue de Croisy",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "soissons_29",
-        "name": "Rue du Capitaine Letellier, Soissons",
+        "name": "Rue du Capitaine Letellier",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "soissons_30",
-        "name": "Rue Saint Christophe, Soissons",
+        "name": "Rue Saint Christophe",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "soissons_31",
-        "name": "Rue Marcel Paul, Soissons",
+        "name": "Rue Marcel Paul",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -575,7 +575,7 @@
       },
       "properties": {
         "id": "soissons_32",
-        "name": "Rue Lamartine, Soissons",
+        "name": "Rue Lamartine",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -593,7 +593,7 @@
       },
       "properties": {
         "id": "soissons_33",
-        "name": "Rue Pierre Curie, Soissons",
+        "name": "Rue Pierre Curie",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -611,7 +611,7 @@
       },
       "properties": {
         "id": "soissons_34",
-        "name": "Rue du Docteur Roy, Soissons",
+        "name": "Rue du Docteur Roy",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -629,7 +629,7 @@
       },
       "properties": {
         "id": "soissons_35",
-        "name": "Rue Raymonde Fiolet, Soissons",
+        "name": "Rue Raymonde Fiolet",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",
@@ -647,7 +647,7 @@
       },
       "properties": {
         "id": "soissons_36",
-        "name": "Place de l'évéché, Soissons",
+        "name": "Place de l'évéché",
         "city": "Soissons",
         "type": "Affichage libre",
         "notes": "Panneau d'expression",

@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "rennes_1",
-        "name": "Carrefour Georges Nitsch, Rennes",
+        "name": "Carrefour Georges Nitsch",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "rennes_2",
-        "name": "Boulevard René Laënnec, Rennes",
+        "name": "Boulevard René Laënnec",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "rennes_3",
-        "name": "Mail François Mitterrand, Rennes",
+        "name": "Mail François Mitterrand",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "rennes_4",
-        "name": "Rue Papu, Rennes",
+        "name": "Rue Papu",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "rennes_5",
-        "name": "Boulevard Albert 1er, Rennes",
+        "name": "Boulevard Albert 1er",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "rennes_6",
-        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940, Rennes",
+        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "rennes_7",
-        "name": "Avenue Général Leclerc, Rennes",
+        "name": "Avenue Général Leclerc",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "rennes_8",
-        "name": "Boulevard Léon Bourgeois, Rennes",
+        "name": "Boulevard Léon Bourgeois",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "rennes_9",
-        "name": "Rue Eugène Deprez, Rennes",
+        "name": "Rue Eugène Deprez",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "rennes_10",
-        "name": "Rue Sully Prudhomme, Rennes",
+        "name": "Rue Sully Prudhomme",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "rennes_11",
-        "name": "Rue Paul Féval, Rennes",
+        "name": "Rue Paul Féval",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "rennes_12",
-        "name": "Boulevard Léon Grimault, Rennes",
+        "name": "Boulevard Léon Grimault",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "rennes_13",
-        "name": "Avenue Gaston Berger, Rennes",
+        "name": "Avenue Gaston Berger",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "rennes_14",
-        "name": "Avenue du Canada, Rennes",
+        "name": "Avenue du Canada",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "rennes_15",
-        "name": "Rue de Saint-Malo, Rennes",
+        "name": "Rue de Saint-Malo",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "rennes_16",
-        "name": "Rue de Fougères, Rennes",
+        "name": "Rue de Fougères",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "rennes_17",
-        "name": "Rue de la Courrouze, Rennes",
+        "name": "Rue de la Courrouze",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -323,7 +323,7 @@
       },
       "properties": {
         "id": "rennes_18",
-        "name": "Avenue de Cucillé, Rennes",
+        "name": "Avenue de Cucillé",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "id": "rennes_19",
-        "name": "Rue Ferdinand de Lesseps, Rennes",
+        "name": "Rue Ferdinand de Lesseps",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "id": "rennes_20",
-        "name": "Rue Zacharie Roussin, Rennes",
+        "name": "Rue Zacharie Roussin",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "rennes_21",
-        "name": "Rue du Pré Botté, Rennes",
+        "name": "Rue du Pré Botté",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -395,7 +395,7 @@
       },
       "properties": {
         "id": "rennes_22",
-        "name": "Boulevard Marbeuf, Rennes",
+        "name": "Boulevard Marbeuf",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -413,7 +413,7 @@
       },
       "properties": {
         "id": "rennes_23",
-        "name": "Rue Louis et René Moine, Rennes",
+        "name": "Rue Louis et René Moine",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -431,7 +431,7 @@
       },
       "properties": {
         "id": "rennes_24",
-        "name": "Boulevard de Yougoslavie, Rennes",
+        "name": "Boulevard de Yougoslavie",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -449,7 +449,7 @@
       },
       "properties": {
         "id": "rennes_25",
-        "name": "Rue de Saint-Malo, Rennes",
+        "name": "Rue de Saint-Malo",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -467,7 +467,7 @@
       },
       "properties": {
         "id": "rennes_26",
-        "name": "Boulevard Volney, Rennes",
+        "name": "Boulevard Volney",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "rennes_27",
-        "name": "Avenue des Pays-Bas, Rennes",
+        "name": "Avenue des Pays-Bas",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -503,7 +503,7 @@
       },
       "properties": {
         "id": "rennes_28",
-        "name": "Avenue du Professeur Léon Bernard, Rennes",
+        "name": "Avenue du Professeur Léon Bernard",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "rennes_29",
-        "name": "Boulevard Voltaire, Rennes",
+        "name": "Boulevard Voltaire",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "rennes_30",
-        "name": "Rue du Scorff, Rennes",
+        "name": "Rue du Scorff",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "rennes_31",
-        "name": "Rue du Morbihan, Rennes",
+        "name": "Rue du Morbihan",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -575,7 +575,7 @@
       },
       "properties": {
         "id": "rennes_32",
-        "name": "Avenue des Monts d'Arrée, Rennes",
+        "name": "Avenue des Monts d'Arrée",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -593,7 +593,7 @@
       },
       "properties": {
         "id": "rennes_33",
-        "name": "Avenue Général George S. Patton, Rennes",
+        "name": "Avenue Général George S. Patton",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -611,7 +611,7 @@
       },
       "properties": {
         "id": "rennes_34",
-        "name": "Rue Emile Bernard, Rennes",
+        "name": "Rue Emile Bernard",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -629,7 +629,7 @@
       },
       "properties": {
         "id": "rennes_35",
-        "name": "Avenue Professeur Charles Foulon, Rennes",
+        "name": "Avenue Professeur Charles Foulon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -647,7 +647,7 @@
       },
       "properties": {
         "id": "rennes_36",
-        "name": "Rue de Vern, Rennes",
+        "name": "Rue de Vern",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -665,7 +665,7 @@
       },
       "properties": {
         "id": "rennes_37",
-        "name": "Rue du Bignon, Rennes",
+        "name": "Rue du Bignon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -683,7 +683,7 @@
       },
       "properties": {
         "id": "rennes_38",
-        "name": "Square Docteur Fernand Jacq, Rennes",
+        "name": "Square Docteur Fernand Jacq",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -701,7 +701,7 @@
       },
       "properties": {
         "id": "rennes_39",
-        "name": "Rue Pierre Martin, Rennes",
+        "name": "Rue Pierre Martin",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "rennes_40",
-        "name": "Boulevard Emmanuel Mounier, Rennes",
+        "name": "Boulevard Emmanuel Mounier",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -737,7 +737,7 @@
       },
       "properties": {
         "id": "rennes_41",
-        "name": "Rue de Lorient, Rennes",
+        "name": "Rue de Lorient",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -755,7 +755,7 @@
       },
       "properties": {
         "id": "rennes_42",
-        "name": "Avenue des Gayeulles, Rennes",
+        "name": "Avenue des Gayeulles",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -773,7 +773,7 @@
       },
       "properties": {
         "id": "rennes_43",
-        "name": "Mail Louise Bourgeois, Rennes",
+        "name": "Mail Louise Bourgeois",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -791,7 +791,7 @@
       },
       "properties": {
         "id": "rennes_44",
-        "name": "Rue de Léon, Rennes",
+        "name": "Rue de Léon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -809,7 +809,7 @@
       },
       "properties": {
         "id": "rennes_45",
-        "name": "Rue de Lorient, Rennes",
+        "name": "Rue de Lorient",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -827,7 +827,7 @@
       },
       "properties": {
         "id": "rennes_46",
-        "name": "Rue d'Espagne, Rennes",
+        "name": "Rue d'Espagne",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -845,7 +845,7 @@
       },
       "properties": {
         "id": "rennes_47",
-        "name": "Avenue de Pologne, Rennes",
+        "name": "Avenue de Pologne",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -863,7 +863,7 @@
       },
       "properties": {
         "id": "rennes_48",
-        "name": "Rue de Coëtlogon, Rennes",
+        "name": "Rue de Coëtlogon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -881,7 +881,7 @@
       },
       "properties": {
         "id": "rennes_49",
-        "name": "Chemin de Torigné, Rennes",
+        "name": "Chemin de Torigné",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -899,7 +899,7 @@
       },
       "properties": {
         "id": "rennes_50",
-        "name": "Rue Joseph Lotte, Rennes",
+        "name": "Rue Joseph Lotte",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -917,7 +917,7 @@
       },
       "properties": {
         "id": "rennes_51",
-        "name": "Avenue Sir Winston Churchill, Rennes",
+        "name": "Avenue Sir Winston Churchill",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -935,7 +935,7 @@
       },
       "properties": {
         "id": "rennes_52",
-        "name": "Avenue Charles et Raymonde Tillon, Rennes",
+        "name": "Avenue Charles et Raymonde Tillon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -953,7 +953,7 @@
       },
       "properties": {
         "id": "rennes_53",
-        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940, Rennes",
+        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -971,7 +971,7 @@
       },
       "properties": {
         "id": "rennes_54",
-        "name": "Rue de la Motte-Brûlon, Rennes",
+        "name": "Rue de la Motte-Brûlon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -989,7 +989,7 @@
       },
       "properties": {
         "id": "rennes_55",
-        "name": "Avenue Pierre Donzelot, Rennes",
+        "name": "Avenue Pierre Donzelot",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1007,7 +1007,7 @@
       },
       "properties": {
         "id": "rennes_56",
-        "name": "Rue Guillaume Lejean, Rennes",
+        "name": "Rue Guillaume Lejean",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1025,7 +1025,7 @@
       },
       "properties": {
         "id": "rennes_57",
-        "name": "Boulevard Paul Hutin-Desgrées, Rennes",
+        "name": "Boulevard Paul Hutin-Desgrées",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1043,7 +1043,7 @@
       },
       "properties": {
         "id": "rennes_58",
-        "name": "Boulevard de la Guérinais, Rennes",
+        "name": "Boulevard de la Guérinais",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1061,7 +1061,7 @@
       },
       "properties": {
         "id": "rennes_59",
-        "name": "Rue de l'Alma, Rennes",
+        "name": "Rue de l'Alma",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1079,7 +1079,7 @@
       },
       "properties": {
         "id": "rennes_60",
-        "name": "Boulevard Jacques Cartier, Rennes",
+        "name": "Boulevard Jacques Cartier",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1097,7 +1097,7 @@
       },
       "properties": {
         "id": "rennes_61",
-        "name": "Square de Kergus, Rennes",
+        "name": "Square de Kergus",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1115,7 +1115,7 @@
       },
       "properties": {
         "id": "rennes_62",
-        "name": "Avenue François Château, Rennes",
+        "name": "Avenue François Château",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1133,7 +1133,7 @@
       },
       "properties": {
         "id": "rennes_63",
-        "name": "Allée Pierre de Coubertin, Rennes",
+        "name": "Allée Pierre de Coubertin",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1151,7 +1151,7 @@
       },
       "properties": {
         "id": "rennes_64",
-        "name": "Boulevard Magenta, Rennes",
+        "name": "Boulevard Magenta",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1169,7 +1169,7 @@
       },
       "properties": {
         "id": "rennes_65",
-        "name": "Rue de Lorient, Rennes",
+        "name": "Rue de Lorient",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1187,7 +1187,7 @@
       },
       "properties": {
         "id": "rennes_66",
-        "name": "Rue Toullier, Rennes",
+        "name": "Rue Toullier",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1205,7 +1205,7 @@
       },
       "properties": {
         "id": "rennes_67",
-        "name": "Rue de La Borderie, Rennes",
+        "name": "Rue de La Borderie",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1223,7 +1223,7 @@
       },
       "properties": {
         "id": "rennes_68",
-        "name": "Rue Gurvand, Rennes",
+        "name": "Rue Gurvand",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1241,7 +1241,7 @@
       },
       "properties": {
         "id": "rennes_69",
-        "name": "Boulevard de la Liberté, Rennes",
+        "name": "Boulevard de la Liberté",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1259,7 +1259,7 @@
       },
       "properties": {
         "id": "rennes_70",
-        "name": "Rue Jean-Marie Duhamel, Rennes",
+        "name": "Rue Jean-Marie Duhamel",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1277,7 +1277,7 @@
       },
       "properties": {
         "id": "rennes_71",
-        "name": "Rue Paul Bert, Rennes",
+        "name": "Rue Paul Bert",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1295,7 +1295,7 @@
       },
       "properties": {
         "id": "rennes_72",
-        "name": "Rue de Brest, Rennes",
+        "name": "Rue de Brest",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1313,7 +1313,7 @@
       },
       "properties": {
         "id": "rennes_73",
-        "name": "Rue Louis Guilloux, Rennes",
+        "name": "Rue Louis Guilloux",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1331,7 +1331,7 @@
       },
       "properties": {
         "id": "rennes_74",
-        "name": "Avenue de Pologne, Rennes",
+        "name": "Avenue de Pologne",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1349,7 +1349,7 @@
       },
       "properties": {
         "id": "rennes_75",
-        "name": "Rue de Saint-Malo, Rennes",
+        "name": "Rue de Saint-Malo",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1367,7 +1367,7 @@
       },
       "properties": {
         "id": "rennes_76",
-        "name": "Avenue Gros Malhon, Rennes",
+        "name": "Avenue Gros Malhon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1385,7 +1385,7 @@
       },
       "properties": {
         "id": "rennes_77",
-        "name": "Avenue Gaston Berger, Rennes",
+        "name": "Avenue Gaston Berger",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1403,7 +1403,7 @@
       },
       "properties": {
         "id": "rennes_78",
-        "name": "Avenue Sir Winston Churchill, Rennes",
+        "name": "Avenue Sir Winston Churchill",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1421,7 +1421,7 @@
       },
       "properties": {
         "id": "rennes_79",
-        "name": "Avenue Sir Winston Churchill, Rennes",
+        "name": "Avenue Sir Winston Churchill",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1439,7 +1439,7 @@
       },
       "properties": {
         "id": "rennes_80",
-        "name": "Avenue Gaston Berger, Rennes",
+        "name": "Avenue Gaston Berger",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1457,7 +1457,7 @@
       },
       "properties": {
         "id": "rennes_81",
-        "name": "Rue Malakoff, Rennes",
+        "name": "Rue Malakoff",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1475,7 +1475,7 @@
       },
       "properties": {
         "id": "rennes_82",
-        "name": "Boulevard Voltaire, Rennes",
+        "name": "Boulevard Voltaire",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1493,7 +1493,7 @@
       },
       "properties": {
         "id": "rennes_83",
-        "name": "Place Georges Bernanos, Rennes",
+        "name": "Place Georges Bernanos",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1511,7 +1511,7 @@
       },
       "properties": {
         "id": "rennes_84",
-        "name": "Boulevard de Vitré, Rennes",
+        "name": "Boulevard de Vitré",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1529,7 +1529,7 @@
       },
       "properties": {
         "id": "rennes_85",
-        "name": "Rue Doyens Albert et Pierre Bouzat, Rennes",
+        "name": "Rue Doyens Albert et Pierre Bouzat",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1547,7 +1547,7 @@
       },
       "properties": {
         "id": "rennes_86",
-        "name": "Place du Souvenir Français, Rennes",
+        "name": "Place du Souvenir Français",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1565,7 +1565,7 @@
       },
       "properties": {
         "id": "rennes_87",
-        "name": "Boulevard Gaëtan Hervé, Rennes",
+        "name": "Boulevard Gaëtan Hervé",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1583,7 +1583,7 @@
       },
       "properties": {
         "id": "rennes_88",
-        "name": "Rue Henri Bannetel, Rennes",
+        "name": "Rue Henri Bannetel",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1601,7 +1601,7 @@
       },
       "properties": {
         "id": "rennes_89",
-        "name": "Place du Ronceray, Rennes",
+        "name": "Place du Ronceray",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1619,7 +1619,7 @@
       },
       "properties": {
         "id": "rennes_90",
-        "name": "Rue Montaigne, Rennes",
+        "name": "Rue Montaigne",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1637,7 +1637,7 @@
       },
       "properties": {
         "id": "rennes_91",
-        "name": "Boulevard Albert 1er, Rennes",
+        "name": "Boulevard Albert 1er",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1655,7 +1655,7 @@
       },
       "properties": {
         "id": "rennes_92",
-        "name": "Avenue Georges Graff, Rennes",
+        "name": "Avenue Georges Graff",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1673,7 +1673,7 @@
       },
       "properties": {
         "id": "rennes_93",
-        "name": "Rue de Vern, Rennes",
+        "name": "Rue de Vern",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1691,7 +1691,7 @@
       },
       "properties": {
         "id": "rennes_94",
-        "name": "Rue du Louis d'Or, Rennes",
+        "name": "Rue du Louis d'Or",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1709,7 +1709,7 @@
       },
       "properties": {
         "id": "rennes_95",
-        "name": "Rue de l'Arsenal, Rennes",
+        "name": "Rue de l'Arsenal",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1727,7 +1727,7 @@
       },
       "properties": {
         "id": "rennes_96",
-        "name": "Boulevard de Verdun, Rennes",
+        "name": "Boulevard de Verdun",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1745,7 +1745,7 @@
       },
       "properties": {
         "id": "rennes_97",
-        "name": "Place des Colombes, Rennes",
+        "name": "Place des Colombes",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1763,7 +1763,7 @@
       },
       "properties": {
         "id": "rennes_98",
-        "name": "Rue de Suède, Rennes",
+        "name": "Rue de Suède",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1781,7 +1781,7 @@
       },
       "properties": {
         "id": "rennes_99",
-        "name": "Rue Jean Boucher, Rennes",
+        "name": "Rue Jean Boucher",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1799,7 +1799,7 @@
       },
       "properties": {
         "id": "rennes_100",
-        "name": "Rue Lesage, Rennes",
+        "name": "Rue Lesage",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1817,7 +1817,7 @@
       },
       "properties": {
         "id": "rennes_101",
-        "name": "Rue d'Antrain, Rennes",
+        "name": "Rue d'Antrain",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1835,7 +1835,7 @@
       },
       "properties": {
         "id": "rennes_102",
-        "name": "Rue Jean Malo-Renault, Rennes",
+        "name": "Rue Jean Malo-Renault",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1853,7 +1853,7 @@
       },
       "properties": {
         "id": "rennes_103",
-        "name": "Avenue Jean Janvier, Rennes",
+        "name": "Avenue Jean Janvier",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1871,7 +1871,7 @@
       },
       "properties": {
         "id": "rennes_104",
-        "name": "Rue de Coëtlogon, Rennes",
+        "name": "Rue de Coëtlogon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1889,7 +1889,7 @@
       },
       "properties": {
         "id": "rennes_105",
-        "name": "Boulevard Georges Clemenceau, Rennes",
+        "name": "Boulevard Georges Clemenceau",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1907,7 +1907,7 @@
       },
       "properties": {
         "id": "rennes_106",
-        "name": "Boulevard Albert 1er, Rennes",
+        "name": "Boulevard Albert 1er",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1925,7 +1925,7 @@
       },
       "properties": {
         "id": "rennes_107",
-        "name": "Place de Torigné, Rennes",
+        "name": "Place de Torigné",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1943,7 +1943,7 @@
       },
       "properties": {
         "id": "rennes_108",
-        "name": "Avenue de Pologne, Rennes",
+        "name": "Avenue de Pologne",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1961,7 +1961,7 @@
       },
       "properties": {
         "id": "rennes_109",
-        "name": "Avenue des Pays-Bas, Rennes",
+        "name": "Avenue des Pays-Bas",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1979,7 +1979,7 @@
       },
       "properties": {
         "id": "rennes_110",
-        "name": "Rue du Houx, Rennes",
+        "name": "Rue du Houx",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -1997,7 +1997,7 @@
       },
       "properties": {
         "id": "rennes_111",
-        "name": "Rue Alexandre Lefas, Rennes",
+        "name": "Rue Alexandre Lefas",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2015,7 +2015,7 @@
       },
       "properties": {
         "id": "rennes_112",
-        "name": "Rue de la Croix Herpin, Rennes",
+        "name": "Rue de la Croix Herpin",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2033,7 +2033,7 @@
       },
       "properties": {
         "id": "rennes_113",
-        "name": "Rue Tanguy Malmanche, Rennes",
+        "name": "Rue Tanguy Malmanche",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2051,7 +2051,7 @@
       },
       "properties": {
         "id": "rennes_114",
-        "name": "Avenue Professeur Charles Foulon, Rennes",
+        "name": "Avenue Professeur Charles Foulon",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2069,7 +2069,7 @@
       },
       "properties": {
         "id": "rennes_115",
-        "name": "Rue André Trasbot, Rennes",
+        "name": "Rue André Trasbot",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2087,7 +2087,7 @@
       },
       "properties": {
         "id": "rennes_116",
-        "name": "Rue Ginguené, Rennes",
+        "name": "Rue Ginguené",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2105,7 +2105,7 @@
       },
       "properties": {
         "id": "rennes_117",
-        "name": "Rue Adolphe Leray, Rennes",
+        "name": "Rue Adolphe Leray",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2123,7 +2123,7 @@
       },
       "properties": {
         "id": "rennes_118",
-        "name": "Cours des Alliés, Rennes",
+        "name": "Cours des Alliés",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",
@@ -2141,7 +2141,7 @@
       },
       "properties": {
         "id": "rennes_119",
-        "name": "Rue Victor Rault, Rennes",
+        "name": "Rue Victor Rault",
         "city": "Rennes Métropole",
         "type": "Affichage libre",
         "notes": "Affichage associatif",

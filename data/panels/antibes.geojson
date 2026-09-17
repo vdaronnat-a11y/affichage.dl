@@ -13,7 +13,7 @@
       },
       "properties": {
         "id": "antibes_1",
-        "name": "Cours Massena, Antibes",
+        "name": "Cours Massena",
         "city": "Antibes Juan-les-Pins",
         "notes": "A gauche de la Mairie contre le mur"
       }
@@ -30,7 +30,7 @@
       },
       "properties": {
         "id": "antibes_2",
-        "name": "Avenue Paul Arene, Antibes",
+        "name": "Avenue Paul Arene",
         "city": "Antibes Juan-les-Pins",
         "notes": "Angle boulevard d'Aguillon"
       }
@@ -47,7 +47,7 @@
       },
       "properties": {
         "id": "antibes_3",
-        "name": "Avenue de Verdun, Antibes",
+        "name": "Avenue de Verdun",
         "city": "Antibes Juan-les-Pins",
         "notes": "Angle avenue Paul Arène"
       }
@@ -64,7 +64,7 @@
       },
       "properties": {
         "id": "antibes_4",
-        "name": "Avenue Reille, Antibes",
+        "name": "Avenue Reille",
         "city": "Antibes Juan-les-Pins",
         "notes": "Angle rue Général Vandenberg"
       }
@@ -81,7 +81,7 @@
       },
       "properties": {
         "id": "antibes_5",
-        "name": "Avenue des Frères Roustan, Antibes",
+        "name": "Avenue des Frères Roustan",
         "city": "Antibes Juan-les-Pins",
         "notes": "C.E.S."
       }
@@ -98,7 +98,7 @@
       },
       "properties": {
         "id": "antibes_6",
-        "name": "Avenue Saint-Donatien, Antibes",
+        "name": "Avenue Saint-Donatien",
         "city": "Antibes Juan-les-Pins",
         "notes": "parking école Doniol"
       }
@@ -115,7 +115,7 @@
       },
       "properties": {
         "id": "antibes_7",
-        "name": "Boulevard James Willy, Antibes",
+        "name": "Boulevard James Willy",
         "city": "Antibes Juan-les-Pins",
         "notes": "Ponteil à droite de la station de pompage"
       }
@@ -132,7 +132,7 @@
       },
       "properties": {
         "id": "antibes_8",
-        "name": "Boulevard Baptistin Ardisson, Juan-les-Pins",
+        "name": "Boulevard Baptistin Ardisson",
         "city": "Antibes Juan-les-Pins",
         "notes": "coté Ardisson angle boulevard Wilson"
       }
@@ -149,7 +149,7 @@
       },
       "properties": {
         "id": "antibes_9",
-        "name": "Avenue de l'Esterel, Juan-les-Pins",
+        "name": "Avenue de l'Esterel",
         "city": "Antibes Juan-les-Pins",
         "notes": "Devant gare S.N.C.F. à droite"
       }
@@ -166,7 +166,7 @@
       },
       "properties": {
         "id": "antibes_10",
-        "name": "Rue Emilie, Juan-les-Pins",
+        "name": "Rue Emilie",
         "city": "Antibes Juan-les-Pins",
         "notes": "C.O.S.E.C. devant salle de sport"
       }
@@ -183,7 +183,7 @@
       },
       "properties": {
         "id": "antibes_11",
-        "name": "Chemin des Liserons, Juan-les-Pins",
+        "name": "Chemin des Liserons",
         "city": "Antibes Juan-les-Pins",
         "notes": "Ecole du pont du Lys"
       }
@@ -200,7 +200,7 @@
       },
       "properties": {
         "id": "antibes_12",
-        "name": "Chemin des Eucalyptus, Juan-les-Pins",
+        "name": "Chemin des Eucalyptus",
         "city": "Antibes Juan-les-Pins",
         "notes": "Stade Gilbert Auvergne, à gauche de l'entrée du stade de Rugby"
       }
@@ -217,7 +217,7 @@
       },
       "properties": {
         "id": "antibes_13",
-        "name": "Chemin des Eucalyptus, Juan-les-Pins",
+        "name": "Chemin des Eucalyptus",
         "city": "Antibes Juan-les-Pins",
         "notes": "Ecole Saint-Maymes"
       }
@@ -234,7 +234,7 @@
       },
       "properties": {
         "id": "antibes_14",
-        "name": "Giratoire du Châtaignier, Antibes",
+        "name": "Giratoire du Châtaignier",
         "city": "Antibes Juan-les-Pins",
         "notes": "Devant la crèche du Châtaignier"
       }
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "antibes_15",
-        "name": "Vieux chemin de Saint-Jean, Antibes",
+        "name": "Vieux chemin de Saint-Jean",
         "city": "Antibes Juan-les-Pins",
         "notes": "Angle parc Laval; trottoir parking école Laval"
       }
@@ -268,7 +268,7 @@
       },
       "properties": {
         "id": "antibes_16",
-        "name": "Route de Saint-Jean, Antibes",
+        "name": "Route de Saint-Jean",
         "city": "Antibes Juan-les-Pins",
         "notes": "Quartier Roi Soleil"
       }
@@ -285,7 +285,7 @@
       },
       "properties": {
         "id": "antibes_17",
-        "name": "Route de Saint-Jean, Antibes",
+        "name": "Route de Saint-Jean",
         "city": "Antibes Juan-les-Pins",
         "notes": "Face à l'école Roger Cardi;  à gauche de l'abribus"
       }
@@ -302,7 +302,7 @@
       },
       "properties": {
         "id": "antibes_18",
-        "name": "Chemin de Rabiac Estagnol, Antibes",
+        "name": "Chemin de Rabiac Estagnol",
         "city": "Antibes Juan-les-Pins",
         "notes": "Devant le mur sur le parking de l'école La Tournière"
       }
@@ -319,7 +319,7 @@
       },
       "properties": {
         "id": "antibes_19",
-        "name": "Square François Pierre Cerruti, Antibes",
+        "name": "Square François Pierre Cerruti",
         "city": "Antibes Juan-les-Pins",
         "notes": "Devant le jeu d'enfants"
       }
@@ -336,7 +336,7 @@
       },
       "properties": {
         "id": "antibes_20",
-        "name": "Boulevard Guillaume Apollinaire, Antibes",
+        "name": "Boulevard Guillaume Apollinaire",
         "city": "Antibes Juan-les-Pins",
         "notes": "Ecole Prévert; les Semboules"
       }
@@ -353,7 +353,7 @@
       },
       "properties": {
         "id": "antibes_21",
-        "name": "Chemin des Combes, Antibes",
+        "name": "Chemin des Combes",
         "city": "Antibes Juan-les-Pins",
         "notes": "Ecole Jean Moulin"
       }
@@ -370,7 +370,7 @@
       },
       "properties": {
         "id": "antibes_22",
-        "name": "Avenue Robert Soleau, Antibes",
+        "name": "Avenue Robert Soleau",
         "city": "Antibes Juan-les-Pins",
         "notes": "Au milieu du parking de la Criée"
       }
@@ -387,7 +387,7 @@
       },
       "properties": {
         "id": "antibes_23",
-        "name": "Avenue du 11 Novembre, Antibes",
+        "name": "Avenue du 11 Novembre",
         "city": "Antibes Juan-les-Pins",
         "notes": "A droite de l'entrée du Fort Carré"
       }
@@ -404,7 +404,7 @@
       },
       "properties": {
         "id": "antibes_24",
-        "name": "Cours de la Liberté, Antibes",
+        "name": "Cours de la Liberté",
         "city": "Antibes Juan-les-Pins",
         "notes": "La Fontonne"
       }
@@ -421,7 +421,7 @@
       },
       "properties": {
         "id": "antibes_25",
-        "name": "RN7 la Fontonne, Antibes",
+        "name": "RN7 la Fontonne",
         "city": "Antibes Juan-les-Pins",
         "notes": "Angle Garbéro; devant le parking"
       }
@@ -438,7 +438,7 @@
       },
       "properties": {
         "id": "antibes_26",
-        "name": "Chemin de Saint-Claude, Antibes",
+        "name": "Chemin de Saint-Claude",
         "city": "Antibes Juan-les-Pins",
         "notes": "Face au lycée Horticole; à droite de l'arrêt bus"
       }

@@ -2,11 +2,12 @@
  * Contrôleur principal de l'application Tournée Affiches
  */
 
-import { TourMap } from "./map.js?v=3.2";
+import { TourMap } from "./map.js?v=3.3";
 import { TourRouter } from "./router.js?v=3.2";
-import { TourGuidance } from "./guidance.js?v=3.2";
+import { TourGuidance } from "./guidance.js?v=3.3";
 import { TourAdmin } from "./admin.js?v=3.2";
 import { TourTracker } from "./tracker.js?v=3.2";
+import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
 
 class TourApp {
   constructor() {
@@ -591,10 +592,12 @@ class TourApp {
 
   renderPanelsList() {
     this.panelsListEl.innerHTML = "";
+    const isMultiCity = checkIsMultiCityTour(this.orderedPanels);
 
     this.orderedPanels.forEach((panel, idx) => {
       const notes = (panel.properties.notes || '').trim();
       const subHtml = notes ? `<span class="panel-info-sub">${notes}</span>` : '';
+      const displayName = formatPanelDisplayName(panel, isMultiCity);
 
       const item = document.createElement("div");
       item.className = "panel-item";
@@ -602,7 +605,7 @@ class TourApp {
         <div class="panel-item-left">
           <div class="panel-num-badge">${idx + 1}</div>
           <div class="panel-info">
-            <span class="panel-info-name">${panel.properties.name}</span>
+            <span class="panel-info-name">${displayName}</span>
             ${subHtml}
           </div>
         </div>

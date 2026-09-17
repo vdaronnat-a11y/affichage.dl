@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "champagne_au_mont_d_or_1",
-        "name": "chemin du Coulouvrier, 69410 Champagne-au-Mont-d'Or",
+        "name": "chemin du Coulouvrier",
         "city": "Champagne-au-Mont-d'Or",
         "type": "Affichage libre",
         "notes": "(1,30 x 0,97) sur le parking du stade René Eollet",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "champagne_au_mont_d_or_2",
-        "name": "avenue de Lanessan, 69410 Champagne-au-Mont-d'Or",
+        "name": "avenue de Lanessan",
         "city": "Champagne-au-Mont-d'Or",
         "type": "Affichage libre",
         "notes": "(1,30 x 0,97) sur le parking du Centre Technique Municipal",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "champagne_au_mont_d_or_3",
-        "name": "place de la Mairie, 69410 Champagne-au-Mont-d'Or",
+        "name": "place de la Mairie",
         "city": "Champagne-au-Mont-d'Or",
         "type": "Affichage libre",
         "notes": "(1,30 x 0,97) sur le parking derrière la Mairie",

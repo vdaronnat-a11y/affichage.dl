@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "paris_1",
-        "name": "21 rue de la Bidassoa - Ecole élémentaire, Paris 75020e",
+        "name": "21 rue de la Bidassoa - Ecole élémentaire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire - Format: 1",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "paris_2",
-        "name": "15 cité Champagne, Paris 75020e",
+        "name": "15 cité Champagne",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "paris_3",
-        "name": "7, rue Bretonneau, Paris 75020e",
+        "name": "7, rue Bretonneau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "paris_4",
-        "name": "28 rue Olivier Métra, Paris 75020e",
+        "name": "28 rue Olivier Métra",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "paris_5",
-        "name": "163, boulevard Mortier, Paris 75020e",
+        "name": "163, boulevard Mortier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "paris_6",
-        "name": "140 rue de Ménilmontant, Paris 75020e",
+        "name": "140 rue de Ménilmontant",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "paris_7",
-        "name": "4, rue Jourdain, Paris 75020e",
+        "name": "4, rue Jourdain",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "paris_8",
-        "name": "148, avenue Gambetta, Paris 75020e",
+        "name": "148, avenue Gambetta",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "paris_9",
-        "name": "236 rue de Belleville - Ecole élémentaire, Paris 75020e",
+        "name": "236 rue de Belleville - Ecole élémentaire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "paris_10",
-        "name": "62 rue du Surmelin, Paris 75020e",
+        "name": "62 rue du Surmelin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Espace Parisien des solidarités - Format: 1",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "paris_11",
-        "name": "6 place Gambetta - côté Belgrand, Paris 75020e",
+        "name": "6 place Gambetta - côté Belgrand",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "paris_12",
-        "name": "99 rue des Pyrénées, Paris 75020e",
+        "name": "99 rue des Pyrénées",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "paris_13",
-        "name": "36, rue le Vau, Paris 75020e",
+        "name": "36, rue le Vau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "paris_14",
-        "name": "13 rue Sorbier - Square Sorbier, Paris 75020e",
+        "name": "13 rue Sorbier - Square Sorbier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "paris_15",
-        "name": "54, rue Planchat, Paris 75020e",
+        "name": "54, rue Planchat",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "paris_16",
-        "name": "108, rue des Amandiers, Paris 75020e",
+        "name": "108, rue des Amandiers",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "paris_17",
-        "name": "38, rue de tourtille, Paris 75020e",
+        "name": "38, rue de tourtille",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -323,7 +323,7 @@
       },
       "properties": {
         "id": "paris_18",
-        "name": "8, rue Pierre Foncin, Paris 75020e",
+        "name": "8, rue Pierre Foncin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole Maternelle P. Foncin - Format: 1",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "id": "paris_19",
-        "name": "3 Place Carmen, Paris 75020e",
+        "name": "3 Place Carmen",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Conservatoire - Format: 1",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "id": "paris_20",
-        "name": "59 rue du Borrégo, Paris 75020e",
+        "name": "59 rue du Borrégo",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "paris_21",
-        "name": "29, avenue Gambetta, Paris 75020e",
+        "name": "29, avenue Gambetta",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -395,7 +395,7 @@
       },
       "properties": {
         "id": "paris_22",
-        "name": "153, avenue Gambetta, Paris 75020e",
+        "name": "153, avenue Gambetta",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -413,7 +413,7 @@
       },
       "properties": {
         "id": "paris_23",
-        "name": "91, rue des Orteaux, Paris 75020e",
+        "name": "91, rue des Orteaux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -431,7 +431,7 @@
       },
       "properties": {
         "id": "paris_24",
-        "name": "Début rue Pauline Kergomard, Paris 75020e",
+        "name": "Début rue Pauline Kergomard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -449,7 +449,7 @@
       },
       "properties": {
         "id": "paris_25",
-        "name": "38 bis, rue des Orteaux, Paris 75020e",
+        "name": "38 bis, rue des Orteaux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -467,7 +467,7 @@
       },
       "properties": {
         "id": "paris_26",
-        "name": "81-91, Rue de la Réunion, Paris 75020e",
+        "name": "81-91, Rue de la Réunion",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "paris_27",
-        "name": "51 rue des Panoyaux, Paris 75020e",
+        "name": "51 rue des Panoyaux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -503,7 +503,7 @@
       },
       "properties": {
         "id": "paris_28",
-        "name": "15, rue Sorbier, Paris 75020e",
+        "name": "15, rue Sorbier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "paris_29",
-        "name": "25, rue de la Bidassoa, Paris 75020e",
+        "name": "25, rue de la Bidassoa",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "paris_30",
-        "name": "3 Pass. Josseaume, Paris 75020e",
+        "name": "3 Pass. Josseaume",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "paris_31",
-        "name": "17, rue Sorbier, Paris 75020e",
+        "name": "17, rue Sorbier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque",
@@ -575,7 +575,7 @@
       },
       "properties": {
         "id": "paris_32",
-        "name": "32, rue Pali Kao, Paris 75020e",
+        "name": "32, rue Pali Kao",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -593,7 +593,7 @@
       },
       "properties": {
         "id": "paris_33",
-        "name": "84 Rue de la Mare, Paris 75020e",
+        "name": "84 Rue de la Mare",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -611,7 +611,7 @@
       },
       "properties": {
         "id": "paris_34",
-        "name": "24, rue de la Cour des Noues, Paris 75020e",
+        "name": "24, rue de la Cour des Noues",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -629,7 +629,7 @@
       },
       "properties": {
         "id": "paris_35",
-        "name": "11 rue Rampal, Paris 75020e",
+        "name": "11 rue Rampal",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -647,7 +647,7 @@
       },
       "properties": {
         "id": "paris_36",
-        "name": "103, avenue Gambetta, Paris 75020e",
+        "name": "103, avenue Gambetta",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -665,7 +665,7 @@
       },
       "properties": {
         "id": "paris_37",
-        "name": "34 rue de la Réunion - Centre social Etincelles, Paris 75020e",
+        "name": "34 rue de la Réunion - Centre social Etincelles",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre social",
@@ -683,7 +683,7 @@
       },
       "properties": {
         "id": "paris_38",
-        "name": "166, rue Pelleport, Paris 75020e",
+        "name": "166, rue Pelleport",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire - Format: 1",
@@ -701,7 +701,7 @@
       },
       "properties": {
         "id": "paris_39",
-        "name": "18, rue Maryse Hilsz, Paris 75020e",
+        "name": "18, rue Maryse Hilsz",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "paris_40",
-        "name": "19, rue de Lagny, Paris 75020e",
+        "name": "19, rue de Lagny",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -737,7 +737,7 @@
       },
       "properties": {
         "id": "paris_41",
-        "name": "36, rue des Docteurs Dejerine, Paris 75020e",
+        "name": "36, rue des Docteurs Dejerine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -755,7 +755,7 @@
       },
       "properties": {
         "id": "paris_42",
-        "name": "42, rue de la Mare, Paris 75020e",
+        "name": "42, rue de la Mare",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -773,7 +773,7 @@
       },
       "properties": {
         "id": "paris_43",
-        "name": "9/11, rue de la Plaine, Paris 75020e",
+        "name": "9/11, rue de la Plaine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -791,7 +791,7 @@
       },
       "properties": {
         "id": "paris_44",
-        "name": "29 rue du Télégraphe - Ecole élémentaire, Paris 75020e",
+        "name": "29 rue du Télégraphe - Ecole élémentaire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire - Format: 1",
@@ -809,7 +809,7 @@
       },
       "properties": {
         "id": "paris_45",
-        "name": "4-12 rue Dénoyez, Paris 75020e",
+        "name": "4-12 rue Dénoyez",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -827,7 +827,7 @@
       },
       "properties": {
         "id": "paris_46",
-        "name": "32-34, rue Alsace Lorraine, Paris 75019e",
+        "name": "32-34, rue Alsace Lorraine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -845,7 +845,7 @@
       },
       "properties": {
         "id": "paris_47",
-        "name": "13, rue de Tanger, Paris 75019e",
+        "name": "13, rue de Tanger",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -863,7 +863,7 @@
       },
       "properties": {
         "id": "paris_48",
-        "name": "8, rue Sadi Lecointe, Paris 75019e",
+        "name": "8, rue Sadi Lecointe",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -881,7 +881,7 @@
       },
       "properties": {
         "id": "paris_49",
-        "name": "87, avenue Jean Jaurès, Paris 75019e",
+        "name": "87, avenue Jean Jaurès",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -899,7 +899,7 @@
       },
       "properties": {
         "id": "paris_50",
-        "name": "70, rue Armand Carrel, Paris 75019e",
+        "name": "70, rue Armand Carrel",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -917,7 +917,7 @@
       },
       "properties": {
         "id": "paris_51",
-        "name": "345-347, rue de Belleville, Paris 75019e",
+        "name": "345-347, rue de Belleville",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle Leman-Belleville",
@@ -935,7 +935,7 @@
       },
       "properties": {
         "id": "paris_52",
-        "name": "7, rue Barbanègre, Paris 75019e",
+        "name": "7, rue Barbanègre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "école élémentaire, Panneau B",
@@ -953,7 +953,7 @@
       },
       "properties": {
         "id": "paris_53",
-        "name": "15-17, rue Rampal, Paris 75019e",
+        "name": "15-17, rue Rampal",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -971,7 +971,7 @@
       },
       "properties": {
         "id": "paris_54",
-        "name": "7, rue Barbanègre, Paris 75019e",
+        "name": "7, rue Barbanègre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "école élémentaire, Panneau A",
@@ -989,7 +989,7 @@
       },
       "properties": {
         "id": "paris_55",
-        "name": "9, rue des Alouettes, Paris 75019e",
+        "name": "9, rue des Alouettes",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire Alouettes",
@@ -1007,7 +1007,7 @@
       },
       "properties": {
         "id": "paris_56",
-        "name": "1, avenue de la Porte de Pantin, Paris 75019e",
+        "name": "1, avenue de la Porte de Pantin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1025,7 +1025,7 @@
       },
       "properties": {
         "id": "paris_57",
-        "name": "41, rue de Tanger, Paris 75019e",
+        "name": "41, rue de Tanger",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -1043,7 +1043,7 @@
       },
       "properties": {
         "id": "paris_58",
-        "name": "16, rue de l Atlas, Paris 75019e",
+        "name": "16, rue de l Atlas",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1061,7 +1061,7 @@
       },
       "properties": {
         "id": "paris_59",
-        "name": "37, rue Armand Carrel, Paris 75019e",
+        "name": "37, rue Armand Carrel",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1079,7 +1079,7 @@
       },
       "properties": {
         "id": "paris_60",
-        "name": "1, rue Rouvet, Paris 75019e",
+        "name": "1, rue Rouvet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1097,7 +1097,7 @@
       },
       "properties": {
         "id": "paris_61",
-        "name": "40, rue Manin, Paris 75019e",
+        "name": "40, rue Manin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Angle rue d'Alsace Lorraine",
@@ -1115,7 +1115,7 @@
       },
       "properties": {
         "id": "paris_62",
-        "name": "20 rue Edouard Pailleron, Paris 75019e",
+        "name": "20 rue Edouard Pailleron",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Maison de la vie associative et citoyenne du 19ème",
@@ -1133,7 +1133,7 @@
       },
       "properties": {
         "id": "paris_63",
-        "name": "5, rue Noyer Durand, Paris 75019e",
+        "name": "5, rue Noyer Durand",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1151,7 +1151,7 @@
       },
       "properties": {
         "id": "paris_64",
-        "name": "12-16, rue de la Moselle, Paris 75019e",
+        "name": "12-16, rue de la Moselle",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1169,7 +1169,7 @@
       },
       "properties": {
         "id": "paris_65",
-        "name": "59/59bis, rue de Romainville, Paris 75019e",
+        "name": "59/59bis, rue de Romainville",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle Romainville",
@@ -1187,7 +1187,7 @@
       },
       "properties": {
         "id": "paris_66",
-        "name": "104-106 Rue Compans, Paris 75019e",
+        "name": "104-106 Rue Compans",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Angle  rue du Général Brunet",
@@ -1205,7 +1205,7 @@
       },
       "properties": {
         "id": "paris_67",
-        "name": "9, rue Tandou, Paris 75019e",
+        "name": "9, rue Tandou",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -1223,7 +1223,7 @@
       },
       "properties": {
         "id": "paris_68",
-        "name": "106, rue Compans, Paris 75019e",
+        "name": "106, rue Compans",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1241,7 +1241,7 @@
       },
       "properties": {
         "id": "paris_69",
-        "name": "53 allée Darius Milhaud, Paris 75019e",
+        "name": "53 allée Darius Milhaud",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1259,7 +1259,7 @@
       },
       "properties": {
         "id": "paris_70",
-        "name": "2, rue Féssart, Paris 75019e",
+        "name": "2, rue Féssart",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1277,7 +1277,7 @@
       },
       "properties": {
         "id": "paris_71",
-        "name": "45-59, rue de Romainville, Paris 75019e",
+        "name": "45-59, rue de Romainville",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle Romainville",
@@ -1295,7 +1295,7 @@
       },
       "properties": {
         "id": "paris_72",
-        "name": "9, rue Jomard, Paris 75019e",
+        "name": "9, rue Jomard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -1313,7 +1313,7 @@
       },
       "properties": {
         "id": "paris_73",
-        "name": "156, avenue Jean Jaurès, Paris 75019e",
+        "name": "156, avenue Jean Jaurès",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -1331,7 +1331,7 @@
       },
       "properties": {
         "id": "paris_74",
-        "name": "7-29, rue Eugénie Cotton, Paris 75019e",
+        "name": "7-29, rue Eugénie Cotton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire Lilas",
@@ -1349,7 +1349,7 @@
       },
       "properties": {
         "id": "paris_75",
-        "name": "122-130, rue d Aubervilliers, Paris 75019e",
+        "name": "122-130, rue d Aubervilliers",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1367,7 +1367,7 @@
       },
       "properties": {
         "id": "paris_76",
-        "name": "2, rue Ronsard, Paris 75018e",
+        "name": "2, rue Ronsard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1385,7 +1385,7 @@
       },
       "properties": {
         "id": "paris_77",
-        "name": "8, rue Jean Francois Lepine, Paris 75018e",
+        "name": "8, rue Jean Francois Lepine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1403,7 +1403,7 @@
       },
       "properties": {
         "id": "paris_78",
-        "name": "62, rue Lepic, Paris 75018e",
+        "name": "62, rue Lepic",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1421,7 +1421,7 @@
       },
       "properties": {
         "id": "paris_79",
-        "name": "142, rue des Poissonniers, Paris 75018e",
+        "name": "142, rue des Poissonniers",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1439,7 +1439,7 @@
       },
       "properties": {
         "id": "paris_80",
-        "name": "8, square Lamarck, Paris 75018e",
+        "name": "8, square Lamarck",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1457,7 +1457,7 @@
       },
       "properties": {
         "id": "paris_81",
-        "name": "15 Rue Girardon, Paris 75018e",
+        "name": "15 Rue Girardon",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1475,7 +1475,7 @@
       },
       "properties": {
         "id": "paris_82",
-        "name": "19, rue Tristan Tzara, Paris 75018e",
+        "name": "19, rue Tristan Tzara",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque Maurice Genevoix",
@@ -1493,7 +1493,7 @@
       },
       "properties": {
         "id": "paris_83",
-        "name": "4, rue Eva Kotchever, Paris 75018e",
+        "name": "4, rue Eva Kotchever",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1511,7 +1511,7 @@
       },
       "properties": {
         "id": "paris_84",
-        "name": "56, boulevard Ney, Paris 75018e",
+        "name": "56, boulevard Ney",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1529,7 +1529,7 @@
       },
       "properties": {
         "id": "paris_85",
-        "name": "31, rue Joseph de Maistre, Paris 75018e",
+        "name": "31, rue Joseph de Maistre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1547,7 +1547,7 @@
       },
       "properties": {
         "id": "paris_86",
-        "name": "1, rue Vauvenargues, Paris 75018e",
+        "name": "1, rue Vauvenargues",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1565,7 +1565,7 @@
       },
       "properties": {
         "id": "paris_87",
-        "name": "160-162, rue Championnet, Paris 75018e",
+        "name": "160-162, rue Championnet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1583,7 +1583,7 @@
       },
       "properties": {
         "id": "paris_88",
-        "name": "35, rue de l Evangile, Paris 75018e",
+        "name": "35, rue de l Evangile",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1601,7 +1601,7 @@
       },
       "properties": {
         "id": "paris_89",
-        "name": "5, place Hebert, Paris 75018e",
+        "name": "5, place Hebert",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -1619,7 +1619,7 @@
       },
       "properties": {
         "id": "paris_90",
-        "name": "12, rue des Amiraux, Paris 75018e",
+        "name": "12, rue des Amiraux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1637,7 +1637,7 @@
       },
       "properties": {
         "id": "paris_91",
-        "name": "12, rue René Binet, Paris 75018e",
+        "name": "12, rue René Binet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -1655,7 +1655,7 @@
       },
       "properties": {
         "id": "paris_92",
-        "name": "2, rue de la Guadeloupe, Paris 75018e",
+        "name": "2, rue de la Guadeloupe",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1673,7 +1673,7 @@
       },
       "properties": {
         "id": "paris_93",
-        "name": "15-33 Avenue de la Porte des Poissonniers, Paris 75018e",
+        "name": "15-33 Avenue de la Porte des Poissonniers",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "angle rue Jean Cocteau / avenue porte de Poissonniers",
@@ -1691,7 +1691,7 @@
       },
       "properties": {
         "id": "paris_94",
-        "name": "1 Place Constantin Pecqueur, Paris 75018e",
+        "name": "1 Place Constantin Pecqueur",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1709,7 +1709,7 @@
       },
       "properties": {
         "id": "paris_95",
-        "name": "19, rue Fernand Labori, Paris 75018e",
+        "name": "19, rue Fernand Labori",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1727,7 +1727,7 @@
       },
       "properties": {
         "id": "paris_96",
-        "name": "Rue Torricelli G, Paris 75017e",
+        "name": "Rue Torricelli G",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -1745,7 +1745,7 @@
       },
       "properties": {
         "id": "paris_97",
-        "name": "76, boulevard Berthier, Paris 75017e",
+        "name": "76, boulevard Berthier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -1763,7 +1763,7 @@
       },
       "properties": {
         "id": "paris_98",
-        "name": "4-8, rue Brunetiere, Paris 75017e",
+        "name": "4-8, rue Brunetiere",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "TEP",
@@ -1781,7 +1781,7 @@
       },
       "properties": {
         "id": "paris_99",
-        "name": "79 Rue de la Jonquière D, Paris 75017e",
+        "name": "79 Rue de la Jonquière D",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine - Format: 1",
@@ -1799,7 +1799,7 @@
       },
       "properties": {
         "id": "paris_100",
-        "name": "47, rue de Saussure, Paris 75017e",
+        "name": "47, rue de Saussure",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1817,7 +1817,7 @@
       },
       "properties": {
         "id": "paris_101",
-        "name": "221, boulevard Pereire, Paris 75017e",
+        "name": "221, boulevard Pereire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1835,7 +1835,7 @@
       },
       "properties": {
         "id": "paris_102",
-        "name": "11-13, rue Jacques Kellner, Paris 75017e",
+        "name": "11-13, rue Jacques Kellner",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1853,7 +1853,7 @@
       },
       "properties": {
         "id": "paris_103",
-        "name": "15, rue Guersant, Paris 75017e",
+        "name": "15, rue Guersant",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -1871,7 +1871,7 @@
       },
       "properties": {
         "id": "paris_104",
-        "name": "114 Boulevard Berthier, Paris 75017e",
+        "name": "114 Boulevard Berthier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Angle Marechaux / rue de l Abbé Rousselot",
@@ -1889,7 +1889,7 @@
       },
       "properties": {
         "id": "paris_105",
-        "name": "12, rue Foucroy, Paris 75017e",
+        "name": "12, rue Foucroy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1907,7 +1907,7 @@
       },
       "properties": {
         "id": "paris_106",
-        "name": "119 Boulevard Pereire, Paris 75017e",
+        "name": "119 Boulevard Pereire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -1925,7 +1925,7 @@
       },
       "properties": {
         "id": "paris_107",
-        "name": "3 rue Ernest Roche, Paris 75017e",
+        "name": "3 rue Ernest Roche",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -1943,7 +1943,7 @@
       },
       "properties": {
         "id": "paris_108",
-        "name": "28, rue andré Brechet, Paris 75017e",
+        "name": "28, rue andré Brechet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -1961,7 +1961,7 @@
       },
       "properties": {
         "id": "paris_109",
-        "name": "79 rue de la Jonquière G, Paris 75017e",
+        "name": "79 rue de la Jonquière G",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -1979,7 +1979,7 @@
       },
       "properties": {
         "id": "paris_110",
-        "name": "101, rue de Saussure, Paris 75017e",
+        "name": "101, rue de Saussure",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -1997,7 +1997,7 @@
       },
       "properties": {
         "id": "paris_111",
-        "name": "28 Rue André Bréchet, Paris 75017e",
+        "name": "28 Rue André Bréchet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif Max Rousié",
@@ -2015,7 +2015,7 @@
       },
       "properties": {
         "id": "paris_112",
-        "name": "229, rue de Courcelles, Paris 75017e",
+        "name": "229, rue de Courcelles",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -2033,7 +2033,7 @@
       },
       "properties": {
         "id": "paris_113",
-        "name": "22, rue Jean Leclaire, Paris 75017e",
+        "name": "22, rue Jean Leclaire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -2051,7 +2051,7 @@
       },
       "properties": {
         "id": "paris_114",
-        "name": "88, boulevard Bessière, Paris 75017e",
+        "name": "88, boulevard Bessière",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire, panneau A",
@@ -2069,7 +2069,7 @@
       },
       "properties": {
         "id": "paris_115",
-        "name": "9 rue Fragonard, Paris 75017e",
+        "name": "9 rue Fragonard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -2087,7 +2087,7 @@
       },
       "properties": {
         "id": "paris_116",
-        "name": "88, boulevard Bessière, Paris 75017e",
+        "name": "88, boulevard Bessière",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire, panneau B",
@@ -2105,7 +2105,7 @@
       },
       "properties": {
         "id": "paris_117",
-        "name": "3 rue Francis Garnier, Paris 75017e",
+        "name": "3 rue Francis Garnier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -2123,7 +2123,7 @@
       },
       "properties": {
         "id": "paris_118",
-        "name": "26, rue Boulay, Paris 75017e",
+        "name": "26, rue Boulay",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif Bernard Lafay, angle rue de la Joncquière",
@@ -2141,7 +2141,7 @@
       },
       "properties": {
         "id": "paris_119",
-        "name": "Rue Torricelli D, Paris 75017e",
+        "name": "Rue Torricelli D",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -2159,7 +2159,7 @@
       },
       "properties": {
         "id": "paris_120",
-        "name": "11 rue Curnonsky, Paris 75017e",
+        "name": "11 rue Curnonsky",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Format: 1",
@@ -2177,7 +2177,7 @@
       },
       "properties": {
         "id": "paris_121",
-        "name": "21/23, avenue de Saint Ouen, Paris 75017e",
+        "name": "21/23, avenue de Saint Ouen",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -2195,7 +2195,7 @@
       },
       "properties": {
         "id": "paris_122",
-        "name": "26, rue Boulay, Paris 75017e",
+        "name": "26, rue Boulay",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif - Format: 1",
@@ -2213,7 +2213,7 @@
       },
       "properties": {
         "id": "paris_123",
-        "name": "16, rue du Colonel Moll, Paris 75017e",
+        "name": "16, rue du Colonel Moll",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -2231,7 +2231,7 @@
       },
       "properties": {
         "id": "paris_124",
-        "name": "221, boulevard Pereire, Paris 75017e",
+        "name": "221, boulevard Pereire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire - Format: 1",
@@ -2249,7 +2249,7 @@
       },
       "properties": {
         "id": "paris_125",
-        "name": "49, rue Legendre, Paris 75017e",
+        "name": "49, rue Legendre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2267,7 +2267,7 @@
       },
       "properties": {
         "id": "paris_126",
-        "name": "10, boulevard Murat, Paris 75016e",
+        "name": "10, boulevard Murat",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2285,7 +2285,7 @@
       },
       "properties": {
         "id": "paris_127",
-        "name": "64, rue Chardon Lagache, Paris 75016e",
+        "name": "64, rue Chardon Lagache",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2303,7 +2303,7 @@
       },
       "properties": {
         "id": "paris_128",
-        "name": "185, avenue de Versailles, Paris 75016e",
+        "name": "185, avenue de Versailles",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Lycée",
@@ -2321,7 +2321,7 @@
       },
       "properties": {
         "id": "paris_129",
-        "name": "41, avenue Boudon / angle rue du Père Brottier, Paris 75016e",
+        "name": "41, avenue Boudon / angle rue du Père Brottier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2339,7 +2339,7 @@
       },
       "properties": {
         "id": "paris_130",
-        "name": "56 bd Bruix stade Wimille, Paris 75016e",
+        "name": "56 bd Bruix stade Wimille",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2357,7 +2357,7 @@
       },
       "properties": {
         "id": "paris_131",
-        "name": "26, avenue du Général Sarail, Paris 75016e",
+        "name": "26, avenue du Général Sarail",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2375,7 +2375,7 @@
       },
       "properties": {
         "id": "paris_132",
-        "name": "60, boulevard Lannes, Paris 75016e",
+        "name": "60, boulevard Lannes",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2393,7 +2393,7 @@
       },
       "properties": {
         "id": "paris_133",
-        "name": "32, boulevard Lannes, Paris 75016e",
+        "name": "32, boulevard Lannes",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif et piscine",
@@ -2411,7 +2411,7 @@
       },
       "properties": {
         "id": "paris_134",
-        "name": "162, boulevard Murat, Paris 75016e",
+        "name": "162, boulevard Murat",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2429,7 +2429,7 @@
       },
       "properties": {
         "id": "paris_135",
-        "name": "20, rue de Musset, Paris 75016e",
+        "name": "20, rue de Musset",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque",
@@ -2447,7 +2447,7 @@
       },
       "properties": {
         "id": "paris_136",
-        "name": "15, rue des Bauches, Paris 75016e",
+        "name": "15, rue des Bauches",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2465,7 +2465,7 @@
       },
       "properties": {
         "id": "paris_137",
-        "name": "58, rue Erlanger, Paris 75016e",
+        "name": "58, rue Erlanger",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2483,7 +2483,7 @@
       },
       "properties": {
         "id": "paris_138",
-        "name": "13-15, rue Jean de la Fontaine, Paris 75016e",
+        "name": "13-15, rue Jean de la Fontaine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Conservatoire",
@@ -2501,7 +2501,7 @@
       },
       "properties": {
         "id": "paris_139",
-        "name": "66, rue Olivier de Serres, Paris 75015e",
+        "name": "66, rue Olivier de Serres",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2519,7 +2519,7 @@
       },
       "properties": {
         "id": "paris_140",
-        "name": "30/40, rue Emeriau, Paris 75015e",
+        "name": "30/40, rue Emeriau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2537,7 +2537,7 @@
       },
       "properties": {
         "id": "paris_141",
-        "name": "15, rue des Volontaires, Paris 75015e",
+        "name": "15, rue des Volontaires",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -2555,7 +2555,7 @@
       },
       "properties": {
         "id": "paris_142",
-        "name": "9, rue Jean Rey, Paris 75015e",
+        "name": "9, rue Jean Rey",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2573,7 +2573,7 @@
       },
       "properties": {
         "id": "paris_143",
-        "name": "146, avenue Félix Faure, Paris 75015e",
+        "name": "146, avenue Félix Faure",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2591,7 +2591,7 @@
       },
       "properties": {
         "id": "paris_144",
-        "name": "20, rue Falguieres, Paris 75015e",
+        "name": "20, rue Falguieres",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2609,7 +2609,7 @@
       },
       "properties": {
         "id": "paris_145",
-        "name": "17-19, rue Blomet, Paris 75015e",
+        "name": "17-19, rue Blomet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -2627,7 +2627,7 @@
       },
       "properties": {
         "id": "paris_146",
-        "name": "97, rue Ballard, Paris 75015e",
+        "name": "97, rue Ballard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2645,7 +2645,7 @@
       },
       "properties": {
         "id": "paris_147",
-        "name": "13, rue du Général Guillaumat, Paris 75015e",
+        "name": "13, rue du Général Guillaumat",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2663,7 +2663,7 @@
       },
       "properties": {
         "id": "paris_148",
-        "name": "11, rue Jean Rey, Paris 75015e",
+        "name": "11, rue Jean Rey",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "angle avenue de Suffren / rue Jean Rey",
@@ -2681,7 +2681,7 @@
       },
       "properties": {
         "id": "paris_149",
-        "name": "15, rue de Cherbourg, Paris 75015e",
+        "name": "15, rue de Cherbourg",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -2699,7 +2699,7 @@
       },
       "properties": {
         "id": "paris_150",
-        "name": "103, rue de la Croix Nivert, Paris 75015e",
+        "name": "103, rue de la Croix Nivert",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2717,7 +2717,7 @@
       },
       "properties": {
         "id": "paris_151",
-        "name": "50, rue Emeriau, Paris 75015e",
+        "name": "50, rue Emeriau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque",
@@ -2735,7 +2735,7 @@
       },
       "properties": {
         "id": "paris_152",
-        "name": "18, avenue de la prte Brancion, Paris 75015e",
+        "name": "18, avenue de la prte Brancion",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2753,7 +2753,7 @@
       },
       "properties": {
         "id": "paris_153",
-        "name": "77, rue d Alésia, Paris 75014e",
+        "name": "77, rue d Alésia",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -2771,7 +2771,7 @@
       },
       "properties": {
         "id": "paris_154",
-        "name": "93, rue d Alésia, Paris 75014e",
+        "name": "93, rue d Alésia",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Collège",
@@ -2789,7 +2789,7 @@
       },
       "properties": {
         "id": "paris_155",
-        "name": "132, rue d Alésia, Paris 75014e",
+        "name": "132, rue d Alésia",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2807,7 +2807,7 @@
       },
       "properties": {
         "id": "paris_156",
-        "name": "82, rue Pernetty, Paris 75014e",
+        "name": "82, rue Pernetty",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Crèche",
@@ -2825,7 +2825,7 @@
       },
       "properties": {
         "id": "paris_157",
-        "name": "14, rue d Alésia, Paris 75014e",
+        "name": "14, rue d Alésia",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -2843,7 +2843,7 @@
       },
       "properties": {
         "id": "paris_158",
-        "name": "55/61, rue Maurice Ripoche, Paris 75014e",
+        "name": "55/61, rue Maurice Ripoche",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -2861,7 +2861,7 @@
       },
       "properties": {
         "id": "paris_159",
-        "name": "18, avenue de la porte de Chatillon, Paris 75014e",
+        "name": "18, avenue de la porte de Chatillon",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2879,7 +2879,7 @@
       },
       "properties": {
         "id": "paris_160",
-        "name": "12, rue Severo, Paris 75014e",
+        "name": "12, rue Severo",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -2897,7 +2897,7 @@
       },
       "properties": {
         "id": "paris_161",
-        "name": "20-24, avenue Georges Lafenestre, Paris 75014e",
+        "name": "20-24, avenue Georges Lafenestre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -2915,7 +2915,7 @@
       },
       "properties": {
         "id": "paris_162",
-        "name": "18, avenue Marc Sangnier, Paris 75014e",
+        "name": "18, avenue Marc Sangnier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -2933,7 +2933,7 @@
       },
       "properties": {
         "id": "paris_163",
-        "name": "10 rue Huyghens, Paris 75014e",
+        "name": "10 rue Huyghens",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2951,7 +2951,7 @@
       },
       "properties": {
         "id": "paris_164",
-        "name": "14-18, avenue Georges Lafenestre, Paris 75014e",
+        "name": "14-18, avenue Georges Lafenestre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -2969,7 +2969,7 @@
       },
       "properties": {
         "id": "paris_165",
-        "name": "7, rue Paul Appell, Paris 75014e",
+        "name": "7, rue Paul Appell",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -2987,7 +2987,7 @@
       },
       "properties": {
         "id": "paris_166",
-        "name": "18, rue Jean Zay, Paris 75014e",
+        "name": "18, rue Jean Zay",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -3005,7 +3005,7 @@
       },
       "properties": {
         "id": "paris_167",
-        "name": "8 / 10, rue Balanchine, Paris 75013e",
+        "name": "8 / 10, rue Balanchine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -3023,7 +3023,7 @@
       },
       "properties": {
         "id": "paris_168",
-        "name": "rue Lachelier, Paris 75013e",
+        "name": "rue Lachelier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Place port au prince",
@@ -3041,7 +3041,7 @@
       },
       "properties": {
         "id": "paris_169",
-        "name": "39, rue des Cordelières, Paris 75013e",
+        "name": "39, rue des Cordelières",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -3059,7 +3059,7 @@
       },
       "properties": {
         "id": "paris_170",
-        "name": "11, rue Lahire, Paris 75013e",
+        "name": "11, rue Lahire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Mur",
@@ -3077,7 +3077,7 @@
       },
       "properties": {
         "id": "paris_171",
-        "name": "5 rue Levassor, Paris 75013e",
+        "name": "5 rue Levassor",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3095,7 +3095,7 @@
       },
       "properties": {
         "id": "paris_172",
-        "name": "4bis, avenue de Choisy, Paris 75013e",
+        "name": "4bis, avenue de Choisy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -3113,7 +3113,7 @@
       },
       "properties": {
         "id": "paris_173",
-        "name": "46, rue Jenner, Paris 75013e",
+        "name": "46, rue Jenner",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -3131,7 +3131,7 @@
       },
       "properties": {
         "id": "paris_174",
-        "name": "1, avenue Boutroux, Paris 75013e",
+        "name": "1, avenue Boutroux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3149,7 +3149,7 @@
       },
       "properties": {
         "id": "paris_175",
-        "name": "16, rue Franc Nohain, Paris 75013e",
+        "name": "16, rue Franc Nohain",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3167,7 +3167,7 @@
       },
       "properties": {
         "id": "paris_176",
-        "name": "Place de la Bergère d'Ivry, Paris 75013e",
+        "name": "Place de la Bergère d'Ivry",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -3185,7 +3185,7 @@
       },
       "properties": {
         "id": "paris_177",
-        "name": "81, boulevard Massena, Paris 75013e",
+        "name": "81, boulevard Massena",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3203,7 +3203,7 @@
       },
       "properties": {
         "id": "paris_178",
-        "name": "13, rue Vulpian, Paris 75013e",
+        "name": "13, rue Vulpian",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -3221,7 +3221,7 @@
       },
       "properties": {
         "id": "paris_179",
-        "name": "40, rue Vandrezanne, Paris 75013e",
+        "name": "40, rue Vandrezanne",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -3239,7 +3239,7 @@
       },
       "properties": {
         "id": "paris_180",
-        "name": "8, rue Kuss, Paris 75013e",
+        "name": "8, rue Kuss",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -3257,7 +3257,7 @@
       },
       "properties": {
         "id": "paris_181",
-        "name": "51 avenue de la Porte d'Ivry, Paris 75013e",
+        "name": "51 avenue de la Porte d'Ivry",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3275,7 +3275,7 @@
       },
       "properties": {
         "id": "paris_182",
-        "name": "17, avenue Edison, Paris 75013e",
+        "name": "17, avenue Edison",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3293,7 +3293,7 @@
       },
       "properties": {
         "id": "paris_183",
-        "name": "5bis, rue Eugène Oudine, Paris 75013e",
+        "name": "5bis, rue Eugène Oudine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -3311,7 +3311,7 @@
       },
       "properties": {
         "id": "paris_184",
-        "name": "12, rue du Docteur Laurent, Paris 75013e",
+        "name": "12, rue du Docteur Laurent",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3329,7 +3329,7 @@
       },
       "properties": {
         "id": "paris_185",
-        "name": "32, place Jeanne d'Arc, Paris 75013e",
+        "name": "32, place Jeanne d'Arc",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Mur",
@@ -3347,7 +3347,7 @@
       },
       "properties": {
         "id": "paris_186",
-        "name": "16, rue Wurtz, Paris 75013e",
+        "name": "16, rue Wurtz",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -3365,7 +3365,7 @@
       },
       "properties": {
         "id": "paris_187",
-        "name": "61, rue Dunois, Paris 75013e",
+        "name": "61, rue Dunois",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre Paris Anim'",
@@ -3383,7 +3383,7 @@
       },
       "properties": {
         "id": "paris_188",
-        "name": "42, rue du Javelot, Paris 75013e",
+        "name": "42, rue du Javelot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -3401,7 +3401,7 @@
       },
       "properties": {
         "id": "paris_189",
-        "name": "3, rue Caillaux, Paris 75013e",
+        "name": "3, rue Caillaux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3419,7 +3419,7 @@
       },
       "properties": {
         "id": "paris_190",
-        "name": "13, rue Caillaux, Paris 75013e",
+        "name": "13, rue Caillaux",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Maison de la vie associative et citoyenne",
@@ -3437,7 +3437,7 @@
       },
       "properties": {
         "id": "paris_191",
-        "name": "58, rue de Clisson, Paris 75013e",
+        "name": "58, rue de Clisson",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Crèche",
@@ -3455,7 +3455,7 @@
       },
       "properties": {
         "id": "paris_192",
-        "name": "79, avenue des Gobelins, Paris 75013e",
+        "name": "79, avenue des Gobelins",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Mairie",
@@ -3473,7 +3473,7 @@
       },
       "properties": {
         "id": "paris_193",
-        "name": "6, rue Baptiste Renard, Paris 75013e",
+        "name": "6, rue Baptiste Renard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Face au 6",
@@ -3491,7 +3491,7 @@
       },
       "properties": {
         "id": "paris_194",
-        "name": "Place Pinel, Paris 75013e",
+        "name": "Place Pinel",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Entrée du Square - Format: 1",
@@ -3509,7 +3509,7 @@
       },
       "properties": {
         "id": "paris_195",
-        "name": "17 rue Baudricourt, Paris 75013e",
+        "name": "17 rue Baudricourt",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3527,7 +3527,7 @@
       },
       "properties": {
         "id": "paris_196",
-        "name": "5, place Paul Verlaine, Paris 75013e",
+        "name": "5, place Paul Verlaine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -3545,7 +3545,7 @@
       },
       "properties": {
         "id": "paris_197",
-        "name": "40, rue des Meuniers, Paris 75012e",
+        "name": "40, rue des Meuniers",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3563,7 +3563,7 @@
       },
       "properties": {
         "id": "paris_198",
-        "name": "34, boulevard Carnot, Paris 75012e",
+        "name": "34, boulevard Carnot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Piscine",
@@ -3581,7 +3581,7 @@
       },
       "properties": {
         "id": "paris_199",
-        "name": "253bis/253 ter, avenue Daumesnil, Paris 75012e",
+        "name": "253bis/253 ter, avenue Daumesnil",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -3599,7 +3599,7 @@
       },
       "properties": {
         "id": "paris_200",
-        "name": "3, place du Cardinal Lavigerie, Paris 75012e",
+        "name": "3, place du Cardinal Lavigerie",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3617,7 +3617,7 @@
       },
       "properties": {
         "id": "paris_201",
-        "name": "6, rue de Cotte, Paris 75012e",
+        "name": "6, rue de Cotte",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3635,7 +3635,7 @@
       },
       "properties": {
         "id": "paris_202",
-        "name": "47 rue de Picpus, Paris 75012e",
+        "name": "47 rue de Picpus",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole - à droite de l'entrée - Format: 1",
@@ -3653,7 +3653,7 @@
       },
       "properties": {
         "id": "paris_203",
-        "name": "70, avenue Daumesnil, Paris 75012e",
+        "name": "70, avenue Daumesnil",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3671,7 +3671,7 @@
       },
       "properties": {
         "id": "paris_204",
-        "name": "83 avenue du Général Michel Bizot, Paris 75012e",
+        "name": "83 avenue du Général Michel Bizot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole - à droite de l'entrée - Format: 1",
@@ -3689,7 +3689,7 @@
       },
       "properties": {
         "id": "paris_205",
-        "name": "16 rue de Marsoulan, Paris 75012e",
+        "name": "16 rue de Marsoulan",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole - à gauche de l'entrée - Format: 1",
@@ -3707,7 +3707,7 @@
       },
       "properties": {
         "id": "paris_206",
-        "name": "68, boulevard Poniatowski, Paris 75012e",
+        "name": "68, boulevard Poniatowski",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3725,7 +3725,7 @@
       },
       "properties": {
         "id": "paris_207",
-        "name": "6, rue pommard, Paris 75012e",
+        "name": "6, rue pommard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3743,7 +3743,7 @@
       },
       "properties": {
         "id": "paris_208",
-        "name": "315, rue de Charenton, Paris 75012e",
+        "name": "315, rue de Charenton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3761,7 +3761,7 @@
       },
       "properties": {
         "id": "paris_209",
-        "name": "6, avenue Maurice Ravel, Paris 75012e",
+        "name": "6, avenue Maurice Ravel",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre Paris Anim'",
@@ -3779,7 +3779,7 @@
       },
       "properties": {
         "id": "paris_210",
-        "name": "4, place du Cardinal Lavigerie, Paris 75012e",
+        "name": "4, place du Cardinal Lavigerie",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3797,7 +3797,7 @@
       },
       "properties": {
         "id": "paris_211",
-        "name": "24, rue Louis Braille, Paris 75012e",
+        "name": "24, rue Louis Braille",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3815,7 +3815,7 @@
       },
       "properties": {
         "id": "paris_212",
-        "name": "51 rue François Truffaut, Paris 75012e",
+        "name": "51 rue François Truffaut",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre Paris Anim' - à droite de l'entrée",
@@ -3833,7 +3833,7 @@
       },
       "properties": {
         "id": "paris_213",
-        "name": "40 Jacques Hillairet, Paris 75012e",
+        "name": "40 Jacques Hillairet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole - à gauche de l'entrée - Format: 1",
@@ -3851,7 +3851,7 @@
       },
       "properties": {
         "id": "paris_214",
-        "name": "26/28 boulevard Carnot, Paris 75012e",
+        "name": "26/28 boulevard Carnot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3869,7 +3869,7 @@
       },
       "properties": {
         "id": "paris_215",
-        "name": "115, boulevard Charonne, Paris 75011e",
+        "name": "115, boulevard Charonne",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3887,7 +3887,7 @@
       },
       "properties": {
         "id": "paris_216",
-        "name": "107, boulevard Voltaire, Paris 75011e",
+        "name": "107, boulevard Voltaire",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Maire annexe",
@@ -3905,7 +3905,7 @@
       },
       "properties": {
         "id": "paris_217",
-        "name": "49, boulevard Menilmontant, Paris 75011e",
+        "name": "49, boulevard Menilmontant",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -3923,7 +3923,7 @@
       },
       "properties": {
         "id": "paris_218",
-        "name": "18, rue Faidherbe, Paris 75011e",
+        "name": "18, rue Faidherbe",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque",
@@ -3941,7 +3941,7 @@
       },
       "properties": {
         "id": "paris_219",
-        "name": "4, rue Keller, Paris 75011e",
+        "name": "4, rue Keller",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -3959,7 +3959,7 @@
       },
       "properties": {
         "id": "paris_220",
-        "name": "4bis, rue de la Présentation, Paris 75011e",
+        "name": "4bis, rue de la Présentation",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -3977,7 +3977,7 @@
       },
       "properties": {
         "id": "paris_221",
-        "name": "31, rue Saint Bernard, Paris 75011e",
+        "name": "31, rue Saint Bernard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -3995,7 +3995,7 @@
       },
       "properties": {
         "id": "paris_222",
-        "name": "22, rue Saint Maur, Paris 75011e",
+        "name": "22, rue Saint Maur",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -4013,7 +4013,7 @@
       },
       "properties": {
         "id": "paris_223",
-        "name": "3, passage Bullourde, Paris 75011e",
+        "name": "3, passage Bullourde",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -4031,7 +4031,7 @@
       },
       "properties": {
         "id": "paris_224",
-        "name": "2, rue Japy, Paris 75011e",
+        "name": "2, rue Japy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -4049,7 +4049,7 @@
       },
       "properties": {
         "id": "paris_225",
-        "name": "39, rue Alexandre Dumas, Paris 75011e",
+        "name": "39, rue Alexandre Dumas",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau A",
@@ -4067,7 +4067,7 @@
       },
       "properties": {
         "id": "paris_226",
-        "name": "15, Cour Debille, Paris 75011e",
+        "name": "15, Cour Debille",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Crèche",
@@ -4085,7 +4085,7 @@
       },
       "properties": {
         "id": "paris_227",
-        "name": "39, rue des Trois Bornes, Paris 75011e",
+        "name": "39, rue des Trois Bornes",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -4103,7 +4103,7 @@
       },
       "properties": {
         "id": "paris_228",
-        "name": "1, rue Pihet, Paris 75011e",
+        "name": "1, rue Pihet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -4121,7 +4121,7 @@
       },
       "properties": {
         "id": "paris_229",
-        "name": "14, rue Merlin, Paris 75011e",
+        "name": "14, rue Merlin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -4139,7 +4139,7 @@
       },
       "properties": {
         "id": "paris_230",
-        "name": "24, rue Saint Sébastien, Paris 75011e",
+        "name": "24, rue Saint Sébastien",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -4157,7 +4157,7 @@
       },
       "properties": {
         "id": "paris_231",
-        "name": "66/72 avenue Philippe Auguste, Paris 75011e",
+        "name": "66/72 avenue Philippe Auguste",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -4175,7 +4175,7 @@
       },
       "properties": {
         "id": "paris_232",
-        "name": "108, avenue Philippe Auguste, Paris 75011e",
+        "name": "108, avenue Philippe Auguste",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -4193,7 +4193,7 @@
       },
       "properties": {
         "id": "paris_233",
-        "name": "118, quai de Jemmapes, Paris 75010e",
+        "name": "118, quai de Jemmapes",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -4211,7 +4211,7 @@
       },
       "properties": {
         "id": "paris_234",
-        "name": "6, rue Pierre Bullet, Paris 75010e",
+        "name": "6, rue Pierre Bullet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Conservatoire municipal",
@@ -4229,7 +4229,7 @@
       },
       "properties": {
         "id": "paris_235",
-        "name": "26, boulevard Bonne Nouvelle, Paris 75010e",
+        "name": "26, boulevard Bonne Nouvelle",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau A",
@@ -4247,7 +4247,7 @@
       },
       "properties": {
         "id": "paris_236",
-        "name": "26, boulevard Bonne Nouvelle, Paris 75010e",
+        "name": "26, boulevard Bonne Nouvelle",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau B",
@@ -4265,7 +4265,7 @@
       },
       "properties": {
         "id": "paris_237",
-        "name": "Début rue Alibert, Paris 75010e",
+        "name": "Début rue Alibert",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Angle Alibert / Claude Vellefaux",
@@ -4283,7 +4283,7 @@
       },
       "properties": {
         "id": "paris_238",
-        "name": "6 rue de Metz, Paris 75010e",
+        "name": "6 rue de Metz",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -4301,7 +4301,7 @@
       },
       "properties": {
         "id": "paris_239",
-        "name": "48, rue du Chateau Landon, Paris 75010e",
+        "name": "48, rue du Chateau Landon",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -4319,7 +4319,7 @@
       },
       "properties": {
         "id": "paris_240",
-        "name": "33, rue Milton, Paris 75009e",
+        "name": "33, rue Milton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase - Format: 1",
@@ -4337,7 +4337,7 @@
       },
       "properties": {
         "id": "paris_241",
-        "name": "5, rue Milton, Paris 75009e",
+        "name": "5, rue Milton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4355,7 +4355,7 @@
       },
       "properties": {
         "id": "paris_242",
-        "name": "22, rue Duperré, Paris 75009e",
+        "name": "22, rue Duperré",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "TEP - Format: 1",
@@ -4373,7 +4373,7 @@
       },
       "properties": {
         "id": "paris_243",
-        "name": "37, rue Victor Massé, Paris 75009e",
+        "name": "37, rue Victor Massé",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Maison de la vie associative et citoyenne - annexe",
@@ -4391,7 +4391,7 @@
       },
       "properties": {
         "id": "paris_244",
-        "name": "130, boulevard de Clichy, Paris 75009e",
+        "name": "130, boulevard de Clichy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau A : face au 130",
@@ -4409,7 +4409,7 @@
       },
       "properties": {
         "id": "paris_245",
-        "name": "32/34, rue de Bruxelles, Paris 75009e",
+        "name": "32/34, rue de Bruxelles",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4427,7 +4427,7 @@
       },
       "properties": {
         "id": "paris_246",
-        "name": "13, rue Turgot, Paris 75009e",
+        "name": "13, rue Turgot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Crèche - Format: 1",
@@ -4445,7 +4445,7 @@
       },
       "properties": {
         "id": "paris_247",
-        "name": "12, rue Chaptal, Paris 75009e",
+        "name": "12, rue Chaptal",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -4463,7 +4463,7 @@
       },
       "properties": {
         "id": "paris_248",
-        "name": "34, rue Buffault, Paris 75009e",
+        "name": "34, rue Buffault",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4481,7 +4481,7 @@
       },
       "properties": {
         "id": "paris_249",
-        "name": "9, rue Blanche, Paris 75009e",
+        "name": "9, rue Blanche",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4499,7 +4499,7 @@
       },
       "properties": {
         "id": "paris_250",
-        "name": "26, rue Buffault, Paris 75009e",
+        "name": "26, rue Buffault",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase - Format: 1",
@@ -4517,7 +4517,7 @@
       },
       "properties": {
         "id": "paris_251",
-        "name": "32, rue Buffault, Paris 75009e",
+        "name": "32, rue Buffault",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4535,7 +4535,7 @@
       },
       "properties": {
         "id": "paris_252",
-        "name": "54, rue Jean-Baptiste Pigalle, Paris 75009e",
+        "name": "54, rue Jean-Baptiste Pigalle",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Maison de la vie associative et citoyenne",
@@ -4553,7 +4553,7 @@
       },
       "properties": {
         "id": "paris_253",
-        "name": "36, rue Pierre Semard, Paris 75009e",
+        "name": "36, rue Pierre Semard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau B",
@@ -4571,7 +4571,7 @@
       },
       "properties": {
         "id": "paris_254",
-        "name": "36, rue Pierre Semard, Paris 75009e",
+        "name": "36, rue Pierre Semard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau A",
@@ -4589,7 +4589,7 @@
       },
       "properties": {
         "id": "paris_255",
-        "name": "9bis rue Blanche, Paris 75009e",
+        "name": "9bis rue Blanche",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4607,7 +4607,7 @@
       },
       "properties": {
         "id": "paris_256",
-        "name": "68/70 rue Rochechouart, Paris 75009e",
+        "name": "68/70 rue Rochechouart",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4625,7 +4625,7 @@
       },
       "properties": {
         "id": "paris_257",
-        "name": "19, rue Milton, Paris 75009e",
+        "name": "19, rue Milton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4643,7 +4643,7 @@
       },
       "properties": {
         "id": "paris_258",
-        "name": "24, rue de Rochechouart, Paris 75009e",
+        "name": "24, rue de Rochechouart",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre Paris Anim' - Format: 1",
@@ -4661,7 +4661,7 @@
       },
       "properties": {
         "id": "paris_259",
-        "name": "5, rue Milton, Paris 75009e",
+        "name": "5, rue Milton",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4679,7 +4679,7 @@
       },
       "properties": {
         "id": "paris_260",
-        "name": "12, rue Clauzel, Paris 75009e",
+        "name": "12, rue Clauzel",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4697,7 +4697,7 @@
       },
       "properties": {
         "id": "paris_261",
-        "name": "22, rue de Rochechouart, Paris 75009e",
+        "name": "22, rue de Rochechouart",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase - Format: 1",
@@ -4715,7 +4715,7 @@
       },
       "properties": {
         "id": "paris_262",
-        "name": "11, rue Drouot, Paris 75009e",
+        "name": "11, rue Drouot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Mur",
@@ -4733,7 +4733,7 @@
       },
       "properties": {
         "id": "paris_263",
-        "name": "130, boulevard de Clichy, Paris 75009e",
+        "name": "130, boulevard de Clichy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau B : face au 130",
@@ -4751,7 +4751,7 @@
       },
       "properties": {
         "id": "paris_264",
-        "name": "30, rue Rodier, Paris 75009e",
+        "name": "30, rue Rodier",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -4769,7 +4769,7 @@
       },
       "properties": {
         "id": "paris_265",
-        "name": "10, rue Hippolyte Lebas, Paris 75009e",
+        "name": "10, rue Hippolyte Lebas",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -4787,7 +4787,7 @@
       },
       "properties": {
         "id": "paris_266",
-        "name": "15, rue Turgot, Paris 75009e",
+        "name": "15, rue Turgot",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire - Format: 1",
@@ -4805,7 +4805,7 @@
       },
       "properties": {
         "id": "paris_267",
-        "name": "28, rue du Général Foy, Paris 75008e",
+        "name": "28, rue du Général Foy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau A",
@@ -4823,7 +4823,7 @@
       },
       "properties": {
         "id": "paris_268",
-        "name": "28, rue du Général Foy, Paris 75008e",
+        "name": "28, rue du Général Foy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Panneau B",
@@ -4841,7 +4841,7 @@
       },
       "properties": {
         "id": "paris_269",
-        "name": "10, rue Paul Baudry, Paris 75008e",
+        "name": "10, rue Paul Baudry",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire",
@@ -4859,7 +4859,7 @@
       },
       "properties": {
         "id": "paris_270",
-        "name": "16, rue de Roquepine, Paris 75008e",
+        "name": "16, rue de Roquepine",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -4877,7 +4877,7 @@
       },
       "properties": {
         "id": "paris_271",
-        "name": "28, avenue Rapp, Paris 75007e",
+        "name": "28, avenue Rapp",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -4895,7 +4895,7 @@
       },
       "properties": {
         "id": "paris_272",
-        "name": "48, rue Vaneau, Paris 75007e",
+        "name": "48, rue Vaneau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -4913,7 +4913,7 @@
       },
       "properties": {
         "id": "paris_273",
-        "name": "4, rue Cler, Paris 75007e",
+        "name": "4, rue Cler",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -4931,7 +4931,7 @@
       },
       "properties": {
         "id": "paris_274",
-        "name": "1, rue du Général Camou, Paris 75007e",
+        "name": "1, rue du Général Camou",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole primaire",
@@ -4949,7 +4949,7 @@
       },
       "properties": {
         "id": "paris_275",
-        "name": "37, avenue de la Bourdonnais, Paris 75007e",
+        "name": "37, avenue de la Bourdonnais",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -4967,7 +4967,7 @@
       },
       "properties": {
         "id": "paris_276",
-        "name": "Place de Sydney, Paris 75007e",
+        "name": "Place de Sydney",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -4985,7 +4985,7 @@
       },
       "properties": {
         "id": "paris_277",
-        "name": "27, rue Las Casés, Paris 75007e",
+        "name": "27, rue Las Casés",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -5003,7 +5003,7 @@
       },
       "properties": {
         "id": "paris_278",
-        "name": "12, rue Saint Benoit, Paris 75006e",
+        "name": "12, rue Saint Benoit",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -5021,7 +5021,7 @@
       },
       "properties": {
         "id": "paris_279",
-        "name": "7, rue du Jardinet, Paris 75006e",
+        "name": "7, rue du Jardinet",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire - Format: 1",
@@ -5039,7 +5039,7 @@
       },
       "properties": {
         "id": "paris_280",
-        "name": "39, rue Saint-André des Arts, Paris 75006e",
+        "name": "39, rue Saint-André des Arts",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -5057,7 +5057,7 @@
       },
       "properties": {
         "id": "paris_281",
-        "name": "12, rue Lobineau, Paris 75006e",
+        "name": "12, rue Lobineau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif Saint-Germain - Format: 1",
@@ -5075,7 +5075,7 @@
       },
       "properties": {
         "id": "paris_282",
-        "name": "12, rue Saint-Benoît, Paris 75006e",
+        "name": "12, rue Saint-Benoît",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire - Format: 1",
@@ -5093,7 +5093,7 @@
       },
       "properties": {
         "id": "paris_283",
-        "name": "9, rue de Vaugirard, Paris 75006e",
+        "name": "9, rue de Vaugirard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire - Format: 1",
@@ -5111,7 +5111,7 @@
       },
       "properties": {
         "id": "paris_284",
-        "name": "6, rue Littré, Paris 75006e",
+        "name": "6, rue Littré",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire - Format: 1",
@@ -5129,7 +5129,7 @@
       },
       "properties": {
         "id": "paris_285",
-        "name": "87, rue de Vaugirard, Paris 75006e",
+        "name": "87, rue de Vaugirard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase Littré - Format: 1",
@@ -5147,7 +5147,7 @@
       },
       "properties": {
         "id": "paris_286",
-        "name": "42, rue Madame, Paris 75006e",
+        "name": "42, rue Madame",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole élémentaire - Format: 1",
@@ -5165,7 +5165,7 @@
       },
       "properties": {
         "id": "paris_287",
-        "name": "85, boulevard Raspail, Paris 75006e",
+        "name": "85, boulevard Raspail",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Halte-garderie/PMI",
@@ -5183,7 +5183,7 @@
       },
       "properties": {
         "id": "paris_288",
-        "name": "27, rue de Poissy, Paris 75005e",
+        "name": "27, rue de Poissy",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle",
@@ -5201,7 +5201,7 @@
       },
       "properties": {
         "id": "paris_289",
-        "name": "50, rue Lacépède, Paris 75005e",
+        "name": "50, rue Lacépède",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bains-Douches - Format: 1",
@@ -5219,7 +5219,7 @@
       },
       "properties": {
         "id": "paris_290",
-        "name": "10, rue Vauquelin, Paris 75005e",
+        "name": "10, rue Vauquelin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5237,7 +5237,7 @@
       },
       "properties": {
         "id": "paris_291",
-        "name": "15 bis, rue Buffon, Paris 75005e",
+        "name": "15 bis, rue Buffon",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle Buffon - Format: 1",
@@ -5255,7 +5255,7 @@
       },
       "properties": {
         "id": "paris_292",
-        "name": "74, rue Mouffetard, Paris 75005e",
+        "name": "74, rue Mouffetard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Bibliothèque - Format: 1",
@@ -5273,7 +5273,7 @@
       },
       "properties": {
         "id": "paris_293",
-        "name": "1, rue Jean Calvin, Paris 75005e",
+        "name": "1, rue Jean Calvin",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5291,7 +5291,7 @@
       },
       "properties": {
         "id": "paris_294",
-        "name": "39 bis, rue Poliveau, Paris 75005e",
+        "name": "39 bis, rue Poliveau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Creche municipale - Format: 1",
@@ -5309,7 +5309,7 @@
       },
       "properties": {
         "id": "paris_295",
-        "name": "10, rue Pierre Nicole, Paris 75005e",
+        "name": "10, rue Pierre Nicole",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Gymnase",
@@ -5327,7 +5327,7 @@
       },
       "properties": {
         "id": "paris_296",
-        "name": "97, rue Mouffetard, Paris 75005e",
+        "name": "97, rue Mouffetard",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole maternelle - Format: 1",
@@ -5345,7 +5345,7 @@
       },
       "properties": {
         "id": "paris_297",
-        "name": "45, rue Lhomond, Paris 75005e",
+        "name": "45, rue Lhomond",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Mur",
@@ -5363,7 +5363,7 @@
       },
       "properties": {
         "id": "paris_298",
-        "name": "11, rue Valette, Paris 75005e",
+        "name": "11, rue Valette",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Creche - Format: 1",
@@ -5381,7 +5381,7 @@
       },
       "properties": {
         "id": "paris_299",
-        "name": "3, rue de l'Epée de Bois, Paris 75005e",
+        "name": "3, rue de l'Epée de Bois",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre de santé",
@@ -5399,7 +5399,7 @@
       },
       "properties": {
         "id": "paris_300",
-        "name": "3, rue de l'Epée de Bois, Paris 75005e",
+        "name": "3, rue de l'Epée de Bois",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre de santé - Format: 1",
@@ -5417,7 +5417,7 @@
       },
       "properties": {
         "id": "paris_301",
-        "name": "38, boulevard Henri IV, Paris 75004e",
+        "name": "38, boulevard Henri IV",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5435,7 +5435,7 @@
       },
       "properties": {
         "id": "paris_302",
-        "name": "5/7, rue Neuve Saint Pierre, Paris 75004e",
+        "name": "5/7, rue Neuve Saint Pierre",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -5453,7 +5453,7 @@
       },
       "properties": {
         "id": "paris_303",
-        "name": "21, rue Saint Louis en l'Isle, Paris 75004e",
+        "name": "21, rue Saint Louis en l'Isle",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole",
@@ -5471,7 +5471,7 @@
       },
       "properties": {
         "id": "paris_304",
-        "name": "4, rue de Lobau, Paris 75004e",
+        "name": "4, rue de Lobau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5489,7 +5489,7 @@
       },
       "properties": {
         "id": "paris_305",
-        "name": "4 rue de Lobau, Paris 75004e",
+        "name": "4 rue de Lobau",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5507,7 +5507,7 @@
       },
       "properties": {
         "id": "paris_306",
-        "name": "25, rue de Rivoli, Paris 75004e",
+        "name": "25, rue de Rivoli",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5525,7 +5525,7 @@
       },
       "properties": {
         "id": "paris_307",
-        "name": "8 rue Michel Lecomte, Paris 75003e",
+        "name": "8 rue Michel Lecomte",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Centre sportif",
@@ -5543,7 +5543,7 @@
       },
       "properties": {
         "id": "paris_308",
-        "name": "64 rue de Beaubourg, Paris 75003e",
+        "name": "64 rue de Beaubourg",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Groupe scolaire",
@@ -5561,7 +5561,7 @@
       },
       "properties": {
         "id": "paris_309",
-        "name": "71, rue de Richelieu, Paris 75002e",
+        "name": "71, rue de Richelieu",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Affichage associatif et d'opinion",
@@ -5579,7 +5579,7 @@
       },
       "properties": {
         "id": "paris_310",
-        "name": "3, rue de la Jussienne, Paris 75002e",
+        "name": "3, rue de la Jussienne",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole",
@@ -5597,7 +5597,7 @@
       },
       "properties": {
         "id": "paris_311",
-        "name": "19, rue de l'arbre sec, Paris 75001e",
+        "name": "19, rue de l'arbre sec",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole",
@@ -5615,7 +5615,7 @@
       },
       "properties": {
         "id": "paris_312",
-        "name": "28, rue Cambon, Paris 75001e",
+        "name": "28, rue Cambon",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole",
@@ -5633,7 +5633,7 @@
       },
       "properties": {
         "id": "paris_313",
-        "name": "11, rue d Argenteuil, Paris 75001e",
+        "name": "11, rue d Argenteuil",
         "city": "Paris",
         "type": "Affichage libre",
         "notes": "Ecole",

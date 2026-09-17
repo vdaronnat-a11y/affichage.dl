@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "toulouse_1",
-        "name": "Chemin des Maraîchers, Toulouse",
+        "name": "Chemin des Maraîchers",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "toulouse_2",
-        "name": "Allées Gabriel Bienes, Toulouse",
+        "name": "Allées Gabriel Bienes",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "toulouse_3",
-        "name": "Rue Gallois, Toulouse",
+        "name": "Rue Gallois",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "toulouse_4",
-        "name": "Route de Narbonne, Toulouse",
+        "name": "Route de Narbonne",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "toulouse_5",
-        "name": "66 Chemin de Basso Cambo, Toulouse",
+        "name": "66 Chemin de Basso Cambo",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "toulouse_6",
-        "name": "Rue Albert Carovis, Toulouse",
+        "name": "Rue Albert Carovis",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -125,7 +125,7 @@
       },
       "properties": {
         "id": "toulouse_7",
-        "name": "Boulevard Silvio Trentin, Toulouse",
+        "name": "Boulevard Silvio Trentin",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -143,7 +143,7 @@
       },
       "properties": {
         "id": "toulouse_8",
-        "name": "Allée de Bellefontaine, Toulouse",
+        "name": "Allée de Bellefontaine",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -161,7 +161,7 @@
       },
       "properties": {
         "id": "toulouse_9",
-        "name": "263 Avenue de Casselardit, Toulouse",
+        "name": "263 Avenue de Casselardit",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -179,7 +179,7 @@
       },
       "properties": {
         "id": "toulouse_10",
-        "name": "39 rue des Amidonniers, Toulouse",
+        "name": "39 rue des Amidonniers",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -197,7 +197,7 @@
       },
       "properties": {
         "id": "toulouse_11",
-        "name": "Place Cuvier, Toulouse",
+        "name": "Place Cuvier",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "id": "toulouse_12",
-        "name": "Rue Baillaud, Toulouse",
+        "name": "Rue Baillaud",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -233,7 +233,7 @@
       },
       "properties": {
         "id": "toulouse_13",
-        "name": "Rue Jean Mermoz, Toulouse",
+        "name": "Rue Jean Mermoz",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "toulouse_14",
-        "name": "Avenue de Castres, Toulouse",
+        "name": "Avenue de Castres",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -269,7 +269,7 @@
       },
       "properties": {
         "id": "toulouse_15",
-        "name": "Avenue Albert Bedouce, Toulouse",
+        "name": "Avenue Albert Bedouce",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -287,7 +287,7 @@
       },
       "properties": {
         "id": "toulouse_16",
-        "name": "Barrière de Paris - angle boulevard de Suisse, Toulouse",
+        "name": "Barrière de Paris - angle boulevard de Suisse",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "toulouse_17",
-        "name": "Place commerciale Empalot, Toulouse",
+        "name": "Place commerciale Empalot",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -323,7 +323,7 @@
       },
       "properties": {
         "id": "toulouse_18",
-        "name": "place Martin Luther King, Toulouse",
+        "name": "place Martin Luther King",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "id": "toulouse_19",
-        "name": "Boulevard Armand Duportal - cité administrative, Toulouse",
+        "name": "Boulevard Armand Duportal - cité administrative",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "id": "toulouse_20",
-        "name": "Boulevard d'Arcole - rue Jean Rancy, Toulouse",
+        "name": "Boulevard d'Arcole - rue Jean Rancy",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -377,7 +377,7 @@
       },
       "properties": {
         "id": "toulouse_21",
-        "name": "61 avenue de l'URSS, Toulouse",
+        "name": "61 avenue de l'URSS",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -395,7 +395,7 @@
       },
       "properties": {
         "id": "toulouse_22",
-        "name": "Avenue Passerieu, Toulouse",
+        "name": "Avenue Passerieu",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -413,7 +413,7 @@
       },
       "properties": {
         "id": "toulouse_23",
-        "name": "Place de l'Ormeau, Toulouse",
+        "name": "Place de l'Ormeau",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -431,7 +431,7 @@
       },
       "properties": {
         "id": "toulouse_24",
-        "name": "21 allées Paul Sabatier, Toulouse",
+        "name": "21 allées Paul Sabatier",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -449,7 +449,7 @@
       },
       "properties": {
         "id": "toulouse_25",
-        "name": "Barrière de Lombez, Toulouse",
+        "name": "Barrière de Lombez",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -467,7 +467,7 @@
       },
       "properties": {
         "id": "toulouse_26",
-        "name": "Rue Bourrassol - place des Abattoirs, Toulouse",
+        "name": "Rue Bourrassol - place des Abattoirs",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "toulouse_27",
-        "name": "Boulevard de Suisse - boulevard de l'Embouchure, Toulouse",
+        "name": "Boulevard de Suisse - boulevard de l'Embouchure",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -503,7 +503,7 @@
       },
       "properties": {
         "id": "toulouse_28",
-        "name": "Barrière de Bayonne - boulevard Jean Brunhes, Toulouse",
+        "name": "Barrière de Bayonne - boulevard Jean Brunhes",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "toulouse_29",
-        "name": "Place Bouillère - Basso Cambo, Toulouse",
+        "name": "Place Bouillère - Basso Cambo",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "toulouse_30",
-        "name": "Boulevard Thibault - angle avenue de Larrieu à côté du RIS, Toulouse",
+        "name": "Boulevard Thibault - angle avenue de Larrieu à côté du RIS",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "toulouse_31",
-        "name": "Allée de brienne, Toulouse",
+        "name": "Allée de brienne",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -575,7 +575,7 @@
       },
       "properties": {
         "id": "toulouse_32",
-        "name": "Allée de Brienne, Toulouse",
+        "name": "Allée de Brienne",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -593,7 +593,7 @@
       },
       "properties": {
         "id": "toulouse_33",
-        "name": "275 route de Seysses, Toulouse",
+        "name": "275 route de Seysses",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -611,7 +611,7 @@
       },
       "properties": {
         "id": "toulouse_34",
-        "name": "110 route de Blagnac, Toulouse",
+        "name": "110 route de Blagnac",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -629,7 +629,7 @@
       },
       "properties": {
         "id": "toulouse_35",
-        "name": "Boulevard Jules Michelet, Toulouse",
+        "name": "Boulevard Jules Michelet",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -647,7 +647,7 @@
       },
       "properties": {
         "id": "toulouse_36",
-        "name": "Voie du TOEC - Zénith, Toulouse",
+        "name": "Voie du TOEC - Zénith",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -665,7 +665,7 @@
       },
       "properties": {
         "id": "toulouse_37",
-        "name": "Rue Xavier Darrasse, Toulouse",
+        "name": "Rue Xavier Darrasse",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -683,7 +683,7 @@
       },
       "properties": {
         "id": "toulouse_38",
-        "name": "1 route d'Agde, Toulouse",
+        "name": "1 route d'Agde",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -701,7 +701,7 @@
       },
       "properties": {
         "id": "toulouse_39",
-        "name": "2 place Russel, Toulouse",
+        "name": "2 place Russel",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "toulouse_40",
-        "name": "Chemin de Pouvourville, Toulouse",
+        "name": "Chemin de Pouvourville",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -737,7 +737,7 @@
       },
       "properties": {
         "id": "toulouse_41",
-        "name": "Avenue de Tabar, Toulouse",
+        "name": "Avenue de Tabar",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -755,7 +755,7 @@
       },
       "properties": {
         "id": "toulouse_42",
-        "name": "Place Alphonse Jourdain, Toulouse",
+        "name": "Place Alphonse Jourdain",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -773,7 +773,7 @@
       },
       "properties": {
         "id": "toulouse_43",
-        "name": "21 avenue des écoles jules julien, Toulouse",
+        "name": "21 avenue des écoles jules julien",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -791,7 +791,7 @@
       },
       "properties": {
         "id": "toulouse_44",
-        "name": "Place des Glieres, Toulouse",
+        "name": "Place des Glieres",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -809,7 +809,7 @@
       },
       "properties": {
         "id": "toulouse_45",
-        "name": "Place de Soupetard, Toulouse",
+        "name": "Place de Soupetard",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -827,7 +827,7 @@
       },
       "properties": {
         "id": "toulouse_46",
-        "name": "237 avenue de Fronton, Toulouse",
+        "name": "237 avenue de Fronton",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -845,7 +845,7 @@
       },
       "properties": {
         "id": "toulouse_47",
-        "name": "Allée de Barcelone, Toulouse",
+        "name": "Allée de Barcelone",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -863,7 +863,7 @@
       },
       "properties": {
         "id": "toulouse_48",
-        "name": "1 rue René Sentenac, Toulouse",
+        "name": "1 rue René Sentenac",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",
@@ -881,7 +881,7 @@
       },
       "properties": {
         "id": "toulouse_49",
-        "name": "Place Marius Pinel, Toulouse",
+        "name": "Place Marius Pinel",
         "city": "Toulouse Métropole",
         "type": "Affichage libre",
         "notes": "Panneau d'expression libre",

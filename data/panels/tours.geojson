@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "tours_4",
-        "name": "Place Saint Éloi, TOURS",
+        "name": "Place Saint Éloi",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "tours_5",
-        "name": "26 rue Trianon, TOURS",
+        "name": "26 rue Trianon",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "tours_6",
-        "name": "Rond-Point des 3 Rivères, TOURS",
+        "name": "Rond-Point des 3 Rivères",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -251,7 +251,7 @@
       },
       "properties": {
         "id": "tours_14",
-        "name": "Rue de l'Auberdière, TOURS",
+        "name": "Rue de l'Auberdière",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -305,7 +305,7 @@
       },
       "properties": {
         "id": "tours_17",
-        "name": "Rue des Tanneurs, TOURS",
+        "name": "Rue des Tanneurs",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -485,7 +485,7 @@
       },
       "properties": {
         "id": "tours_27",
-        "name": "203 rue des Douets, TOURS",
+        "name": "203 rue des Douets",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -521,7 +521,7 @@
       },
       "properties": {
         "id": "tours_29",
-        "name": "172 rue du Colombier, TOURS",
+        "name": "172 rue du Colombier",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -539,7 +539,7 @@
       },
       "properties": {
         "id": "tours_30",
-        "name": "rue du Hallebardier, TOURS",
+        "name": "rue du Hallebardier",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -557,7 +557,7 @@
       },
       "properties": {
         "id": "tours_31",
-        "name": "5 rue Arthur Rimbaud, TOURS",
+        "name": "5 rue Arthur Rimbaud",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -719,7 +719,7 @@
       },
       "properties": {
         "id": "tours_40",
-        "name": "Rue Désiré Lecomte, TOURS",
+        "name": "Rue Désiré Lecomte",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -737,7 +737,7 @@
       },
       "properties": {
         "id": "tours_41",
-        "name": "Boulveard Richard Wagner, TOURS",
+        "name": "Boulveard Richard Wagner",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -773,7 +773,7 @@
       },
       "properties": {
         "id": "tours_43",
-        "name": "Rue Albert Camus, TOURS",
+        "name": "Rue Albert Camus",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -791,7 +791,7 @@
       },
       "properties": {
         "id": "tours_44",
-        "name": "Rue Marcel Gauthier, TOURS",
+        "name": "Rue Marcel Gauthier",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -809,7 +809,7 @@
       },
       "properties": {
         "id": "tours_45",
-        "name": "Carrefour de la Marne, TOURS",
+        "name": "Carrefour de la Marne",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1007,7 +1007,7 @@
       },
       "properties": {
         "id": "tours_56",
-        "name": "rue Édouard Vaillant, TOURS",
+        "name": "rue Édouard Vaillant",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1043,7 +1043,7 @@
       },
       "properties": {
         "id": "tours_58",
-        "name": "Esplanade François Mitterand, TOURS",
+        "name": "Esplanade François Mitterand",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1061,7 +1061,7 @@
       },
       "properties": {
         "id": "tours_59",
-        "name": "Rond Point de Saint Sauveur, TOURS",
+        "name": "Rond Point de Saint Sauveur",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1097,7 +1097,7 @@
       },
       "properties": {
         "id": "tours_61",
-        "name": "parking Blanqui, TOURS",
+        "name": "parking Blanqui",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1115,7 +1115,7 @@
       },
       "properties": {
         "id": "tours_62",
-        "name": "avenue de Montjoyeux, TOURS",
+        "name": "avenue de Montjoyeux",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1187,7 +1187,7 @@
       },
       "properties": {
         "id": "tours_66",
-        "name": "Allée Ferdinand de Lesseps, TOURS",
+        "name": "Allée Ferdinand de Lesseps",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1223,7 +1223,7 @@
       },
       "properties": {
         "id": "tours_68",
-        "name": "Avenue de la République, TOURS",
+        "name": "Avenue de la République",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",
@@ -1259,7 +1259,7 @@
       },
       "properties": {
         "id": "tours_70",
-        "name": "2 Boulevard Winston Churchill, TOURS",
+        "name": "2 Boulevard Winston Churchill",
         "city": "Tours Métropole",
         "type": "Affichage libre",
         "notes": "",

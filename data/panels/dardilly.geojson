@@ -17,7 +17,7 @@
       },
       "properties": {
         "id": "dardilly_1",
-        "name": "place de la Porte de Lyon, 69570 Dardilly",
+        "name": "place de la Porte de Lyon",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",
@@ -35,7 +35,7 @@
       },
       "properties": {
         "id": "dardilly_2",
-        "name": "16 route de la tour de salvagny, 69570 Dardilly",
+        "name": "16 route de la tour de salvagny",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",
@@ -53,7 +53,7 @@
       },
       "properties": {
         "id": "dardilly_3",
-        "name": "chemin de Traîne-Cul, 69570 Dardilly",
+        "name": "chemin de Traîne-Cul",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "id": "dardilly_4",
-        "name": "Chem. du Moulin Carron, 69570 Dardilly",
+        "name": "Chem. du Moulin Carron",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",
@@ -89,7 +89,7 @@
       },
       "properties": {
         "id": "dardilly_5",
-        "name": "Rond-ppoint du Paisy , 69570 Dardilly",
+        "name": "Rond-ppoint du Paisy",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",
@@ -107,7 +107,7 @@
       },
       "properties": {
         "id": "dardilly_6",
-        "name": "32 chemin de la Beffe , 69570 Dardilly",
+        "name": "32 chemin de la Beffe",
         "city": "Dardilly",
         "type": "Affichage libre",
         "notes": "(1,50 X 2,00)",

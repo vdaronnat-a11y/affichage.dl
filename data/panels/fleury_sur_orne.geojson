@@ -16,7 +16,7 @@
       },
       "properties": {
         "id": "fleury_1",
-        "name": "Panneau d'affichage libre #1, Fleury-sur-Orne",
+        "name": "Panneau d'affichage libre #1",
         "city": "Fleury-sur-Orne",
         "type": "Affichage libre",
         "notes": "",
@@ -34,7 +34,7 @@
       },
       "properties": {
         "id": "fleury_2",
-        "name": "Panneau d'affichage libre #2, Fleury-sur-Orne",
+        "name": "Panneau d'affichage libre #2",
         "city": "Fleury-sur-Orne",
         "type": "Affichage libre",
         "notes": "",
@@ -52,7 +52,7 @@
       },
       "properties": {
         "id": "fleury_3",
-        "name": "Panneau d'affichage libre #3, Fleury-sur-Orne",
+        "name": "Panneau d'affichage libre #3",
         "city": "Fleury-sur-Orne",
         "type": "Affichage libre",
         "notes": "",
@@ -70,7 +70,7 @@
       },
       "properties": {
         "id": "fleury_4",
-        "name": "Panneau d'affichage libre #4, Fleury-sur-Orne",
+        "name": "Panneau d'affichage libre #4",
         "city": "Fleury-sur-Orne",
         "type": "Affichage libre",
         "notes": "",

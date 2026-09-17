@@ -3,6 +3,8 @@
  * Gestion étape par étape, deep-linking Google Maps / Waze, signaux sonores et boucle de retour
  */
 
+import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
+
 export class TourGuidance {
   constructor(options) {
     this.container = options.container;
@@ -49,6 +51,7 @@ export class TourGuidance {
     this.currentIndex = 0;
     // Total steps = panneaux + 1 étape pour le retour au départ
     this.totalSteps = orderedPanels.length + 1;
+    this.isMultiCity = checkIsMultiCityTour(orderedPanels);
 
     // Télémétrie silencieuse : démarrage de tournée
     if (this.tracker) {
@@ -135,8 +138,8 @@ export class TourGuidance {
       const coords = panel.geometry.coordinates;
       targetLat = coords[1];
       targetLon = coords[0];
-      targetTitle = panel.properties.name;
-      targetNotes = (panel.properties.notes || '').trim() || "Panneau d'affichage libre";
+      targetTitle = formatPanelDisplayName(panel, this.isMultiCity);
+      targetNotes = (panel.properties.notes || '').trim();
 
       this.stepIndicatorEl.innerHTML = `📍 Panneau ${stepNum} sur ${this.panels.length}`;
       this.btnPastedEl.innerHTML = `✅ C'est collé ! Panneau suivant ➡️`;

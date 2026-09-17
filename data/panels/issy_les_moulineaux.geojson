@@ -16,7 +16,7 @@
       },
       "properties": {
         "id": "issy_1",
-        "name": "1 rue Marcel Sembat, Issy-les-Moulineaux",
+        "name": "1 rue Marcel Sembat",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -34,7 +34,7 @@
       },
       "properties": {
         "id": "issy_2",
-        "name": "3 rue Gabriel Péri, Issy-les-Moulineaux",
+        "name": "3 rue Gabriel Péri",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -52,7 +52,7 @@
       },
       "properties": {
         "id": "issy_3",
-        "name": "7 rue de l’Abbé Derry, Issy-les-Moulineaux",
+        "name": "7 rue de l’Abbé Derry",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -70,7 +70,7 @@
       },
       "properties": {
         "id": "issy_4",
-        "name": "11 rue Jules Guesde, Issy-les-Moulineaux",
+        "name": "11 rue Jules Guesde",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -88,7 +88,7 @@
       },
       "properties": {
         "id": "issy_5",
-        "name": "12 rue Rouget de Lisle, Issy-les-Moulineaux",
+        "name": "12 rue Rouget de Lisle",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -106,7 +106,7 @@
       },
       "properties": {
         "id": "issy_6",
-        "name": "20 rue du 4 septembre, Issy-les-Moulineaux",
+        "name": "20 rue du 4 septembre",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -124,7 +124,7 @@
       },
       "properties": {
         "id": "issy_7",
-        "name": "25 avenue du Bas Meudon, Issy-les-Moulineaux",
+        "name": "25 avenue du Bas Meudon",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -142,7 +142,7 @@
       },
       "properties": {
         "id": "issy_8",
-        "name": "26 rue Rouget de Lisle, Issy-les-Moulineaux",
+        "name": "26 rue Rouget de Lisle",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -160,7 +160,7 @@
       },
       "properties": {
         "id": "issy_9",
-        "name": "27 rue Séverine, Issy-les-Moulineaux",
+        "name": "27 rue Séverine",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -178,7 +178,7 @@
       },
       "properties": {
         "id": "issy_10",
-        "name": "32 rue Henri Farman, Issy-les-Moulineaux",
+        "name": "32 rue Henri Farman",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -196,7 +196,7 @@
       },
       "properties": {
         "id": "issy_11",
-        "name": "65 boulevard Rodin, Issy-les-Moulineaux",
+        "name": "65 boulevard Rodin",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -214,7 +214,7 @@
       },
       "properties": {
         "id": "issy_12",
-        "name": "95 rue du Gouverneur Général Eboué, Issy-les-Moulineaux",
+        "name": "95 rue du Gouverneur Général Eboué",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -232,7 +232,7 @@
       },
       "properties": {
         "id": "issy_13",
-        "name": "291 quai de Stalingrad, Issy-les-Moulineaux",
+        "name": "291 quai de Stalingrad",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -250,7 +250,7 @@
       },
       "properties": {
         "id": "issy_14",
-        "name": "Avenue de la Paix, Issy-les-Moulineaux",
+        "name": "Avenue de la Paix",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -268,7 +268,7 @@
       },
       "properties": {
         "id": "issy_15",
-        "name": "Avenue Victor Cresson, Issy-les-Moulineaux",
+        "name": "Avenue Victor Cresson",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -286,7 +286,7 @@
       },
       "properties": {
         "id": "issy_16",
-        "name": "Boulevard Garibaldi, Issy-les-Moulineaux",
+        "name": "Boulevard Garibaldi",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -304,7 +304,7 @@
       },
       "properties": {
         "id": "issy_17",
-        "name": "Quai du Président ROOSEVELT, Issy-les-Moulineaux",
+        "name": "Quai du Président ROOSEVELT",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -322,7 +322,7 @@
       },
       "properties": {
         "id": "issy_18",
-        "name": "Rond point Victor Hugo, Issy-les-Moulineaux",
+        "name": "Rond point Victor Hugo",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -340,7 +340,7 @@
       },
       "properties": {
         "id": "issy_19",
-        "name": "Rue Camille Desmoulins, Issy-les-Moulineaux",
+        "name": "Rue Camille Desmoulins",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -358,7 +358,7 @@
       },
       "properties": {
         "id": "issy_20",
-        "name": "rue du fort, Issy-les-Moulineaux",
+        "name": "rue du fort",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
@@ -376,7 +376,7 @@
       },
       "properties": {
         "id": "issy_21",
-        "name": "rue Eugène Atget, Issy-les-Moulineaux",
+        "name": "rue Eugène Atget",
         "city": "Issy-les-Moulineaux",
         "type": "Affichage libre",
         "notes": "",
