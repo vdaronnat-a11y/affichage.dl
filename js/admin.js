@@ -219,8 +219,17 @@ export class TourAdmin {
     return features;
   }
 
+  exportCurrentCityToMyMaps() {
+    if (window.tourApp && window.tourApp.activeCity && window.tourApp.activePanelsData) {
+      this.exportToGoogleMyMapsCSV(window.tourApp.activeCity.name, window.tourApp.activePanelsData.features);
+    } else {
+      alert("Veuillez sélectionner une ville pour exporter ses panneaux.");
+    }
+  }
+
   /**
-   * Génère et télécharge un fichier CSV formaté spécialement pour Google My Maps
+   * Génère et télécharge un fichier CSV formaté spécialement pour Google My Maps et Excel
+   * Délimiteur point-virgule (;) standard pour éviter les conflits avec les virgules d'adresses
    */
   exportToGoogleMyMapsCSV(cityName, panels) {
     if (!panels || panels.length === 0) {
@@ -228,14 +237,15 @@ export class TourAdmin {
       return;
     }
 
-    let csvContent = "Nom,Latitude,Longitude,Description,Ville\n";
+    // Délimiteur point-virgule (;) et BOM UTF-8 (\uFEFF) pour compatibilité parfaite avec Excel FR et My Maps
+    let csvContent = "\uFEFFNom;Latitude;Longitude;Description;Ville\n";
     panels.forEach(p => {
-      const coords = p.geometry.coordinates;
-      const props = p.properties;
+      const coords = p.geometry ? p.geometry.coordinates : [0, 0];
+      const props = p.properties || {};
       const name = `"${(props.name || '').replace(/"/g, '""')}"`;
       const desc = `"${(props.notes || props.type || 'Panneau affichage libre').replace(/"/g, '""')}"`;
       const city = `"${(props.city || cityName).replace(/"/g, '""')}"`;
-      csvContent += `${name},${coords[1]},${coords[0]},${desc},${city}\n`;
+      csvContent += `${name};${coords[1]};${coords[0]};${desc};${city}\n`;
     });
 
     const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });

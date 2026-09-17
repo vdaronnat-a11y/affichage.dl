@@ -1,0 +1,1450 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Tours Métropole",
+    "department": "37 - Indre-et-Loire",
+    "count": 80
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.643024,
+          47.392243
+        ]
+      },
+      "properties": {
+        "id": "tours_1",
+        "name": "Quai de la Guignière, FONDETTES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.392243,0.643024,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.665195,
+          47.357988
+        ]
+      },
+      "properties": {
+        "id": "tours_2",
+        "name": "Rue de Chantepie, JOUE-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau",
+        "street_view": "https://www.google.com/maps/@47.357988,0.665195,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.647835,
+          47.348577
+        ]
+      },
+      "properties": {
+        "id": "tours_3",
+        "name": "Rue Gutenberg, JOUE-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau",
+        "street_view": "https://www.google.com/maps/@47.348577,0.647835,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.676055,
+          47.388218
+        ]
+      },
+      "properties": {
+        "id": "tours_4",
+        "name": "Place Saint Éloi, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.388218,0.676055,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.688969,
+          47.406489
+        ]
+      },
+      "properties": {
+        "id": "tours_5",
+        "name": "26 rue Trianon, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.406489,0.688969,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.683571,
+          47.415981
+        ]
+      },
+      "properties": {
+        "id": "tours_6",
+        "name": "Rond-Point des 3 Rivères, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.415981,0.683571,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654135,
+          47.414161
+        ]
+      },
+      "properties": {
+        "id": "tours_7",
+        "name": "54 rue de la Gaudinière, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.414161,0.654135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.675746,
+          47.411351
+        ]
+      },
+      "properties": {
+        "id": "tours_8",
+        "name": "boulevard Charles de Gaulle, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.411351,0.675746,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654993,
+          47.421174
+        ]
+      },
+      "properties": {
+        "id": "tours_9",
+        "name": "rue de la Croix de Périgourd, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.421174,0.654993,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654993,
+          47.382964
+        ]
+      },
+      "properties": {
+        "id": "tours_10",
+        "name": "Rue du Port Cordon, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.382964,0.654993,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.665994,
+          47.399679
+        ]
+      },
+      "properties": {
+        "id": "tours_11",
+        "name": "Rue de la Mairie, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.399679,0.665994,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.620759,
+          47.344884
+        ]
+      },
+      "properties": {
+        "id": "tours_12",
+        "name": "Allée Fragonard, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.344884,0.620759,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.607435,
+          47.359254
+        ]
+      },
+      "properties": {
+        "id": "tours_13",
+        "name": "Route des Vallée, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.359254,0.607435,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.693404,
+          47.362783
+        ]
+      },
+      "properties": {
+        "id": "tours_14",
+        "name": "Rue de l'Auberdière, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.362783,0.693404,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.550351,
+          47.348567
+        ]
+      },
+      "properties": {
+        "id": "tours_15",
+        "name": "Route de Tours, SAVONNIERES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.348567,0.550351,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.61547,
+          47.330437
+        ]
+      },
+      "properties": {
+        "id": "tours_16",
+        "name": "Rue de Bois Gibert, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.330437,0.61547,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68146,
+          47.395906
+        ]
+      },
+      "properties": {
+        "id": "tours_17",
+        "name": "Rue des Tanneurs, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.395906,0.68146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.74456,
+          47.346437
+        ]
+      },
+      "properties": {
+        "id": "tours_18",
+        "name": "68 Rue de la Bellerie, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.346437,0.74456,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.644166,
+          47.410673
+        ]
+      },
+      "properties": {
+        "id": "tours_19",
+        "name": "Rue de la Croix Chidaine, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.410673,0.644166,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658973,
+          47.41763
+        ]
+      },
+      "properties": {
+        "id": "tours_20",
+        "name": "Rue Pierre de Ronsard, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.41763,0.658973,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.73556,
+          47.361978
+        ]
+      },
+      "properties": {
+        "id": "tours_21",
+        "name": "Avenue Henri Adam, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.361978,0.73556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.727493,
+          47.345069
+        ]
+      },
+      "properties": {
+        "id": "tours_22",
+        "name": "Rue Jean Perrin, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.345069,0.727493,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.731296,
+          47.346367
+        ]
+      },
+      "properties": {
+        "id": "tours_23",
+        "name": "Rue Frédéric Joliot Curie, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.346367,0.731296,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.720074,
+          47.343913
+        ]
+      },
+      "properties": {
+        "id": "tours_24",
+        "name": "Allée des Rossignols, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.343913,0.720074,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.720626,
+          47.346501
+        ]
+      },
+      "properties": {
+        "id": "tours_25",
+        "name": "Avenue de la Branchoire, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.346501,0.720626,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.734858,
+          47.339159
+        ]
+      },
+      "properties": {
+        "id": "tours_26",
+        "name": "Mail de la Papoterie, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.339159,0.734858,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.683803,
+          47.43664
+        ]
+      },
+      "properties": {
+        "id": "tours_27",
+        "name": "203 rue des Douets, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.43664,0.683803,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.626979,
+          47.35105
+        ]
+      },
+      "properties": {
+        "id": "tours_28",
+        "name": "Rue du Maréchal Juin, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.35105,0.626979,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.709185,
+          47.423507
+        ]
+      },
+      "properties": {
+        "id": "tours_29",
+        "name": "172 rue du Colombier, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.423507,0.709185,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696132,
+          47.382808
+        ]
+      },
+      "properties": {
+        "id": "tours_30",
+        "name": "rue du Hallebardier, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.382808,0.696132,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.707018,
+          47.431158
+        ]
+      },
+      "properties": {
+        "id": "tours_31",
+        "name": "5 rue Arthur Rimbaud, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.431158,0.707018,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.650697,
+          47.386259
+        ]
+      },
+      "properties": {
+        "id": "tours_32",
+        "name": "Route de Saint-Genouph, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.386259,0.650697,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.60073,
+          47.403557
+        ]
+      },
+      "properties": {
+        "id": "tours_33",
+        "name": "Rue François Rabelais, FONDETTES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.403557,0.60073,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.623737,
+          47.409441
+        ]
+      },
+      "properties": {
+        "id": "tours_34",
+        "name": "Rue Pierre et Marie Curie, FONDETTES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.409441,0.623737,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.672744,
+          47.407633
+        ]
+      },
+      "properties": {
+        "id": "tours_35",
+        "name": "rue du Lieutenant Colonel Mailloux, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.407633,0.672744,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.615557,
+          47.346941
+        ]
+      },
+      "properties": {
+        "id": "tours_36",
+        "name": "Avenue Jean Mermoz, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.346941,0.615557,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654133,
+          47.378057
+        ]
+      },
+      "properties": {
+        "id": "tours_37",
+        "name": "Avenue des Couvent des Minimes, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.378057,0.654133,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.673548,
+          47.414799
+        ]
+      },
+      "properties": {
+        "id": "tours_38",
+        "name": "Rue du Docteur Vétérinaire Ramon, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.414799,0.673548,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.719778,
+          47.330135
+        ]
+      },
+      "properties": {
+        "id": "tours_39",
+        "name": "Avenue de la l'Hommelaie, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.330135,0.719778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.718563,
+          47.376971
+        ]
+      },
+      "properties": {
+        "id": "tours_40",
+        "name": "Rue Désiré Lecomte, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.376971,0.718563,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.709437,
+          47.375664
+        ]
+      },
+      "properties": {
+        "id": "tours_41",
+        "name": "Boulveard Richard Wagner, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.375664,0.709437,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.556253,
+          47.343189
+        ]
+      },
+      "properties": {
+        "id": "tours_42",
+        "name": "Rue des Tilleuls, SAVONNIERES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.343189,0.556253,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711547,
+          47.415803
+        ]
+      },
+      "properties": {
+        "id": "tours_43",
+        "name": "Rue Albert Camus, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.415803,0.711547,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.710757,
+          47.404005
+        ]
+      },
+      "properties": {
+        "id": "tours_44",
+        "name": "Rue Marcel Gauthier, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.404005,0.710757,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.69696,
+          47.424023
+        ]
+      },
+      "properties": {
+        "id": "tours_45",
+        "name": "Carrefour de la Marne, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.424023,0.69696,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.731341,
+          47.367956
+        ]
+      },
+      "properties": {
+        "id": "tours_46",
+        "name": "Rue de Larçay, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.367956,0.731341,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.725842,
+          47.363452
+        ]
+      },
+      "properties": {
+        "id": "tours_47",
+        "name": "Rue Léon Brulon, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.363452,0.725842,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.757557,
+          47.359319
+        ]
+      },
+      "properties": {
+        "id": "tours_48",
+        "name": "Rue du Placier, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.359319,0.757557,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716691,
+          47.352984
+        ]
+      },
+      "properties": {
+        "id": "tours_49",
+        "name": "Avenue du Général de Gaulle, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.352984,0.716691,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72363,
+          47.351242
+        ]
+      },
+      "properties": {
+        "id": "tours_50",
+        "name": "Rue de la Branchoire, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.351242,0.72363,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.746103,
+          47.366695
+        ]
+      },
+      "properties": {
+        "id": "tours_51",
+        "name": "Rue de Cangé, SAINT-AVERTIN",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.366695,0.746103,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.653553,
+          47.386303
+        ]
+      },
+      "properties": {
+        "id": "tours_52",
+        "name": "Rue Léon Bourgeois, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.386303,0.653553,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.697447,
+          47.348201
+        ]
+      },
+      "properties": {
+        "id": "tours_53",
+        "name": "Rue de la Fourbisserie, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.348201,0.697447,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.738211,
+          47.396882
+        ]
+      },
+      "properties": {
+        "id": "tours_54",
+        "name": "Rue Marcel Cachin, SAINT-PIERRE-DES-CORPS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.396882,0.738211,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655862,
+          47.346139
+        ]
+      },
+      "properties": {
+        "id": "tours_55",
+        "name": "rue Germain Pilon, JOUE-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.346139,0.655862,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.700217,
+          47.384964
+        ]
+      },
+      "properties": {
+        "id": "tours_56",
+        "name": "rue Édouard Vaillant, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.384964,0.700217,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.633686,
+          47.354347
+        ]
+      },
+      "properties": {
+        "id": "tours_57",
+        "name": "Avenue des Aubépines, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.354347,0.633686,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.682543,
+          47.421539
+        ]
+      },
+      "properties": {
+        "id": "tours_58",
+        "name": "Esplanade François Mitterand, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.421539,0.682543,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.678202,
+          47.373951
+        ]
+      },
+      "properties": {
+        "id": "tours_59",
+        "name": "Rond Point de Saint Sauveur, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.373951,0.678202,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.606339,
+          47.337697
+        ]
+      },
+      "properties": {
+        "id": "tours_60",
+        "name": "Rue Saint-Exupery, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.337697,0.606339,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.700659,
+          47.397284
+        ]
+      },
+      "properties": {
+        "id": "tours_61",
+        "name": "parking Blanqui, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.397284,0.700659,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.706437,
+          47.360672
+        ]
+      },
+      "properties": {
+        "id": "tours_62",
+        "name": "avenue de Montjoyeux, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.360672,0.706437,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.597324,
+          47.406204
+        ]
+      },
+      "properties": {
+        "id": "tours_63",
+        "name": "Rue Jean Mermoz, FONDETTES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.406204,0.597324,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.588658,
+          47.325987
+        ]
+      },
+      "properties": {
+        "id": "tours_64",
+        "name": "Rue de la Chevallerie, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.325987,0.588658,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612517,
+          47.345041
+        ]
+      },
+      "properties": {
+        "id": "tours_65",
+        "name": "Avenue Jean Mermoz, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.345041,0.612517,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.681054,
+          47.366483
+        ]
+      },
+      "properties": {
+        "id": "tours_66",
+        "name": "Allée Ferdinand de Lesseps, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.366483,0.681054,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.609612,
+          47.345289
+        ]
+      },
+      "properties": {
+        "id": "tours_67",
+        "name": "Rue des Maronniers, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.345289,0.609612,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.69565,
+          47.410942
+        ]
+      },
+      "properties": {
+        "id": "tours_68",
+        "name": "Avenue de la République, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.410942,0.69565,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.613193,
+          47.336709
+        ]
+      },
+      "properties": {
+        "id": "tours_69",
+        "name": "Rue des Hérissières, BALLAN-MIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Expression Libre",
+        "street_view": "https://www.google.com/maps/@47.336709,0.613193,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.693913,
+          47.373675
+        ]
+      },
+      "properties": {
+        "id": "tours_70",
+        "name": "2 Boulevard Winston Churchill, TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.373675,0.693913,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.511183,
+          47.338979
+        ]
+      },
+      "properties": {
+        "id": "tours_71",
+        "name": "Rue de Munat, VILLANDRY",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.338979,0.511183,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658578,
+          47.38798
+        ]
+      },
+      "properties": {
+        "id": "tours_72",
+        "name": "Rue du 11 Novembre 1918, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.38798,0.658578,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.738768,
+          47.392344
+        ]
+      },
+      "properties": {
+        "id": "tours_73",
+        "name": "Rue Danielle Casanova, SAINT-PIERRE-DES-CORPS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.392344,0.738768,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.710236,
+          47.395478
+        ]
+      },
+      "properties": {
+        "id": "tours_74",
+        "name": "Rue Marceau, SAINT-PIERRE-DES-CORPS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.395478,0.710236,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.60139,
+          47.39947
+        ]
+      },
+      "properties": {
+        "id": "tours_75",
+        "name": "Rue Nicolas Poussin, FONDETTES",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.39947,0.60139,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.723257,
+          47.34115
+        ]
+      },
+      "properties": {
+        "id": "tours_76",
+        "name": "Rue Jean Perrin, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.34115,0.723257,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.694446,
+          47.3403
+        ]
+      },
+      "properties": {
+        "id": "tours_77",
+        "name": "Place Georges Sand, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.3403,0.694446,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.691725,
+          47.344376
+        ]
+      },
+      "properties": {
+        "id": "tours_78",
+        "name": "Chemin Blanc, CHAMBRAY-LES-TOURS",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.344376,0.691725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663475,
+          47.392076
+        ]
+      },
+      "properties": {
+        "id": "tours_79",
+        "name": "Rue Condorcet, LA RICHE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.392076,0.663475,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.667965,
+          47.404739
+        ]
+      },
+      "properties": {
+        "id": "tours_80",
+        "name": "Rue Victor Hugo, SAINT-CYR-SUR-LOIRE",
+        "city": "Tours Métropole",
+        "type": "Affichage libre",
+        "notes": "Type: Panneau d'affichage libre",
+        "street_view": "https://www.google.com/maps/@47.404739,0.667965,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

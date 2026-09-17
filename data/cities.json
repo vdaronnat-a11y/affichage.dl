@@ -1,5 +1,126 @@
 [
   {
+    "id": "angers",
+    "name": "Angers Loire Métropole",
+    "department": "49 - Maine-et-Loire",
+    "count": 72,
+    "center": [
+      -0.5524,
+      47.4697
+    ],
+    "file": "panels/angers.geojson"
+  },
+  {
+    "id": "anglet",
+    "name": "Anglet (Pays Basque)",
+    "department": "64 - Pyrénées-Atlantiques",
+    "count": 13,
+    "center": [
+      -1.5136,
+      43.4905
+    ],
+    "file": "panels/anglet.geojson"
+  },
+  {
+    "id": "bron",
+    "name": "Bron",
+    "department": "69 - Rhône",
+    "count": 41,
+    "center": [
+      4.9082,
+      45.7384
+    ],
+    "file": "panels/bron.geojson"
+  },
+  {
+    "id": "chambery",
+    "name": "Chambéry (Grand Chambéry)",
+    "department": "73 - Savoie",
+    "count": 46,
+    "center": [
+      5.9164,
+      45.5775
+    ],
+    "file": "panels/chambery.geojson"
+  },
+  {
+    "id": "champagne_au_mont_d_or",
+    "name": "Champagne-au-Mont-d'Or",
+    "department": "69 - Rhône",
+    "count": 3,
+    "center": [
+      4.7881,
+      45.7957
+    ],
+    "file": "panels/champagne_au_mont_d_or.geojson"
+  },
+  {
+    "id": "charbonnieres_les_bains",
+    "name": "Charbonnières-les-Bains",
+    "department": "69 - Rhône",
+    "count": 1,
+    "center": [
+      4.7401,
+      45.7806
+    ],
+    "file": "panels/charbonnieres_les_bains.geojson"
+  },
+  {
+    "id": "clermont_ferrand",
+    "name": "Clermont-Ferrand",
+    "department": "63 - Puy-de-Dôme",
+    "count": 51,
+    "center": [
+      3.1,
+      45.786
+    ],
+    "file": "panels/clermont_ferrand.geojson"
+  },
+  {
+    "id": "dardilly",
+    "name": "Dardilly",
+    "department": "69 - Rhône",
+    "count": 6,
+    "center": [
+      4.698,
+      45.7578
+    ],
+    "file": "panels/dardilly.geojson"
+  },
+  {
+    "id": "fleury_sur_orne",
+    "name": "Fleury-sur-Orne",
+    "department": "14 - Calvados",
+    "count": 4,
+    "center": [
+      -0.3747,
+      49.1487
+    ],
+    "file": "panels/fleury_sur_orne.geojson"
+  },
+  {
+    "id": "givors",
+    "name": "Givors",
+    "department": "69 - Rhône",
+    "count": 17,
+    "center": [
+      4.765,
+      45.5887
+    ],
+    "file": "panels/givors.geojson"
+  },
+  {
+    "id": "issy_les_moulineaux",
+    "name": "Issy-les-Moulineaux",
+    "department": "92 - Hauts-de-Seine",
+    "count": 21,
+    "center": [
+      2.274,
+      48.8208
+    ],
+    "file": "panels/issy_les_moulineaux.geojson"
+  },
+  {
     "id": "lyon",
     "name": "Lyon (Ville)",
     "department": "69 - Rhône",
@@ -9,6 +130,17 @@
       45.764
     ],
     "file": "panels/lyon.geojson"
+  },
+  {
+    "id": "mulhouse",
+    "name": "Mulhouse",
+    "department": "68 - Haut-Rhin",
+    "count": 39,
+    "center": [
+      7.3311,
+      47.7511
+    ],
+    "file": "panels/mulhouse.geojson"
   },
   {
     "id": "grand_lyon",
@@ -33,25 +165,146 @@
     "file": "panels/nantes.geojson"
   },
   {
-    "id": "issy_les_moulineaux",
-    "name": "Issy-les-Moulineaux",
-    "department": "92 - Hauts-de-Seine",
-    "count": 21,
+    "id": "neuville_sur_saone",
+    "name": "Neuville-sur-Saône",
+    "department": "69 - Rhône",
+    "count": 8,
     "center": [
-      2.274,
-      48.8208
+      4.8427,
+      45.8768
     ],
-    "file": "panels/issy_les_moulineaux.geojson"
+    "file": "panels/neuville_sur_saone.geojson"
   },
   {
-    "id": "fleury_sur_orne",
-    "name": "Fleury-sur-Orne",
-    "department": "14 - Calvados",
+    "id": "paris",
+    "name": "Paris",
+    "department": "75 - Paris",
+    "count": 313,
+    "center": [
+      2.352,
+      48.862
+    ],
+    "file": "panels/paris.geojson"
+  },
+  {
+    "id": "rennes",
+    "name": "Rennes Métropole",
+    "department": "35 - Ille-et-Vilaine",
+    "count": 119,
+    "center": [
+      -1.6748,
+      48.1085
+    ],
+    "file": "panels/rennes.geojson"
+  },
+  {
+    "id": "rueil_malmaison",
+    "name": "Rueil-Malmaison",
+    "department": "92 - Hauts-de-Seine",
+    "count": 152,
+    "center": [
+      2.1803,
+      48.8747
+    ],
+    "file": "panels/rueil_malmaison.geojson"
+  },
+  {
+    "id": "saint_cyr_au_mont_d_or",
+    "name": "Saint-Cyr-au-Mont-d'Or",
+    "department": "69 - Rhône",
+    "count": 1,
+    "center": [
+      4.8196,
+      45.8144
+    ],
+    "file": "panels/saint_cyr_au_mont_d_or.geojson"
+  },
+  {
+    "id": "saint_didier_au_mont_d_or",
+    "name": "Saint-Didier-au-Mont-d'Or",
+    "department": "69 - Rhône",
     "count": 4,
     "center": [
-      -0.3747,
-      49.1487
+      4.7982,
+      45.8114
     ],
-    "file": "panels/fleury_sur_orne.geojson"
+    "file": "panels/saint_didier_au_mont_d_or.geojson"
+  },
+  {
+    "id": "saint_nazaire",
+    "name": "Saint-Nazaire",
+    "department": "44 - Loire-Atlantique",
+    "count": 42,
+    "center": [
+      -2.2353,
+      47.2704
+    ],
+    "file": "panels/saint_nazaire.geojson"
+  },
+  {
+    "id": "sathonay_camp",
+    "name": "Sathonay-Camp",
+    "department": "69 - Rhône",
+    "count": 4,
+    "center": [
+      4.8722,
+      45.8224
+    ],
+    "file": "panels/sathonay_camp.geojson"
+  },
+  {
+    "id": "soissons",
+    "name": "Soissons",
+    "department": "02 - Aisne",
+    "count": 36,
+    "center": [
+      3.3236,
+      49.3797
+    ],
+    "file": "panels/soissons.geojson"
+  },
+  {
+    "id": "talence",
+    "name": "Talence (Bordeaux)",
+    "department": "33 - Gironde",
+    "count": 17,
+    "center": [
+      -0.5907,
+      44.8067
+    ],
+    "file": "panels/talence.geojson"
+  },
+  {
+    "id": "toulouse",
+    "name": "Toulouse Métropole",
+    "department": "31 - Haute-Garonne",
+    "count": 49,
+    "center": [
+      1.4326,
+      43.5928
+    ],
+    "file": "panels/toulouse.geojson"
+  },
+  {
+    "id": "tours",
+    "name": "Tours Métropole",
+    "department": "37 - Indre-et-Loire",
+    "count": 80,
+    "center": [
+      0.673,
+      47.3762
+    ],
+    "file": "panels/tours.geojson"
+  },
+  {
+    "id": "vaulx_en_velin",
+    "name": "Vaulx-en-Velin",
+    "department": "69 - Rhône",
+    "count": 19,
+    "center": [
+      4.921,
+      45.7775
+    ],
+    "file": "panels/vaulx_en_velin.geojson"
   }
 ]

@@ -1,0 +1,892 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Toulouse Métropole",
+    "department": "31 - Haute-Garonne",
+    "count": 49
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.464428,
+          43.567674
+        ]
+      },
+      "properties": {
+        "id": "toulouse_1",
+        "name": "Chemin des Maraîchers, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.567674,1.464428,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43717,
+          43.58454
+        ]
+      },
+      "properties": {
+        "id": "toulouse_2",
+        "name": "Allées Gabriel Bienes, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.58454,1.43717,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.441535,
+          43.59004
+        ]
+      },
+      "properties": {
+        "id": "toulouse_3",
+        "name": "Rue Gallois, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.59004,1.441535,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.46247,
+          43.561849
+        ]
+      },
+      "properties": {
+        "id": "toulouse_4",
+        "name": "Route de Narbonne, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.561849,1.46247,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.380542,
+          43.557222
+        ]
+      },
+      "properties": {
+        "id": "toulouse_5",
+        "name": "66 Chemin de Basso Cambo, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.557222,1.380542,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.384979,
+          43.550203
+        ]
+      },
+      "properties": {
+        "id": "toulouse_6",
+        "name": "Rue Albert Carovis, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.550203,1.384979,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.428329,
+          43.624012
+        ]
+      },
+      "properties": {
+        "id": "toulouse_7",
+        "name": "Boulevard Silvio Trentin, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.624012,1.428329,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.400817,
+          43.565136
+        ]
+      },
+      "properties": {
+        "id": "toulouse_8",
+        "name": "Allée de Bellefontaine, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.565136,1.400817,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.397792,
+          43.618082
+        ]
+      },
+      "properties": {
+        "id": "toulouse_9",
+        "name": "263 Avenue de Casselardit, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.618082,1.397792,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.425912,
+          43.606189
+        ]
+      },
+      "properties": {
+        "id": "toulouse_10",
+        "name": "39 rue des Amidonniers, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.606189,1.425912,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.464052,
+          43.636223
+        ]
+      },
+      "properties": {
+        "id": "toulouse_11",
+        "name": "Place Cuvier, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.636223,1.464052,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.464228,
+          43.616554
+        ]
+      },
+      "properties": {
+        "id": "toulouse_12",
+        "name": "Rue Baillaud, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.616554,1.464228,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.415034,
+          43.583353
+        ]
+      },
+      "properties": {
+        "id": "toulouse_13",
+        "name": "Rue Jean Mermoz, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.583353,1.415034,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.483871,
+          43.596499
+        ]
+      },
+      "properties": {
+        "id": "toulouse_14",
+        "name": "Avenue de Castres, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.596499,1.483871,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.459123,
+          43.57952
+        ]
+      },
+      "properties": {
+        "id": "toulouse_15",
+        "name": "Avenue Albert Bedouce, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.57952,1.459123,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.433317,
+          43.626965
+        ]
+      },
+      "properties": {
+        "id": "toulouse_16",
+        "name": "Barrière de Paris - angle boulevard de Suisse, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.626965,1.433317,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440309,
+          43.577437
+        ]
+      },
+      "properties": {
+        "id": "toulouse_17",
+        "name": "Place commerciale Empalot, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.577437,1.440309,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.398358,
+          43.564636
+        ]
+      },
+      "properties": {
+        "id": "toulouse_18",
+        "name": "place Martin Luther King, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.564636,1.398358,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.434919,
+          43.608785
+        ]
+      },
+      "properties": {
+        "id": "toulouse_19",
+        "name": "Boulevard Armand Duportal - cité administrative, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.608785,1.434919,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440767,
+          43.611075
+        ]
+      },
+      "properties": {
+        "id": "toulouse_20",
+        "name": "Boulevard d'Arcole - rue Jean Rancy, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.611075,1.440767,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.449595,
+          43.580367
+        ]
+      },
+      "properties": {
+        "id": "toulouse_21",
+        "name": "61 avenue de l'URSS, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.580367,1.449595,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.389075,
+          43.581603
+        ]
+      },
+      "properties": {
+        "id": "toulouse_22",
+        "name": "Avenue Passerieu, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.581603,1.389075,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.483092,
+          43.579186
+        ]
+      },
+      "properties": {
+        "id": "toulouse_23",
+        "name": "Place de l'Ormeau, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.579186,1.483092,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4557,
+          43.597058
+        ]
+      },
+      "properties": {
+        "id": "toulouse_24",
+        "name": "21 allées Paul Sabatier, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.597058,1.4557,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419723,
+          43.595672
+        ]
+      },
+      "properties": {
+        "id": "toulouse_25",
+        "name": "Barrière de Lombez, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.595672,1.419723,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.428555,
+          43.600696
+        ]
+      },
+      "properties": {
+        "id": "toulouse_26",
+        "name": "Rue Bourrassol - place des Abattoirs, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.600696,1.428555,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419064,
+          43.611483
+        ]
+      },
+      "properties": {
+        "id": "toulouse_27",
+        "name": "Boulevard de Suisse - boulevard de l'Embouchure, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.611483,1.419064,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419902,
+          43.598092
+        ]
+      },
+      "properties": {
+        "id": "toulouse_28",
+        "name": "Barrière de Bayonne - boulevard Jean Brunhes, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.598092,1.419902,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.392557,
+          43.569148
+        ]
+      },
+      "properties": {
+        "id": "toulouse_29",
+        "name": "Place Bouillère - Basso Cambo, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.569148,1.392557,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404705,
+          43.554147
+        ]
+      },
+      "properties": {
+        "id": "toulouse_30",
+        "name": "Boulevard Thibault - angle avenue de Larrieu à côté du RIS, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.554147,1.404705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43271,
+          43.605271
+        ]
+      },
+      "properties": {
+        "id": "toulouse_31",
+        "name": "Allée de brienne, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.605271,1.43271,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.42034,
+          43.609737
+        ]
+      },
+      "properties": {
+        "id": "toulouse_32",
+        "name": "Allée de Brienne, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.609737,1.42034,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.416968,
+          43.570792
+        ]
+      },
+      "properties": {
+        "id": "toulouse_33",
+        "name": "275 route de Seysses, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.570792,1.416968,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.408836,
+          43.616634
+        ]
+      },
+      "properties": {
+        "id": "toulouse_34",
+        "name": "110 route de Blagnac, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.616634,1.408836,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.456428,
+          43.603654
+        ]
+      },
+      "properties": {
+        "id": "toulouse_35",
+        "name": "Boulevard Jules Michelet, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.603654,1.456428,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.403851,
+          43.599102
+        ]
+      },
+      "properties": {
+        "id": "toulouse_36",
+        "name": "Voie du TOEC - Zénith, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.599102,1.403851,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.479124,
+          43.591852
+        ]
+      },
+      "properties": {
+        "id": "toulouse_37",
+        "name": "Rue Xavier Darrasse, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.591852,1.479124,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.469342,
+          43.620465
+        ]
+      },
+      "properties": {
+        "id": "toulouse_38",
+        "name": "1 route d'Agde, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.620465,1.469342,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45316,
+          43.585082
+        ]
+      },
+      "properties": {
+        "id": "toulouse_39",
+        "name": "2 place Russel, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.585082,1.45316,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.457598,
+          43.550051
+        ]
+      },
+      "properties": {
+        "id": "toulouse_40",
+        "name": "Chemin de Pouvourville, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.550051,1.457598,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402137,
+          43.574518
+        ]
+      },
+      "properties": {
+        "id": "toulouse_41",
+        "name": "Avenue de Tabar, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.574518,1.402137,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.429495,
+          43.611206
+        ]
+      },
+      "properties": {
+        "id": "toulouse_42",
+        "name": "Place Alphonse Jourdain, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.611206,1.429495,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452466,
+          43.573798
+        ]
+      },
+      "properties": {
+        "id": "toulouse_43",
+        "name": "21 avenue des écoles jules julien, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.573798,1.452466,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.410625,
+          43.564948
+        ]
+      },
+      "properties": {
+        "id": "toulouse_44",
+        "name": "Place des Glieres, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.564948,1.410625,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.477473,
+          43.61231
+        ]
+      },
+      "properties": {
+        "id": "toulouse_45",
+        "name": "Place de Soupetard, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.61231,1.477473,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.432705,
+          43.648188
+        ]
+      },
+      "properties": {
+        "id": "toulouse_46",
+        "name": "237 avenue de Fronton, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.648188,1.432705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.429859,
+          43.606941
+        ]
+      },
+      "properties": {
+        "id": "toulouse_47",
+        "name": "Allée de Barcelone, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.606941,1.429859,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.380113,
+          43.60921
+        ]
+      },
+      "properties": {
+        "id": "toulouse_48",
+        "name": "1 rue René Sentenac, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.60921,1.380113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.466033,
+          43.602018
+        ]
+      },
+      "properties": {
+        "id": "toulouse_49",
+        "name": "Place Marius Pinel, Toulouse",
+        "city": "Toulouse Métropole",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression libre",
+        "street_view": "https://www.google.com/maps/@43.602018,1.466033,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

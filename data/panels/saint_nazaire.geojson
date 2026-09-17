@@ -1,0 +1,766 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Saint-Nazaire",
+    "department": "44 - Loire-Atlantique",
+    "count": 42
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.231443,
+          47.274186
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_1",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15438, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.274186,-2.231443,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.228903,
+          47.279103
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_2",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15442, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.279103,-2.228903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.214788,
+          47.281261
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_3",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15447, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.281261,-2.214788,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.278414,
+          47.244233
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_4",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-17508, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.244233,-2.278414,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.233135,
+          47.271504
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_5",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15437, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.271504,-2.233135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.239508,
+          47.274022
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_6",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15440, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.274022,-2.239508,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.205007,
+          47.289653
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_7",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15445, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.289653,-2.205007,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.212401,
+          47.271771
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_8",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15863, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.271771,-2.212401,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.259698,
+          47.29146
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_9",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-14806, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.29146,-2.259698,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.300098,
+          47.23682
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_10",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15422, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.23682,-2.300098,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.280541,
+          47.239479
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_11",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15423, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.239479,-2.280541,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.223601,
+          47.273514
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_12",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15441, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.273514,-2.223601,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.215266,
+          47.280852
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_13",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15446, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.280852,-2.215266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.199638,
+          47.290631
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_14",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15866, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.290631,-2.199638,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.267982,
+          47.261681
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_15",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15421, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.261681,-2.267982,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.258004,
+          47.260424
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_16",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15429, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.260424,-2.258004,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.239471,
+          47.265755
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_17",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15432, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.265755,-2.239471,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.237287,
+          47.272458
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_18",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15439, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.272458,-2.237287,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.201759,
+          47.284441
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_19",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15865, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.284441,-2.201759,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.19821,
+          47.293469
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_20",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15867, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.293469,-2.19821,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.236089,
+          47.260063
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_21",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-17503, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.260063,-2.236089,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.239767,
+          47.281062
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_22",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15420, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.281062,-2.239767,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.257826,
+          47.251839
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_23",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15426, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.251839,-2.257826,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.262818,
+          47.258695
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_24",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15428, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.258695,-2.262818,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24613,
+          47.261417
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_25",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15431, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.261417,-2.24613,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.236335,
+          47.257739
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_26",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15434, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.257739,-2.236335,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.214267,
+          47.280988
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_27",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15448, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.280988,-2.214267,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.206215,
+          47.274489
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_28",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15864, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.274489,-2.206215,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.190265,
+          47.296043
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_29",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15868, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.296043,-2.190265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.274226,
+          47.245158
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_30",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15425, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.245158,-2.274226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.246713,
+          47.259044
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_31",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15430, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.259044,-2.246713,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.215605,
+          47.277607
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_32",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15449, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.277607,-2.215605,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.266089,
+          47.242337
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_33",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-17507, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.242337,-2.266089,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273333,
+          47.240993
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_34",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15424, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.240993,-2.273333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.227802,
+          47.258202
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_35",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15436, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.258202,-2.227802,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.218954,
+          47.287878
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_36",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15443, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.287878,-2.218954,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.186127,
+          47.302553
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_37",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-14851, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.302553,-2.186127,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.260742,
+          47.279741
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_38",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15419, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.279741,-2.260742,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.257643,
+          47.256462
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_39",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15427, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.256462,-2.257643,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.236829,
+          47.257041
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_40",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15435, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.257041,-2.236829,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.220163,
+          47.291033
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_41",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15444, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.291033,-2.220163,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.184564,
+          47.299237
+        ]
+      },
+      "properties": {
+        "id": "saint_nazaire_42",
+        "name": "Panneau PANNEAU-DE-SIGNALISATION-15869, Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "type": "Affichage libre",
+        "notes": "Panneau d'affichage municipal et associatif",
+        "street_view": "https://www.google.com/maps/@47.299237,-2.184564,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

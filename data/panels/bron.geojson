@@ -1,0 +1,748 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Bron",
+    "department": "69 - Rhône",
+    "count": 41
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899799,
+          45.75248
+        ]
+      },
+      "properties": {
+        "id": "bron_1",
+        "name": "Route de Genas / Rue Clémenceau, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2+2:33,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.75248,4.899799,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.903372,
+          45.750111
+        ]
+      },
+      "properties": {
+        "id": "bron_2",
+        "name": "Rue Léon Paviot / terrain multisport, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.750111,4.903372,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913896,
+          45.733597
+        ]
+      },
+      "properties": {
+        "id": "bron_3",
+        "name": "14 rue du 11 Novembre 1918, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.733597,4.913896,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899306,
+          45.733455
+        ]
+      },
+      "properties": {
+        "id": "bron_4",
+        "name": "Rue de la Paix / rue Neuve des Essarts, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Ecole Anatole France",
+        "street_view": "https://www.google.com/maps/@45.733455,4.899306,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.898962,
+          45.732635
+        ]
+      },
+      "properties": {
+        "id": "bron_5",
+        "name": "14 Rue Neuve des Essarts, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.732635,4.898962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892062,
+          45.732347
+        ]
+      },
+      "properties": {
+        "id": "bron_6",
+        "name": "Rue du Parc, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Maison de Quartier des Essarts",
+        "street_view": "https://www.google.com/maps/@45.732347,4.892062,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901474,
+          45.731315
+        ]
+      },
+      "properties": {
+        "id": "bron_7",
+        "name": "Avenue E Herriot / square Laurent Bonnevay, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Square Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.731315,4.901474,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901157,
+          45.731147
+        ]
+      },
+      "properties": {
+        "id": "bron_8",
+        "name": "Rue Claude Delaigue / rue Jean Jaures, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.731147,4.901157,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904431,
+          45.729971
+        ]
+      },
+      "properties": {
+        "id": "bron_9",
+        "name": "6 rue Paul Pic, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.729971,4.904431,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.902306,
+          45.728112
+        ]
+      },
+      "properties": {
+        "id": "bron_10",
+        "name": "100 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.728112,4.902306,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900916,
+          45.727675
+        ]
+      },
+      "properties": {
+        "id": "bron_11",
+        "name": "84 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.727675,4.900916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904389,
+          45.726758
+        ]
+      },
+      "properties": {
+        "id": "bron_12",
+        "name": "110 avenue Saint Exupéry, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Mural (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.726758,4.904389,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914148,
+          45.729044
+        ]
+      },
+      "properties": {
+        "id": "bron_13",
+        "name": "13 avenue des Sports, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Stade Jean Jaurès",
+        "street_view": "https://www.google.com/maps/@45.729044,4.914148,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904916,
+          45.750534
+        ]
+      },
+      "properties": {
+        "id": "bron_14",
+        "name": "rue Jacques Daligand, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Maison de Quartier des Genêts",
+        "street_view": "https://www.google.com/maps/@45.750534,4.904916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908249,
+          45.750796
+        ]
+      },
+      "properties": {
+        "id": "bron_15",
+        "name": "Route de Genas / trémie périphérique, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.750796,4.908249,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908226,
+          45.750824
+        ]
+      },
+      "properties": {
+        "id": "bron_16",
+        "name": "Route de Genas / entrée ex-gendarmerie, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.750824,4.908226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911816,
+          45.747964
+        ]
+      },
+      "properties": {
+        "id": "bron_17",
+        "name": "Rue Christian Lacouture, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Gymnase Louis Pradel",
+        "street_view": "https://www.google.com/maps/@45.747964,4.911816,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911274,
+          45.750017
+        ]
+      },
+      "properties": {
+        "id": "bron_18",
+        "name": "Rue Christian Lacouture, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Ecole La Garenne",
+        "street_view": "https://www.google.com/maps/@45.750017,4.911274,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911818,
+          45.747969
+        ]
+      },
+      "properties": {
+        "id": "bron_19",
+        "name": "Rue de la Batterie / rue Emile Chaze, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.747969,4.911818,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916915,
+          45.743979
+        ]
+      },
+      "properties": {
+        "id": "bron_20",
+        "name": "Rue de Lessivas, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Résidence Marius Ledoux",
+        "street_view": "https://www.google.com/maps/@45.743979,4.916915,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917951,
+          45.741873
+        ]
+      },
+      "properties": {
+        "id": "bron_21",
+        "name": "Rue Gérard Philipe, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Centre social Gérard Philipe",
+        "street_view": "https://www.google.com/maps/@45.741873,4.917951,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927016,
+          45.745853
+        ]
+      },
+      "properties": {
+        "id": "bron_22",
+        "name": "Route de Genas / rue Nungesser et Coli, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.745853,4.927016,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932297,
+          45.747558
+        ]
+      },
+      "properties": {
+        "id": "bron_23",
+        "name": "Rond Point des 7 Chemins, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.747558,4.932297,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932032,
+          45.744064
+        ]
+      },
+      "properties": {
+        "id": "bron_24",
+        "name": "Avenue Salvador Allende, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Devant le garage",
+        "street_view": "https://www.google.com/maps/@45.744064,4.932032,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932156,
+          45.743758
+        ]
+      },
+      "properties": {
+        "id": "bron_25",
+        "name": "Avenue Salvador Allende, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Entrée terrain de tennis Wagner",
+        "street_view": "https://www.google.com/maps/@45.743758,4.932156,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915948,
+          45.743765
+        ]
+      },
+      "properties": {
+        "id": "bron_26",
+        "name": "Avenue Ferdinand Buisson / rue de Montferrat, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.743765,4.915948,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915948,
+          45.743765
+        ]
+      },
+      "properties": {
+        "id": "bron_27",
+        "name": "Avenue Ferdinand Buisson / entrée du cimetière, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.743765,4.915948,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917405,
+          45.737826
+        ]
+      },
+      "properties": {
+        "id": "bron_28",
+        "name": "Avenue Ferdinand Buisson / mur du cimetière, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.737826,4.917405,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910504,
+          45.738955
+        ]
+      },
+      "properties": {
+        "id": "bron_29",
+        "name": "Avenue Jules Mas / rue de Reims, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.738955,4.910504,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914167,
+          45.734997
+        ]
+      },
+      "properties": {
+        "id": "bron_30",
+        "name": "Rue Alsace Lorraine / rue des Aubépins, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.734997,4.914167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917494,
+          45.733786
+        ]
+      },
+      "properties": {
+        "id": "bron_31",
+        "name": "Rue Collomb / avenue De Lattre Tassigny, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.733786,4.917494,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908788,
+          45.732286
+        ]
+      },
+      "properties": {
+        "id": "bron_32",
+        "name": "Rue Roger Salengro, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Devant le supermarché Casino",
+        "street_view": "https://www.google.com/maps/@45.732286,4.908788,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92094,
+          45.729658
+        ]
+      },
+      "properties": {
+        "id": "bron_33",
+        "name": "Avenue Général de Gaulle, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) En face du monument aux morts",
+        "street_view": "https://www.google.com/maps/@45.729658,4.92094,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909249,
+          45.729056
+        ]
+      },
+      "properties": {
+        "id": "bron_34",
+        "name": "Avenue des Sports / rue Philippe Goy, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.729056,4.909249,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892247,
+          45.738555
+        ]
+      },
+      "properties": {
+        "id": "bron_35",
+        "name": "Avenue F Roosevelt , 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Le Grand Cèdre",
+        "street_view": "https://www.google.com/maps/@45.738555,4.892247,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.889971,
+          45.735046
+        ]
+      },
+      "properties": {
+        "id": "bron_36",
+        "name": "Boulevard Pinel / rue des Essarts, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.735046,4.889971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890669,
+          45.734734
+        ]
+      },
+      "properties": {
+        "id": "bron_37",
+        "name": "Rue des Essarts, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) En face de l'école Jules Ferry",
+        "street_view": "https://www.google.com/maps/@45.734734,4.890669,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896743,
+          45.731625
+        ]
+      },
+      "properties": {
+        "id": "bron_38",
+        "name": "Rue des Essarts / rue Sigismond Brissy, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.731625,4.896743,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8995,
+          45.726661
+        ]
+      },
+      "properties": {
+        "id": "bron_39",
+        "name": "Boulevard Pinel / rue Lionel Terray, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00) Parking Martin",
+        "street_view": "https://www.google.com/maps/@45.726661,4.8995,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892538,
+          45.738803
+        ]
+      },
+      "properties": {
+        "id": "bron_40",
+        "name": "Boulevard Pinel / avenue F Roosevelt, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.738803,4.892538,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892724,
+          45.740367
+        ]
+      },
+      "properties": {
+        "id": "bron_41",
+        "name": "Boulevard Pinel / entrée Hôpitaux Est, 69500 Bron",
+        "city": "Bron",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (2,50 x 2,00)",
+        "street_view": "https://www.google.com/maps/@45.740367,4.892724,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

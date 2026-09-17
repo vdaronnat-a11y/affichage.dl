@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Dardilly",
+    "department": "69 - Rhône",
+    "count": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760558,
+          45.820662
+        ]
+      },
+      "properties": {
+        "id": "dardilly_1",
+        "name": "place de la Porte de Lyon, 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.820662,4.760558,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749136,
+          45.822494
+        ]
+      },
+      "properties": {
+        "id": "dardilly_2",
+        "name": "16 route de la tour de salvagny, 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.822494,4.749136,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.733048,
+          45.8091
+        ]
+      },
+      "properties": {
+        "id": "dardilly_3",
+        "name": "chemin de Traîne-Cul, 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.8091,4.733048,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45238,
+          45.48465
+        ]
+      },
+      "properties": {
+        "id": "dardilly_4",
+        "name": "Chem. du Moulin Carron, 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.48465,4.45238,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764407,
+          45.80485
+        ]
+      },
+      "properties": {
+        "id": "dardilly_5",
+        "name": "Rond-ppoint du Paisy , 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.80485,4.764407,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.728462,
+          45.805289
+        ]
+      },
+      "properties": {
+        "id": "dardilly_6",
+        "name": "32 chemin de la Beffe , 69570 Dardilly",
+        "city": "Dardilly",
+        "type": "Affichage libre",
+        "notes": "(1,50 X 2,00)",
+        "street_view": "https://www.google.com/maps/@45.805289,4.728462,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

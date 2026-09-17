@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Neuville-sur-Saône",
+    "department": "69 - Rhône",
+    "count": 8
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836968,
+          45.883311
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_1",
+        "name": "Rue Rey Loras, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (0,90 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.883311,4.836968,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85106,
+          45.888016
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_2",
+        "name": "Avenue du Parc , 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.888016,4.85106,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838189,
+          45.876934
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_3",
+        "name": "Place du marché, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.876934,4.838189,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.845353,
+          45.876724
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_4",
+        "name": "Chemin de la blanchisserie, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.876724,4.845353,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.841882,
+          45.875162
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_5",
+        "name": "Rue Pierre Dugelay, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.875162,4.841882,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842385,
+          45.873603
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_6",
+        "name": "Avenue du 11 novembre, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.873603,4.842385,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.845753,
+          45.869575
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_7",
+        "name": "Avenue de l'Europe, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.869575,4.845753,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839613,
+          45.870889
+        ]
+      },
+      "properties": {
+        "id": "neuville_sur_saone_8",
+        "name": "Route de Lyon, 69250 Neuville-sur-Saône",
+        "city": "Neuville-sur-Saône",
+        "type": "Affichage libre",
+        "notes": "Pied (1,80 x 1,10)",
+        "street_view": "https://www.google.com/maps/@45.870889,4.839613,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

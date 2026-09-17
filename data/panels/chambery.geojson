@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Chambéry (Grand Chambéry)",
+    "department": "73 - Savoie",
+    "count": 46
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90381,
+          45.609685
+        ]
+      },
+      "properties": {
+        "id": "chambery_1",
+        "name": "Panneau d'affichage - Chambéry le Vieux, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.609685,5.90381,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918471,
+          45.604915
+        ]
+      },
+      "properties": {
+        "id": "chambery_2",
+        "name": "Panneau d'affichage - Chambéry le Vieux, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.604915,5.918471,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.907286,
+          45.607418
+        ]
+      },
+      "properties": {
+        "id": "chambery_3",
+        "name": "Panneau d'affichage - Chambéry le Vieux, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.607418,5.907286,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.912399,
+          45.60377
+        ]
+      },
+      "properties": {
+        "id": "chambery_4",
+        "name": "Panneau d'affichage - Chambéry le Vieux, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.60377,5.912399,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.896225,
+          45.607425
+        ]
+      },
+      "properties": {
+        "id": "chambery_5",
+        "name": "Panneau d'affichage - Chambéry le Vieux, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.607425,5.896225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.909564,
+          45.601075
+        ]
+      },
+      "properties": {
+        "id": "chambery_6",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.601075,5.909564,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918654,
+          45.597129
+        ]
+      },
+      "properties": {
+        "id": "chambery_7",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.597129,5.918654,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.914995,
+          45.589709
+        ]
+      },
+      "properties": {
+        "id": "chambery_8",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.589709,5.914995,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91437,
+          45.597089
+        ]
+      },
+      "properties": {
+        "id": "chambery_9",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.597089,5.91437,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.912745,
+          45.60112
+        ]
+      },
+      "properties": {
+        "id": "chambery_10",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.60112,5.912745,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915509,
+          45.5908
+        ]
+      },
+      "properties": {
+        "id": "chambery_11",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.5908,5.915509,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918155,
+          45.590096
+        ]
+      },
+      "properties": {
+        "id": "chambery_12",
+        "name": "Panneau d'affichage - Hauts de Chambéry, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.590096,5.918155,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.922253,
+          45.580919
+        ]
+      },
+      "properties": {
+        "id": "chambery_13",
+        "name": "Panneau d'affichage - Chantemerle, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.580919,5.922253,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92206,
+          45.58537
+        ]
+      },
+      "properties": {
+        "id": "chambery_14",
+        "name": "Panneau d'affichage - Chantemerle, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.58537,5.92206,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918648,
+          45.582116
+        ]
+      },
+      "properties": {
+        "id": "chambery_15",
+        "name": "Panneau d'affichage - Chantemerle, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.582116,5.918648,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918123,
+          45.584056
+        ]
+      },
+      "properties": {
+        "id": "chambery_16",
+        "name": "Panneau d'affichage - Chantemerle, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.584056,5.918123,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.902255,
+          45.562103
+        ]
+      },
+      "properties": {
+        "id": "chambery_17",
+        "name": "Panneau d'affichage - Biollay, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.562103,5.902255,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.902008,
+          45.558772
+        ]
+      },
+      "properties": {
+        "id": "chambery_18",
+        "name": "Panneau d'affichage - Biollay, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.558772,5.902008,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.904883,
+          45.562242
+        ]
+      },
+      "properties": {
+        "id": "chambery_19",
+        "name": "Panneau d'affichage - Biollay, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.562242,5.904883,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.903006,
+          45.56471
+        ]
+      },
+      "properties": {
+        "id": "chambery_20",
+        "name": "Panneau d'affichage - Biollay, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.56471,5.903006,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.899291,
+          45.575848
+        ]
+      },
+      "properties": {
+        "id": "chambery_21",
+        "name": "Panneau d'affichage - Bissy, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.575848,5.899291,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888704,
+          45.581512
+        ]
+      },
+      "properties": {
+        "id": "chambery_22",
+        "name": "Panneau d'affichage - Bissy, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.581512,5.888704,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884737,
+          45.579869
+        ]
+      },
+      "properties": {
+        "id": "chambery_23",
+        "name": "Panneau d'affichage - Bissy, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.579869,5.884737,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90002,
+          45.584775
+        ]
+      },
+      "properties": {
+        "id": "chambery_24",
+        "name": "Panneau d'affichage - Bissy, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.584775,5.90002,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.904644,
+          45.576289
+        ]
+      },
+      "properties": {
+        "id": "chambery_25",
+        "name": "Panneau d'affichage - Bissy, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.576289,5.904644,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915633,
+          45.561968
+        ]
+      },
+      "properties": {
+        "id": "chambery_26",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.561968,5.915633,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.921888,
+          45.55707
+        ]
+      },
+      "properties": {
+        "id": "chambery_27",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.55707,5.921888,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.922178,
+          45.559196
+        ]
+      },
+      "properties": {
+        "id": "chambery_28",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.559196,5.922178,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.919026,
+          45.560421
+        ]
+      },
+      "properties": {
+        "id": "chambery_29",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.560421,5.919026,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.919147,
+          45.560731
+        ]
+      },
+      "properties": {
+        "id": "chambery_30",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.560731,5.919147,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.919002,
+          45.561765
+        ]
+      },
+      "properties": {
+        "id": "chambery_31",
+        "name": "Panneau d'affichage - Bellevue, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.561765,5.919002,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.930981,
+          45.57091
+        ]
+      },
+      "properties": {
+        "id": "chambery_32",
+        "name": "Panneau d'affichage - Mérande, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.57091,5.930981,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.929243,
+          45.570891
+        ]
+      },
+      "properties": {
+        "id": "chambery_33",
+        "name": "Panneau d'affichage - Mérande, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.570891,5.929243,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.925601,
+          45.570294
+        ]
+      },
+      "properties": {
+        "id": "chambery_34",
+        "name": "Panneau d'affichage - Mérande, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.570294,5.925601,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.923605,
+          45.566017
+        ]
+      },
+      "properties": {
+        "id": "chambery_35",
+        "name": "Panneau d'affichage - Mérande, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.566017,5.923605,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.928825,
+          45.567065
+        ]
+      },
+      "properties": {
+        "id": "chambery_36",
+        "name": "Panneau d'affichage - Mérande, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.567065,5.928825,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.933883,
+          45.565611
+        ]
+      },
+      "properties": {
+        "id": "chambery_37",
+        "name": "Panneau d'affichage - Faubourg Montmélian, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.565611,5.933883,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.936978,
+          45.566223
+        ]
+      },
+      "properties": {
+        "id": "chambery_38",
+        "name": "Panneau d'affichage - Faubourg Montmélian, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.566223,5.936978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935503,
+          45.566655
+        ]
+      },
+      "properties": {
+        "id": "chambery_39",
+        "name": "Panneau d'affichage - Faubourg Montmélian, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.566655,5.935503,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.927285,
+          45.566167
+        ]
+      },
+      "properties": {
+        "id": "chambery_40",
+        "name": "Panneau d'affichage - Faubourg Montmélian, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.566167,5.927285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.911085,
+          45.57116
+        ]
+      },
+      "properties": {
+        "id": "chambery_41",
+        "name": "Panneau d'affichage - Centre-ville, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.57116,5.911085,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.916696,
+          45.573467
+        ]
+      },
+      "properties": {
+        "id": "chambery_42",
+        "name": "Panneau d'affichage - Centre-ville, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "5 face(s)",
+        "street_view": "https://www.google.com/maps/@45.573467,5.916696,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915934,
+          45.572438
+        ]
+      },
+      "properties": {
+        "id": "chambery_43",
+        "name": "Panneau d'affichage - Centre-ville, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.572438,5.915934,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.914212,
+          45.567688
+        ]
+      },
+      "properties": {
+        "id": "chambery_44",
+        "name": "Panneau d'affichage - Centre-ville, Chambéry",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.567688,5.914212,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.944971,
+          45.561157
+        ]
+      },
+      "properties": {
+        "id": "chambery_45",
+        "name": "Panneau d'affichage - , Barberaz",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@45.561157,5.944971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.949153,
+          45.567819
+        ]
+      },
+      "properties": {
+        "id": "chambery_46",
+        "name": "Panneau d'affichage - , Barberaz",
+        "city": "Chambéry (Grand Chambéry)",
+        "type": "Affichage libre",
+        "notes": "1 face(s)",
+        "street_view": "https://www.google.com/maps/@45.567819,5.949153,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

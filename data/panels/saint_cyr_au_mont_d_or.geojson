@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Saint-Cyr-au-Mont-d'Or",
+    "department": "69 - Rhône",
+    "count": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.819612,
+          45.814368
+        ]
+      },
+      "properties": {
+        "id": "saint_cyr_au_mont_d_or_1",
+        "name": "route de Collonges, 69450 Saint-Cyr-au-Mont-d'Or",
+        "city": "Saint-Cyr-au-Mont-d'Or",
+        "type": "Affichage libre",
+        "notes": "Pied / Recto (1,65 X 1,07) Au niveau du plateau traversant en face de l'Eglise",
+        "street_view": "https://www.google.com/maps/@45.814368,4.819612,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

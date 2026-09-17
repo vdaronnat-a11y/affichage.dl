@@ -1,0 +1,5644 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Paris",
+    "department": "75 - Paris",
+    "count": 313
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39382,
+          48.866158
+        ]
+      },
+      "properties": {
+        "id": "paris_1",
+        "name": "21 rue de la Bidassoa - Ecole élémentaire, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.866158,2.39382,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.404333,
+          48.853452
+        ]
+      },
+      "properties": {
+        "id": "paris_2",
+        "name": "15 cité Champagne, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.853452,2.404333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40317,
+          48.86769
+        ]
+      },
+      "properties": {
+        "id": "paris_3",
+        "name": "7, rue Bretonneau, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.86769,2.40317,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393919,
+          48.873157
+        ]
+      },
+      "properties": {
+        "id": "paris_4",
+        "name": "28 rue Olivier Métra, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.873157,2.393919,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407428,
+          48.875444
+        ]
+      },
+      "properties": {
+        "id": "paris_5",
+        "name": "163, boulevard Mortier, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.875444,2.407428,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.397595,
+          48.870382
+        ]
+      },
+      "properties": {
+        "id": "paris_6",
+        "name": "140 rue de Ménilmontant, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.870382,2.397595,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389605,
+          48.874518
+        ]
+      },
+      "properties": {
+        "id": "paris_7",
+        "name": "4, rue Jourdain, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.874518,2.389605,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.406186,
+          48.875389
+        ]
+      },
+      "properties": {
+        "id": "paris_8",
+        "name": "148, avenue Gambetta, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.875389,2.406186,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.398254,
+          48.875482
+        ]
+      },
+      "properties": {
+        "id": "paris_9",
+        "name": "236 rue de Belleville - Ecole élémentaire, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.875482,2.398254,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.406153,
+          48.869633
+        ]
+      },
+      "properties": {
+        "id": "paris_10",
+        "name": "62 rue du Surmelin, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Espace Parisien des solidarités - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.869633,2.406153,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399084,
+          48.864871
+        ]
+      },
+      "properties": {
+        "id": "paris_11",
+        "name": "6 place Gambetta - côté Belgrand, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.864871,2.399084,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.405429,
+          48.855056
+        ]
+      },
+      "properties": {
+        "id": "paris_12",
+        "name": "99 rue des Pyrénées, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.855056,2.405429,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.410873,
+          48.869824
+        ]
+      },
+      "properties": {
+        "id": "paris_13",
+        "name": "36, rue le Vau, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.869824,2.410873,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391977,
+          48.866389
+        ]
+      },
+      "properties": {
+        "id": "paris_14",
+        "name": "13 rue Sorbier - Square Sorbier, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.866389,2.391977,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396469,
+          48.855971
+        ]
+      },
+      "properties": {
+        "id": "paris_15",
+        "name": "54, rue Planchat, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.855971,2.396469,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.388636,
+          48.867739
+        ]
+      },
+      "properties": {
+        "id": "paris_16",
+        "name": "108, rue des Amandiers, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.867739,2.388636,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.380281,
+          48.872432
+        ]
+      },
+      "properties": {
+        "id": "paris_17",
+        "name": "38, rue de tourtille, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.872432,2.380281,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.409702,
+          48.871358
+        ]
+      },
+      "properties": {
+        "id": "paris_18",
+        "name": "8, rue Pierre Foncin, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole Maternelle P. Foncin - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.871358,2.409702,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389472,
+          48.866205
+        ]
+      },
+      "properties": {
+        "id": "paris_19",
+        "name": "3 Place Carmen, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Conservatoire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.866205,2.389472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403251,
+          48.873868
+        ]
+      },
+      "properties": {
+        "id": "paris_20",
+        "name": "59 rue du Borrégo, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.873868,2.403251,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391763,
+          48.864014
+        ]
+      },
+      "properties": {
+        "id": "paris_21",
+        "name": "29, avenue Gambetta, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.864014,2.391763,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402914,
+          48.87009
+        ]
+      },
+      "properties": {
+        "id": "paris_22",
+        "name": "153, avenue Gambetta, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.87009,2.402914,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407425,
+          48.855933
+        ]
+      },
+      "properties": {
+        "id": "paris_23",
+        "name": "91, rue des Orteaux, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.855933,2.407425,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407777,
+          48.854708
+        ]
+      },
+      "properties": {
+        "id": "paris_24",
+        "name": "Début rue Pauline Kergomard, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.854708,2.407777,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40178,
+          48.857155
+        ]
+      },
+      "properties": {
+        "id": "paris_25",
+        "name": "38 bis, rue des Orteaux, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.857155,2.40178,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40025,
+          48.85645
+        ]
+      },
+      "properties": {
+        "id": "paris_26",
+        "name": "81-91, Rue de la Réunion, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.85645,2.40025,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387868,
+          48.86698
+        ]
+      },
+      "properties": {
+        "id": "paris_27",
+        "name": "51 rue des Panoyaux, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.86698,2.387868,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392293,
+          48.866319
+        ]
+      },
+      "properties": {
+        "id": "paris_28",
+        "name": "15, rue Sorbier, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.866319,2.392293,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393403,
+          48.866346
+        ]
+      },
+      "properties": {
+        "id": "paris_29",
+        "name": "25, rue de la Bidassoa, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.866346,2.393403,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402788,
+          48.854801
+        ]
+      },
+      "properties": {
+        "id": "paris_30",
+        "name": "3 Pass. Josseaume, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.854801,2.402788,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392419,
+          48.866162
+        ]
+      },
+      "properties": {
+        "id": "paris_31",
+        "name": "17, rue Sorbier, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque",
+        "street_view": "https://www.google.com/maps/@48.866162,2.392419,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.382195,
+          48.870411
+        ]
+      },
+      "properties": {
+        "id": "paris_32",
+        "name": "32, rue Pali Kao, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.870411,2.382195,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389293,
+          48.873093
+        ]
+      },
+      "properties": {
+        "id": "paris_33",
+        "name": "84 Rue de la Mare, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.873093,2.389293,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.401004,
+          48.864378
+        ]
+      },
+      "properties": {
+        "id": "paris_34",
+        "name": "24, rue de la Cour des Noues, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.864378,2.401004,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379722,
+          48.874042
+        ]
+      },
+      "properties": {
+        "id": "paris_35",
+        "name": "11 rue Rampal, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.874042,2.379722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399962,
+          48.866818
+        ]
+      },
+      "properties": {
+        "id": "paris_36",
+        "name": "103, avenue Gambetta, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.866818,2.399962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402477,
+          48.854165
+        ]
+      },
+      "properties": {
+        "id": "paris_37",
+        "name": "34 rue de la Réunion - Centre social Etincelles, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre social",
+        "street_view": "https://www.google.com/maps/@48.854165,2.402477,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.397987,
+          48.873377
+        ]
+      },
+      "properties": {
+        "id": "paris_38",
+        "name": "166, rue Pelleport, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.873377,2.397987,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.412835,
+          48.850531
+        ]
+      },
+      "properties": {
+        "id": "paris_39",
+        "name": "18, rue Maryse Hilsz, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.850531,2.412835,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.401828,
+          48.848913
+        ]
+      },
+      "properties": {
+        "id": "paris_40",
+        "name": "19, rue de Lagny, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.848913,2.401828,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.411724,
+          48.856862
+        ]
+      },
+      "properties": {
+        "id": "paris_41",
+        "name": "36, rue des Docteurs Dejerine, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.856862,2.411724,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389959,
+          48.871094
+        ]
+      },
+      "properties": {
+        "id": "paris_42",
+        "name": "42, rue de la Mare, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.871094,2.389959,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.400272,
+          48.850003
+        ]
+      },
+      "properties": {
+        "id": "paris_43",
+        "name": "9/11, rue de la Plaine, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.850003,2.400272,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399202,
+          48.873529
+        ]
+      },
+      "properties": {
+        "id": "paris_44",
+        "name": "29 rue du Télégraphe - Ecole élémentaire, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.873529,2.399202,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37863,
+          48.871467
+        ]
+      },
+      "properties": {
+        "id": "paris_45",
+        "name": "4-12 rue Dénoyez, Paris 75020e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.871467,2.37863,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392785,
+          48.882991
+        ]
+      },
+      "properties": {
+        "id": "paris_46",
+        "name": "32-34, rue Alsace Lorraine, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.882991,2.392785,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.367735,
+          48.885177
+        ]
+      },
+      "properties": {
+        "id": "paris_47",
+        "name": "13, rue de Tanger, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.885177,2.367735,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373876,
+          48.880356
+        ]
+      },
+      "properties": {
+        "id": "paris_48",
+        "name": "8, rue Sadi Lecointe, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.880356,2.373876,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379333,
+          48.885302
+        ]
+      },
+      "properties": {
+        "id": "paris_49",
+        "name": "87, avenue Jean Jaurès, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.885302,2.379333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373478,
+          48.882999
+        ]
+      },
+      "properties": {
+        "id": "paris_50",
+        "name": "70, rue Armand Carrel, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.882999,2.373478,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391482,
+          48.874919
+        ]
+      },
+      "properties": {
+        "id": "paris_51",
+        "name": "345-347, rue de Belleville, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle Leman-Belleville",
+        "street_view": "https://www.google.com/maps/@48.874919,2.391482,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.382858,
+          48.892135
+        ]
+      },
+      "properties": {
+        "id": "paris_52",
+        "name": "7, rue Barbanègre, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "école élémentaire, Panneau B",
+        "street_view": "https://www.google.com/maps/@48.892135,2.382858,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379553,
+          48.874325
+        ]
+      },
+      "properties": {
+        "id": "paris_53",
+        "name": "15-17, rue Rampal, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.874325,2.379553,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.382858,
+          48.892135
+        ]
+      },
+      "properties": {
+        "id": "paris_54",
+        "name": "7, rue Barbanègre, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "école élémentaire, Panneau A",
+        "street_view": "https://www.google.com/maps/@48.892135,2.382858,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385354,
+          48.877519
+        ]
+      },
+      "properties": {
+        "id": "paris_55",
+        "name": "9, rue des Alouettes, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire Alouettes",
+        "street_view": "https://www.google.com/maps/@48.877519,2.385354,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.397958,
+          48.88998
+        ]
+      },
+      "properties": {
+        "id": "paris_56",
+        "name": "1, avenue de la Porte de Pantin, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.88998,2.397958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.370231,
+          48.887761
+        ]
+      },
+      "properties": {
+        "id": "paris_57",
+        "name": "41, rue de Tanger, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.887761,2.370231,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376595,
+          48.875505
+        ]
+      },
+      "properties": {
+        "id": "paris_58",
+        "name": "16, rue de l Atlas, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.875505,2.376595,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377818,
+          48.882603
+        ]
+      },
+      "properties": {
+        "id": "paris_59",
+        "name": "37, rue Armand Carrel, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.882603,2.377818,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385131,
+          48.893086
+        ]
+      },
+      "properties": {
+        "id": "paris_60",
+        "name": "1, rue Rouvet, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.893086,2.385131,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390199,
+          48.883806
+        ]
+      },
+      "properties": {
+        "id": "paris_61",
+        "name": "40, rue Manin, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Angle rue d'Alsace Lorraine",
+        "street_view": "https://www.google.com/maps/@48.883806,2.390199,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376535,
+          48.880402
+        ]
+      },
+      "properties": {
+        "id": "paris_62",
+        "name": "20 rue Edouard Pailleron, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Maison de la vie associative et citoyenne du 19ème",
+        "street_view": "https://www.google.com/maps/@48.880402,2.376535,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399121,
+          48.886727
+        ]
+      },
+      "properties": {
+        "id": "paris_63",
+        "name": "5, rue Noyer Durand, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.886727,2.399121,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37628,
+          48.885108
+        ]
+      },
+      "properties": {
+        "id": "paris_64",
+        "name": "12-16, rue de la Moselle, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.885108,2.37628,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403386,
+          48.877388
+        ]
+      },
+      "properties": {
+        "id": "paris_65",
+        "name": "59/59bis, rue de Romainville, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle Romainville",
+        "street_view": "https://www.google.com/maps/@48.877388,2.403386,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389772,
+          48.880396
+        ]
+      },
+      "properties": {
+        "id": "paris_66",
+        "name": "104-106 Rue Compans, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Angle  rue du Général Brunet",
+        "street_view": "https://www.google.com/maps/@48.880396,2.389772,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37918,
+          48.886
+        ]
+      },
+      "properties": {
+        "id": "paris_67",
+        "name": "9, rue Tandou, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.886,2.37918,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389772,
+          48.880396
+        ]
+      },
+      "properties": {
+        "id": "paris_68",
+        "name": "106, rue Compans, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.880396,2.389772,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390867,
+          48.88457
+        ]
+      },
+      "properties": {
+        "id": "paris_69",
+        "name": "53 allée Darius Milhaud, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.88457,2.390867,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38915,
+          48.876172
+        ]
+      },
+      "properties": {
+        "id": "paris_70",
+        "name": "2, rue Féssart, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.876172,2.38915,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403219,
+          48.877377
+        ]
+      },
+      "properties": {
+        "id": "paris_71",
+        "name": "45-59, rue de Romainville, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle Romainville",
+        "street_view": "https://www.google.com/maps/@48.877377,2.403219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379576,
+          48.88971
+        ]
+      },
+      "properties": {
+        "id": "paris_72",
+        "name": "9, rue Jomard, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.88971,2.379576,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387708,
+          48.887206
+        ]
+      },
+      "properties": {
+        "id": "paris_73",
+        "name": "156, avenue Jean Jaurès, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.887206,2.387708,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394505,
+          48.878594
+        ]
+      },
+      "properties": {
+        "id": "paris_74",
+        "name": "7-29, rue Eugénie Cotton, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire Lilas",
+        "street_view": "https://www.google.com/maps/@48.878594,2.394505,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369341,
+          48.891869
+        ]
+      },
+      "properties": {
+        "id": "paris_75",
+        "name": "122-130, rue d Aubervilliers, Paris 75019e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.891869,2.369341,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344249,
+          48.884999
+        ]
+      },
+      "properties": {
+        "id": "paris_76",
+        "name": "2, rue Ronsard, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.884999,2.344249,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358258,
+          48.886176
+        ]
+      },
+      "properties": {
+        "id": "paris_77",
+        "name": "8, rue Jean Francois Lepine, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.886176,2.358258,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333966,
+          48.886937
+        ]
+      },
+      "properties": {
+        "id": "paris_78",
+        "name": "62, rue Lepic, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.886937,2.333966,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352861,
+          48.896602
+        ]
+      },
+      "properties": {
+        "id": "paris_79",
+        "name": "142, rue des Poissonniers, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.896602,2.352861,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335818,
+          48.890833
+        ]
+      },
+      "properties": {
+        "id": "paris_80",
+        "name": "8, square Lamarck, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.890833,2.335818,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33782,
+          48.888084
+        ]
+      },
+      "properties": {
+        "id": "paris_81",
+        "name": "15 Rue Girardon, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.888084,2.33782,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363866,
+          48.89502
+        ]
+      },
+      "properties": {
+        "id": "paris_82",
+        "name": "19, rue Tristan Tzara, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque Maurice Genevoix",
+        "street_view": "https://www.google.com/maps/@48.89502,2.363866,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339178,
+          48.897612
+        ]
+      },
+      "properties": {
+        "id": "paris_83",
+        "name": "4, rue Eva Kotchever, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.897612,2.339178,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364393,
+          48.898888
+        ]
+      },
+      "properties": {
+        "id": "paris_84",
+        "name": "56, boulevard Ney, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.898888,2.364393,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330619,
+          48.891854
+        ]
+      },
+      "properties": {
+        "id": "paris_85",
+        "name": "31, rue Joseph de Maistre, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.891854,2.330619,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33465,
+          48.891898
+        ]
+      },
+      "properties": {
+        "id": "paris_86",
+        "name": "1, rue Vauvenargues, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.891898,2.33465,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340169,
+          48.895048
+        ]
+      },
+      "properties": {
+        "id": "paris_87",
+        "name": "160-162, rue Championnet, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.895048,2.340169,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365278,
+          48.894071
+        ]
+      },
+      "properties": {
+        "id": "paris_88",
+        "name": "35, rue de l Evangile, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.894071,2.365278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363213,
+          48.893105
+        ]
+      },
+      "properties": {
+        "id": "paris_89",
+        "name": "5, place Hebert, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.893105,2.363213,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351348,
+          48.894562
+        ]
+      },
+      "properties": {
+        "id": "paris_90",
+        "name": "12, rue des Amiraux, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.894562,2.351348,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342365,
+          48.899487
+        ]
+      },
+      "properties": {
+        "id": "paris_91",
+        "name": "12, rue René Binet, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.899487,2.342365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362625,
+          48.890753
+        ]
+      },
+      "properties": {
+        "id": "paris_92",
+        "name": "2, rue de la Guadeloupe, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.890753,2.362625,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352423,
+          48.899663
+        ]
+      },
+      "properties": {
+        "id": "paris_93",
+        "name": "15-33 Avenue de la Porte des Poissonniers, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "angle rue Jean Cocteau / avenue porte de Poissonniers",
+        "street_view": "https://www.google.com/maps/@48.899663,2.352423,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.337436,
+          48.889401
+        ]
+      },
+      "properties": {
+        "id": "paris_94",
+        "name": "1 Place Constantin Pecqueur, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.889401,2.337436,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342266,
+          48.899237
+        ]
+      },
+      "properties": {
+        "id": "paris_95",
+        "name": "19, rue Fernand Labori, Paris 75018e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.899237,2.342266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292285,
+          48.880995
+        ]
+      },
+      "properties": {
+        "id": "paris_96",
+        "name": "Rue Torricelli G, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.880995,2.292285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.304479,
+          48.890553
+        ]
+      },
+      "properties": {
+        "id": "paris_97",
+        "name": "76, boulevard Berthier, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.890553,2.304479,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30087,
+          48.890317
+        ]
+      },
+      "properties": {
+        "id": "paris_98",
+        "name": "4-8, rue Brunetiere, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "TEP",
+        "street_view": "https://www.google.com/maps/@48.890317,2.30087,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318945,
+          48.894718
+        ]
+      },
+      "properties": {
+        "id": "paris_99",
+        "name": "79 Rue de la Jonquière D, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.894718,2.318945,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314919,
+          48.885256
+        ]
+      },
+      "properties": {
+        "id": "paris_100",
+        "name": "47, rue de Saussure, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.885256,2.314919,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.289361,
+          48.880446
+        ]
+      },
+      "properties": {
+        "id": "paris_101",
+        "name": "221, boulevard Pereire, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.880446,2.289361,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32429,
+          48.897262
+        ]
+      },
+      "properties": {
+        "id": "paris_102",
+        "name": "11-13, rue Jacques Kellner, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.897262,2.32429,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.290199,
+          48.880565
+        ]
+      },
+      "properties": {
+        "id": "paris_103",
+        "name": "15, rue Guersant, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.880565,2.290199,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.309226,
+          48.883796
+        ]
+      },
+      "properties": {
+        "id": "paris_104",
+        "name": "114 Boulevard Berthier, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Angle Marechaux / rue de l Abbé Rousselot",
+        "street_view": "https://www.google.com/maps/@48.883796,2.309226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.296597,
+          48.880462
+        ]
+      },
+      "properties": {
+        "id": "paris_105",
+        "name": "12, rue Foucroy, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.880462,2.296597,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.298416,
+          48.885362
+        ]
+      },
+      "properties": {
+        "id": "paris_106",
+        "name": "119 Boulevard Pereire, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.885362,2.298416,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31984,
+          48.895573
+        ]
+      },
+      "properties": {
+        "id": "paris_107",
+        "name": "3 rue Ernest Roche, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.895573,2.31984,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324894,
+          48.898947
+        ]
+      },
+      "properties": {
+        "id": "paris_108",
+        "name": "28, rue andré Brechet, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.898947,2.324894,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318945,
+          48.894718
+        ]
+      },
+      "properties": {
+        "id": "paris_109",
+        "name": "79 rue de la Jonquière G, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.894718,2.318945,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.311703,
+          48.887438
+        ]
+      },
+      "properties": {
+        "id": "paris_110",
+        "name": "101, rue de Saussure, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.887438,2.311703,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.320978,
+          48.892768
+        ]
+      },
+      "properties": {
+        "id": "paris_111",
+        "name": "28 Rue André Bréchet, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif Max Rousié",
+        "street_view": "https://www.google.com/maps/@48.892768,2.320978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292691,
+          48.889534
+        ]
+      },
+      "properties": {
+        "id": "paris_112",
+        "name": "229, rue de Courcelles, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.889534,2.292691,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.327266,
+          48.896619
+        ]
+      },
+      "properties": {
+        "id": "paris_113",
+        "name": "22, rue Jean Leclaire, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.896619,2.327266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319314,
+          48.896536
+        ]
+      },
+      "properties": {
+        "id": "paris_114",
+        "name": "88, boulevard Bessière, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire, panneau A",
+        "street_view": "https://www.google.com/maps/@48.896536,2.319314,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31535,
+          48.894336
+        ]
+      },
+      "properties": {
+        "id": "paris_115",
+        "name": "9 rue Fragonard, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.894336,2.31535,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319314,
+          48.896536
+        ]
+      },
+      "properties": {
+        "id": "paris_116",
+        "name": "88, boulevard Bessière, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire, panneau B",
+        "street_view": "https://www.google.com/maps/@48.896536,2.319314,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.296254,
+          48.890379
+        ]
+      },
+      "properties": {
+        "id": "paris_117",
+        "name": "3 rue Francis Garnier, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.890379,2.296254,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318374,
+          48.894664
+        ]
+      },
+      "properties": {
+        "id": "paris_118",
+        "name": "26, rue Boulay, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif Bernard Lafay, angle rue de la Joncquière",
+        "street_view": "https://www.google.com/maps/@48.894664,2.318374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292285,
+          48.880995
+        ]
+      },
+      "properties": {
+        "id": "paris_119",
+        "name": "Rue Torricelli D, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.880995,2.292285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.296254,
+          48.890379
+        ]
+      },
+      "properties": {
+        "id": "paris_120",
+        "name": "11 rue Curnonsky, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Format: 1",
+        "street_view": "https://www.google.com/maps/@48.890379,2.296254,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.325925,
+          48.889046
+        ]
+      },
+      "properties": {
+        "id": "paris_121",
+        "name": "21/23, avenue de Saint Ouen, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.889046,2.325925,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318278,
+          48.894671
+        ]
+      },
+      "properties": {
+        "id": "paris_122",
+        "name": "26, rue Boulay, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.894671,2.318278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.290012,
+          48.878088
+        ]
+      },
+      "properties": {
+        "id": "paris_123",
+        "name": "16, rue du Colonel Moll, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.878088,2.290012,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.289386,
+          48.880552
+        ]
+      },
+      "properties": {
+        "id": "paris_124",
+        "name": "221, boulevard Pereire, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.880552,2.289386,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315958,
+          48.885248
+        ]
+      },
+      "properties": {
+        "id": "paris_125",
+        "name": "49, rue Legendre, Paris 75017e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.885248,2.315958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.258228,
+          48.846838
+        ]
+      },
+      "properties": {
+        "id": "paris_126",
+        "name": "10, boulevard Murat, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.846838,2.258228,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263925,
+          48.842523
+        ]
+      },
+      "properties": {
+        "id": "paris_127",
+        "name": "64, rue Chardon Lagache, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.842523,2.263925,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263832,
+          48.839895
+        ]
+      },
+      "properties": {
+        "id": "paris_128",
+        "name": "185, avenue de Versailles, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Lycée",
+        "street_view": "https://www.google.com/maps/@48.839895,2.263832,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.270562,
+          48.850202
+        ]
+      },
+      "properties": {
+        "id": "paris_129",
+        "name": "41, avenue Boudon / angle rue du Père Brottier, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.850202,2.270562,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.280587,
+          48.875254
+        ]
+      },
+      "properties": {
+        "id": "paris_130",
+        "name": "56 bd Bruix stade Wimille, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.875254,2.280587,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25492,
+          48.843724
+        ]
+      },
+      "properties": {
+        "id": "paris_131",
+        "name": "26, avenue du Général Sarail, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.843724,2.25492,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26978,
+          48.864574
+        ]
+      },
+      "properties": {
+        "id": "paris_132",
+        "name": "60, boulevard Lannes, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.864574,2.26978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.272217,
+          48.867381
+        ]
+      },
+      "properties": {
+        "id": "paris_133",
+        "name": "32, boulevard Lannes, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif et piscine",
+        "street_view": "https://www.google.com/maps/@48.867381,2.272217,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26544,
+          48.838878
+        ]
+      },
+      "properties": {
+        "id": "paris_134",
+        "name": "162, boulevard Murat, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.838878,2.26544,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263429,
+          48.842381
+        ]
+      },
+      "properties": {
+        "id": "paris_135",
+        "name": "20, rue de Musset, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque",
+        "street_view": "https://www.google.com/maps/@48.842381,2.263429,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.273553,
+          48.855983
+        ]
+      },
+      "properties": {
+        "id": "paris_136",
+        "name": "15, rue des Bauches, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.855983,2.273553,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.259622,
+          48.844134
+        ]
+      },
+      "properties": {
+        "id": "paris_137",
+        "name": "58, rue Erlanger, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.844134,2.259622,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.270749,
+          48.850615
+        ]
+      },
+      "properties": {
+        "id": "paris_138",
+        "name": "13-15, rue Jean de la Fontaine, Paris 75016e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Conservatoire",
+        "street_view": "https://www.google.com/maps/@48.850615,2.270749,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.294959,
+          48.833817
+        ]
+      },
+      "properties": {
+        "id": "paris_139",
+        "name": "66, rue Olivier de Serres, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.833817,2.294959,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286149,
+          48.849731
+        ]
+      },
+      "properties": {
+        "id": "paris_140",
+        "name": "30/40, rue Emeriau, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.849731,2.286149,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307794,
+          48.841682
+        ]
+      },
+      "properties": {
+        "id": "paris_141",
+        "name": "15, rue des Volontaires, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.841682,2.307794,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.291002,
+          48.855469
+        ]
+      },
+      "properties": {
+        "id": "paris_142",
+        "name": "9, rue Jean Rey, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.855469,2.291002,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.279298,
+          48.837349
+        ]
+      },
+      "properties": {
+        "id": "paris_143",
+        "name": "146, avenue Félix Faure, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.837349,2.279298,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.316507,
+          48.843104
+        ]
+      },
+      "properties": {
+        "id": "paris_144",
+        "name": "20, rue Falguieres, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.843104,2.316507,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307197,
+          48.843156
+        ]
+      },
+      "properties": {
+        "id": "paris_145",
+        "name": "17-19, rue Blomet, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.843156,2.307197,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2787,
+          48.83755
+        ]
+      },
+      "properties": {
+        "id": "paris_146",
+        "name": "97, rue Ballard, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.83755,2.2787,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29332,
+          48.828027
+        ]
+      },
+      "properties": {
+        "id": "paris_147",
+        "name": "13, rue du Général Guillaumat, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.828027,2.29332,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.291447,
+          48.855395
+        ]
+      },
+      "properties": {
+        "id": "paris_148",
+        "name": "11, rue Jean Rey, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "angle avenue de Suffren / rue Jean Rey",
+        "street_view": "https://www.google.com/maps/@48.855395,2.291447,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.303892,
+          48.831027
+        ]
+      },
+      "properties": {
+        "id": "paris_149",
+        "name": "15, rue de Cherbourg, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.831027,2.303892,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.294888,
+          48.842595
+        ]
+      },
+      "properties": {
+        "id": "paris_150",
+        "name": "103, rue de la Croix Nivert, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.842595,2.294888,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286048,
+          48.849521
+        ]
+      },
+      "properties": {
+        "id": "paris_151",
+        "name": "50, rue Emeriau, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque",
+        "street_view": "https://www.google.com/maps/@48.849521,2.286048,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.300413,
+          48.826626
+        ]
+      },
+      "properties": {
+        "id": "paris_152",
+        "name": "18, avenue de la prte Brancion, Paris 75015e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.826626,2.300413,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.327953,
+          48.82773
+        ]
+      },
+      "properties": {
+        "id": "paris_153",
+        "name": "77, rue d Alésia, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.82773,2.327953,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.325898,
+          48.828016
+        ]
+      },
+      "properties": {
+        "id": "paris_154",
+        "name": "93, rue d Alésia, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Collège",
+        "street_view": "https://www.google.com/maps/@48.828016,2.325898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319421,
+          48.830516
+        ]
+      },
+      "properties": {
+        "id": "paris_155",
+        "name": "132, rue d Alésia, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.830516,2.319421,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315742,
+          48.835399
+        ]
+      },
+      "properties": {
+        "id": "paris_156",
+        "name": "82, rue Pernetty, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Crèche",
+        "street_view": "https://www.google.com/maps/@48.835399,2.315742,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332862,
+          48.827862
+        ]
+      },
+      "properties": {
+        "id": "paris_157",
+        "name": "14, rue d Alésia, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.827862,2.332862,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32257,
+          48.833421
+        ]
+      },
+      "properties": {
+        "id": "paris_158",
+        "name": "55/61, rue Maurice Ripoche, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.833421,2.32257,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317013,
+          48.823693
+        ]
+      },
+      "properties": {
+        "id": "paris_159",
+        "name": "18, avenue de la porte de Chatillon, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.823693,2.317013,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323515,
+          48.832453
+        ]
+      },
+      "properties": {
+        "id": "paris_160",
+        "name": "12, rue Severo, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.832453,2.323515,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.309705,
+          48.824301
+        ]
+      },
+      "properties": {
+        "id": "paris_161",
+        "name": "20-24, avenue Georges Lafenestre, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.824301,2.309705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.309586,
+          48.825585
+        ]
+      },
+      "properties": {
+        "id": "paris_162",
+        "name": "18, avenue Marc Sangnier, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.825585,2.309586,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328593,
+          48.840883
+        ]
+      },
+      "properties": {
+        "id": "paris_163",
+        "name": "10 rue Huyghens, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.840883,2.328593,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310305,
+          48.824624
+        ]
+      },
+      "properties": {
+        "id": "paris_164",
+        "name": "14-18, avenue Georges Lafenestre, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.824624,2.310305,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.326294,
+          48.821674
+        ]
+      },
+      "properties": {
+        "id": "paris_165",
+        "name": "7, rue Paul Appell, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.821674,2.326294,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.320578,
+          48.837607
+        ]
+      },
+      "properties": {
+        "id": "paris_166",
+        "name": "18, rue Jean Zay, Paris 75014e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.837607,2.320578,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373575,
+          48.836374
+        ]
+      },
+      "properties": {
+        "id": "paris_167",
+        "name": "8 / 10, rue Balanchine, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.836374,2.373575,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365939,
+          48.819702
+        ]
+      },
+      "properties": {
+        "id": "paris_168",
+        "name": "rue Lachelier, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Place port au prince",
+        "street_view": "https://www.google.com/maps/@48.819702,2.365939,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348185,
+          48.833247
+        ]
+      },
+      "properties": {
+        "id": "paris_169",
+        "name": "39, rue des Cordelières, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.833247,2.348185,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366395,
+          48.829663
+        ]
+      },
+      "properties": {
+        "id": "paris_170",
+        "name": "11, rue Lahire, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Mur",
+        "street_view": "https://www.google.com/maps/@48.829663,2.366395,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369226,
+          48.821134
+        ]
+      },
+      "properties": {
+        "id": "paris_171",
+        "name": "5 rue Levassor, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.821134,2.369226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364644,
+          48.820451
+        ]
+      },
+      "properties": {
+        "id": "paris_172",
+        "name": "4bis, avenue de Choisy, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.820451,2.364644,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.360667,
+          48.836123
+        ]
+      },
+      "properties": {
+        "id": "paris_173",
+        "name": "46, rue Jenner, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.836123,2.360667,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377618,
+          48.822744
+        ]
+      },
+      "properties": {
+        "id": "paris_174",
+        "name": "1, avenue Boutroux, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.822744,2.377618,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375173,
+          48.821395
+        ]
+      },
+      "properties": {
+        "id": "paris_175",
+        "name": "16, rue Franc Nohain, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.821395,2.375173,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348337,
+          48.831346
+        ]
+      },
+      "properties": {
+        "id": "paris_176",
+        "name": "Place de la Bergère d'Ivry, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.831346,2.348337,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368247,
+          48.820839
+        ]
+      },
+      "properties": {
+        "id": "paris_177",
+        "name": "81, boulevard Massena, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.820839,2.368247,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34649,
+          48.83154
+        ]
+      },
+      "properties": {
+        "id": "paris_178",
+        "name": "13, rue Vulpian, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.83154,2.34649,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35322,
+          48.827774
+        ]
+      },
+      "properties": {
+        "id": "paris_179",
+        "name": "40, rue Vandrezanne, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.827774,2.35322,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351299,
+          48.822231
+        ]
+      },
+      "properties": {
+        "id": "paris_180",
+        "name": "8, rue Kuss, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.822231,2.351299,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369806,
+          48.821163
+        ]
+      },
+      "properties": {
+        "id": "paris_181",
+        "name": "51 avenue de la Porte d'Ivry, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.821163,2.369806,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364285,
+          48.827738
+        ]
+      },
+      "properties": {
+        "id": "paris_182",
+        "name": "17, avenue Edison, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.827738,2.364285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375676,
+          48.825781
+        ]
+      },
+      "properties": {
+        "id": "paris_183",
+        "name": "5bis, rue Eugène Oudine, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.825781,2.375676,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355973,
+          48.824915
+        ]
+      },
+      "properties": {
+        "id": "paris_184",
+        "name": "12, rue du Docteur Laurent, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.824915,2.355973,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368114,
+          48.83056
+        ]
+      },
+      "properties": {
+        "id": "paris_185",
+        "name": "32, place Jeanne d'Arc, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Mur",
+        "street_view": "https://www.google.com/maps/@48.83056,2.368114,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344612,
+          48.826924
+        ]
+      },
+      "properties": {
+        "id": "paris_186",
+        "name": "16, rue Wurtz, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.826924,2.344612,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.367048,
+          48.832514
+        ]
+      },
+      "properties": {
+        "id": "paris_187",
+        "name": "61, rue Dunois, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre Paris Anim'",
+        "street_view": "https://www.google.com/maps/@48.832514,2.367048,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365472,
+          48.824619
+        ]
+      },
+      "properties": {
+        "id": "paris_188",
+        "name": "42, rue du Javelot, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.824619,2.365472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362127,
+          48.822875
+        ]
+      },
+      "properties": {
+        "id": "paris_189",
+        "name": "3, rue Caillaux, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.822875,2.362127,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36113,
+          48.822585
+        ]
+      },
+      "properties": {
+        "id": "paris_190",
+        "name": "13, rue Caillaux, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Maison de la vie associative et citoyenne",
+        "street_view": "https://www.google.com/maps/@48.822585,2.36113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36599,
+          48.830739
+        ]
+      },
+      "properties": {
+        "id": "paris_191",
+        "name": "58, rue de Clisson, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Crèche",
+        "street_view": "https://www.google.com/maps/@48.830739,2.36599,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355141,
+          48.832661
+        ]
+      },
+      "properties": {
+        "id": "paris_192",
+        "name": "79, avenue des Gobelins, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Mairie",
+        "street_view": "https://www.google.com/maps/@48.832661,2.355141,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366809,
+          48.828093
+        ]
+      },
+      "properties": {
+        "id": "paris_193",
+        "name": "6, rue Baptiste Renard, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Face au 6",
+        "street_view": "https://www.google.com/maps/@48.828093,2.366809,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361549,
+          48.833497
+        ]
+      },
+      "properties": {
+        "id": "paris_194",
+        "name": "Place Pinel, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Entrée du Square - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.833497,2.361549,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364336,
+          48.827908
+        ]
+      },
+      "properties": {
+        "id": "paris_195",
+        "name": "17 rue Baudricourt, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.827908,2.364336,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352475,
+          48.827428
+        ]
+      },
+      "properties": {
+        "id": "paris_196",
+        "name": "5, place Paul Verlaine, Paris 75013e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.827428,2.352475,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396294,
+          48.834878
+        ]
+      },
+      "properties": {
+        "id": "paris_197",
+        "name": "40, rue des Meuniers, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.834878,2.396294,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41293,
+          48.842109
+        ]
+      },
+      "properties": {
+        "id": "paris_198",
+        "name": "34, boulevard Carnot, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Piscine",
+        "street_view": "https://www.google.com/maps/@48.842109,2.41293,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402889,
+          48.837122
+        ]
+      },
+      "properties": {
+        "id": "paris_199",
+        "name": "253bis/253 ter, avenue Daumesnil, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.837122,2.402889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402871,
+          48.832943
+        ]
+      },
+      "properties": {
+        "id": "paris_200",
+        "name": "3, place du Cardinal Lavigerie, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.832943,2.402871,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377656,
+          48.849445
+        ]
+      },
+      "properties": {
+        "id": "paris_201",
+        "name": "6, rue de Cotte, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.849445,2.377656,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39699,
+          48.843372
+        ]
+      },
+      "properties": {
+        "id": "paris_202",
+        "name": "47 rue de Picpus, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole - à droite de l'entrée - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.843372,2.39699,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.380336,
+          48.844704
+        ]
+      },
+      "properties": {
+        "id": "paris_203",
+        "name": "70, avenue Daumesnil, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.844704,2.380336,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403541,
+          48.837242
+        ]
+      },
+      "properties": {
+        "id": "paris_204",
+        "name": "83 avenue du Général Michel Bizot, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole - à droite de l'entrée - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.837242,2.403541,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40334,
+          48.846348
+        ]
+      },
+      "properties": {
+        "id": "paris_205",
+        "name": "16 rue de Marsoulan, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole - à gauche de l'entrée - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.846348,2.40334,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399323,
+          48.832161
+        ]
+      },
+      "properties": {
+        "id": "paris_206",
+        "name": "68, boulevard Poniatowski, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.832161,2.399323,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384587,
+          48.835968
+        ]
+      },
+      "properties": {
+        "id": "paris_207",
+        "name": "6, rue pommard, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.835968,2.384587,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.395135,
+          48.833639
+        ]
+      },
+      "properties": {
+        "id": "paris_208",
+        "name": "315, rue de Charenton, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.833639,2.395135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.411745,
+          48.841801
+        ]
+      },
+      "properties": {
+        "id": "paris_209",
+        "name": "6, avenue Maurice Ravel, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre Paris Anim'",
+        "street_view": "https://www.google.com/maps/@48.841801,2.411745,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402971,
+          48.832877
+        ]
+      },
+      "properties": {
+        "id": "paris_210",
+        "name": "4, place du Cardinal Lavigerie, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.832877,2.402971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402816,
+          48.839681
+        ]
+      },
+      "properties": {
+        "id": "paris_211",
+        "name": "24, rue Louis Braille, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.839681,2.402816,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387186,
+          48.834272
+        ]
+      },
+      "properties": {
+        "id": "paris_212",
+        "name": "51 rue François Truffaut, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre Paris Anim' - à droite de l'entrée",
+        "street_view": "https://www.google.com/maps/@48.834272,2.387186,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.388838,
+          48.843121
+        ]
+      },
+      "properties": {
+        "id": "paris_213",
+        "name": "40 Jacques Hillairet, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole - à gauche de l'entrée - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.843121,2.388838,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.412916,
+          48.843494
+        ]
+      },
+      "properties": {
+        "id": "paris_214",
+        "name": "26/28 boulevard Carnot, Paris 75012e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.843494,2.412916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393939,
+          48.856591
+        ]
+      },
+      "properties": {
+        "id": "paris_215",
+        "name": "115, boulevard Charonne, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.856591,2.393939,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379116,
+          48.85859
+        ]
+      },
+      "properties": {
+        "id": "paris_216",
+        "name": "107, boulevard Voltaire, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Maire annexe",
+        "street_view": "https://www.google.com/maps/@48.85859,2.379116,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386531,
+          48.862694
+        ]
+      },
+      "properties": {
+        "id": "paris_217",
+        "name": "49, boulevard Menilmontant, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.862694,2.386531,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383955,
+          48.851602
+        ]
+      },
+      "properties": {
+        "id": "paris_218",
+        "name": "18, rue Faidherbe, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque",
+        "street_view": "https://www.google.com/maps/@48.851602,2.383955,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376853,
+          48.853623
+        ]
+      },
+      "properties": {
+        "id": "paris_219",
+        "name": "4, rue Keller, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.853623,2.376853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377182,
+          48.870885
+        ]
+      },
+      "properties": {
+        "id": "paris_220",
+        "name": "4bis, rue de la Présentation, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.870885,2.377182,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38079,
+          48.852838
+        ]
+      },
+      "properties": {
+        "id": "paris_221",
+        "name": "31, rue Saint Bernard, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.852838,2.38079,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.382034,
+          48.860315
+        ]
+      },
+      "properties": {
+        "id": "paris_222",
+        "name": "22, rue Saint Maur, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.860315,2.382034,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376653,
+          48.854709
+        ]
+      },
+      "properties": {
+        "id": "paris_223",
+        "name": "3, passage Bullourde, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.854709,2.376653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38245,
+          48.855874
+        ]
+      },
+      "properties": {
+        "id": "paris_224",
+        "name": "2, rue Japy, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.855874,2.38245,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393242,
+          48.853745
+        ]
+      },
+      "properties": {
+        "id": "paris_225",
+        "name": "39, rue Alexandre Dumas, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau A",
+        "street_view": "https://www.google.com/maps/@48.853745,2.393242,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379842,
+          48.855876
+        ]
+      },
+      "properties": {
+        "id": "paris_226",
+        "name": "15, Cour Debille, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Crèche",
+        "street_view": "https://www.google.com/maps/@48.855876,2.379842,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.374589,
+          48.867344
+        ]
+      },
+      "properties": {
+        "id": "paris_227",
+        "name": "39, rue des Trois Bornes, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.867344,2.374589,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373882,
+          48.863455
+        ]
+      },
+      "properties": {
+        "id": "paris_228",
+        "name": "1, rue Pihet, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.863455,2.373882,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38589,
+          48.859847
+        ]
+      },
+      "properties": {
+        "id": "paris_229",
+        "name": "14, rue Merlin, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.859847,2.38589,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369434,
+          48.861114
+        ]
+      },
+      "properties": {
+        "id": "paris_230",
+        "name": "24, rue Saint Sébastien, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.861114,2.369434,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392536,
+          48.854201
+        ]
+      },
+      "properties": {
+        "id": "paris_231",
+        "name": "66/72 avenue Philippe Auguste, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.854201,2.392536,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390985,
+          48.856704
+        ]
+      },
+      "properties": {
+        "id": "paris_232",
+        "name": "108, avenue Philippe Auguste, Paris 75011e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.856704,2.390985,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36381,
+          48.874978
+        ]
+      },
+      "properties": {
+        "id": "paris_233",
+        "name": "118, quai de Jemmapes, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.874978,2.36381,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358068,
+          48.871589
+        ]
+      },
+      "properties": {
+        "id": "paris_234",
+        "name": "6, rue Pierre Bullet, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Conservatoire municipal",
+        "street_view": "https://www.google.com/maps/@48.871589,2.358068,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350113,
+          48.870282
+        ]
+      },
+      "properties": {
+        "id": "paris_235",
+        "name": "26, boulevard Bonne Nouvelle, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau A",
+        "street_view": "https://www.google.com/maps/@48.870282,2.350113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350113,
+          48.870282
+        ]
+      },
+      "properties": {
+        "id": "paris_236",
+        "name": "26, boulevard Bonne Nouvelle, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau B",
+        "street_view": "https://www.google.com/maps/@48.870282,2.350113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369203,
+          48.872014
+        ]
+      },
+      "properties": {
+        "id": "paris_237",
+        "name": "Début rue Alibert, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Angle Alibert / Claude Vellefaux",
+        "street_view": "https://www.google.com/maps/@48.872014,2.369203,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35392,
+          48.870887
+        ]
+      },
+      "properties": {
+        "id": "paris_238",
+        "name": "6 rue de Metz, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.870887,2.35392,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364032,
+          48.883223
+        ]
+      },
+      "properties": {
+        "id": "paris_239",
+        "name": "48, rue du Chateau Landon, Paris 75010e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.883223,2.364032,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342182,
+          48.87953
+        ]
+      },
+      "properties": {
+        "id": "paris_240",
+        "name": "33, rue Milton, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.87953,2.342182,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340662,
+          48.877315
+        ]
+      },
+      "properties": {
+        "id": "paris_241",
+        "name": "5, rue Milton, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.877315,2.340662,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335582,
+          48.88235
+        ]
+      },
+      "properties": {
+        "id": "paris_242",
+        "name": "22, rue Duperré, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "TEP - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.88235,2.335582,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336937,
+          48.881087
+        ]
+      },
+      "properties": {
+        "id": "paris_243",
+        "name": "37, rue Victor Massé, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Maison de la vie associative et citoyenne - annexe",
+        "street_view": "https://www.google.com/maps/@48.881087,2.336937,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334409,
+          48.882984
+        ]
+      },
+      "properties": {
+        "id": "paris_244",
+        "name": "130, boulevard de Clichy, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau A : face au 130",
+        "street_view": "https://www.google.com/maps/@48.882984,2.334409,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328826,
+          48.883292
+        ]
+      },
+      "properties": {
+        "id": "paris_245",
+        "name": "32/34, rue de Bruxelles, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.883292,2.328826,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345207,
+          48.880461
+        ]
+      },
+      "properties": {
+        "id": "paris_246",
+        "name": "13, rue Turgot, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Crèche - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.880461,2.345207,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333549,
+          48.881195
+        ]
+      },
+      "properties": {
+        "id": "paris_247",
+        "name": "12, rue Chaptal, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.881195,2.333549,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342441,
+          48.876458
+        ]
+      },
+      "properties": {
+        "id": "paris_248",
+        "name": "34, rue Buffault, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.876458,2.342441,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.331896,
+          48.877953
+        ]
+      },
+      "properties": {
+        "id": "paris_249",
+        "name": "9, rue Blanche, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.877953,2.331896,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342421,
+          48.876554
+        ]
+      },
+      "properties": {
+        "id": "paris_250",
+        "name": "26, rue Buffault, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.876554,2.342421,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342391,
+          48.876374
+        ]
+      },
+      "properties": {
+        "id": "paris_251",
+        "name": "32, rue Buffault, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.876374,2.342391,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336088,
+          48.881318
+        ]
+      },
+      "properties": {
+        "id": "paris_252",
+        "name": "54, rue Jean-Baptiste Pigalle, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Maison de la vie associative et citoyenne",
+        "street_view": "https://www.google.com/maps/@48.881318,2.336088,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348618,
+          48.879395
+        ]
+      },
+      "properties": {
+        "id": "paris_253",
+        "name": "36, rue Pierre Semard, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau B",
+        "street_view": "https://www.google.com/maps/@48.879395,2.348618,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348618,
+          48.879395
+        ]
+      },
+      "properties": {
+        "id": "paris_254",
+        "name": "36, rue Pierre Semard, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau A",
+        "street_view": "https://www.google.com/maps/@48.879395,2.348618,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.331855,
+          48.878065
+        ]
+      },
+      "properties": {
+        "id": "paris_255",
+        "name": "9bis rue Blanche, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.878065,2.331855,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34652,
+          48.881329
+        ]
+      },
+      "properties": {
+        "id": "paris_256",
+        "name": "68/70 rue Rochechouart, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.881329,2.34652,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341097,
+          48.878849
+        ]
+      },
+      "properties": {
+        "id": "paris_257",
+        "name": "19, rue Milton, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.878849,2.341097,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345126,
+          48.878077
+        ]
+      },
+      "properties": {
+        "id": "paris_258",
+        "name": "24, rue de Rochechouart, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre Paris Anim' - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.878077,2.345126,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340662,
+          48.877315
+        ]
+      },
+      "properties": {
+        "id": "paris_259",
+        "name": "5, rue Milton, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.877315,2.340662,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338745,
+          48.879343
+        ]
+      },
+      "properties": {
+        "id": "paris_260",
+        "name": "12, rue Clauzel, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.879343,2.338745,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344949,
+          48.877952
+        ]
+      },
+      "properties": {
+        "id": "paris_261",
+        "name": "22, rue de Rochechouart, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.877952,2.344949,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34045,
+          48.873382
+        ]
+      },
+      "properties": {
+        "id": "paris_262",
+        "name": "11, rue Drouot, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Mur",
+        "street_view": "https://www.google.com/maps/@48.873382,2.34045,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334409,
+          48.882984
+        ]
+      },
+      "properties": {
+        "id": "paris_263",
+        "name": "130, boulevard de Clichy, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau B : face au 130",
+        "street_view": "https://www.google.com/maps/@48.882984,2.334409,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3429,
+          48.878658
+        ]
+      },
+      "properties": {
+        "id": "paris_264",
+        "name": "30, rue Rodier, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.878658,2.3429,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340178,
+          48.877176
+        ]
+      },
+      "properties": {
+        "id": "paris_265",
+        "name": "10, rue Hippolyte Lebas, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.877176,2.340178,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345023,
+          48.880749
+        ]
+      },
+      "properties": {
+        "id": "paris_266",
+        "name": "15, rue Turgot, Paris 75009e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.880749,2.345023,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317688,
+          48.878822
+        ]
+      },
+      "properties": {
+        "id": "paris_267",
+        "name": "28, rue du Général Foy, Paris 75008e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau A",
+        "street_view": "https://www.google.com/maps/@48.878822,2.317688,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317688,
+          48.878822
+        ]
+      },
+      "properties": {
+        "id": "paris_268",
+        "name": "28, rue du Général Foy, Paris 75008e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Panneau B",
+        "street_view": "https://www.google.com/maps/@48.878822,2.317688,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307394,
+          48.87234
+        ]
+      },
+      "properties": {
+        "id": "paris_269",
+        "name": "10, rue Paul Baudry, Paris 75008e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire",
+        "street_view": "https://www.google.com/maps/@48.87234,2.307394,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318485,
+          48.873349
+        ]
+      },
+      "properties": {
+        "id": "paris_270",
+        "name": "16, rue de Roquepine, Paris 75008e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.873349,2.318485,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.300202,
+          48.858623
+        ]
+      },
+      "properties": {
+        "id": "paris_271",
+        "name": "28, avenue Rapp, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.858623,2.300202,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31916,
+          48.851211
+        ]
+      },
+      "properties": {
+        "id": "paris_272",
+        "name": "48, rue Vaneau, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.851211,2.31916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305271,
+          48.85878
+        ]
+      },
+      "properties": {
+        "id": "paris_273",
+        "name": "4, rue Cler, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.85878,2.305271,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.299853,
+          48.858889
+        ]
+      },
+      "properties": {
+        "id": "paris_274",
+        "name": "1, rue du Général Camou, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole primaire",
+        "street_view": "https://www.google.com/maps/@48.858889,2.299853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.299265,
+          48.85828
+        ]
+      },
+      "properties": {
+        "id": "paris_275",
+        "name": "37, avenue de la Bourdonnais, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.85828,2.299265,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292798,
+          48.857527
+        ]
+      },
+      "properties": {
+        "id": "paris_276",
+        "name": "Place de Sydney, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.857527,2.292798,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31858,
+          48.858981
+        ]
+      },
+      "properties": {
+        "id": "paris_277",
+        "name": "27, rue Las Casés, Paris 75007e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.858981,2.31858,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333105,
+          48.855128
+        ]
+      },
+      "properties": {
+        "id": "paris_278",
+        "name": "12, rue Saint Benoit, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.855128,2.333105,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339941,
+          48.852692
+        ]
+      },
+      "properties": {
+        "id": "paris_279",
+        "name": "7, rue du Jardinet, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.852692,2.339941,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341287,
+          48.853272
+        ]
+      },
+      "properties": {
+        "id": "paris_280",
+        "name": "39, rue Saint-André des Arts, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.853272,2.341287,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33594,
+          48.851743
+        ]
+      },
+      "properties": {
+        "id": "paris_281",
+        "name": "12, rue Lobineau, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif Saint-Germain - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.851743,2.33594,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333105,
+          48.855128
+        ]
+      },
+      "properties": {
+        "id": "paris_282",
+        "name": "12, rue Saint-Benoît, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.855128,2.333105,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339836,
+          48.848922
+        ]
+      },
+      "properties": {
+        "id": "paris_283",
+        "name": "9, rue de Vaugirard, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.848922,2.339836,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323705,
+          48.845747
+        ]
+      },
+      "properties": {
+        "id": "paris_284",
+        "name": "6, rue Littré, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.845747,2.323705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323206,
+          48.8459
+        ]
+      },
+      "properties": {
+        "id": "paris_285",
+        "name": "87, rue de Vaugirard, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase Littré - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.8459,2.323206,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.331602,
+          48.848934
+        ]
+      },
+      "properties": {
+        "id": "paris_286",
+        "name": "42, rue Madame, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole élémentaire - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.848934,2.331602,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328112,
+          48.847852
+        ]
+      },
+      "properties": {
+        "id": "paris_287",
+        "name": "85, boulevard Raspail, Paris 75006e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Halte-garderie/PMI",
+        "street_view": "https://www.google.com/maps/@48.847852,2.328112,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352272,
+          48.848586
+        ]
+      },
+      "properties": {
+        "id": "paris_288",
+        "name": "27, rue de Poissy, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle",
+        "street_view": "https://www.google.com/maps/@48.848586,2.352272,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349986,
+          48.84438
+        ]
+      },
+      "properties": {
+        "id": "paris_289",
+        "name": "50, rue Lacépède, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bains-Douches - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.84438,2.349986,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347531,
+          48.841234
+        ]
+      },
+      "properties": {
+        "id": "paris_290",
+        "name": "10, rue Vauquelin, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.841234,2.347531,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361878,
+          48.842548
+        ]
+      },
+      "properties": {
+        "id": "paris_291",
+        "name": "15 bis, rue Buffon, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle Buffon - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.842548,2.361878,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349672,
+          48.842585
+        ]
+      },
+      "properties": {
+        "id": "paris_292",
+        "name": "74, rue Mouffetard, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Bibliothèque - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.842585,2.349672,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348999,
+          48.841614
+        ]
+      },
+      "properties": {
+        "id": "paris_293",
+        "name": "1, rue Jean Calvin, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.841614,2.348999,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357481,
+          48.839807
+        ]
+      },
+      "properties": {
+        "id": "paris_294",
+        "name": "39 bis, rue Poliveau, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Creche municipale - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.839807,2.357481,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34061,
+          48.842291
+        ]
+      },
+      "properties": {
+        "id": "paris_295",
+        "name": "10, rue Pierre Nicole, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Gymnase",
+        "street_view": "https://www.google.com/maps/@48.842291,2.34061,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349685,
+          48.84134
+        ]
+      },
+      "properties": {
+        "id": "paris_296",
+        "name": "97, rue Mouffetard, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole maternelle - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.84134,2.349685,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347949,
+          48.842438
+        ]
+      },
+      "properties": {
+        "id": "paris_297",
+        "name": "45, rue Lhomond, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Mur",
+        "street_view": "https://www.google.com/maps/@48.842438,2.347949,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346916,
+          48.847557
+        ]
+      },
+      "properties": {
+        "id": "paris_298",
+        "name": "11, rue Valette, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Creche - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.847557,2.346916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351259,
+          48.841578
+        ]
+      },
+      "properties": {
+        "id": "paris_299",
+        "name": "3, rue de l'Epée de Bois, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre de santé",
+        "street_view": "https://www.google.com/maps/@48.841578,2.351259,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351354,
+          48.841557
+        ]
+      },
+      "properties": {
+        "id": "paris_300",
+        "name": "3, rue de l'Epée de Bois, Paris 75005e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre de santé - Format: 1",
+        "street_view": "https://www.google.com/maps/@48.841557,2.351354,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366336,
+          48.852328
+        ]
+      },
+      "properties": {
+        "id": "paris_301",
+        "name": "38, boulevard Henri IV, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.852328,2.366336,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363512,
+          48.853665
+        ]
+      },
+      "properties": {
+        "id": "paris_302",
+        "name": "5/7, rue Neuve Saint Pierre, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.853665,2.363512,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357251,
+          48.851526
+        ]
+      },
+      "properties": {
+        "id": "paris_303",
+        "name": "21, rue Saint Louis en l'Isle, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole",
+        "street_view": "https://www.google.com/maps/@48.851526,2.357251,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353831,
+          48.856579
+        ]
+      },
+      "properties": {
+        "id": "paris_304",
+        "name": "4, rue de Lobau, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.856579,2.353831,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353645,
+          48.856377
+        ]
+      },
+      "properties": {
+        "id": "paris_305",
+        "name": "4 rue de Lobau, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.856377,2.353645,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355152,
+          48.856693
+        ]
+      },
+      "properties": {
+        "id": "paris_306",
+        "name": "25, rue de Rivoli, Paris 75004e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.856693,2.355152,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356554,
+          48.86204
+        ]
+      },
+      "properties": {
+        "id": "paris_307",
+        "name": "8 rue Michel Lecomte, Paris 75003e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Centre sportif",
+        "street_view": "https://www.google.com/maps/@48.86204,2.356554,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354703,
+          48.863451
+        ]
+      },
+      "properties": {
+        "id": "paris_308",
+        "name": "64 rue de Beaubourg, Paris 75003e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@48.863451,2.354703,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338158,
+          48.868252
+        ]
+      },
+      "properties": {
+        "id": "paris_309",
+        "name": "71, rue de Richelieu, Paris 75002e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif et d'opinion",
+        "street_view": "https://www.google.com/maps/@48.868252,2.338158,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344087,
+          48.865292
+        ]
+      },
+      "properties": {
+        "id": "paris_310",
+        "name": "3, rue de la Jussienne, Paris 75002e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole",
+        "street_view": "https://www.google.com/maps/@48.865292,2.344087,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342026,
+          48.859896
+        ]
+      },
+      "properties": {
+        "id": "paris_311",
+        "name": "19, rue de l'arbre sec, Paris 75001e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole",
+        "street_view": "https://www.google.com/maps/@48.859896,2.342026,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32685,
+          48.868105
+        ]
+      },
+      "properties": {
+        "id": "paris_312",
+        "name": "28, rue Cambon, Paris 75001e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole",
+        "street_view": "https://www.google.com/maps/@48.868105,2.32685,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333822,
+          48.864893
+        ]
+      },
+      "properties": {
+        "id": "paris_313",
+        "name": "11, rue d Argenteuil, Paris 75001e",
+        "city": "Paris",
+        "type": "Affichage libre",
+        "notes": "Ecole",
+        "street_view": "https://www.google.com/maps/@48.864893,2.333822,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

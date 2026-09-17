@@ -1,0 +1,658 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Soissons",
+    "department": "02 - Aisne",
+    "count": 36
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.304765,
+          49.377195
+        ]
+      },
+      "properties": {
+        "id": "soissons_1",
+        "name": "Rue Edmond Michelet, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.377195,3.304765,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.326332,
+          49.379627
+        ]
+      },
+      "properties": {
+        "id": "soissons_2",
+        "name": "Rue des Minimes, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.379627,3.326332,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.332875,
+          49.392789
+        ]
+      },
+      "properties": {
+        "id": "soissons_3",
+        "name": "Avenue de Coucy, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.392789,3.332875,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.34564,
+          49.391747
+        ]
+      },
+      "properties": {
+        "id": "soissons_4",
+        "name": "Rue de Vailly, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.391747,3.34564,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.327884,
+          49.385624
+        ]
+      },
+      "properties": {
+        "id": "soissons_5",
+        "name": "Rue Jean de Dormans, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.385624,3.327884,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.313378,
+          49.389207
+        ]
+      },
+      "properties": {
+        "id": "soissons_6",
+        "name": "Avenue de Pasly, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.389207,3.313378,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.327205,
+          49.387499
+        ]
+      },
+      "properties": {
+        "id": "soissons_7",
+        "name": "Rue Jean de Dormans, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.387499,3.327205,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.316192,
+          49.381161
+        ]
+      },
+      "properties": {
+        "id": "soissons_8",
+        "name": "Square Pillot, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.381161,3.316192,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.337456,
+          49.371695
+        ]
+      },
+      "properties": {
+        "id": "soissons_9",
+        "name": "Place de Finfe, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.371695,3.337456,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.343111,
+          49.373198
+        ]
+      },
+      "properties": {
+        "id": "soissons_10",
+        "name": "Avenue de Reims, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.373198,3.343111,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.307585,
+          49.38249
+        ]
+      },
+      "properties": {
+        "id": "soissons_11",
+        "name": "Rue du Paradis, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.38249,3.307585,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.328098,
+          49.383155
+        ]
+      },
+      "properties": {
+        "id": "soissons_12",
+        "name": "Rue Pétrot Labarre, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.383155,3.328098,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.319824,
+          49.390286
+        ]
+      },
+      "properties": {
+        "id": "soissons_13",
+        "name": "Boulevard Victor Hugo, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.390286,3.319824,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.311699,
+          49.377492
+        ]
+      },
+      "properties": {
+        "id": "soissons_14",
+        "name": "Rue de la Victoire, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.377492,3.311699,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323667,
+          49.368963
+        ]
+      },
+      "properties": {
+        "id": "soissons_15",
+        "name": "Rue Bois des Chassis, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.368963,3.323667,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.313708,
+          49.370644
+        ]
+      },
+      "properties": {
+        "id": "soissons_16",
+        "name": "Rue du Général Lafayette, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.370644,3.313708,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.326395,
+          49.394409
+        ]
+      },
+      "properties": {
+        "id": "soissons_17",
+        "name": "Avenue du Mail, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.394409,3.326395,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.344146,
+          49.387625
+        ]
+      },
+      "properties": {
+        "id": "soissons_18",
+        "name": "Rue de Vailly, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.387625,3.344146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.306502,
+          49.380984
+        ]
+      },
+      "properties": {
+        "id": "soissons_19",
+        "name": "Place Winston Churchill, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.380984,3.306502,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.307816,
+          49.374248
+        ]
+      },
+      "properties": {
+        "id": "soissons_20",
+        "name": "Avenue Robert Shumann, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.374248,3.307816,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.316133,
+          49.374249
+        ]
+      },
+      "properties": {
+        "id": "soissons_21",
+        "name": "Boulevard Paul Doumer, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.374249,3.316133,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323436,
+          49.370131
+        ]
+      },
+      "properties": {
+        "id": "soissons_22",
+        "name": "Rue Salvador Allendre, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.370131,3.323436,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.329337,
+          49.371237
+        ]
+      },
+      "properties": {
+        "id": "soissons_23",
+        "name": "Boulevard Tour de ville, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.371237,3.329337,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.338295,
+          49.369767
+        ]
+      },
+      "properties": {
+        "id": "soissons_24",
+        "name": "Place de la Gare, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.369767,3.338295,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.324877,
+          49.38385
+        ]
+      },
+      "properties": {
+        "id": "soissons_25",
+        "name": "Grand Place, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.38385,3.324877,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323807,
+          49.387344
+        ]
+      },
+      "properties": {
+        "id": "soissons_26",
+        "name": "Rue du Maréchal Lyautey, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.387344,3.323807,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.333229,
+          49.37332
+        ]
+      },
+      "properties": {
+        "id": "soissons_27",
+        "name": "Avenue du Général de Gaulle, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.37332,3.333229,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.338146,
+          49.381903
+        ]
+      },
+      "properties": {
+        "id": "soissons_28",
+        "name": "Rue de Croisy, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.381903,3.338146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.337092,
+          49.386012
+        ]
+      },
+      "properties": {
+        "id": "soissons_29",
+        "name": "Rue du Capitaine Letellier, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.386012,3.337092,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.321503,
+          49.382928
+        ]
+      },
+      "properties": {
+        "id": "soissons_30",
+        "name": "Rue Saint Christophe, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.382928,3.321503,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.315886,
+          49.364054
+        ]
+      },
+      "properties": {
+        "id": "soissons_31",
+        "name": "Rue Marcel Paul, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.364054,3.315886,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.316482,
+          49.386899
+        ]
+      },
+      "properties": {
+        "id": "soissons_32",
+        "name": "Rue Lamartine, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.386899,3.316482,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.311522,
+          49.37617
+        ]
+      },
+      "properties": {
+        "id": "soissons_33",
+        "name": "Rue Pierre Curie, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.37617,3.311522,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.30946,
+          49.37631
+        ]
+      },
+      "properties": {
+        "id": "soissons_34",
+        "name": "Rue du Docteur Roy, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.37631,3.30946,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.319867,
+          49.365726
+        ]
+      },
+      "properties": {
+        "id": "soissons_35",
+        "name": "Rue Raymonde Fiolet, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.365726,3.319867,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.325751,
+          49.38027
+        ]
+      },
+      "properties": {
+        "id": "soissons_36",
+        "name": "Place de l'évéché, Soissons",
+        "city": "Soissons",
+        "type": "Affichage libre",
+        "notes": "Panneau d'expression",
+        "street_view": "https://www.google.com/maps/@49.38027,3.325751,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Givors",
+    "department": "69 - Rhône",
+    "count": 17
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.770437,
+          45.600722
+        ]
+      },
+      "properties": {
+        "id": "givors_1",
+        "name": "18 Avenue Youri Gagarine, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Parking du Palais des Sports (coté nationale)",
+        "street_view": "https://www.google.com/maps/@45.600722,4.770437,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763752,
+          45.604658
+        ]
+      },
+      "properties": {
+        "id": "givors_2",
+        "name": "Avenue Gisèle Halimi, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : A côté de l’arrêt de bus Givors – Charles de Gaulle",
+        "street_view": "https://www.google.com/maps/@45.604658,4.763752,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762733,
+          45.601534
+        ]
+      },
+      "properties": {
+        "id": "givors_3",
+        "name": "2 Chemin de la Côte à Cailloux, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Vernes : Parking Cote à Cailloux, au croisement avec la Rue du Docteur Roux",
+        "street_view": "https://www.google.com/maps/@45.601534,4.762733,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.745356,
+          45.590189
+        ]
+      },
+      "properties": {
+        "id": "givors_4",
+        "name": "106 Montée des Autrichiens, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Plateau de Montrond : Montée des Autrichiens (au niveau des aires de jeux)",
+        "street_view": "https://www.google.com/maps/@45.590189,4.745356,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759374,
+          45.588399
+        ]
+      },
+      "properties": {
+        "id": "givors_5",
+        "name": "19 Rue de Montrond, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Gier : Parking de la rue de Montrond (à côté du conteneur à verres)",
+        "street_view": "https://www.google.com/maps/@45.588399,4.759374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76011,
+          45.584342
+        ]
+      },
+      "properties": {
+        "id": "givors_6",
+        "name": "24 Rue Fleury Neuvesel, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Secteur Freydière : croisement Route d’Echalas / Rue Fleury-Neuvesel",
+        "street_view": "https://www.google.com/maps/@45.584342,4.76011,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76805,
+          45.584123
+        ]
+      },
+      "properties": {
+        "id": "givors_7",
+        "name": "226 Rue Jacques Prévert, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : rue Jacques Prévert (entre le parking et l’école Simone Veil)",
+        "street_view": "https://www.google.com/maps/@45.584123,4.76805,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.774607,
+          45.583101
+        ]
+      },
+      "properties": {
+        "id": "givors_8",
+        "name": "Place Jean Jaurès, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Centre-ville : Place Jean Jaurès, face à l’école Jean Jaurès (vers les jeux d’enfants)",
+        "street_view": "https://www.google.com/maps/@45.583101,4.774607,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.777344,
+          45.576455
+        ]
+      },
+      "properties": {
+        "id": "givors_9",
+        "name": "1713 Route Neuve, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Hauts de Givors : Parking du cimetière de Badin",
+        "street_view": "https://www.google.com/maps/@45.576455,4.777344,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.795307,
+          45.569291
+        ]
+      },
+      "properties": {
+        "id": "givors_10",
+        "name": "16 Rue Renée Peillon, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Bans : Parking du gymnase",
+        "street_view": "https://www.google.com/maps/@45.569291,4.795307,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77304,
+          45.589394
+        ]
+      },
+      "properties": {
+        "id": "givors_11",
+        "name": "Place des Tours, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Canal : Tours Thorez (à l’entrée du chemin entre le City stade et le parc)",
+        "street_view": "https://www.google.com/maps/@45.589394,4.77304,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.770816,
+          45.591092
+        ]
+      },
+      "properties": {
+        "id": "givors_12",
+        "name": "Rue Jean Ligonnet (Square du 17 Octobre 1961), 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Maison des Associations (place Picard)",
+        "street_view": "https://www.google.com/maps/@45.591092,4.770816,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749625,
+          45.578453
+        ]
+      },
+      "properties": {
+        "id": "givors_13",
+        "name": "42 Chemin de la Rama, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) La Rama (sur le parking en dessous du centre aéré)",
+        "street_view": "https://www.google.com/maps/@45.578453,4.749625,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.767128,
+          45.593074
+        ]
+      },
+      "properties": {
+        "id": "givors_14",
+        "name": "ZA La Plaine Robinson, Rue Yves Farge, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Plaine Robinson : Parking des commerces (à côté de la Maison citoyenne)",
+        "street_view": "https://www.google.com/maps/@45.593074,4.767128,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76757,
+          45.595749
+        ]
+      },
+      "properties": {
+        "id": "givors_15",
+        "name": "13 Rue Julian Grimau, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Les Plaines : vers l’école Joliot Curie (au croisement des Rues Julian Grimau et Jean Macé)",
+        "street_view": "https://www.google.com/maps/@45.595749,4.76757,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.725313,
+          45.579832
+        ]
+      },
+      "properties": {
+        "id": "givors_16",
+        "name": "Route de Rive-de-Gier, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Givors Ouest : Au croisement du chemin des Biesses et de la route de rive de Gier)",
+        "street_view": "https://www.google.com/maps/@45.579832,4.725313,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77385,
+          45.597024
+        ]
+      },
+      "properties": {
+        "id": "givors_17",
+        "name": "1a Cité du Garon, 69700 Givors",
+        "city": "Givors",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,20 x 0,80) Cité du Garon (croisement chemin du Garon / Cité du Garon)",
+        "street_view": "https://www.google.com/maps/@45.597024,4.77385,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

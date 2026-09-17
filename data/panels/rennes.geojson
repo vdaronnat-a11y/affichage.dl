@@ -1,0 +1,2152 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Rennes Métropole",
+    "department": "35 - Ille-et-Vilaine",
+    "count": 119
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.684111,
+          48.101775
+        ]
+      },
+      "properties": {
+        "id": "rennes_1",
+        "name": "Carrefour Georges Nitsch, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.101775,-1.684111,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.666216,
+          48.105554
+        ]
+      },
+      "properties": {
+        "id": "rennes_2",
+        "name": "Boulevard René Laënnec, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105554,-1.666216,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693148,
+          48.108991
+        ]
+      },
+      "properties": {
+        "id": "rennes_3",
+        "name": "Mail François Mitterrand, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.108991,-1.693148,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.691524,
+          48.111228
+        ]
+      },
+      "properties": {
+        "id": "rennes_4",
+        "name": "Rue Papu, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.111228,-1.691524,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.692617,
+          48.090145
+        ]
+      },
+      "properties": {
+        "id": "rennes_5",
+        "name": "Boulevard Albert 1er, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.090145,-1.692617,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.703485,
+          48.12147
+        ]
+      },
+      "properties": {
+        "id": "rennes_6",
+        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.12147,-1.703485,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.648365,
+          48.11405
+        ]
+      },
+      "properties": {
+        "id": "rennes_7",
+        "name": "Avenue Général Leclerc, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.11405,-1.648365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651566,
+          48.099793
+        ]
+      },
+      "properties": {
+        "id": "rennes_8",
+        "name": "Boulevard Léon Bourgeois, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.099793,-1.651566,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.666045,
+          48.091234
+        ]
+      },
+      "properties": {
+        "id": "rennes_9",
+        "name": "Rue Eugène Deprez, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.091234,-1.666045,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.667117,
+          48.094777
+        ]
+      },
+      "properties": {
+        "id": "rennes_10",
+        "name": "Rue Sully Prudhomme, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.094777,-1.667117,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682122,
+          48.101542
+        ]
+      },
+      "properties": {
+        "id": "rennes_11",
+        "name": "Rue Paul Féval, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.101542,-1.682122,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.652075,
+          48.091449
+        ]
+      },
+      "properties": {
+        "id": "rennes_12",
+        "name": "Boulevard Léon Grimault, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.091449,-1.652075,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704379,
+          48.119435
+        ]
+      },
+      "properties": {
+        "id": "rennes_13",
+        "name": "Avenue Gaston Berger, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.119435,-1.704379,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682208,
+          48.085127
+        ]
+      },
+      "properties": {
+        "id": "rennes_14",
+        "name": "Avenue du Canada, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.085127,-1.682208,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68065,
+          48.115083
+        ]
+      },
+      "properties": {
+        "id": "rennes_15",
+        "name": "Rue de Saint-Malo, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.115083,-1.68065,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.64278,
+          48.129562
+        ]
+      },
+      "properties": {
+        "id": "rennes_16",
+        "name": "Rue de Fougères, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.129562,-1.64278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.690962,
+          48.098318
+        ]
+      },
+      "properties": {
+        "id": "rennes_17",
+        "name": "Rue de la Courrouze, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.098318,-1.690962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.702762,
+          48.127874
+        ]
+      },
+      "properties": {
+        "id": "rennes_18",
+        "name": "Avenue de Cucillé, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.127874,-1.702762,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.707363,
+          48.102458
+        ]
+      },
+      "properties": {
+        "id": "rennes_19",
+        "name": "Rue Ferdinand de Lesseps, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.102458,-1.707363,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65807,
+          48.11965
+        ]
+      },
+      "properties": {
+        "id": "rennes_20",
+        "name": "Rue Zacharie Roussin, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.11965,-1.65807,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.679951,
+          48.109403
+        ]
+      },
+      "properties": {
+        "id": "rennes_21",
+        "name": "Rue du Pré Botté, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.109403,-1.679951,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7058,
+          48.109992
+        ]
+      },
+      "properties": {
+        "id": "rennes_22",
+        "name": "Boulevard Marbeuf, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.109992,-1.7058,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682233,
+          48.090725
+        ]
+      },
+      "properties": {
+        "id": "rennes_23",
+        "name": "Rue Louis et René Moine, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.090725,-1.682233,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.659778,
+          48.088403
+        ]
+      },
+      "properties": {
+        "id": "rennes_24",
+        "name": "Boulevard de Yougoslavie, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.088403,-1.659778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.684239,
+          48.122515
+        ]
+      },
+      "properties": {
+        "id": "rennes_25",
+        "name": "Rue de Saint-Malo, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.122515,-1.684239,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.662811,
+          48.12194
+        ]
+      },
+      "properties": {
+        "id": "rennes_26",
+        "name": "Boulevard Volney, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.12194,-1.662811,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66062,
+          48.08607
+        ]
+      },
+      "properties": {
+        "id": "rennes_27",
+        "name": "Avenue des Pays-Bas, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.08607,-1.66062,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704387,
+          48.117638
+        ]
+      },
+      "properties": {
+        "id": "rennes_28",
+        "name": "Avenue du Professeur Léon Bernard, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.117638,-1.704387,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.699713,
+          48.105285
+        ]
+      },
+      "properties": {
+        "id": "rennes_29",
+        "name": "Boulevard Voltaire, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105285,-1.699713,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67668,
+          48.131197
+        ]
+      },
+      "properties": {
+        "id": "rennes_30",
+        "name": "Rue du Scorff, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.131197,-1.67668,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.667153,
+          48.135543
+        ]
+      },
+      "properties": {
+        "id": "rennes_31",
+        "name": "Rue du Morbihan, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.135543,-1.667153,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.668673,
+          48.136578
+        ]
+      },
+      "properties": {
+        "id": "rennes_32",
+        "name": "Avenue des Monts d'Arrée, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.136578,-1.668673,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.664254,
+          48.128174
+        ]
+      },
+      "properties": {
+        "id": "rennes_33",
+        "name": "Avenue Général George S. Patton, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.128174,-1.664254,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66602,
+          48.138717
+        ]
+      },
+      "properties": {
+        "id": "rennes_34",
+        "name": "Rue Emile Bernard, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.138717,-1.66602,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.643409,
+          48.121126
+        ]
+      },
+      "properties": {
+        "id": "rennes_35",
+        "name": "Avenue Professeur Charles Foulon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.121126,-1.643409,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656009,
+          48.098155
+        ]
+      },
+      "properties": {
+        "id": "rennes_36",
+        "name": "Rue de Vern, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.098155,-1.656009,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.637093,
+          48.095969
+        ]
+      },
+      "properties": {
+        "id": "rennes_37",
+        "name": "Rue du Bignon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.095969,-1.637093,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.653973,
+          48.093493
+        ]
+      },
+      "properties": {
+        "id": "rennes_38",
+        "name": "Square Docteur Fernand Jacq, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.093493,-1.653973,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.668995,
+          48.102093
+        ]
+      },
+      "properties": {
+        "id": "rennes_39",
+        "name": "Rue Pierre Martin, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.102093,-1.668995,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.663864,
+          48.12536
+        ]
+      },
+      "properties": {
+        "id": "rennes_40",
+        "name": "Boulevard Emmanuel Mounier, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.12536,-1.663864,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71106,
+          48.108808
+        ]
+      },
+      "properties": {
+        "id": "rennes_41",
+        "name": "Rue de Lorient, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.108808,-1.71106,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.652165,
+          48.133825
+        ]
+      },
+      "properties": {
+        "id": "rennes_42",
+        "name": "Avenue des Gayeulles, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.133825,-1.652165,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.662059,
+          48.102725
+        ]
+      },
+      "properties": {
+        "id": "rennes_43",
+        "name": "Mail Louise Bourgeois, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.102725,-1.662059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.669146,
+          48.108079
+        ]
+      },
+      "properties": {
+        "id": "rennes_44",
+        "name": "Rue de Léon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.108079,-1.669146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.701474,
+          48.1079
+        ]
+      },
+      "properties": {
+        "id": "rennes_45",
+        "name": "Rue de Lorient, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.1079,-1.701474,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67219,
+          48.086715
+        ]
+      },
+      "properties": {
+        "id": "rennes_46",
+        "name": "Rue d'Espagne, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.086715,-1.67219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.650962,
+          48.090415
+        ]
+      },
+      "properties": {
+        "id": "rennes_47",
+        "name": "Avenue de Pologne, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.090415,-1.650962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.685031,
+          48.122615
+        ]
+      },
+      "properties": {
+        "id": "rennes_48",
+        "name": "Rue de Coëtlogon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.122615,-1.685031,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.657501,
+          48.085142
+        ]
+      },
+      "properties": {
+        "id": "rennes_49",
+        "name": "Chemin de Torigné, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.085142,-1.657501,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.685307,
+          48.123016
+        ]
+      },
+      "properties": {
+        "id": "rennes_50",
+        "name": "Rue Joseph Lotte, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.123016,-1.685307,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.709101,
+          48.124168
+        ]
+      },
+      "properties": {
+        "id": "rennes_51",
+        "name": "Avenue Sir Winston Churchill, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.124168,-1.709101,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.692091,
+          48.126083
+        ]
+      },
+      "properties": {
+        "id": "rennes_52",
+        "name": "Avenue Charles et Raymonde Tillon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.126083,-1.692091,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.701573,
+          48.121443
+        ]
+      },
+      "properties": {
+        "id": "rennes_53",
+        "name": "Avenue de la Bataille Flandres-Dunkerque Mai 1940, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.121443,-1.701573,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.670364,
+          48.127277
+        ]
+      },
+      "properties": {
+        "id": "rennes_54",
+        "name": "Rue de la Motte-Brûlon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.127277,-1.670364,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.638952,
+          48.122622
+        ]
+      },
+      "properties": {
+        "id": "rennes_55",
+        "name": "Avenue Pierre Donzelot, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.122622,-1.638952,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656822,
+          48.116648
+        ]
+      },
+      "properties": {
+        "id": "rennes_56",
+        "name": "Rue Guillaume Lejean, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.116648,-1.656822,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.644314,
+          48.091357
+        ]
+      },
+      "properties": {
+        "id": "rennes_57",
+        "name": "Boulevard Paul Hutin-Desgrées, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.091357,-1.644314,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704939,
+          48.098594
+        ]
+      },
+      "properties": {
+        "id": "rennes_58",
+        "name": "Boulevard de la Guérinais, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.098594,-1.704939,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.675863,
+          48.099558
+        ]
+      },
+      "properties": {
+        "id": "rennes_59",
+        "name": "Rue de l'Alma, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.099558,-1.675863,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68108,
+          48.096782
+        ]
+      },
+      "properties": {
+        "id": "rennes_60",
+        "name": "Boulevard Jacques Cartier, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.096782,-1.68108,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.673786,
+          48.107649
+        ]
+      },
+      "properties": {
+        "id": "rennes_61",
+        "name": "Square de Kergus, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.107649,-1.673786,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.646803,
+          48.111735
+        ]
+      },
+      "properties": {
+        "id": "rennes_62",
+        "name": "Avenue François Château, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.111735,-1.646803,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.690671,
+          48.086656
+        ]
+      },
+      "properties": {
+        "id": "rennes_63",
+        "name": "Allée Pierre de Coubertin, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.086656,-1.690671,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67414,
+          48.105805
+        ]
+      },
+      "properties": {
+        "id": "rennes_64",
+        "name": "Boulevard Magenta, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105805,-1.67414,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.714393,
+          48.108038
+        ]
+      },
+      "properties": {
+        "id": "rennes_65",
+        "name": "Rue de Lorient, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.108038,-1.714393,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674174,
+          48.109425
+        ]
+      },
+      "properties": {
+        "id": "rennes_66",
+        "name": "Rue Toullier, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.109425,-1.674174,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.676722,
+          48.115686
+        ]
+      },
+      "properties": {
+        "id": "rennes_67",
+        "name": "Rue de La Borderie, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.115686,-1.676722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.673948,
+          48.104375
+        ]
+      },
+      "properties": {
+        "id": "rennes_68",
+        "name": "Rue Gurvand, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.104375,-1.673948,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.675252,
+          48.107358
+        ]
+      },
+      "properties": {
+        "id": "rennes_69",
+        "name": "Boulevard de la Liberté, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.107358,-1.675252,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.672026,
+          48.10755
+        ]
+      },
+      "properties": {
+        "id": "rennes_70",
+        "name": "Rue Jean-Marie Duhamel, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.10755,-1.672026,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66944,
+          48.110615
+        ]
+      },
+      "properties": {
+        "id": "rennes_71",
+        "name": "Rue Paul Bert, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.110615,-1.66944,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.692958,
+          48.112897
+        ]
+      },
+      "properties": {
+        "id": "rennes_72",
+        "name": "Rue de Brest, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.112897,-1.692958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.701364,
+          48.111293
+        ]
+      },
+      "properties": {
+        "id": "rennes_73",
+        "name": "Rue Louis Guilloux, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.111293,-1.701364,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651157,
+          48.084922
+        ]
+      },
+      "properties": {
+        "id": "rennes_74",
+        "name": "Avenue de Pologne, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.084922,-1.651157,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686904,
+          48.127353
+        ]
+      },
+      "properties": {
+        "id": "rennes_75",
+        "name": "Rue de Saint-Malo, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.127353,-1.686904,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.683084,
+          48.127624
+        ]
+      },
+      "properties": {
+        "id": "rennes_76",
+        "name": "Avenue Gros Malhon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.127624,-1.683084,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704594,
+          48.116811
+        ]
+      },
+      "properties": {
+        "id": "rennes_77",
+        "name": "Avenue Gaston Berger, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.116811,-1.704594,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.707903,
+          48.118528
+        ]
+      },
+      "properties": {
+        "id": "rennes_78",
+        "name": "Avenue Sir Winston Churchill, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.118528,-1.707903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.707991,
+          48.119377
+        ]
+      },
+      "properties": {
+        "id": "rennes_79",
+        "name": "Avenue Sir Winston Churchill, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.119377,-1.707991,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704418,
+          48.12108
+        ]
+      },
+      "properties": {
+        "id": "rennes_80",
+        "name": "Avenue Gaston Berger, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.12108,-1.704418,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693501,
+          48.105745
+        ]
+      },
+      "properties": {
+        "id": "rennes_81",
+        "name": "Rue Malakoff, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105745,-1.693501,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693706,
+          48.105111
+        ]
+      },
+      "properties": {
+        "id": "rennes_82",
+        "name": "Boulevard Voltaire, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105111,-1.693706,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.660384,
+          48.123453
+        ]
+      },
+      "properties": {
+        "id": "rennes_83",
+        "name": "Place Georges Bernanos, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.123453,-1.660384,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651629,
+          48.12648
+        ]
+      },
+      "properties": {
+        "id": "rennes_84",
+        "name": "Boulevard de Vitré, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.12648,-1.651629,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.640797,
+          48.126835
+        ]
+      },
+      "properties": {
+        "id": "rennes_85",
+        "name": "Rue Doyens Albert et Pierre Bouzat, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.126835,-1.640797,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.649659,
+          48.10408
+        ]
+      },
+      "properties": {
+        "id": "rennes_86",
+        "name": "Place du Souvenir Français, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.10408,-1.649659,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.671948,
+          48.090684
+        ]
+      },
+      "properties": {
+        "id": "rennes_87",
+        "name": "Boulevard Gaëtan Hervé, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.090684,-1.671948,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.666061,
+          48.093214
+        ]
+      },
+      "properties": {
+        "id": "rennes_88",
+        "name": "Rue Henri Bannetel, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.093214,-1.666061,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.640573,
+          48.091695
+        ]
+      },
+      "properties": {
+        "id": "rennes_89",
+        "name": "Place du Ronceray, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.091695,-1.640573,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.655475,
+          48.096585
+        ]
+      },
+      "properties": {
+        "id": "rennes_90",
+        "name": "Rue Montaigne, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.096585,-1.655475,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.680026,
+          48.089226
+        ]
+      },
+      "properties": {
+        "id": "rennes_91",
+        "name": "Boulevard Albert 1er, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.089226,-1.680026,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.691903,
+          48.084705
+        ]
+      },
+      "properties": {
+        "id": "rennes_92",
+        "name": "Avenue Georges Graff, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.084705,-1.691903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.643664,
+          48.087756
+        ]
+      },
+      "properties": {
+        "id": "rennes_93",
+        "name": "Rue de Vern, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.087756,-1.643664,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.685278,
+          48.113159
+        ]
+      },
+      "properties": {
+        "id": "rennes_94",
+        "name": "Rue du Louis d'Or, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.113159,-1.685278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686389,
+          48.106671
+        ]
+      },
+      "properties": {
+        "id": "rennes_95",
+        "name": "Rue de l'Arsenal, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.106671,-1.686389,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.688956,
+          48.118519
+        ]
+      },
+      "properties": {
+        "id": "rennes_96",
+        "name": "Boulevard de Verdun, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.118519,-1.688956,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682109,
+          48.104482
+        ]
+      },
+      "properties": {
+        "id": "rennes_97",
+        "name": "Place des Colombes, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.104482,-1.682109,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67603,
+          48.086617
+        ]
+      },
+      "properties": {
+        "id": "rennes_98",
+        "name": "Rue de Suède, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.086617,-1.67603,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.670155,
+          48.098434
+        ]
+      },
+      "properties": {
+        "id": "rennes_99",
+        "name": "Rue Jean Boucher, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.098434,-1.670155,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.677475,
+          48.117172
+        ]
+      },
+      "properties": {
+        "id": "rennes_100",
+        "name": "Rue Lesage, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.117172,-1.677475,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674994,
+          48.119259
+        ]
+      },
+      "properties": {
+        "id": "rennes_101",
+        "name": "Rue d'Antrain, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.119259,-1.674994,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.660658,
+          48.111039
+        ]
+      },
+      "properties": {
+        "id": "rennes_102",
+        "name": "Rue Jean Malo-Renault, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.111039,-1.660658,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.673587,
+          48.10865
+        ]
+      },
+      "properties": {
+        "id": "rennes_103",
+        "name": "Avenue Jean Janvier, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.10865,-1.673587,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.688505,
+          48.122864
+        ]
+      },
+      "properties": {
+        "id": "rennes_104",
+        "name": "Rue de Coëtlogon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.122864,-1.688505,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682837,
+          48.094247
+        ]
+      },
+      "properties": {
+        "id": "rennes_105",
+        "name": "Boulevard Georges Clemenceau, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.094247,-1.682837,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.689462,
+          48.089921
+        ]
+      },
+      "properties": {
+        "id": "rennes_106",
+        "name": "Boulevard Albert 1er, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.089921,-1.689462,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656837,
+          48.084874
+        ]
+      },
+      "properties": {
+        "id": "rennes_107",
+        "name": "Place de Torigné, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.084874,-1.656837,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.650715,
+          48.085412
+        ]
+      },
+      "properties": {
+        "id": "rennes_108",
+        "name": "Avenue de Pologne, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.085412,-1.650715,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.660769,
+          48.0836
+        ]
+      },
+      "properties": {
+        "id": "rennes_109",
+        "name": "Avenue des Pays-Bas, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.0836,-1.660769,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.664041,
+          48.130819
+        ]
+      },
+      "properties": {
+        "id": "rennes_110",
+        "name": "Rue du Houx, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.130819,-1.664041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.657869,
+          48.130441
+        ]
+      },
+      "properties": {
+        "id": "rennes_111",
+        "name": "Rue Alexandre Lefas, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.130441,-1.657869,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65898,
+          48.138376
+        ]
+      },
+      "properties": {
+        "id": "rennes_112",
+        "name": "Rue de la Croix Herpin, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.138376,-1.65898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.634978,
+          48.128847
+        ]
+      },
+      "properties": {
+        "id": "rennes_113",
+        "name": "Rue Tanguy Malmanche, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.128847,-1.634978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.64946,
+          48.118872
+        ]
+      },
+      "properties": {
+        "id": "rennes_114",
+        "name": "Avenue Professeur Charles Foulon, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.118872,-1.64946,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.708647,
+          48.100921
+        ]
+      },
+      "properties": {
+        "id": "rennes_115",
+        "name": "Rue André Trasbot, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.100921,-1.708647,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.682077,
+          48.098954
+        ]
+      },
+      "properties": {
+        "id": "rennes_116",
+        "name": "Rue Ginguené, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.098954,-1.682077,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.661457,
+          48.095105
+        ]
+      },
+      "properties": {
+        "id": "rennes_117",
+        "name": "Rue Adolphe Leray, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.095105,-1.661457,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674214,
+          48.105718
+        ]
+      },
+      "properties": {
+        "id": "rennes_118",
+        "name": "Cours des Alliés, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.105718,-1.674214,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.685839,
+          48.092879
+        ]
+      },
+      "properties": {
+        "id": "rennes_119",
+        "name": "Rue Victor Rault, Rennes",
+        "city": "Rennes Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage associatif",
+        "street_view": "https://www.google.com/maps/@48.092879,-1.685839,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

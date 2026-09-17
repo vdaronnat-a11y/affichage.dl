@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Charbonnières-les-Bains",
+    "department": "69 - Rhône",
+    "count": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.740094,
+          45.780557
+        ]
+      },
+      "properties": {
+        "id": "charbonnieres_les_bains_1",
+        "name": "24 avenue Lamartine, 69260 Charbonnières-les-Bains",
+        "city": "Charbonnières-les-Bains",
+        "type": "Affichage libre",
+        "notes": "pied (0,80x1,20) terre-plein central",
+        "street_view": "https://www.google.com/maps/@45.780557,4.740094,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

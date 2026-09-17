@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Sathonay-Camp",
+    "department": "69 - Rhône",
+    "count": 4
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.868911,
+          45.81993
+        ]
+      },
+      "properties": {
+        "id": "sathonay_camp_1",
+        "name": "5 boulevard de l'ouest, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Place Arnaud Beltrame",
+        "street_view": "https://www.google.com/maps/@45.81993,4.868911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872572,
+          45.827512
+        ]
+      },
+      "properties": {
+        "id": "sathonay_camp_2",
+        "name": "rue Garibaldi, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Parkinf Val de Saone",
+        "street_view": "https://www.google.com/maps/@45.827512,4.872572,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870892,
+          45.820259
+        ]
+      },
+      "properties": {
+        "id": "sathonay_camp_3",
+        "name": "16 avenue Paul Delorme, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20) Place de la mutualité",
+        "street_view": "https://www.google.com/maps/@45.820259,4.870892,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876482,
+          45.822051
+        ]
+      },
+      "properties": {
+        "id": "sathonay_camp_4",
+        "name": "40 avenue de Pérouges, 69580 Sathonay-Camp",
+        "city": "Sathonay-Camp",
+        "type": "Affichage libre",
+        "notes": "Pied (1,60 x 1,20)",
+        "street_view": "https://www.google.com/maps/@45.822051,4.876482,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

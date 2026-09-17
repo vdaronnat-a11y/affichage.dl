@@ -1,0 +1,2746 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Rueil-Malmaison",
+    "department": "92 - Hauts-de-Seine",
+    "count": 152
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180545,
+          48.866921
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_1",
+        "name": "292, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.866921,2.180545,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187747,
+          48.86228
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_2",
+        "name": "147, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.86228,2.187747,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.170037,
+          48.886759
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_3",
+        "name": "471, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.886759,2.170037,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167989,
+          48.874745
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_4",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.874745,2.167989,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18349,
+          48.859312
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_5",
+        "name": "265, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.859312,2.18349,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179878,
+          48.88527
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_6",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.88527,2.179878,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175718,
+          48.888529
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_7",
+        "name": "410, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.888529,2.175718,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163898,
+          48.888083
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_8",
+        "name": "4, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.888083,2.163898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164964,
+          48.861539
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_9",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.861539,2.164964,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189731,
+          48.857234
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_10",
+        "name": "353, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.857234,2.189731,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177248,
+          48.866568
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_11",
+        "name": "170, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.866568,2.177248,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16146,
+          48.871892
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_12",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.871892,2.16146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180192,
+          48.8709
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_13",
+        "name": "178, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.8709,2.180192,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.182095,
+          48.876284
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_14",
+        "name": "167, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.876284,2.182095,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177941,
+          48.878226
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_15",
+        "name": "296, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.878226,2.177941,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167931,
+          48.879803
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_16",
+        "name": "382, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879803,2.167931,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167941,
+          48.879815
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_17",
+        "name": "382, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879815,2.167941,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.174025,
+          48.889665
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_18",
+        "name": "208, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.889665,2.174025,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177934,
+          48.878224
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_19",
+        "name": "296, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.878224,2.177934,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164499,
+          48.875687
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_20",
+        "name": "166, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.875687,2.164499,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190383,
+          48.87016
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_21",
+        "name": "188, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.87016,2.190383,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163454,
+          48.876113
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_22",
+        "name": "338, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.876113,2.163454,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.185738,
+          48.868007
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_23",
+        "name": "72, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.868007,2.185738,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187752,
+          48.862257
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_24",
+        "name": "147, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.862257,2.187752,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189736,
+          48.879927
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_25",
+        "name": "479, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.879927,2.189736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189714,
+          48.857236
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_26",
+        "name": "353, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.857236,2.189714,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.182109,
+          48.876288
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_27",
+        "name": "167, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.876288,2.182109,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175577,
+          48.874986
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_28",
+        "name": "61, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.874986,2.175577,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177364,
+          48.860491
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_29",
+        "name": "248, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.860491,2.177364,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.203196,
+          48.870932
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_30",
+        "name": "278, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.870932,2.203196,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189457,
+          48.858762
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_31",
+        "name": "264, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.858762,2.189457,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.203388,
+          48.869343
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_32",
+        "name": "252, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.869343,2.203388,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17525,
+          48.886375
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_33",
+        "name": "500, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.886375,2.17525,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175809,
+          48.879789
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_34",
+        "name": "439, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879789,2.175809,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190399,
+          48.870158
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_35",
+        "name": "188, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.870158,2.190399,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.161478,
+          48.871902
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_36",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.871902,2.161478,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.182755,
+          48.884282
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_37",
+        "name": "17, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.884282,2.182755,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200482,
+          48.866701
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_38",
+        "name": "148, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.866701,2.200482,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189277,
+          48.885626
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_39",
+        "name": "384, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.885626,2.189277,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177928,
+          48.878221
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_40",
+        "name": "296, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.878221,2.177928,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.174012,
+          48.88965
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_41",
+        "name": "208, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.88965,2.174012,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.185745,
+          48.868023
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_42",
+        "name": "72, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.868023,2.185745,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163472,
+          48.876106
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_43",
+        "name": "338, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.876106,2.163472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.203201,
+          48.870917
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_44",
+        "name": "278, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.870917,2.203201,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20319,
+          48.870945
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_45",
+        "name": "278, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.870945,2.20319,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.176907,
+          48.871894
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_46",
+        "name": "93, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.871894,2.176907,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168113,
+          48.866451
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_47",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.866451,2.168113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168097,
+          48.866432
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_48",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.866432,2.168097,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.169545,
+          48.885434
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_49",
+        "name": "129, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.885434,2.169545,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16349,
+          48.876098
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_50",
+        "name": "338, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.876098,2.16349,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181106,
+          48.886294
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_51",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.886294,2.181106,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184329,
+          48.884949
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_52",
+        "name": "501, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.884949,2.184329,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177237,
+          48.866576
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_53",
+        "name": "170, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.866576,2.177237,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.176911,
+          48.871908
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_54",
+        "name": "93, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.871908,2.176911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190562,
+          48.882358
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_55",
+        "name": "30, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.882358,2.190562,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.172041,
+          48.883617
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_56",
+        "name": "517, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.883617,2.172041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168911,
+          48.873806
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_57",
+        "name": "101, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.873806,2.168911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184629,
+          48.865284
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_58",
+        "name": "72, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.865284,2.184629,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189166,
+          48.873854
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_59",
+        "name": "164, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.873854,2.189166,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175589,
+          48.874977
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_60",
+        "name": "61, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.874977,2.175589,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.203403,
+          48.869357
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_61",
+        "name": "252, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.869357,2.203403,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.208765,
+          48.869998
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_62",
+        "name": "448, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.869998,2.208765,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.205399,
+          48.872776
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_63",
+        "name": "396, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.872776,2.205399,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.194747,
+          48.879465
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_64",
+        "name": "218, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879465,2.194747,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167976,
+          48.874736
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_65",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.874736,2.167976,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173056,
+          48.869164
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_66",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.869164,2.173056,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.205401,
+          48.872787
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_67",
+        "name": "396, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.872787,2.205401,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.197099,
+          48.877688
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_68",
+        "name": "140, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.877688,2.197099,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175744,
+          48.888538
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_69",
+        "name": "410, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.888538,2.175744,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.171326,
+          48.861607
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_70",
+        "name": "422, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.861607,2.171326,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.192894,
+          48.856813
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_71",
+        "name": "117, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.856813,2.192894,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179825,
+          48.885297
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_72",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.885297,2.179825,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189726,
+          48.879936
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_73",
+        "name": "479, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.879936,2.189726,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190574,
+          48.882352
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_74",
+        "name": "30, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.882352,2.190574,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173038,
+          48.86916
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_75",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.86916,2.173038,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.158341,
+          48.861531
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_76",
+        "name": "415, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.861531,2.158341,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168909,
+          48.873817
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_77",
+        "name": "101, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.873817,2.168909,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200452,
+          48.866708
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_78",
+        "name": "148, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.866708,2.200452,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200513,
+          48.866692
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_79",
+        "name": "148, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.866692,2.200513,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.170648,
+          48.887595
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_80",
+        "name": "144, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.887595,2.170648,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.161442,
+          48.871883
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_81",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.871883,2.161442,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189457,
+          48.858773
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_82",
+        "name": "264, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.858773,2.189457,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184319,
+          48.884942
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_83",
+        "name": "501, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.884942,2.184319,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.162101,
+          48.881223
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_84",
+        "name": "209, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.881223,2.162101,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181123,
+          48.886304
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_85",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.886304,2.181123,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.201076,
+          48.875996
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_86",
+        "name": "217, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.875996,2.201076,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189689,
+          48.85724
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_87",
+        "name": "353, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.85724,2.189689,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187751,
+          48.862303
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_88",
+        "name": "147, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.862303,2.187751,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.162115,
+          48.881223
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_89",
+        "name": "209, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.881223,2.162115,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189714,
+          48.879945
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_90",
+        "name": "479, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.879945,2.189714,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177255,
+          48.86656
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_91",
+        "name": "170, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.86656,2.177255,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.183461,
+          48.859317
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_92",
+        "name": "265, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.859317,2.183461,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189182,
+          48.873856
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_93",
+        "name": "164, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.873856,2.189182,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184305,
+          48.882878
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_94",
+        "name": "431, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.882878,2.184305,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.201075,
+          48.875986
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_95",
+        "name": "217, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.875986,2.201075,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184616,
+          48.865277
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_96",
+        "name": "72, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.865277,2.184616,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.178497,
+          48.88621
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_97",
+        "name": "94, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.88621,2.178497,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.192722,
+          48.874328
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_98",
+        "name": "190, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.874328,2.192722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.158329,
+          48.861519
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_99",
+        "name": "415, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.861519,2.158329,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.172029,
+          48.883625
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_100",
+        "name": "517, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.883625,2.172029,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175214,
+          48.886394
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_101",
+        "name": "500, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.886394,2.175214,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.178539,
+          48.886215
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_102",
+        "name": "94, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.886215,2.178539,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.192902,
+          48.856817
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_103",
+        "name": "117, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.856817,2.192902,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175235,
+          48.886385
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_104",
+        "name": "500, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.886385,2.175235,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.170625,
+          48.887588
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_105",
+        "name": "144, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.887588,2.170625,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164963,
+          48.861546
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_106",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.861546,2.164963,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175691,
+          48.888519
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_107",
+        "name": "410, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.888519,2.175691,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168105,
+          48.866443
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_108",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.866443,2.168105,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164963,
+          48.861554
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_109",
+        "name": "498, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.861554,2.164963,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17736,
+          48.8605
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_110",
+        "name": "248, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.8605,2.17736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.182736,
+          48.88428
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_111",
+        "name": "17, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.88428,2.182736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180548,
+          48.866928
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_112",
+        "name": "292, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.866928,2.180548,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164493,
+          48.875684
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_113",
+        "name": "166, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.875684,2.164493,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179489,
+          48.880729
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_114",
+        "name": "5, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.880729,2.179489,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.169553,
+          48.885444
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_115",
+        "name": "129, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.885444,2.169553,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.201076,
+          48.875976
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_116",
+        "name": "217, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.875976,2.201076,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177356,
+          48.860506
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_117",
+        "name": "248, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.860506,2.177356,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180541,
+          48.866913
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_118",
+        "name": "292, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.866913,2.180541,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.197087,
+          48.877691
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_119",
+        "name": "140, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.877691,2.197087,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.199959,
+          48.867268
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_120",
+        "name": "378, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.867268,2.199959,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179513,
+          48.880708
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_121",
+        "name": "5, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.880708,2.179513,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179459,
+          48.880747
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_122",
+        "name": "5, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.880747,2.179459,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.176903,
+          48.871879
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_123",
+        "name": "93, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.871879,2.176903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.194761,
+          48.879465
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_124",
+        "name": "218, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879465,2.194761,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18928,
+          48.885617
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_125",
+        "name": "384, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.885617,2.18928,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.170014,
+          48.886753
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_126",
+        "name": "471, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.886753,2.170014,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.185897,
+          48.876147
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_127",
+        "name": "255, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.876147,2.185897,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168006,
+          48.874754
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_128",
+        "name": "383, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.874754,2.168006,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.185742,
+          48.868016
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_129",
+        "name": "72, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.868016,2.185742,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.199959,
+          48.867259
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_130",
+        "name": "378, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.867259,2.199959,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.178519,
+          48.886214
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_131",
+        "name": "94, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.886214,2.178519,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17578,
+          48.879808
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_132",
+        "name": "439, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.879808,2.17578,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163909,
+          48.8881
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_133",
+        "name": "4, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.8881,2.163909,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164505,
+          48.875689
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_134",
+        "name": "166, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.875689,2.164505,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179853,
+          48.885284
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_135",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.885284,2.179853,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.151179,
+          48.870766
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_136",
+        "name": "47, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.870766,2.151179,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180179,
+          48.870915
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_137",
+        "name": "178, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.870915,2.180179,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189457,
+          48.858758
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_138",
+        "name": "264, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.858758,2.189457,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173297,
+          48.882574
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_139",
+        "name": "131, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Culturelles",
+        "street_view": "https://www.google.com/maps/@48.882574,2.173297,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190365,
+          48.870163
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_140",
+        "name": "188, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.870163,2.190365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.169563,
+          48.885452
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_141",
+        "name": "129, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.885452,2.169563,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.162085,
+          48.881221
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_142",
+        "name": "209, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.881221,2.162085,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173292,
+          48.882536
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_143",
+        "name": "131, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.882536,2.173292,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173296,
+          48.882556
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_144",
+        "name": "131, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Associations",
+        "street_view": "https://www.google.com/maps/@48.882556,2.173296,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181135,
+          48.886316
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_145",
+        "name": "355, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.886316,2.181135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184312,
+          48.884935
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_146",
+        "name": "501, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Opinions",
+        "street_view": "https://www.google.com/maps/@48.884935,2.184312,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.171331,
+          48.861601
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_147",
+        "name": "422, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.861601,2.171331,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.151189,
+          48.870779
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_148",
+        "name": "47, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.870779,2.151189,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.192696,
+          48.87434
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_149",
+        "name": "190, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.87434,2.192696,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.208776,
+          48.869998
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_150",
+        "name": "448, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.869998,2.208776,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184306,
+          48.882871
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_151",
+        "name": "431, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.882871,2.184306,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.186024,
+          48.876054
+        ]
+      },
+      "properties": {
+        "id": "rueil_malmaison_152",
+        "name": "255, Rueil-Malmaison",
+        "city": "Rueil-Malmaison",
+        "type": "Affichage libre",
+        "notes": "Informations Municipales",
+        "street_view": "https://www.google.com/maps/@48.876054,2.186024,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

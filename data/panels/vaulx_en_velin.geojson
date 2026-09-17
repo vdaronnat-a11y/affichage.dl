@@ -1,0 +1,352 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Vaulx-en-Velin",
+    "department": "69 - Rhône",
+    "count": 19
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9192,
+          45.778665
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_1",
+        "name": "21 rue Jules Romains, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (1,61 X 1,23) Angle rue Condorcet",
+        "street_view": "https://www.google.com/maps/@45.778665,4.9192,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910229,
+          45.782609
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_2",
+        "name": "Avenue Gisèle Halimi, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Avenue Gisèle Halimi près du terrain de basket-ball",
+        "street_view": "https://www.google.com/maps/@45.782609,4.910229,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910584,
+          45.782464
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_3",
+        "name": "7 chemin Grand Bois, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Avenue Gisèle Halimi derrière le 7 chemin Grand Bois",
+        "street_view": "https://www.google.com/maps/@45.782464,4.910584,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911658,
+          45.78279
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_4",
+        "name": "6 chemin Grand Bois, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) entre le n° 6 chemin Grand Bois et la voie de tram",
+        "street_view": "https://www.google.com/maps/@45.78279,4.911658,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913296,
+          45.780975
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_5",
+        "name": "5 avenue Maurice Thorez, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Contre la maternelle Andrée Viénot",
+        "street_view": "https://www.google.com/maps/@45.780975,4.913296,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916369,
+          45.782624
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_6",
+        "name": "11 chemin de la Godille, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35)",
+        "street_view": "https://www.google.com/maps/@45.782624,4.916369,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919096,
+          45.783519
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_7",
+        "name": "41 avenue Georges Rougé, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Monopied (1,70 X 1,25)",
+        "street_view": "https://www.google.com/maps/@45.783519,4.919096,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917693,
+          45.786898
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_8",
+        "name": "134 avenue du 8 mai 1945, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60) Angle avenue Henri Barbusse",
+        "street_view": "https://www.google.com/maps/@45.786898,4.917693,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.925462,
+          45.787876
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_9",
+        "name": "33 rue Franklin, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Monopied (1,70 X 1,25) angle Rue Louis Duclos",
+        "street_view": "https://www.google.com/maps/@45.787876,4.925462,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926725,
+          45.791507
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_10",
+        "name": "48 rue Lamartine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60)",
+        "street_view": "https://www.google.com/maps/@45.791507,4.926725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926606,
+          45.77844
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_11",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Proximité groupe scolaire Makarenko",
+        "street_view": "https://www.google.com/maps/@45.77844,4.926606,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928483,
+          45.778973
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_12",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) Angle chemin Debusssy, proximité Collège Valdo",
+        "street_view": "https://www.google.com/maps/@45.778973,4.928483,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929618,
+          45.766217
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_13",
+        "name": "72 avenue de Böhlen, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Angle Avenue de Böhlen et Avenue Roger Salengro",
+        "street_view": "https://www.google.com/maps/@45.766217,4.929618,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92302,
+          45.758888
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_14",
+        "name": "8 avenue Bataillon Carmagnole Liberté, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,24 x 1,60) Angle Rue de l'Ancienne Eglise - Face à l'Espace Carmagnole",
+        "street_view": "https://www.google.com/maps/@45.758888,4.92302,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928388,
+          45.757171
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_15",
+        "name": "74 avenue Roger Salengro, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23) Angle rue Joseph Blein",
+        "street_view": "https://www.google.com/maps/@45.757171,4.928388,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923558,
+          45.748442
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_16",
+        "name": "58 rue André Chénier, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Mural (1,24 x 1,60) Sté Suez",
+        "street_view": "https://www.google.com/maps/@45.748442,4.923558,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923228,
+          45.777495
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_17",
+        "name": "promenade Lénine, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Recto-verso (3,95 x 1,35) à gauche du 28 Avenue Georges Dimitrov",
+        "street_view": "https://www.google.com/maps/@45.777495,4.923228,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920898,
+          45.788441
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_18",
+        "name": "13 rue Lakanal, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (1,61 X 1,23)",
+        "street_view": "https://www.google.com/maps/@45.788441,4.920898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.925663,
+          45.779433
+        ]
+      },
+      "properties": {
+        "id": "vaulx_en_velin_19",
+        "name": "4 rue Hector Berlioz, 69120 Vaulx-en-Velin",
+        "city": "Vaulx-en-Velin",
+        "type": "Affichage libre",
+        "notes": "Bipied (3,95 x 1,35) angle Rue Hector Berlioz, face aux tennis",
+        "street_view": "https://www.google.com/maps/@45.779433,4.925663,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

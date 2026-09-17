@@ -1,0 +1,712 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Mulhouse",
+    "department": "68 - Haut-Rhin",
+    "count": 39
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.357591,
+          47.758085
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_1",
+        "name": "Rue du 57° R.T., à l'angle de la rue de la Navigation, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.758085,7.357591,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.328854,
+          47.745981
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_2",
+        "name": "Colonne Morris place Buffon, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.745981,7.328854,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319914,
+          47.740593
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_3",
+        "name": "Colonne Morris rue de l'Illberg, à l'angle de la rue de Hirsingue, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.740593,7.319914,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333782,
+          47.751023
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_4",
+        "name": "Colonne Morris place Franklin, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.751023,7.333782,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342954,
+          47.760572
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_5",
+        "name": "Colonne Morris rue Lefebvre, devant le cimetière, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.760572,7.342954,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.363563,
+          47.758678
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_6",
+        "name": "Rue de Provence, près du foyer ALTRAM, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.758678,7.363563,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.313224,
+          47.742893
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_7",
+        "name": "Rue de Brunstatt, devant l'école de Dornach, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.742893,7.313224,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.299217,
+          47.739299
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_8",
+        "name": "Rue de Belfort, en face du square du souvenir, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.739299,7.299217,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318418,
+          47.754035
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_9",
+        "name": "Rue Madeleine, à l'angle de la rue du Soleil, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.754035,7.318418,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.331722,
+          47.771696
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_10",
+        "name": "Rue Pierre Brossolette, face à la rue de Saint-Nazaire, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.771696,7.331722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.340787,
+          47.757491
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_11",
+        "name": "Place Vauban, côté rue Neppert, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.757491,7.340787,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320639,
+          47.752861
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_12",
+        "name": "Colonne Morris place Henri Reber, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.752861,7.320639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.334542,
+          47.748893
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_13",
+        "name": "Rue de Lorraine, sur le parking Sainte-Marie, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.748893,7.334542,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.361099,
+          47.758646
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_14",
+        "name": "Colonne Morris rue de Provence, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.758646,7.361099,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.354918,
+          47.759324
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_15",
+        "name": "Rue de la Navigation, au niveau du n° 11, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.759324,7.354918,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319305,
+          47.757022
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_16",
+        "name": "Rue Lavoisier, devant le Park Glück, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.757022,7.319305,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.336655,
+          47.75613
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_17",
+        "name": "Rue Vauban, à l'angle de l'avenue de Colmar, devant la Maison des associations, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.75613,7.336655,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333804,
+          47.741207
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_18",
+        "name": "Colonne Morris rue du Manège, à l'angle de la rue des Chantiers, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.741207,7.333804,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.330946,
+          47.740326
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_19",
+        "name": "Rue de la Fonderie, devant Wartsila, face à l'U.H.A., MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.740326,7.330946,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.323452,
+          47.747018
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_20",
+        "name": "Colonne Morris boulevard de la Marne, à l'angle de la rue du Cerf, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.747018,7.323452,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.347451,
+          47.727781
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_21",
+        "name": "Rue du Dr Léon Mangeney, en face de l'école des infirmières, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.727781,7.347451,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.332389,
+          47.746384
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_22",
+        "name": "Grand'Rue, devant la bibliothèque municipale, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.746384,7.332389,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.325767,
+          47.768539
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_23",
+        "name": "Rue de Kingersheim, devant le Cosec, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.768539,7.325767,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320288,
+          47.749917
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_24",
+        "name": "Rue de Pfastatt, à l'entrée de DMC, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.749917,7.320288,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.336103,
+          47.752531
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_25",
+        "name": "Rue Franklin, devant l'école maternelle, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.752531,7.336103,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.32084,
+          47.77029
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_26",
+        "name": "Place du Rattachement, angle rue Henri Dunant, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.77029,7.32084,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.331188,
+          47.741657
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_27",
+        "name": "Rue Saint-Sauveur, devant le centre socio-culturel Porte du Miroir, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.741657,7.331188,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33113,
+          47.753154
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_28",
+        "name": "Colonne Morris place Adolphe May, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.753154,7.33113,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.327498,
+          47.775941
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_29",
+        "name": "Rue des Romains, devant la cité Pablo Picasso, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.775941,7.327498,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318294,
+          47.739373
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_30",
+        "name": "Rue de l'Illberg, devant le Palais des sports, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.739373,7.318294,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.297839,
+          47.730696
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_31",
+        "name": "Rue Jules Verne, près du n°2, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.730696,7.297839,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320529,
+          47.751854
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_32",
+        "name": "Rue Sainte Thérèse, à l'angle de la rue des Abeilles, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.751854,7.320529,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.348531,
+          47.750202
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_33",
+        "name": "Place du Printemps, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.750202,7.348531,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.339694,
+          47.7466
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_34",
+        "name": "Rue des Cordiers, devant le mur des toilettes publiques, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.7466,7.339694,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.335043,
+          47.748068
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_35",
+        "name": "Colonne Morris rue de Lorraine, près de l'église Sainte-Marie, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Colonne MORRIS",
+        "street_view": "https://www.google.com/maps/@47.748068,7.335043,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.316668,
+          47.775954
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_36",
+        "name": "Rue de Dunkerque, à l'angle de la rue Saint-Georges, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.775954,7.316668,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342759,
+          47.740704
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_37",
+        "name": "Boulevard Wallach, face à la rue du Réservoir, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.740704,7.342759,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.305554,
+          47.732945
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_38",
+        "name": "Rue Fénelon, à hauteur de la rue Georges Sand, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.732945,7.305554,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.348588,
+          47.750197
+        ]
+      },
+      "properties": {
+        "id": "mulhouse_39",
+        "name": "Place du Printemps, MULHOUSE",
+        "city": "Mulhouse",
+        "type": "Affichage libre",
+        "notes": "Panneau",
+        "street_view": "https://www.google.com/maps/@47.750197,7.348588,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

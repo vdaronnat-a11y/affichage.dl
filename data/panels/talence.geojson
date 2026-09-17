@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Talence (Bordeaux)",
+    "department": "33 - Gironde",
+    "count": 17
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58796,
+          44.808425
+        ]
+      },
+      "properties": {
+        "id": "talence_1",
+        "name": "Panneau #1, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.808425,-0.58796,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.57857,
+          44.803521
+        ]
+      },
+      "properties": {
+        "id": "talence_2",
+        "name": "Panneau #2, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.803521,-0.57857,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.582416,
+          44.811522
+        ]
+      },
+      "properties": {
+        "id": "talence_3",
+        "name": "Panneau #3, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.811522,-0.582416,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.586431,
+          44.80547
+        ]
+      },
+      "properties": {
+        "id": "talence_4",
+        "name": "Panneau #4, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.80547,-0.586431,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.585673,
+          44.796748
+        ]
+      },
+      "properties": {
+        "id": "talence_5",
+        "name": "Panneau #5, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.796748,-0.585673,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599504,
+          44.815137
+        ]
+      },
+      "properties": {
+        "id": "talence_6",
+        "name": "Panneau #6, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.815137,-0.599504,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.592176,
+          44.820717
+        ]
+      },
+      "properties": {
+        "id": "talence_7",
+        "name": "Panneau #7, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.820717,-0.592176,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608337,
+          44.81517
+        ]
+      },
+      "properties": {
+        "id": "talence_8",
+        "name": "Panneau #8, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.81517,-0.608337,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58961,
+          44.793126
+        ]
+      },
+      "properties": {
+        "id": "talence_9",
+        "name": "Panneau #9, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.793126,-0.58961,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.590291,
+          44.810223
+        ]
+      },
+      "properties": {
+        "id": "talence_10",
+        "name": "Panneau #10, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.810223,-0.590291,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.586769,
+          44.800898
+        ]
+      },
+      "properties": {
+        "id": "talence_11",
+        "name": "Panneau #11, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.800898,-0.586769,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6049,
+          44.793188
+        ]
+      },
+      "properties": {
+        "id": "talence_12",
+        "name": "Panneau #12, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.793188,-0.6049,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594058,
+          44.801493
+        ]
+      },
+      "properties": {
+        "id": "talence_13",
+        "name": "Panneau #13, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.801493,-0.594058,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.600472,
+          44.811893
+        ]
+      },
+      "properties": {
+        "id": "talence_14",
+        "name": "Panneau #14, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.811893,-0.600472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.584518,
+          44.820386
+        ]
+      },
+      "properties": {
+        "id": "talence_15",
+        "name": "Panneau #15, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.820386,-0.584518,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.589599,
+          44.7892
+        ]
+      },
+      "properties": {
+        "id": "talence_16",
+        "name": "Panneau #16, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.7892,-0.589599,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.580095,
+          44.816771
+        ]
+      },
+      "properties": {
+        "id": "talence_17",
+        "name": "Panneau #17, Talence",
+        "city": "Talence (Bordeaux)",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@44.816771,-0.580095,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

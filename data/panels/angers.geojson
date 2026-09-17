@@ -1,0 +1,1306 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Angers Loire Métropole",
+    "department": "49 - Maine-et-Loire",
+    "count": 72
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54655,
+          47.471299
+        ]
+      },
+      "properties": {
+        "id": "angers_1",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.471299,-0.54655,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515401,
+          47.489175
+        ]
+      },
+      "properties": {
+        "id": "angers_2",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.489175,-0.515401,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.545704,
+          47.467432
+        ]
+      },
+      "properties": {
+        "id": "angers_3",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.467432,-0.545704,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.591744,
+          47.466675
+        ]
+      },
+      "properties": {
+        "id": "angers_4",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.466675,-0.591744,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.567777,
+          47.454212
+        ]
+      },
+      "properties": {
+        "id": "angers_5",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.454212,-0.567777,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.529383,
+          47.467219
+        ]
+      },
+      "properties": {
+        "id": "angers_6",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.467219,-0.529383,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53433,
+          47.455147
+        ]
+      },
+      "properties": {
+        "id": "angers_7",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.455147,-0.53433,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.596835,
+          47.460702
+        ]
+      },
+      "properties": {
+        "id": "angers_8",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.460702,-0.596835,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.587792,
+          47.476882
+        ]
+      },
+      "properties": {
+        "id": "angers_9",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.476882,-0.587792,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.548057,
+          47.476057
+        ]
+      },
+      "properties": {
+        "id": "angers_10",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.476057,-0.548057,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.560493,
+          47.467379
+        ]
+      },
+      "properties": {
+        "id": "angers_11",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.467379,-0.560493,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.552246,
+          47.446329
+        ]
+      },
+      "properties": {
+        "id": "angers_12",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.446329,-0.552246,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.576539,
+          47.478862
+        ]
+      },
+      "properties": {
+        "id": "angers_13",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.478862,-0.576539,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599653,
+          47.465767
+        ]
+      },
+      "properties": {
+        "id": "angers_14",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.465767,-0.599653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.528569,
+          47.48919
+        ]
+      },
+      "properties": {
+        "id": "angers_15",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.48919,-0.528569,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.544201,
+          47.458012
+        ]
+      },
+      "properties": {
+        "id": "angers_16",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.458012,-0.544201,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551358,
+          47.45615
+        ]
+      },
+      "properties": {
+        "id": "angers_17",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.45615,-0.551358,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594264,
+          47.475766
+        ]
+      },
+      "properties": {
+        "id": "angers_18",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.475766,-0.594264,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55017,
+          47.487113
+        ]
+      },
+      "properties": {
+        "id": "angers_19",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.487113,-0.55017,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.538692,
+          47.47356
+        ]
+      },
+      "properties": {
+        "id": "angers_20",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.47356,-0.538692,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51568,
+          47.488608
+        ]
+      },
+      "properties": {
+        "id": "angers_21",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.488608,-0.51568,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52954,
+          47.491101
+        ]
+      },
+      "properties": {
+        "id": "angers_22",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.491101,-0.52954,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.544958,
+          47.451977
+        ]
+      },
+      "properties": {
+        "id": "angers_23",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451977,-0.544958,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.558406,
+          47.459966
+        ]
+      },
+      "properties": {
+        "id": "angers_24",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.459966,-0.558406,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.522944,
+          47.457326
+        ]
+      },
+      "properties": {
+        "id": "angers_25",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.457326,-0.522944,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.573743,
+          47.487567
+        ]
+      },
+      "properties": {
+        "id": "angers_26",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.487567,-0.573743,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549957,
+          47.474093
+        ]
+      },
+      "properties": {
+        "id": "angers_27",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.474093,-0.549957,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.520333,
+          47.479769
+        ]
+      },
+      "properties": {
+        "id": "angers_28",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.479769,-0.520333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575914,
+          47.481611
+        ]
+      },
+      "properties": {
+        "id": "angers_29",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.481611,-0.575914,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.523691,
+          47.486706
+        ]
+      },
+      "properties": {
+        "id": "angers_30",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.486706,-0.523691,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.555538,
+          47.451572
+        ]
+      },
+      "properties": {
+        "id": "angers_31",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451572,-0.555538,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565861,
+          47.452102
+        ]
+      },
+      "properties": {
+        "id": "angers_32",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.452102,-0.565861,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55431,
+          47.471199
+        ]
+      },
+      "properties": {
+        "id": "angers_33",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.471199,-0.55431,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571197,
+          47.473484
+        ]
+      },
+      "properties": {
+        "id": "angers_34",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.473484,-0.571197,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.564854,
+          47.47877
+        ]
+      },
+      "properties": {
+        "id": "angers_35",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.47877,-0.564854,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.520976,
+          47.471416
+        ]
+      },
+      "properties": {
+        "id": "angers_36",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.471416,-0.520976,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.523846,
+          47.481392
+        ]
+      },
+      "properties": {
+        "id": "angers_37",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.481392,-0.523846,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.526494,
+          47.483342
+        ]
+      },
+      "properties": {
+        "id": "angers_38",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.483342,-0.526494,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557522,
+          47.453912
+        ]
+      },
+      "properties": {
+        "id": "angers_39",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.453912,-0.557522,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.559528,
+          47.449969
+        ]
+      },
+      "properties": {
+        "id": "angers_40",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.449969,-0.559528,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554869,
+          47.474025
+        ]
+      },
+      "properties": {
+        "id": "angers_41",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.474025,-0.554869,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.542414,
+          47.469708
+        ]
+      },
+      "properties": {
+        "id": "angers_42",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.469708,-0.542414,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.519716,
+          47.475082
+        ]
+      },
+      "properties": {
+        "id": "angers_43",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.475082,-0.519716,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575997,
+          47.47943
+        ]
+      },
+      "properties": {
+        "id": "angers_44",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.47943,-0.575997,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58585,
+          47.476234
+        ]
+      },
+      "properties": {
+        "id": "angers_45",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.476234,-0.58585,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.590461,
+          47.479762
+        ]
+      },
+      "properties": {
+        "id": "angers_46",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.479762,-0.590461,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.595255,
+          47.480291
+        ]
+      },
+      "properties": {
+        "id": "angers_47",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.480291,-0.595255,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.552228,
+          47.484389
+        ]
+      },
+      "properties": {
+        "id": "angers_48",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.484389,-0.552228,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554169,
+          47.458491
+        ]
+      },
+      "properties": {
+        "id": "angers_49",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.458491,-0.554169,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.567073,
+          47.451209
+        ]
+      },
+      "properties": {
+        "id": "angers_50",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451209,-0.567073,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.552257,
+          47.469395
+        ]
+      },
+      "properties": {
+        "id": "angers_51",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.469395,-0.552257,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.548021,
+          47.464427
+        ]
+      },
+      "properties": {
+        "id": "angers_52",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.464427,-0.548021,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534624,
+          47.451554
+        ]
+      },
+      "properties": {
+        "id": "angers_53",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451554,-0.534624,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.511212,
+          47.451809
+        ]
+      },
+      "properties": {
+        "id": "angers_54",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451809,-0.511212,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58633,
+          47.478711
+        ]
+      },
+      "properties": {
+        "id": "angers_55",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.478711,-0.58633,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.597885,
+          47.478761
+        ]
+      },
+      "properties": {
+        "id": "angers_56",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.478761,-0.597885,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.519511,
+          47.465651
+        ]
+      },
+      "properties": {
+        "id": "angers_57",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.465651,-0.519511,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.531772,
+          47.469979
+        ]
+      },
+      "properties": {
+        "id": "angers_58",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.469979,-0.531772,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.522555,
+          47.481838
+        ]
+      },
+      "properties": {
+        "id": "angers_59",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.481838,-0.522555,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.539226,
+          47.469635
+        ]
+      },
+      "properties": {
+        "id": "angers_60",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.469635,-0.539226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.526748,
+          47.486176
+        ]
+      },
+      "properties": {
+        "id": "angers_61",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.486176,-0.526748,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565944,
+          47.465069
+        ]
+      },
+      "properties": {
+        "id": "angers_62",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.465069,-0.565944,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.532727,
+          47.461706
+        ]
+      },
+      "properties": {
+        "id": "angers_63",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.461706,-0.532727,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.525015,
+          47.458272
+        ]
+      },
+      "properties": {
+        "id": "angers_64",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.458272,-0.525015,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52544,
+          47.453467
+        ]
+      },
+      "properties": {
+        "id": "angers_65",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.453467,-0.52544,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.591921,
+          47.474787
+        ]
+      },
+      "properties": {
+        "id": "angers_66",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.474787,-0.591921,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.602864,
+          47.46603
+        ]
+      },
+      "properties": {
+        "id": "angers_67",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.46603,-0.602864,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.556703,
+          47.478608
+        ]
+      },
+      "properties": {
+        "id": "angers_68",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.478608,-0.556703,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.559595,
+          47.46781
+        ]
+      },
+      "properties": {
+        "id": "angers_69",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.46781,-0.559595,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.535587,
+          47.470271
+        ]
+      },
+      "properties": {
+        "id": "angers_70",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.470271,-0.535587,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.547339,
+          47.462505
+        ]
+      },
+      "properties": {
+        "id": "angers_71",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.462505,-0.547339,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549074,
+          47.451101
+        ]
+      },
+      "properties": {
+        "id": "angers_72",
+        "name": "PANNEAU D'AFFICHAGE LIBRE, ANGERS",
+        "city": "Angers Loire Métropole",
+        "type": "Affichage libre",
+        "notes": "Affichage libre",
+        "street_view": "https://www.google.com/maps/@47.451101,-0.549074,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

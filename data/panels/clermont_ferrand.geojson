@@ -1,0 +1,928 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Clermont-Ferrand",
+    "department": "63 - Puy-de-Dôme",
+    "count": 51
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.102366,
+          45.814066
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_1",
+        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 1-01)",
+        "street_view": "https://www.google.com/maps/@45.814066,3.102366,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.105943,
+          45.813571
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_2",
+        "name": "Rue Torpilleur Sirocco - Rue Alphonse Daudet, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Devant  groupe scolaire (Réf: PAA 1-02)",
+        "street_view": "https://www.google.com/maps/@45.813571,3.105943,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.125548,
+          45.814353
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_3",
+        "name": "Rue du Château des Vergnes, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Romain Rolland (Réf: PAA 1-04)",
+        "street_view": "https://www.google.com/maps/@45.814353,3.125548,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.128399,
+          45.810648
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_4",
+        "name": "Rue d'Aulteribe, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire  Jules Verne (Réf: PAA 1-05)",
+        "street_view": "https://www.google.com/maps/@45.810648,3.128399,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.124365,
+          45.809785
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_5",
+        "name": "Rue du Champ des roseaux - Rue des Aulnes, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Gymnase Jules Verne (Réf: PAA 1-06)",
+        "street_view": "https://www.google.com/maps/@45.809785,3.124365,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.124324,
+          45.807938
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_6",
+        "name": "Rue du Château des Vergnes - Rue du Champs des Roseaux, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 1-07)",
+        "street_view": "https://www.google.com/maps/@45.807938,3.124324,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.125512,
+          45.814384
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_7",
+        "name": "Rue des Aulnes - Rue du Château des Vergnes, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 1-08)",
+        "street_view": "https://www.google.com/maps/@45.814384,3.125512,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.113281,
+          45.810316
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_8",
+        "name": "Rue de Champratel - Rue Louise Michel - Stade Leclanché, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 1-09)",
+        "street_view": "https://www.google.com/maps/@45.810316,3.113281,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.101732,
+          45.812091
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_9",
+        "name": "Rue des Hauts de Chanturgue - Groupe scolaire Philippe Arbos, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 1-11)",
+        "street_view": "https://www.google.com/maps/@45.812091,3.101732,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.101736,
+          45.811095
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_10",
+        "name": "Rue de Neyrat, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Amil Club (Réf: PAA 1-12)",
+        "street_view": "https://www.google.com/maps/@45.811095,3.101736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.106418,
+          45.809497
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_11",
+        "name": "Rue du Solayer - Rue du Torpilleur Sirocco, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire jules Valles (Réf: PAA 1-13)",
+        "street_view": "https://www.google.com/maps/@45.809497,3.106418,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.110291,
+          45.806487
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_12",
+        "name": "Rue Rouvier, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Devant  terrain de boules (Réf: PAA 1-15)",
+        "street_view": "https://www.google.com/maps/@45.806487,3.110291,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.085742,
+          45.787943
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_13",
+        "name": "Rue Champfleuri - Rue du Docteur Hospital, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Jean Butez (Réf: PAA 2-01)",
+        "street_view": "https://www.google.com/maps/@45.787943,3.085742,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.095994,
+          45.791516
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_14",
+        "name": "Rue Champfleuri - Allée de Chanturgue, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Salle Chanteranne (Réf: PAA 2-02)",
+        "street_view": "https://www.google.com/maps/@45.791516,3.095994,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.097909,
+          45.792889
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_15",
+        "name": "Rue Champfleuri - Rue de la Barre, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Chanteranne (Réf: PAA 2-03)",
+        "street_view": "https://www.google.com/maps/@45.792889,3.097909,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.088199,
+          45.795606
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_16",
+        "name": "Rue du Docteur Hospital, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "LEP Roger Claustres (Réf: PAA 2-04)",
+        "street_view": "https://www.google.com/maps/@45.795606,3.088199,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.079448,
+          45.792309
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_17",
+        "name": "Rue Chateaubriand - Place de la Glacière, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 2-05)",
+        "street_view": "https://www.google.com/maps/@45.792309,3.079448,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.074906,
+          45.793499
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_18",
+        "name": "Rue Abbe Prevost - Rue des Chanelles, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire  Pierre et Marie Curie (Réf: PAA 2-06)",
+        "street_view": "https://www.google.com/maps/@45.793499,3.074906,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.070653,
+          45.793005
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_19",
+        "name": "Rue Jean Monnet - Rue Jacques Brel, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Collège de Trémonteix (Réf: PAA 2-07)",
+        "street_view": "https://www.google.com/maps/@45.793005,3.070653,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.112054,
+          45.778791
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_20",
+        "name": "Avenue Anatole France, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaie Anatole France (Réf: PAA 3-02)",
+        "street_view": "https://www.google.com/maps/@45.778791,3.112054,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.098452,
+          45.774177
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_21",
+        "name": "Rue de la Pradelle - Rue de l'Oradou, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Paul Bert (Réf: PAA 3-03)",
+        "street_view": "https://www.google.com/maps/@45.774177,3.098452,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.090528,
+          45.772116
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_22",
+        "name": "Boulevard Gergovia - Cours Raymond Poincarré, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Fac de Lettres (Réf: PAA 3-04)",
+        "street_view": "https://www.google.com/maps/@45.772116,3.090528,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.108175,
+          45.771903
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_23",
+        "name": "Rue Clovis Hugues, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Collège de l’Oradou (Réf: PAA 3-07)",
+        "street_view": "https://www.google.com/maps/@45.771903,3.108175,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.116679,
+          45.765247
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_24",
+        "name": "Rue Pablo Picasso, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Entrée sud du Parc du Creux de l’Enfer (Réf: PAA 3-08)",
+        "street_view": "https://www.google.com/maps/@45.765247,3.116679,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.144951,
+          45.760031
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_25",
+        "name": "Rue de l'Eminée, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Entrée du Parc Ernest Cristal (Réf: PAA 3-10)",
+        "street_view": "https://www.google.com/maps/@45.760031,3.144951,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.145216,
+          45.759911
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_26",
+        "name": "Rue de l’Eminée, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Entrée du Parc Ernest Cristal (Réf: PAA 3-11)",
+        "street_view": "https://www.google.com/maps/@45.759911,3.145216,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.062863,
+          45.788547
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_27",
+        "name": "Rue Canrobert - Rue de Durtol, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Jean Zay (Réf: PAA 4-01)",
+        "street_view": "https://www.google.com/maps/@45.788547,3.062863,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08455,
+          45.786701
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_28",
+        "name": "Rue de Blanzat - Place des Bughes, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Maison des boulistes (Réf: PAA 5-01)",
+        "street_view": "https://www.google.com/maps/@45.786701,3.08455,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.094518,
+          45.78349
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_29",
+        "name": "Boulevard Jean Baptiste Dumas - Rue du Souvenir Français, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Abords Michelin (Réf: PAA 5-02)",
+        "street_view": "https://www.google.com/maps/@45.78349,3.094518,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.086971,
+          45.781724
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_30",
+        "name": "Rue Jean Richepin - Rue Henri Simon, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 5-03)",
+        "street_view": "https://www.google.com/maps/@45.781724,3.086971,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.083462,
+          45.776642
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_31",
+        "name": "Rue du Coche - Rue de la Tour D'Auvergne, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 5-06)",
+        "street_view": "https://www.google.com/maps/@45.776642,3.083462,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.084133,
+          45.780161
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_32",
+        "name": "Rue des Petits Fauchers - Rue Saint Herem, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 5-12)",
+        "street_view": "https://www.google.com/maps/@45.780161,3.084133,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.117179,
+          45.802124
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_33",
+        "name": "Rue Henri Tourette - Rue des Trioux, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 6-01)",
+        "street_view": "https://www.google.com/maps/@45.802124,3.117179,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.118764,
+          45.800508
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_34",
+        "name": "Rue de la Grande Combaude, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Groupe scolaire Jean de la Fontaine (Réf: PAA 6-02)",
+        "street_view": "https://www.google.com/maps/@45.800508,3.118764,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.119394,
+          45.799215
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_35",
+        "name": "Rue de Portefort - Rue de la Grande Combaude, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 6-03)",
+        "street_view": "https://www.google.com/maps/@45.799215,3.119394,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.108023,
+          45.792701
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_36",
+        "name": "Place de la Rodade, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Terrain de boules (Réf: PAA 6-05)",
+        "street_view": "https://www.google.com/maps/@45.792701,3.108023,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.084121,
+          45.768783
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_37",
+        "name": "Rue Pierre de Coubertin, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Stade Nautique (Réf: PAA 7-03)",
+        "street_view": "https://www.google.com/maps/@45.768783,3.084121,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.086362,
+          45.76587
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_38",
+        "name": "Rue Etienne Dolet, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Sous le pont SNCF (Réf: PAA 7-04)",
+        "street_view": "https://www.google.com/maps/@45.76587,3.086362,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092549,
+          45.766574
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_39",
+        "name": "Rue Alexandre Ribot - Rue Sévigné, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-05)",
+        "street_view": "https://www.google.com/maps/@45.766574,3.092549,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08195,
+          45.76436
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_40",
+        "name": "Rue Volnev - Avenue Marx Dormov, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-06)",
+        "street_view": "https://www.google.com/maps/@45.76436,3.08195,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.083955,
+          45.76456
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_41",
+        "name": "Rue Poncillon - Rue Charles Bruyant, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-07)",
+        "street_view": "https://www.google.com/maps/@45.76456,3.083955,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.086605,
+          45.765225
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_42",
+        "name": "Rue Etienne Dolet, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Cité Universitaire CROUS (Réf: PAA 7-08)",
+        "street_view": "https://www.google.com/maps/@45.765225,3.086605,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.082177,
+          45.761041
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_43",
+        "name": "Avenue de la Libération - Stade Philippe Marcombes, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-09)",
+        "street_view": "https://www.google.com/maps/@45.761041,3.082177,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092438,
+          45.768237
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_44",
+        "name": "Rue de la Rotonde - Rue du Pont Saint Jacques, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-10)",
+        "street_view": "https://www.google.com/maps/@45.768237,3.092438,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.094168,
+          45.763573
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_45",
+        "name": "Rue Alexandre Ribot - Rue du Docteur Vigenaud, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: PAA 7-11)",
+        "street_view": "https://www.google.com/maps/@45.763573,3.094168,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07013,
+          45.78333
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_46",
+        "name": "Avenue Bergougnan, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Entrée de l’ancien IUFM (Réf: N1)",
+        "street_view": "https://www.google.com/maps/@45.78333,3.07013,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.089257,
+          45.765517
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_47",
+        "name": "Boulevard Claude Bernard – Rue Desdevises du Dézert, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: N3)",
+        "street_view": "https://www.google.com/maps/@45.765517,3.089257,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.094855,
+          45.760178
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_48",
+        "name": "Rue Beaudelaire, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Maison de quartier Oradou (Réf: PAA 7-14)",
+        "street_view": "https://www.google.com/maps/@45.760178,3.094855,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.096758,
+          45.766974
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_49",
+        "name": "Rue des Chambrette, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "Placette des Neuf Soleils (Réf: N5)",
+        "street_view": "https://www.google.com/maps/@45.766974,3.096758,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.107894,
+          45.768136
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_50",
+        "name": "Allée de Baulieu, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "(Réf: N6)",
+        "street_view": "https://www.google.com/maps/@45.768136,3.107894,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.120023,
+          45.798268
+        ]
+      },
+      "properties": {
+        "id": "clermont_ferrand_51",
+        "name": "Rue de la Charme, Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "type": "Affichage libre",
+        "notes": "devant le collège (Réf: PAA 6-07)",
+        "street_view": "https://www.google.com/maps/@45.798268,3.120023,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

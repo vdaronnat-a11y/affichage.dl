@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Saint-Didier-au-Mont-d'Or",
+    "department": "69 - Rhône",
+    "count": 4
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.794732,
+          45.825674
+        ]
+      },
+      "properties": {
+        "id": "saint_didier_au_mont_d_or_1",
+        "name": "Place Martel, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d'Or",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) A côté de l'arrêt de bus",
+        "street_view": "https://www.google.com/maps/@45.825674,4.794732,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.798147,
+          45.8113
+        ]
+      },
+      "properties": {
+        "id": "saint_didier_au_mont_d_or_2",
+        "name": "Place Pradel, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d'Or",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Angle nord est de la place à côté de l'entrée du parking",
+        "street_view": "https://www.google.com/maps/@45.8113,4.798147,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.795932,
+          45.810394
+        ]
+      },
+      "properties": {
+        "id": "saint_didier_au_mont_d_or_3",
+        "name": "5 rue de la chèvre, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d'Or",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Devant la salle des associations",
+        "street_view": "https://www.google.com/maps/@45.810394,4.795932,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.803866,
+          45.798147
+        ]
+      },
+      "properties": {
+        "id": "saint_didier_au_mont_d_or_4",
+        "name": "Avenue Pasteur, 69370 Saint-Didier-au-Mont-d’Or",
+        "city": "Saint-Didier-au-Mont-d'Or",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto (1,65 X 1,07) Au niveau du Rond point des tillieuls",
+        "street_view": "https://www.google.com/maps/@45.798147,4.803866,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}
