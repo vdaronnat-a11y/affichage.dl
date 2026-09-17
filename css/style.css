@@ -349,6 +349,12 @@ body {
 }
 
 /* Options sélecteur de quantité */
+.count-max-hint {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
 .count-pills {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -368,7 +374,7 @@ body {
   transition: var(--transition);
 }
 
-.count-pill-btn:hover {
+.count-pill-btn:hover:not(:disabled) {
   background: rgba(255, 255, 255, 0.12);
 }
 
@@ -377,6 +383,109 @@ body {
   color: #0f172a;
   border-color: var(--accent-blue);
   font-weight: 700;
+}
+
+.count-pill-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* Stepper de sélection fine (+ / -) */
+.count-stepper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 10px;
+  background: rgba(15, 23, 42, 0.5);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 8px 12px;
+}
+
+.btn-stepper {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: var(--transition);
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.btn-stepper:hover:not(:disabled) {
+  background: rgba(56, 189, 248, 0.18);
+  border-color: var(--accent-blue);
+  color: var(--accent-blue);
+  transform: translateY(-1px);
+}
+
+.btn-stepper:active:not(:disabled) {
+  transform: scale(0.94);
+}
+
+.btn-stepper:disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.stepper-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 90px;
+}
+
+.stepper-input {
+  width: 80px;
+  text-align: center;
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: var(--accent-blue);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  padding: 2px 0;
+  transition: var(--transition);
+}
+
+.stepper-input:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.stepper-input:focus {
+  outline: none;
+  background: rgba(15, 23, 42, 0.85);
+  border-color: var(--accent-blue);
+  box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.25);
+}
+
+/* Retrait des flèches natives sur les champs number */
+.stepper-input::-webkit-outer-spin-button,
+.stepper-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.stepper-input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.stepper-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
 }
 
 /* Barre de recherche d'adresse avec autocomplétion */

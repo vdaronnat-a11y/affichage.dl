@@ -100,6 +100,13 @@ class TourApp {
 
     this.congratsModalEl = document.getElementById("congrats-modal");
     this.btnCloseCongratsEl = document.getElementById("btn-close-congrats");
+
+    // Éléments du sélecteur de quantité de panneaux
+    this.cityMaxPanelsHintEl = document.getElementById("city-max-panels-hint");
+    this.inputTargetCountEl = document.getElementById("input-target-count");
+    this.btnCountMinusEl = document.getElementById("btn-count-minus");
+    this.btnCountPlusEl = document.getElementById("btn-count-plus");
+    this.countPillBtns = document.querySelectorAll(".count-pill-btn");
   }
 
   async loadCities() {
@@ -174,6 +181,62 @@ class TourApp {
     }
   }
 
+  getMaxPanels() {
+    if (this.activePanelsData && Array.isArray(this.activePanelsData.features)) {
+      return this.activePanelsData.features.length;
+    }
+    if (this.activeCity && typeof this.activeCity.count === 'number') {
+      return this.activeCity.count;
+    }
+    return 20;
+  }
+
+  updateCountControls() {
+    const max = this.getMaxPanels();
+
+    // Clamper la valeur cible
+    if (this.targetCount > max) {
+      this.targetCount = max;
+    }
+    if (this.targetCount < 1) {
+      this.targetCount = Math.min(1, max);
+    }
+
+    // Affichage dans le stepper
+    if (this.inputTargetCountEl) {
+      this.inputTargetCountEl.value = this.targetCount;
+      this.inputTargetCountEl.max = max;
+    }
+
+    // Indicateur max disponible
+    if (this.cityMaxPanelsHintEl) {
+      this.cityMaxPanelsHintEl.textContent = `/ ${max} disponible${max > 1 ? 's' : ''}`;
+    }
+
+    // Boutons + et -
+    if (this.btnCountMinusEl) {
+      this.btnCountMinusEl.disabled = this.targetCount <= 1;
+    }
+    if (this.btnCountPlusEl) {
+      this.btnCountPlusEl.disabled = this.targetCount >= max;
+    }
+
+    // Paliers de boutons
+    if (this.countPillBtns) {
+      this.countPillBtns.forEach(btn => {
+        const countAttr = btn.dataset.count;
+        if (countAttr === "all") {
+          btn.classList.toggle("active", this.targetCount === max);
+          btn.disabled = max <= 0;
+        } else {
+          const val = parseInt(countAttr, 10);
+          btn.disabled = val > max;
+          btn.classList.toggle("active", this.targetCount === val);
+        }
+      });
+    }
+  }
+
   async loadPanelsData(city) {
     // Vérifier d'abord le localStorage pour une ville personnalisée
     const customKey = `city_${city.id}`;
@@ -183,6 +246,7 @@ class TourApp {
         const parsed = JSON.parse(customItem);
         this.activePanelsData = parsed.geojson;
         this.map.setUnusedPanels(this.activePanelsData.features);
+        this.updateCountControls();
         return;
       } catch (e) {}
     }
@@ -197,6 +261,7 @@ class TourApp {
     } catch (e) {
       console.error("Erreur chargement des panneaux de la ville:", e);
     }
+    this.updateCountControls();
   }
 
   setupEventListeners() {
@@ -211,14 +276,54 @@ class TourApp {
       this.citySelectEl.focus();
     });
 
-    // Boutons de quantité de panneaux (5, 10, 15, 20)
-    document.querySelectorAll(".count-pill-btn").forEach(btn => {
-      btn.addEventListener("click", (e) => {
-        document.querySelectorAll(".count-pill-btn").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-        this.targetCount = parseInt(btn.dataset.count, 10);
+    // Boutons de quantité de panneaux (10, 15, 20, Tous)
+    if (this.countPillBtns) {
+      this.countPillBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+          const max = this.getMaxPanels();
+          if (btn.dataset.count === "all") {
+            this.targetCount = max;
+          } else {
+            const val = parseInt(btn.dataset.count, 10);
+            this.targetCount = Math.min(val, max);
+          }
+          this.updateCountControls();
+        });
       });
-    });
+    }
+
+    // Stepper boutons + et -
+    if (this.btnCountMinusEl) {
+      this.btnCountMinusEl.addEventListener("click", () => {
+        if (this.targetCount > 1) {
+          this.targetCount--;
+          this.updateCountControls();
+        }
+      });
+    }
+    if (this.btnCountPlusEl) {
+      this.btnCountPlusEl.addEventListener("click", () => {
+        const max = this.getMaxPanels();
+        if (this.targetCount < max) {
+          this.targetCount++;
+          this.updateCountControls();
+        }
+      });
+    }
+
+    // Champ stepper saisie directe
+    if (this.inputTargetCountEl) {
+      const handleInputChange = () => {
+        let val = parseInt(this.inputTargetCountEl.value, 10);
+        const max = this.getMaxPanels();
+        if (isNaN(val) || val < 1) val = 1;
+        if (val > max) val = max;
+        this.targetCount = val;
+        this.updateCountControls();
+      };
+      this.inputTargetCountEl.addEventListener("change", handleInputChange);
+      this.inputTargetCountEl.addEventListener("blur", handleInputChange);
+    }
 
     // Géolocalisation par GPS
     this.btnGpsEl.addEventListener("click", () => this.geolocateUser());
