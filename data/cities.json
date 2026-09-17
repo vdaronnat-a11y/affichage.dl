@@ -22,6 +22,17 @@
     "file": "panels/anglet.geojson"
   },
   {
+    "id": "antibes",
+    "name": "Antibes Juan-les-Pins",
+    "department": "06 - Alpes-Maritimes",
+    "count": 26,
+    "center": [
+      7.1112,
+      43.5837
+    ],
+    "file": "panels/antibes.geojson"
+  },
+  {
     "id": "bron",
     "name": "Bron",
     "department": "69 - Rhône",
@@ -119,6 +130,17 @@
       48.8208
     ],
     "file": "panels/issy_les_moulineaux.geojson"
+  },
+  {
+    "id": "le_havre",
+    "name": "Le Havre",
+    "department": "76 - Seine-Maritime",
+    "count": 46,
+    "center": [
+      0.1329,
+      49.5057
+    ],
+    "file": "panels/le_havre.geojson"
   },
   {
     "id": "lyon",

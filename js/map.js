@@ -77,10 +77,13 @@ export class TourMap {
 
       const marker = L.marker([coords[1], coords[0]], { icon });
       
+      const notes = (props.notes || '').trim();
+      const notesHtml = notes ? `<small style="color: #64748b;">${notes}</small><br>` : '';
+
       const popupContent = `
         <div style="font-size: 0.9rem; min-width: 180px;">
           <b>${props.name}</b><br>
-          <small style="color: #64748b;">${props.notes || props.type || ''}</small><br>
+          ${notesHtml}
           <button id="btn-add-${props.id}" style="margin-top: 8px; width: 100%; background: #0284c7; color: white; border: none; padding: 6px; border-radius: 6px; font-weight: bold; cursor: pointer;">
             ➕ Ajouter à ma tournée
           </button>
@@ -128,11 +131,15 @@ export class TourMap {
       });
 
       const marker = L.marker([coords[1], coords[0]], { icon });
+      
+      const notes = (props.notes || '').trim();
+      const notesHtml = notes ? `<small style="color: #64748b;">${notes}</small><br>` : '';
+
       const popupContent = `
         <div style="font-size: 0.9rem; min-width: 180px;">
           <b style="color: #0284c7;">Étape #${stepNum}</b><br>
           <b>${props.name}</b><br>
-          <small>${props.notes || ''}</small><br>
+          ${notesHtml}
           <button id="btn-remove-${props.id}" style="margin-top: 8px; width: 100%; background: #ef4444; color: white; border: none; padding: 6px; border-radius: 6px; font-weight: bold; cursor: pointer;">
             ❌ Retirer de la tournée
           </button>

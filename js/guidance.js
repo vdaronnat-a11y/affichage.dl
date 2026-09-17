@@ -136,7 +136,7 @@ export class TourGuidance {
       targetLat = coords[1];
       targetLon = coords[0];
       targetTitle = panel.properties.name;
-      targetNotes = panel.properties.notes || "Panneau d'affichage libre";
+      targetNotes = (panel.properties.notes || '').trim() || "Panneau d'affichage libre";
 
       this.stepIndicatorEl.innerHTML = `📍 Panneau ${stepNum} sur ${this.panels.length}`;
       this.btnPastedEl.innerHTML = `✅ C'est collé ! Panneau suivant ➡️`;

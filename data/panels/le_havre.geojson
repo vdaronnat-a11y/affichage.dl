@@ -1,0 +1,787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "le_havre_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10032,
+          49.496268
+        ]
+      },
+      "properties": {
+        "id": "le_havre_1",
+        "name": "98 rue du Président Wilson, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.109328,
+          49.497499
+        ]
+      },
+      "properties": {
+        "id": "le_havre_2",
+        "name": "rue Gustave Flaubert, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue d’Ingouville"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120751,
+          49.496048
+        ]
+      },
+      "properties": {
+        "id": "le_havre_3",
+        "name": "rue Anatole France, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Michelet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120143,
+          49.49234
+        ]
+      },
+      "properties": {
+        "id": "le_havre_4",
+        "name": "boulevard de Strasbourg, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue du Colonel Fabien"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.114754,
+          49.487525
+        ]
+      },
+      "properties": {
+        "id": "le_havre_5",
+        "name": "quai Casimir Delavigne, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue d’Edreville"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.108202,
+          49.50903
+        ]
+      },
+      "properties": {
+        "id": "le_havre_6",
+        "name": "rue Roger Salengro, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Jean Borda"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11676,
+          49.505106
+        ]
+      },
+      "properties": {
+        "id": "le_havre_7",
+        "name": "place Bayonvillers, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.098488,
+          49.502132
+        ]
+      },
+      "properties": {
+        "id": "le_havre_8",
+        "name": "rue de la cavée Verte, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Clément Marical"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103474,
+          49.502131
+        ]
+      },
+      "properties": {
+        "id": "le_havre_9",
+        "name": "rue de la cavée Verte, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Docteur de Boissière"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.096895,
+          49.511156
+        ]
+      },
+      "properties": {
+        "id": "le_havre_10",
+        "name": "rue de la Sous-Bretonne, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue d’Estienne d’Orves"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.127711,
+          49.497686
+        ]
+      },
+      "properties": {
+        "id": "le_havre_11",
+        "name": "cours de la République, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Dumé d’Aplemont"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.146085,
+          49.499778
+        ]
+      },
+      "properties": {
+        "id": "le_havre_12",
+        "name": "boulevard de Graville, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Bourdaloue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.136151,
+          49.497666
+        ]
+      },
+      "properties": {
+        "id": "le_havre_13",
+        "name": "rue Démidoff, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Berthelot"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.139415,
+          49.488923
+        ]
+      },
+      "properties": {
+        "id": "le_havre_14",
+        "name": "rue Ferrer, Le Havre",
+        "city": "Le Havre",
+        "notes": "Devant la Maison de Quartier"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.140424,
+          49.486275
+        ]
+      },
+      "properties": {
+        "id": "le_havre_15",
+        "name": "bd Amiral Mouchez, Le Havre",
+        "city": "Le Havre",
+        "notes": "Au droit du n°91-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.073942,
+          49.521467
+        ]
+      },
+      "properties": {
+        "id": "le_havre_16",
+        "name": "Rue Ambroise Croizat, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Stendhal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.097319,
+          49.517283
+        ]
+      },
+      "properties": {
+        "id": "le_havre_17",
+        "name": "rue Pierre Farcis, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Henri Labbay devant la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092352,
+          49.515577
+        ]
+      },
+      "properties": {
+        "id": "le_havre_18",
+        "name": "rue Théophile Gautier giratoire Jean Monnet, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.105097,
+          49.521351
+        ]
+      },
+      "properties": {
+        "id": "le_havre_19",
+        "name": "rue Irène Joliot Curie, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Desramé"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11429,
+          49.523945
+        ]
+      },
+      "properties": {
+        "id": "le_havre_20",
+        "name": "parking AUCHAN, Le Havre",
+        "city": "Le Havre",
+        "notes": "Devant le centre Emmanuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118058,
+          49.528169
+        ]
+      },
+      "properties": {
+        "id": "le_havre_21",
+        "name": "place Raymond Queneau, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120783,
+          49.524057
+        ]
+      },
+      "properties": {
+        "id": "le_havre_22",
+        "name": "rue Maurice Tronelle, Le Havre",
+        "city": "Le Havre",
+        "notes": "À proximité du centre commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.108321,
+          49.518926
+        ]
+      },
+      "properties": {
+        "id": "le_havre_23",
+        "name": "rue Fernand Chatel, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118619,
+          49.516324
+        ]
+      },
+      "properties": {
+        "id": "le_havre_24",
+        "name": "rue Henri Cayeux Cité Commerciale de la Mare Rouge, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.129425,
+          49.523633
+        ]
+      },
+      "properties": {
+        "id": "le_havre_25",
+        "name": "rue Henri Dunant, Le Havre",
+        "city": "Le Havre",
+        "notes": "Face avenue du Bois de Bléville"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143389,
+          49.506155
+        ]
+      },
+      "properties": {
+        "id": "le_havre_26",
+        "name": "place de la Liberté, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162675,
+          49.508676
+        ]
+      },
+      "properties": {
+        "id": "le_havre_27",
+        "name": "rue du Docteur Charles Richet, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue des Œillets"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.170344,
+          49.50616
+        ]
+      },
+      "properties": {
+        "id": "le_havre_28",
+        "name": "avenue Paul Bert, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue du Lieutenant Clérivet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1467,
+          49.50906
+        ]
+      },
+      "properties": {
+        "id": "le_havre_29",
+        "name": "avenue du Val aux Corneilles, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle avenue de Frileuse"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144874,
+          49.511359
+        ]
+      },
+      "properties": {
+        "id": "le_havre_30",
+        "name": "rue Pierre Mendes France, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue des Trembles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.150084,
+          49.50151
+        ]
+      },
+      "properties": {
+        "id": "le_havre_31",
+        "name": "avenue Pablo Picasso, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue du Bocage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.158619,
+          49.500231
+        ]
+      },
+      "properties": {
+        "id": "le_havre_32",
+        "name": "place Jean Maridor, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.161255,
+          49.502315
+        ]
+      },
+      "properties": {
+        "id": "le_havre_33",
+        "name": "rue de Verdun, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Auguste Blanqui"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.169894,
+          49.501278
+        ]
+      },
+      "properties": {
+        "id": "le_havre_34",
+        "name": "Avenue Léo Lagrange, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue du Commandant Abadie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1582,
+          49.4991
+        ]
+      },
+      "properties": {
+        "id": "le_havre_35",
+        "name": "place Médéric Chauvin, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163429,
+          49.497374
+        ]
+      },
+      "properties": {
+        "id": "le_havre_36",
+        "name": "rue des Chantiers, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Claude Lefèvre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163823,
+          49.498708
+        ]
+      },
+      "properties": {
+        "id": "le_havre_37",
+        "name": "rue François Chenel, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.158696,
+          49.490303
+        ]
+      },
+      "properties": {
+        "id": "le_havre_38",
+        "name": "boulevard Jules Durand, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Viviani"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.153657,
+          49.494393
+        ]
+      },
+      "properties": {
+        "id": "le_havre_39",
+        "name": "rue de la Vallée, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Viviani"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163255,
+          49.480249
+        ]
+      },
+      "properties": {
+        "id": "le_havre_40",
+        "name": "rue des Chantiers, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle du Homet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176415,
+          49.5109
+        ]
+      },
+      "properties": {
+        "id": "le_havre_41",
+        "name": "avenue du 8 Mai 1945, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle avenue du Mont Le Comte"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162352,
+          49.513833
+        ]
+      },
+      "properties": {
+        "id": "le_havre_42",
+        "name": "place Robert Schuman, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.125347,
+          49.512232
+        ]
+      },
+      "properties": {
+        "id": "le_havre_43",
+        "name": "place de la Mare au Clerc, Le Havre",
+        "city": "Le Havre",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.129676,
+          49.50716
+        ]
+      },
+      "properties": {
+        "id": "le_havre_44",
+        "name": "rue Jules Verne, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Edmond Meyer"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13557,
+          49.50916
+        ]
+      },
+      "properties": {
+        "id": "le_havre_45",
+        "name": "rue des Acacias, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue Louis Blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "le_havre_46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.160291,
+          49.521294
+        ]
+      },
+      "properties": {
+        "id": "le_havre_46",
+        "name": "rue Eugène Mopin, Le Havre",
+        "city": "Le Havre",
+        "notes": "Angle rue André Vimbert"
+      }
+    }
+  ]
+}

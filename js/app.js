@@ -538,15 +538,20 @@ class TourApp {
       // 2. Calcul et optimisation de la boucle fermée (départ -> panneaux -> retour au départ)
       await this.recomputeRoute();
 
-      // 3. Bascule d'écran vers l'ajustement et fermeture automatique du volet pour voir l'itinéraire en grand
+      // 3. Bascule d'écran vers le détail de la tournée
       this.configStepEl.style.display = "none";
       this.reviewStepEl.style.display = "flex";
+      this.sidePanelEl.classList.remove("collapsed");
+
+      // 4. Temporisation brève pour que l'utilisateur visualise le détail de la tournée dans le volet,
+      // puis abaissement rapide (300ms) du volet pour révéler la carte
+      await new Promise(resolve => setTimeout(resolve, 400));
       this.sidePanelEl.classList.add("collapsed");
     } catch (e) {
       console.error(e);
       alert("Erreur lors de l'optimisation de la tournée.");
     } finally {
-      this.btnCalculateEl.innerHTML = `🚀 Générer la tournée optimisée (Boucle)`;
+      this.btnCalculateEl.innerHTML = `🚀 Générer la proposition de tournée`;
       this.btnCalculateEl.disabled = false;
     }
   }
@@ -588,6 +593,9 @@ class TourApp {
     this.panelsListEl.innerHTML = "";
 
     this.orderedPanels.forEach((panel, idx) => {
+      const notes = (panel.properties.notes || '').trim();
+      const subHtml = notes ? `<span class="panel-info-sub">${notes}</span>` : '';
+
       const item = document.createElement("div");
       item.className = "panel-item";
       item.innerHTML = `
@@ -595,7 +603,7 @@ class TourApp {
           <div class="panel-num-badge">${idx + 1}</div>
           <div class="panel-info">
             <span class="panel-info-name">${panel.properties.name}</span>
-            <span class="panel-info-sub">${panel.properties.notes || panel.properties.type || ''}</span>
+            ${subHtml}
           </div>
         </div>
         <button class="btn-remove-panel" title="Retirer ce panneau">✕</button>
