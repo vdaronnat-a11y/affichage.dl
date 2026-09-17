@@ -21,3 +21,7 @@ Pour toute création, modification, moissonnage ou nettoyage de données de pann
    - Le champ `name` ne doit JAMAIS contenir la commune ni de virgule finale `, Commune`.
    - La commune appartient exclusivement au champ `city`.
    - L'affichage se charge d'afficher l'adresse seule (tournée mono-commune) ou d'accoler la commune (tournée multi-communes).
+
+6. **Workflow Git & Déploiement** :
+   - Toutes les modifications doivent être testées et validées en local par l'utilisateur.
+   - Ne JAMAIS exécuter de `git push` sans l'instruction explicite et préalable de l'utilisateur.

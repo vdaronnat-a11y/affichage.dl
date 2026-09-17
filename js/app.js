@@ -146,7 +146,7 @@ class TourApp {
     this.cities.forEach(city => {
       const opt = document.createElement("option");
       opt.value = city.id;
-      opt.textContent = `${city.name} (${city.count} panneaux)`;
+      opt.textContent = `${city.name} (${city.count} 🪧)`;
       this.citySelectEl.appendChild(opt);
     });
   }
@@ -157,7 +157,7 @@ class TourApp {
 
     this.activeCity = city;
     this.citySelectEl.value = city.id;
-    this.activeCityBadgeEl.innerHTML = `📍 ${city.name} (${city.count} panneaux)`;
+    this.activeCityBadgeEl.innerHTML = `📍 ${city.name} (${city.count} 🪧)`;
 
     // Recentrer la carte
     this.map.focusCity(city.center, 13);
@@ -367,6 +367,7 @@ class TourApp {
     this.btnModifyConfigEl.addEventListener("click", () => {
       this.reviewStepEl.style.display = "none";
       this.configStepEl.style.display = "flex";
+      this.sidePanelEl.classList.remove("review-active");
       this.selectedPanels = [];
       this.orderedPanels = [];
       if (this.map) {
@@ -401,9 +402,6 @@ class TourApp {
       }, { passive: true });
     }
 
-    // Bouton recalculer
-    this.btnRecalculateEl.addEventListener("click", () => this.recomputeRoute());
-
     // Bouton lancement du guidage
     this.btnStartGuidanceEl.addEventListener("click", () => this.startGuidance());
 
@@ -436,7 +434,7 @@ class TourApp {
     }
 
     // Glissement vers le bas sur l'en-tête du volet pour le replier facilement
-    document.querySelectorAll(".panel-header").forEach(header => {
+    document.querySelectorAll(".panel-header, .panel-header-review").forEach(header => {
       let headerStartY = null;
       header.addEventListener("touchstart", (e) => {
         headerStartY = e.touches[0].clientY;
@@ -478,9 +476,48 @@ class TourApp {
         this.congratsModalEl.classList.remove("active");
         this.reviewStepEl.style.display = "none";
         this.configStepEl.style.display = "flex";
+        this.sidePanelEl.classList.remove("review-active");
         this.sidePanelEl.classList.remove("collapsed");
       });
     }
+
+    // Clic sur le logo Nouvelle Énergie pour afficher la modale d'information
+    const infoModal = document.getElementById("info-modal");
+    const closeInfoBtns = [document.getElementById("btn-close-info"), document.getElementById("btn-ok-info")];
+
+    document.querySelectorAll(".panel-header-logo").forEach(logo => {
+      logo.addEventListener("click", () => {
+        if (infoModal) infoModal.classList.add("active");
+      });
+      logo.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          if (infoModal) infoModal.classList.add("active");
+        }
+      });
+    });
+
+    closeInfoBtns.forEach(btn => {
+      if (btn) {
+        btn.addEventListener("click", () => {
+          if (infoModal) infoModal.classList.remove("active");
+        });
+      }
+    });
+
+    if (infoModal) {
+      infoModal.addEventListener("click", (e) => {
+        if (e.target === infoModal) {
+          infoModal.classList.remove("active");
+        }
+      });
+    }
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && infoModal && infoModal.classList.contains("active")) {
+        infoModal.classList.remove("active");
+      }
+    });
   }
 
   async geolocateUser() {
@@ -648,11 +685,11 @@ class TourApp {
       this.configStepEl.style.display = "none";
       this.reviewStepEl.style.display = "flex";
       this.sidePanelEl.classList.remove("collapsed");
+      this.sidePanelEl.classList.add("review-active");
 
-      // 4. Temporisation brève pour que l'utilisateur visualise le détail de la tournée dans le volet,
-      // puis abaissement rapide (300ms) du volet pour révéler la carte
-      await new Promise(resolve => setTimeout(resolve, 400));
-      this.sidePanelEl.classList.add("collapsed");
+      // 4. Animation d'affordance "Peek & Bounce" : le volet reste ouvert mais
+      // effectue un bref rebond pour révéler la carte en arrière-plan et inviter au glissement
+      this.triggerPeekBounce();
     } catch (e) {
       console.error(e);
       alert("Erreur lors de l'optimisation de la tournée.");
@@ -660,6 +697,20 @@ class TourApp {
       this.btnCalculateEl.innerHTML = `🚀 Générer la proposition de tournée`;
       this.btnCalculateEl.disabled = false;
     }
+  }
+
+  triggerPeekBounce() {
+    if (!this.sidePanelEl) return;
+    this.sidePanelEl.classList.remove("peek-bounce");
+    // Forcer le reflow du DOM pour relancer l'animation CSS proprement
+    void this.sidePanelEl.offsetWidth;
+    this.sidePanelEl.classList.add("peek-bounce");
+
+    setTimeout(() => {
+      if (this.sidePanelEl) {
+        this.sidePanelEl.classList.remove("peek-bounce");
+      }
+    }, 1300);
   }
 
   async recomputeRoute() {
