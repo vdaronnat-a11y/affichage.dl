@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Écully",
+    "department": "69 - Rhône",
+    "count": 8
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.778225,
+          45.774783
+        ]
+      },
+      "properties": {
+        "id": "ecully_1",
+        "name": "Place Charles de Gaulle",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,58 X 1,55) Coté Eglise Saint-Blaise",
+        "street_view": "https://www.google.com/maps/@45.774783,4.778225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.767855,
+          45.77041
+        ]
+      },
+      "properties": {
+        "id": "ecully_2",
+        "name": "Place d'Helvetie",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Angle Chemin du Plat & des Genêts",
+        "street_view": "https://www.google.com/maps/@45.77041,4.767855,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.782556,
+          45.77292
+        ]
+      },
+      "properties": {
+        "id": "ecully_3",
+        "name": "Chemin du Randin",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Angle Vernique/Randin",
+        "street_view": "https://www.google.com/maps/@45.77292,4.782556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.787736,
+          45.783668
+        ]
+      },
+      "properties": {
+        "id": "ecully_4",
+        "name": "Chemin de la Sauvegarde",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Entrée Groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.783668,4.787736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.781812,
+          45.790751
+        ]
+      },
+      "properties": {
+        "id": "ecully_5",
+        "name": "Rue du Collovrier",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Place du Perollier",
+        "street_view": "https://www.google.com/maps/@45.790751,4.781812,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.783978,
+          45.790235
+        ]
+      },
+      "properties": {
+        "id": "ecully_6",
+        "name": "Avenue des Sources",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,57 X 1,54) Niveau arrêt bus n°44",
+        "street_view": "https://www.google.com/maps/@45.790235,4.783978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.776217,
+          45.774082
+        ]
+      },
+      "properties": {
+        "id": "ecully_7",
+        "name": "Rue Benoît Tabard",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Face Groupe scolaire du Centre",
+        "street_view": "https://www.google.com/maps/@45.774082,4.776217,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.771434,
+          45.779868
+        ]
+      },
+      "properties": {
+        "id": "ecully_8",
+        "name": "Chemin de Charrière Blanche",
+        "city": "Écully",
+        "type": "Affichage libre",
+        "notes": "pied (1,51 X 1,48) Dépendance Centre PTT",
+        "street_view": "https://www.google.com/maps/@45.779868,4.771434,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

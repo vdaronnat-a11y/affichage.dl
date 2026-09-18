@@ -1,0 +1,568 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Roubaix",
+    "department": "59 - Nord",
+    "count": 31
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.189928,
+          50.680668
+        ]
+      },
+      "properties": {
+        "id": "roubaix_1",
+        "name": "117 Boulevard de Reims",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "FACE AU 136 - Bandeau 2m",
+        "street_view": "https://www.google.com/maps/@50.680668,3.189928,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.151918,
+          50.688041
+        ]
+      },
+      "properties": {
+        "id": "roubaix_2",
+        "name": "Boulevard de la limite",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "avant rond point - IRIS",
+        "street_view": "https://www.google.com/maps/@50.688041,3.151918,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21203,
+          50.683973
+        ]
+      },
+      "properties": {
+        "id": "roubaix_3",
+        "name": "49 Rue du stand de tir",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "METAL 1M ancien",
+        "street_view": "https://www.google.com/maps/@50.683973,3.21203,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.156597,
+          50.697559
+        ]
+      },
+      "properties": {
+        "id": "roubaix_4",
+        "name": "2 Rue Charles Gounod",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue du Capitaine Aubert / rue Gounod - Bandeau 2m",
+        "street_view": "https://www.google.com/maps/@50.697559,3.156597,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.182135,
+          50.694998
+        ]
+      },
+      "properties": {
+        "id": "roubaix_5",
+        "name": "Avenue des Nations unies",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face rue l'hommelet - IRIS",
+        "street_view": "https://www.google.com/maps/@50.694998,3.182135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21327,
+          50.688318
+        ]
+      },
+      "properties": {
+        "id": "roubaix_6",
+        "name": "148 bis Rue de Leers",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue bois de duc - IRIS",
+        "street_view": "https://www.google.com/maps/@50.688318,3.21327,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.180631,
+          50.674382
+        ]
+      },
+      "properties": {
+        "id": "roubaix_7",
+        "name": "118 Rue Henri Régnault",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face au 118 Rue Henri Régnault - IRIS",
+        "street_view": "https://www.google.com/maps/@50.674382,3.180631,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.179707,
+          50.705669
+        ]
+      },
+      "properties": {
+        "id": "roubaix_8",
+        "name": "209 Boulevard de Metz",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue rollin - IRIS",
+        "street_view": "https://www.google.com/maps/@50.705669,3.179707,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.181326,
+          50.679975
+        ]
+      },
+      "properties": {
+        "id": "roubaix_9",
+        "name": "Rue Jean Baptiste notte",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face débouché rue Eugène motte - IRIS",
+        "street_view": "https://www.google.com/maps/@50.679975,3.181326,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.170059,
+          50.695623
+        ]
+      },
+      "properties": {
+        "id": "roubaix_10",
+        "name": "Rue Charlie Chaplin",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle avenue des Nations Unies - IRIS",
+        "street_view": "https://www.google.com/maps/@50.695623,3.170059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.201127,
+          50.68115
+        ]
+      },
+      "properties": {
+        "id": "roubaix_11",
+        "name": "Rue leon blum",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue Robert Schumann - IRIS",
+        "street_view": "https://www.google.com/maps/@50.68115,3.201127,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.18415,
+          50.681387
+        ]
+      },
+      "properties": {
+        "id": "roubaix_12",
+        "name": "Rue dupuy de lome",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face n° 89 - IRIS",
+        "street_view": "https://www.google.com/maps/@50.681387,3.18415,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.212388,
+          50.683807
+        ]
+      },
+      "properties": {
+        "id": "roubaix_13",
+        "name": "60 Rue du Stand de Tir",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "Face au 60 angle Avenue du Parc des Sports - IRIS",
+        "street_view": "https://www.google.com/maps/@50.683807,3.212388,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.157982,
+          50.698364
+        ]
+      },
+      "properties": {
+        "id": "roubaix_14",
+        "name": "Boulevard d'armentière",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "2 Rue Charles Gounod - IRIS",
+        "street_view": "https://www.google.com/maps/@50.698364,3.157982,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.191804,
+          50.685544
+        ]
+      },
+      "properties": {
+        "id": "roubaix_15",
+        "name": "Rue Pierre de",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face aux N° 270-280 square destombres - IRIS",
+        "street_view": "https://www.google.com/maps/@50.685544,3.191804,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.19814,
+          50.683609
+        ]
+      },
+      "properties": {
+        "id": "roubaix_16",
+        "name": "20 Avenue Julien Lagache",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "à droite de l 'enree de l'hopital - IRIS",
+        "street_view": "https://www.google.com/maps/@50.683609,3.19814,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.170203,
+          50.705419
+        ]
+      },
+      "properties": {
+        "id": "roubaix_17",
+        "name": "125 Rue de Tourcoing",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle quai de Dunkerque - IRIS",
+        "street_view": "https://www.google.com/maps/@50.705419,3.170203,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.193981,
+          50.673261
+        ]
+      },
+      "properties": {
+        "id": "roubaix_18",
+        "name": "163 Rue Léon Marlot",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face au 163 Rue Léon Marlot - IRIS",
+        "street_view": "https://www.google.com/maps/@50.673261,3.193981,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.199615,
+          50.675178
+        ]
+      },
+      "properties": {
+        "id": "roubaix_19",
+        "name": "30 Rue Emile Zola",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue jean jacues rousseau - IRIS",
+        "street_view": "https://www.google.com/maps/@50.675178,3.199615,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.188663,
+          50.669604
+        ]
+      },
+      "properties": {
+        "id": "roubaix_20",
+        "name": "Contour des petites haies",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "0 - IRIS",
+        "street_view": "https://www.google.com/maps/@50.669604,3.188663,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.199622,
+          50.695886
+        ]
+      },
+      "properties": {
+        "id": "roubaix_21",
+        "name": "459 Grande rue",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "limite wattrelos , Angle Rue d'Alveghem - IRIS",
+        "street_view": "https://www.google.com/maps/@50.695886,3.199622,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.186705,
+          50.707652
+        ]
+      },
+      "properties": {
+        "id": "roubaix_22",
+        "name": "112 Rue de l'Espierre",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue d'Alger - IRIS",
+        "street_view": "https://www.google.com/maps/@50.707652,3.186705,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.177319,
+          50.677945
+        ]
+      },
+      "properties": {
+        "id": "roubaix_23",
+        "name": "Place du travail",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "32 Boulevard du Cateau - IRIS",
+        "street_view": "https://www.google.com/maps/@50.677945,3.177319,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.194045,
+          50.681773
+        ]
+      },
+      "properties": {
+        "id": "roubaix_24",
+        "name": "379 Rue de Lannoy",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face au 379 PLACE DE LA FRATERNITE - beton rond ancien",
+        "street_view": "https://www.google.com/maps/@50.681773,3.194045,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20409,
+          50.67642
+        ]
+      },
+      "properties": {
+        "id": "roubaix_25",
+        "name": "73 Avenue du Parc des Sports",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "salle pierre de coubertin",
+        "street_view": "https://www.google.com/maps/@50.67642,3.20409,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.159309,
+          50.693681
+        ]
+      },
+      "properties": {
+        "id": "roubaix_26",
+        "name": "26 Rue de Mouvaux",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue de l'ouest - IRIS",
+        "street_view": "https://www.google.com/maps/@50.693681,3.159309,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.184614,
+          50.67373
+        ]
+      },
+      "properties": {
+        "id": "roubaix_27",
+        "name": "Avenue Charles Fournier",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "Place Charles Louis Spriet - IRIS",
+        "street_view": "https://www.google.com/maps/@50.67373,3.184614,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.155148,
+          50.692944
+        ]
+      },
+      "properties": {
+        "id": "roubaix_28",
+        "name": "10 Rue Bouher de Perthes",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "face parking intermarché - IRIS",
+        "street_view": "https://www.google.com/maps/@50.692944,3.155148,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.166855,
+          50.704299
+        ]
+      },
+      "properties": {
+        "id": "roubaix_29",
+        "name": "Boulevard des Batisseurs",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "beton rond ancien",
+        "street_view": "https://www.google.com/maps/@50.704299,3.166855,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.188218,
+          50.705711
+        ]
+      },
+      "properties": {
+        "id": "roubaix_30",
+        "name": "361 Rue d'alger",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "angle rue de constantine - IRIS",
+        "street_view": "https://www.google.com/maps/@50.705711,3.188218,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.163206,
+          50.688203
+        ]
+      },
+      "properties": {
+        "id": "roubaix_31",
+        "name": "28 Rue Descartes",
+        "city": "Roubaix",
+        "type": "Affichage libre",
+        "notes": "PLACE EDOUARD ROUSSEL - beton rond ancien",
+        "street_view": "https://www.google.com/maps/@50.688203,3.163206,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

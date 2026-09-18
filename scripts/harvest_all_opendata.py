@@ -176,9 +176,11 @@ def process_source(config):
             notes = props.get("title") or "Libre expression"
 
         elif parser_type == "saint_nazaire":
-            ident = props.get("identifiant") or f"Panneau #{idx+1}"
-            name = f"Panneau {ident}, Saint-Nazaire"
-            notes = "Panneau d'affichage municipal et associatif"
+            voie = props.get("voie")
+            if not voie or voie == "Voie non dénommée":
+                voie = "Chemin des Infirmières" if "15428" in str(props.get("identifiant")) else ("Allée Camille Muffat" if "15435" in str(props.get("identifiant")) else f"Voie #{idx+1}")
+            name = str(voie).strip()
+            notes = ""
 
         elif parser_type == "talence":
             addr = props.get("adresse") or props.get("nom") or f"Panneau #{idx+1}"

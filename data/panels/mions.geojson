@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Mions",
+    "department": "69 - Rhône",
+    "count": 10
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95405,
+          45.652765
+        ]
+      },
+      "properties": {
+        "id": "mions_1",
+        "name": "81 rue de la libération",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle de l’espace vert",
+        "street_view": "https://www.google.com/maps/@45.652765,4.95405,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.955344,
+          45.661372
+        ]
+      },
+      "properties": {
+        "id": "mions_2",
+        "name": "18 rue du 11 novembre 1918",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant la salle des arts martiaux",
+        "street_view": "https://www.google.com/maps/@45.661372,4.955344,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.958412,
+          45.665815
+        ]
+      },
+      "properties": {
+        "id": "mions_3",
+        "name": "Centre commercial de la halle Rue du 19 mars 1962",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’entrée du parking rue du 19 mars 1962",
+        "street_view": "https://www.google.com/maps/@45.665815,4.958412,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.966095,
+          45.66712
+        ]
+      },
+      "properties": {
+        "id": "mions_4",
+        "name": "8 rue Pasteur",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’ancien groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.66712,4.966095,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.949636,
+          45.663198
+        ]
+      },
+      "properties": {
+        "id": "mions_5",
+        "name": "16 route de Corbas",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Colonne Morris (2x2) A l’angle de la rue Victor Hugo",
+        "street_view": "https://www.google.com/maps/@45.663198,4.949636,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.942742,
+          45.664681
+        ]
+      },
+      "properties": {
+        "id": "mions_6",
+        "name": "1 allée Etienne Jodelle",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle de la rue Albert ferrus",
+        "street_view": "https://www.google.com/maps/@45.664681,4.942742,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.938269,
+          45.665517
+        ]
+      },
+      "properties": {
+        "id": "mions_7",
+        "name": "60 route de Corbas",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) A l’angle du chemin du chrabonnier",
+        "street_view": "https://www.google.com/maps/@45.665517,4.938269,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.940713,
+          45.669632
+        ]
+      },
+      "properties": {
+        "id": "mions_8",
+        "name": "60 rue mangetemps",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’entrée de la salle convergence",
+        "street_view": "https://www.google.com/maps/@45.669632,4.940713,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.941928,
+          45.680526
+        ]
+      },
+      "properties": {
+        "id": "mions_9",
+        "name": "18 rue Joliot-Curie",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Devant l’entrée du groupe scolaire",
+        "street_view": "https://www.google.com/maps/@45.680526,4.941928,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.949022,
+          45.680181
+        ]
+      },
+      "properties": {
+        "id": "mions_10",
+        "name": "3 rue du 23 août 1944",
+        "city": "Mions",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,5x1,5) Au feu en bas du pont",
+        "street_view": "https://www.google.com/maps/@45.680181,4.949022,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

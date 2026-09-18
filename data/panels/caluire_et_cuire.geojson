@@ -1,0 +1,352 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Caluire-et-Cuire",
+    "department": "69 - Rhône",
+    "count": 19
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8773,
+          45.799942
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_1",
+        "name": "Place de Crépieux",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,65)",
+        "street_view": "https://www.google.com/maps/@45.799942,4.8773,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871335,
+          45.794191
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_2",
+        "name": "Face au 55 route de Strasbourg",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,66) Face au chemin des Peupliers",
+        "street_view": "https://www.google.com/maps/@45.794191,4.871335,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836361,
+          45.784903
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_3",
+        "name": "Face au 28 rue de Margnolles",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,67) Carrefour Claude Baudrand",
+        "street_view": "https://www.google.com/maps/@45.784903,4.836361,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847514,
+          45.79032
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_4",
+        "name": "Face au 20 allée du Parc de la Jeunesse",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,68)",
+        "street_view": "https://www.google.com/maps/@45.79032,4.847514,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853604,
+          45.79275
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_5",
+        "name": "Avenue Elie Vignal",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,69) Angle rue Emile Romanet",
+        "street_view": "https://www.google.com/maps/@45.79275,4.853604,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.866309,
+          45.797717
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_6",
+        "name": "67bis chemin de Vassieux",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,70) A côté du cinéma Le Méliès",
+        "street_view": "https://www.google.com/maps/@45.797717,4.866309,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84292,
+          45.791086
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_7",
+        "name": "82 rue Pasteur",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,71)",
+        "street_view": "https://www.google.com/maps/@45.791086,4.84292,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839146,
+          45.79313
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_8",
+        "name": "Angle rue François Peissel / rue Curie",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,72) Parc Sportif Pierre Bourdan",
+        "street_view": "https://www.google.com/maps/@45.79313,4.839146,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847913,
+          45.79983
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_9",
+        "name": "Place de l'Eglise",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,73) Angle 86 rue Jean Moulin",
+        "street_view": "https://www.google.com/maps/@45.79983,4.847913,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.854227,
+          45.805933
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_10",
+        "name": "44 Avenue Général de Gaulle",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,74)",
+        "street_view": "https://www.google.com/maps/@45.805933,4.854227,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.859656,
+          45.812541
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_11",
+        "name": "113 Avenue Général de Gaulle",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,75) Angle chemin Bois Roux",
+        "street_view": "https://www.google.com/maps/@45.812541,4.859656,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.830672,
+          45.790453
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_12",
+        "name": "67 rue Pierre Brunier",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,76) Angle Montée de l’église",
+        "street_view": "https://www.google.com/maps/@45.790453,4.830672,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828868,
+          45.794982
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_13",
+        "name": "42 Quai clémenceau",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,77) Angle Impasse de l’écluse",
+        "street_view": "https://www.google.com/maps/@45.794982,4.828868,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.848838,
+          45.813796
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_14",
+        "name": "Parking Quai Clémenceau",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,78) Face à la Montée du Vernay",
+        "street_view": "https://www.google.com/maps/@45.813796,4.848838,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86447,
+          45.804422
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_15",
+        "name": "1 Avenue Barthélémy Thimonnier",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,79) Face à la salle des fêtes",
+        "street_view": "https://www.google.com/maps/@45.804422,4.86447,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.869193,
+          45.801606
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_16",
+        "name": "111 chemin de Crépieux",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,80)",
+        "street_view": "https://www.google.com/maps/@45.801606,4.869193,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.846647,
+          45.794307
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_17",
+        "name": "118 rue Pasteur",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,81)",
+        "street_view": "https://www.google.com/maps/@45.794307,4.846647,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.846681,
+          45.793271
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_18",
+        "name": "Allée Turba Choux",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,82)",
+        "street_view": "https://www.google.com/maps/@45.793271,4.846681,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.875634,
+          45.796701
+        ]
+      },
+      "properties": {
+        "id": "caluire_et_cuire_19",
+        "name": "81 route de Strasbourg",
+        "city": "Caluire-et-Cuire",
+        "type": "Affichage libre",
+        "notes": "Pied (1,25 x 1,83)",
+        "street_view": "https://www.google.com/maps/@45.796701,4.875634,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

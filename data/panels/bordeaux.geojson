@@ -1,0 +1,1378 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Bordeaux",
+    "department": "33 - Gironde",
+    "count": 76
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565889,
+          44.858861
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_1",
+        "name": "30 Place Saint-Martial",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.858861,-0.565889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.563917,
+          44.855917
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_2",
+        "name": "1 Cours du Médoc",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.855917,-0.563917,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.560722,
+          44.863083
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_3",
+        "name": "1 Rue Armand Dulamon",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.863083,-0.560722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.581417,
+          44.859056
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_4",
+        "name": "80 Cours de Luze",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.859056,-0.581417,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594917,
+          44.851667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_5",
+        "name": "340 Boulevard du Président Wilson",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.851667,-0.594917,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.583278,
+          44.840167
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_6",
+        "name": "Rue du Château d'Eau",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.840167,-0.583278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.580306,
+          44.834778
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_7",
+        "name": "83 Cours d'Albret",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.834778,-0.580306,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571194,
+          44.846417
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_8",
+        "name": "Quai Louis XVIII",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.846417,-0.571194,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599583,
+          44.819056
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_9",
+        "name": "246bis Cours Maréchal Gallieni",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.819056,-0.599583,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601778,
+          44.827083
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_10",
+        "name": "72 Rue de Canolle",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.827083,-0.601778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.583806,
+          44.822
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_11",
+        "name": "169 Boulevard George V",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.822,-0.583806,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.563472,
+          44.827056
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_12",
+        "name": "20 Cours Barbey",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.827056,-0.563472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551444,
+          44.824639
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_13",
+        "name": "51 Rue de Son Tay",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.824639,-0.551444,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.57225,
+          44.830611
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_14",
+        "name": "11 Place de la Victoire",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@44.830611,-0.57225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.550556,
+          44.846139
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_15",
+        "name": "170 Avenue Thiers",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.846139,-0.550556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.538639,
+          44.853222
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_16",
+        "name": "390 Avenue Thiers",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.853222,-0.538639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.637528,
+          44.860556
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_17",
+        "name": "Avenue du Maréchal de Lattre de Tassigny",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.860556,-0.637528,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.631139,
+          44.856806
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_18",
+        "name": "95 Rue Stéhélin",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.856806,-0.631139,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.613194,
+          44.845917
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_19",
+        "name": "206 Rue Pasteur",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.845917,-0.613194,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.625167,
+          44.843694
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_20",
+        "name": "95 Rue Général de Castelnau",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.843694,-0.625167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.606444,
+          44.839694
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_21",
+        "name": "138 Avenue de la République",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.839694,-0.606444,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.62175,
+          44.8535
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_22",
+        "name": "21 Rue Stéhélin",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.8535,-0.62175,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549528,
+          44.8645
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_23",
+        "name": "4 Rue Achard",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.8645,-0.549528,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.574639,
+          44.8665
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_24",
+        "name": "7 Place Ravezies",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.8665,-0.574639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.567222,
+          44.862417
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_25",
+        "name": "192 Cours Saint-Louis",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "4 face(s)",
+        "street_view": "https://www.google.com/maps/@44.862417,-0.567222,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.570833,
+          44.879472
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_26",
+        "name": "1 Place Jean Cayrol",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.879472,-0.570833,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.585889,
+          44.86175
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_27",
+        "name": "92 Rue Pierre Trébod",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.86175,-0.585889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571222,
+          44.855361
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_28",
+        "name": "14 Cours Balguerie Stuttenberg",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.855361,-0.571222,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.598861,
+          44.836556
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_29",
+        "name": "363 Rue Georges Bonnac",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.836556,-0.598861,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.587917,
+          44.83475
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_30",
+        "name": "95 Cours Maréchal Juin",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.83475,-0.587917,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.600083,
+          44.828694
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_31",
+        "name": "5 Place Johnston",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.828694,-0.600083,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594167,
+          44.832778
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_32",
+        "name": "232 Rue d'Ornano",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.832778,-0.594167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.598333,
+          44.831111
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_33",
+        "name": "1 Avenue Maurice Martin",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.831111,-0.598333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.574778,
+          44.816917
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_34",
+        "name": "63 Rue Brun",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.816917,-0.574778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572667,
+          44.814417
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_35",
+        "name": "5 Route de Toulouse",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.814417,-0.572667,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.582944,
+          44.824917
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_36",
+        "name": "95 Rue de Ségur",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.824917,-0.582944,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.566611,
+          44.834333
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_37",
+        "name": "20 Place Meynard",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.834333,-0.566611,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56225,
+          44.828361
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_38",
+        "name": "4 Cours Barbey",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.828361,-0.56225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572111,
+          44.830639
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_39",
+        "name": "11 Place de la Victoire",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@44.830639,-0.572111,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.562667,
+          44.822278
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_40",
+        "name": "89 Rue Pelleport",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.822278,-0.562667,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.545361,
+          44.843111
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_41",
+        "name": "33 Rue Édouard Branly",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "4 face(s)",
+        "street_view": "https://www.google.com/maps/@44.843111,-0.545361,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.558639,
+          44.845083
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_42",
+        "name": "88bis Rue Gustave Carde",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.845083,-0.558639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.613556,
+          44.846806
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_43",
+        "name": "65 Rue Charles Chaumet",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.846806,-0.613556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.623472,
+          44.857944
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_44",
+        "name": "Place Eugène Gauthier (Caudéran)",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.857944,-0.623472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.616972,
+          44.845556
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_45",
+        "name": "266 Rue Pasteur",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.845556,-0.616972,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553139,
+          44.875306
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_46",
+        "name": "119 Rue Arago",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.875306,-0.553139,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549472,
+          44.873667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_47",
+        "name": "Square Marjolaine",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.873667,-0.549472,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.570333,
+          44.868167
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_48",
+        "name": "61 Rue Jean Hameau",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.868167,-0.570333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.584889,
+          44.856056
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_49",
+        "name": "174 Rue Mandron",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.856056,-0.584889,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572111,
+          44.838861
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_50",
+        "name": "14 Place Camille Jullian",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.838861,-0.572111,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.569972,
+          44.839861
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_51",
+        "name": "35 Rue Leupold",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.839861,-0.569972,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.613694,
+          44.826028
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_52",
+        "name": "7 Rue Francisco Ferrer",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.826028,-0.613694,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.600694,
+          44.823278
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_53",
+        "name": "135 Rue de Bethmann",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.823278,-0.600694,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.60325,
+          44.829667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_54",
+        "name": "68 Rue Descartes",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.829667,-0.60325,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.610583,
+          44.822667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_55",
+        "name": "61 Rue des Carmes",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.822667,-0.610583,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.60725,
+          44.836806
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_56",
+        "name": "5 Rue Émile Combes",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.836806,-0.60725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.596333,
+          44.826778
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_57",
+        "name": "1 Rue de Campeyraut",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.826778,-0.596333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594583,
+          44.833444
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_58",
+        "name": "Rue Général de Larminat",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.833444,-0.594583,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.570389,
+          44.823889
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_59",
+        "name": "156 Cours de l'Yser",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.823889,-0.570389,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575778,
+          44.827278
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_60",
+        "name": "3 Rue Saint-Nicolas",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.827278,-0.575778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.566139,
+          44.813556
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_61",
+        "name": "123 Boulevard Albert 1er",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.813556,-0.566139,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565722,
+          44.822083
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_62",
+        "name": "178 Rue de Bègles",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.822083,-0.565722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.570778,
+          44.814722
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_63",
+        "name": "88 Rue d'Aupérie",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.814722,-0.570778,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.586333,
+          44.823361
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_64",
+        "name": "Boulevard George V",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.823361,-0.586333,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554722,
+          44.822778
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_65",
+        "name": "140 Rue des Terres de Borde",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.822778,-0.554722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568361,
+          44.830528
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_66",
+        "name": "40 Place des Capucins",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.830528,-0.568361,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.573139,
+          44.830778
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_67",
+        "name": "22 Place de la Victoire",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.830778,-0.573139,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553556,
+          44.817694
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_68",
+        "name": "142 Rue Carle Vernet",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.817694,-0.553556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.550833,
+          44.845944
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_69",
+        "name": "170 Avenue Thiers",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.845944,-0.550833,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.564278,
+          44.844278
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_70",
+        "name": "30 Quai des Queyries",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.844278,-0.564278,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541722,
+          44.846667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_71",
+        "name": "86 Rue Antoine Monier",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.846667,-0.541722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5575,
+          44.843667
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_72",
+        "name": "75 Allée Serr",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.843667,-0.5575,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599972,
+          44.841389
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_73",
+        "name": "18 Rue de la Liberté",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.841389,-0.599972,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.620639,
+          44.838639
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_74",
+        "name": "402 Avenue d'Arès",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.838639,-0.620639,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601556,
+          44.849556
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_75",
+        "name": "84 Avenue Charles de Gaulle",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.849556,-0.601556,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599972,
+          44.841417
+        ]
+      },
+      "properties": {
+        "id": "bordeaux_76",
+        "name": "103 Boulevard du Président Wilson",
+        "city": "Bordeaux",
+        "type": "Affichage libre",
+        "notes": "2 face(s)",
+        "street_view": "https://www.google.com/maps/@44.841417,-0.599972,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

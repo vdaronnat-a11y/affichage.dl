@@ -33,6 +33,28 @@
     "file": "panels/antibes.geojson"
   },
   {
+    "id": "bordeaux",
+    "name": "Bordeaux",
+    "department": "33 - Gironde",
+    "count": 76,
+    "center": [
+      -0.5815,
+      44.8402
+    ],
+    "file": "panels/bordeaux.geojson"
+  },
+  {
+    "id": "brest",
+    "name": "Brest Métropole",
+    "department": "29 - Finistère",
+    "count": 179,
+    "center": [
+      -4.4834,
+      48.396
+    ],
+    "file": "panels/brest.geojson"
+  },
+  {
     "id": "bron",
     "name": "Bron",
     "department": "69 - Rhône",
@@ -42,6 +64,17 @@
       45.7384
     ],
     "file": "panels/bron.geojson"
+  },
+  {
+    "id": "caluire_et_cuire",
+    "name": "Caluire-et-Cuire",
+    "department": "69 - Rhône",
+    "count": 19,
+    "center": [
+      4.853,
+      45.7975
+    ],
+    "file": "panels/caluire_et_cuire.geojson"
   },
   {
     "id": "chambery",
@@ -143,6 +176,17 @@
     "file": "panels/issy_les_moulineaux.geojson"
   },
   {
+    "id": "le_haillan",
+    "name": "Le Haillan",
+    "department": "33 - Gironde",
+    "count": 11,
+    "center": [
+      -0.6768,
+      44.8749
+    ],
+    "file": "panels/le_haillan.geojson"
+  },
+  {
     "id": "le_havre",
     "name": "Le Havre",
     "department": "76 - Seine-Maritime",
@@ -163,6 +207,17 @@
       45.764
     ],
     "file": "panels/lyon.geojson"
+  },
+  {
+    "id": "mions",
+    "name": "Mions",
+    "department": "69 - Rhône",
+    "count": 10,
+    "center": [
+      4.9496,
+      45.6671
+    ],
+    "file": "panels/mions.geojson"
   },
   {
     "id": "mulhouse",
@@ -231,6 +286,28 @@
     "file": "panels/rennes.geojson"
   },
   {
+    "id": "rillieux_la_pape",
+    "name": "Rillieux-la-Pape",
+    "department": "69 - Rhône",
+    "count": 24,
+    "center": [
+      4.9003,
+      45.8197
+    ],
+    "file": "panels/rillieux_la_pape.geojson"
+  },
+  {
+    "id": "roubaix",
+    "name": "Roubaix",
+    "department": "59 - Nord",
+    "count": 31,
+    "center": [
+      3.1837,
+      50.6879
+    ],
+    "file": "panels/roubaix.geojson"
+  },
+  {
     "id": "rueil_malmaison",
     "name": "Rueil-Malmaison",
     "department": "92 - Hauts-de-Seine",
@@ -253,6 +330,17 @@
     "file": "panels/saint_cyr_au_mont_d_or.geojson"
   },
   {
+    "id": "saint_denis_reunion",
+    "name": "Saint-Denis (La Réunion)",
+    "department": "974 - La Réunion",
+    "count": 87,
+    "center": [
+      55.4631,
+      -20.8961
+    ],
+    "file": "panels/saint_denis_reunion.geojson"
+  },
+  {
     "id": "saint_didier_au_mont_d_or",
     "name": "Saint-Didier-au-Mont-d'Or",
     "department": "69 - Rhône",
@@ -262,6 +350,17 @@
       45.8114
     ],
     "file": "panels/saint_didier_au_mont_d_or.geojson"
+  },
+  {
+    "id": "saint_genis_laval",
+    "name": "Saint-Genis-Laval",
+    "department": "69 - Rhône",
+    "count": 4,
+    "center": [
+      4.7883,
+      45.6967
+    ],
+    "file": "panels/saint_genis_laval.geojson"
   },
   {
     "id": "saint_nazaire",
@@ -339,5 +438,38 @@
       45.7775
     ],
     "file": "panels/vaulx_en_velin.geojson"
+  },
+  {
+    "id": "villeurbanne",
+    "name": "Villeurbanne",
+    "department": "69 - Rhône",
+    "count": 30,
+    "center": [
+      4.8859,
+      45.7685
+    ],
+    "file": "panels/villeurbanne.geojson"
+  },
+  {
+    "id": "echirolles",
+    "name": "Échirolles",
+    "department": "38 - Isère",
+    "count": 26,
+    "center": [
+      5.7154,
+      45.1475
+    ],
+    "file": "panels/echirolles.geojson"
+  },
+  {
+    "id": "ecully",
+    "name": "Écully",
+    "department": "69 - Rhône",
+    "count": 8,
+    "center": [
+      4.7787,
+      45.7796
+    ],
+    "file": "panels/ecully.geojson"
   }
 ]

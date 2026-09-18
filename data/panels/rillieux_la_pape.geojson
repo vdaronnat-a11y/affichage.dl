@@ -1,0 +1,442 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Rillieux-la-Pape",
+    "department": "69 - Rhône",
+    "count": 24
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904886,
+          45.818742
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_1",
+        "name": "85, route de Genève",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.818742,4.904886,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904032,
+          45.814303
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_2",
+        "name": "30 bis Avenue Général Leclerc",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.814303,4.904032,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.897043,
+          45.82133
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_3",
+        "name": "2, rue Alexandre Bérard",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Entrée du Parc",
+        "street_view": "https://www.google.com/maps/@45.82133,4.897043,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913115,
+          45.808175
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_4",
+        "name": "163, route de Genève",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Proche groupe Scolaire",
+        "street_view": "https://www.google.com/maps/@45.808175,4.913115,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913167,
+          45.808176
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_5",
+        "name": "163, route de Genève",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Proche groupe Scolaire",
+        "street_view": "https://www.google.com/maps/@45.808176,4.913167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886274,
+          45.811707
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_6",
+        "name": "1659, Route de strasbourg",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) En face du 1659",
+        "street_view": "https://www.google.com/maps/@45.811707,4.886274,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887547,
+          45.810952
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_7",
+        "name": "Place Renoir",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Angle est du square",
+        "street_view": "https://www.google.com/maps/@45.810952,4.887547,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911104,
+          45.833206
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_8",
+        "name": "4811, route de Strasbourg",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.833206,4.911104,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892905,
+          45.816007
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_9",
+        "name": "4 avenue des Combattebs en AFN",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00)",
+        "street_view": "https://www.google.com/maps/@45.816007,4.892905,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894989,
+          45.824878
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_10",
+        "name": "Place du Château",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Contre le Mur du Bâtiment Dynacité",
+        "street_view": "https://www.google.com/maps/@45.824878,4.894989,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89489,
+          45.825011
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_11",
+        "name": "Place du Château",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Proche croisement Rosemontoise / Barse",
+        "street_view": "https://www.google.com/maps/@45.825011,4.89489,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896899,
+          45.820926
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_12",
+        "name": "Place Verdun",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.50 x 1.50) Proche rond point",
+        "street_view": "https://www.google.com/maps/@45.820926,4.896899,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912059,
+          45.834388
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_13",
+        "name": "4811, route de Strasbourg",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.0 x 2.00)",
+        "street_view": "https://www.google.com/maps/@45.834388,4.912059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894998,
+          45.825033
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_14",
+        "name": "Place du Château",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2.00 x 2.00) Proche angel Rosemontoise / Barse",
+        "street_view": "https://www.google.com/maps/@45.825033,4.894998,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.897061,
+          45.821337
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_15",
+        "name": "2, rue Alexandre Bérard",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5) Entrée du Parc",
+        "street_view": "https://www.google.com/maps/@45.821337,4.897061,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900412,
+          45.814337
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_16",
+        "name": "avenue Général Leclerc devant MJC",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.814337,4.900412,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894766,
+          45.813747
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_17",
+        "name": "28 avenue de l'Europe",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.50 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.813747,4.894766,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896949,
+          45.821019
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_18",
+        "name": "place de verdun",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.821019,4.896949,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911377,
+          45.833979
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_19",
+        "name": "2 rue de l'école",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.833979,4.911377,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886899,
+          45.817571
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_20",
+        "name": "avenue Pierre Mendes France",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.817571,4.886899,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.903813,
+          45.814356
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_21",
+        "name": "30 avenue Général Leclerc",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.814356,4.903813,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892982,
+          45.81179
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_22",
+        "name": "847 chemin du Bois",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.50)",
+        "street_view": "https://www.google.com/maps/@45.81179,4.892982,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910869,
+          45.833094
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_23",
+        "name": "4811 route de Strasbourg",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (1.5 x 1.5)",
+        "street_view": "https://www.google.com/maps/@45.833094,4.910869,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908292,
+          45.819246
+        ]
+      },
+      "properties": {
+        "id": "rillieux_la_pape_24",
+        "name": "2246, avenue de l'Europee",
+        "city": "Rillieux-la-Pape",
+        "type": "Affichage libre",
+        "notes": "Pied Recto (2,50 x 3,50) Au croisement Teysonnière / Europe sur le Parking",
+        "street_view": "https://www.google.com/maps/@45.819246,4.908292,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

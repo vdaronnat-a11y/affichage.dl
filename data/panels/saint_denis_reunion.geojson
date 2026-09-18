@@ -1,0 +1,1576 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Saint-Denis (La Réunion)",
+    "department": "974 - La Réunion",
+    "count": 87
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.400775,
+          -20.907836
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_1",
+        "name": "Chemin du Père Raimbault - Face à la Léproserie",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Saint Bernard",
+        "street_view": "https://www.google.com/maps/@-20.907836,55.400775,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.398934,
+          -20.902136
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_2",
+        "name": "Chemin de la Ruelle Bambou - Face à la Rue de l'Avenir",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Saint Bernard",
+        "street_view": "https://www.google.com/maps/@-20.902136,55.398934,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.404484,
+          -20.919778
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_3",
+        "name": "Route Antide Boyer - face à l'Ecole Primaire \"Les Affouches\"",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Saint Bernard",
+        "street_view": "https://www.google.com/maps/@-20.919778,55.404484,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.423077,
+          -20.889485
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_4",
+        "name": "Route des Palmiers - Près de la mairie annexe",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montagne 8ème",
+        "street_view": "https://www.google.com/maps/@-20.889485,55.423077,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.412926,
+          -20.887462
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_5",
+        "name": "Intersection Chemin Neuf & Tamarins",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montagne 8ème",
+        "street_view": "https://www.google.com/maps/@-20.887462,55.412926,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.428296,
+          -20.883081
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_6",
+        "name": "Angle Chemin de la Vigie / Chemin Neuf",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montagne 8ème",
+        "street_view": "https://www.google.com/maps/@-20.883081,55.428296,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.420876,
+          -20.887321
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_7",
+        "name": "Entrée ESE Chemin des Manguiers",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montagne 8ème",
+        "street_view": "https://www.google.com/maps/@-20.887321,55.420876,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41307,
+          -20.894801
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_8",
+        "name": "Pôle échange \"bus\" Ruisseau Blanc",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montagne 8ème",
+        "street_view": "https://www.google.com/maps/@-20.894801,55.41307,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.442392,
+          -20.88085
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_9",
+        "name": "Rue de la Petite Ile - Près du centre Municipal - Face place Verdun",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Petite Ile",
+        "street_view": "https://www.google.com/maps/@-20.88085,55.442392,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443747,
+          -20.883968
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_10",
+        "name": "Route de la Montagne - Près du stade de la Redoute",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Petite Ile",
+        "street_view": "https://www.google.com/maps/@-20.883968,55.443747,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.444984,
+          -20.875699
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_11",
+        "name": "Rue des Moulins (Force 7)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Petite Ile",
+        "street_view": "https://www.google.com/maps/@-20.875699,55.444984,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.445764,
+          -20.878309
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_12",
+        "name": "Parking rue du Pont",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Petite Ile",
+        "street_view": "https://www.google.com/maps/@-20.878309,55.445764,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.445514,
+          -20.879735
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_13",
+        "name": "Quai Est Passerelle",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Petite Ile",
+        "street_view": "https://www.google.com/maps/@-20.879735,55.445514,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.446856,
+          -20.877053
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_14",
+        "name": "Rue Gasparin Parking Sofider",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.877053,55.446856,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.447277,
+          -20.880288
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_15",
+        "name": "Rue Lucien Gasparin Ti quat sous",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.880288,55.447277,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.447475,
+          -20.880888
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_16",
+        "name": "Devant Grand Marché (rue Maréchal Leclerc)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.880888,55.447475,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.446572,
+          -20.885198
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_17",
+        "name": "Rue Lacaussade (au droit transfo)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.885198,55.446572,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.446468,
+          -20.885448
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_18",
+        "name": "Angle Lacaussade / Ozoux",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.885448,55.446468,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.452628,
+          -20.882366
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_19",
+        "name": "Angle rue Roland Garros / rue Juliette Dodu",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.882366,55.452628,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.455352,
+          -20.882436
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_20",
+        "name": "Angle rue Jules Olivier / rue Sainte Marie",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.882436,55.455352,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.447978,
+          -20.87552
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_21",
+        "name": "Square Leconte Delisle",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.87552,55.447978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.454562,
+          -20.875825
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_22",
+        "name": "Rue Alexis de Villeneuve",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.875825,55.454562,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45238,
+          -20.874102
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_23",
+        "name": "Angle rue Neuve / rue de la Batterie",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.874102,55.45238,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.457135,
+          -20.880611
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_24",
+        "name": "Petit marché (parking)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@-20.880611,55.457135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.462654,
+          -20.884345
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_25",
+        "name": "Rue Marcadet - près du centre municipal",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Marcadet Ouest",
+        "street_view": "https://www.google.com/maps/@-20.884345,55.462654,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465749,
+          -20.88726
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_26",
+        "name": "Rue Champ Fleuri - Près du Trésor Public",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.88726,55.465749,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465828,
+          -20.890253
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_27",
+        "name": "Angle rue Jean Cocteau / rue Christol de Sigoyer",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.890253,55.465828,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.475463,
+          -20.891347
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_28",
+        "name": "Avenue Stanislas Gimart - Près du stade de football",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.891347,55.475463,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.474647,
+          -20.888632
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_29",
+        "name": "Avenue Maréchal de Lattre de Tassigny (Au droit des deux canons)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.888632,55.474647,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47614,
+          -20.888482
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_30",
+        "name": "Angle rue Vallon-Hoarau / rue Labor Robert",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.888482,55.47614,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478832,
+          -20.893313
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_31",
+        "name": "Angle rue de la Cure / Route de Bois de Nèfles",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.893313,55.478832,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.480931,
+          -20.896675
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_32",
+        "name": "Angle avenue Richard Wagner / rue Lory les Hauts",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.896675,55.480931,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.482243,
+          -20.887886
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_33",
+        "name": "Angle rue Lory les Bas / impasse Kichenama - Près du plateau noir",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Sainte Clotilde",
+        "street_view": "https://www.google.com/maps/@-20.887886,55.482243,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.496319,
+          -20.898648
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_34",
+        "name": "Angle avenue Eudoxie Nonge / boulevard du Chaudron",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.898648,55.496319,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.488813,
+          -20.899485
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_35",
+        "name": "Rue du Père Lafosse / Près du Boulodrome",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.899485,55.488813,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484856,
+          -20.897919
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_36",
+        "name": "Rue François de Mahy - Près de la boulangerie au Pain d'Or",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.897919,55.484856,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.491599,
+          -20.894102
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_37",
+        "name": "Rue de l'école - Près de VD Systèmes",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.894102,55.491599,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.504734,
+          -20.910969
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_38",
+        "name": "Au droit du Case",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Domenjod",
+        "street_view": "https://www.google.com/maps/@-20.910969,55.504734,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.507841,
+          -20.928324
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_39",
+        "name": "Chemin de l'Ilet à Quinquina - Au droit de l'ex école",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Domenjod",
+        "street_view": "https://www.google.com/maps/@-20.928324,55.507841,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.487191,
+          -20.89239
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_40",
+        "name": "Avenue Joseph Bédier - Face à la mairie annexe",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.89239,55.487191,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.486468,
+          -20.888662
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_41",
+        "name": "Avenue Georges Pompidou - Face allée du Zoo",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.888662,55.486468,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.487723,
+          -20.890024
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_42",
+        "name": "Avenue Georges Pompidou - Face à la place Nelson Mandela",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.890024,55.487723,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.50262,
+          -20.90071
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_43",
+        "name": "Rue des Ravenalas - Près de l'aire de jeux",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Prima",
+        "street_view": "https://www.google.com/maps/@-20.90071,55.50262,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.496628,
+          -20.891553
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_44",
+        "name": "Angle rue Jules Hermann / rue Gabriel de Kerveguen",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Chaudron",
+        "street_view": "https://www.google.com/maps/@-20.891553,55.496628,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.486711,
+          -20.938283
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_45",
+        "name": "Route Jules Reydellet - Près du Plateau Sportif Bellevue",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bretagne",
+        "street_view": "https://www.google.com/maps/@-20.938283,55.486711,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.494274,
+          -20.919169
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_46",
+        "name": "Route Gabriel Macé - Près du Foyer",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bretagne",
+        "street_view": "https://www.google.com/maps/@-20.919169,55.494274,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.496285,
+          -20.912
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_47",
+        "name": "Chemin de Grand Canal",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bretagne",
+        "street_view": "https://www.google.com/maps/@-20.912,55.496285,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.494739,
+          -20.91749
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_48",
+        "name": "Chemin des routiers - Près de la salle polyvalente",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bretagne",
+        "street_view": "https://www.google.com/maps/@-20.91749,55.494739,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.499524,
+          -20.900922
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_49",
+        "name": "Angle Chemin de Grand Canal / rue de la Fraternité",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Prima",
+        "street_view": "https://www.google.com/maps/@-20.900922,55.499524,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.483888,
+          -20.913687
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_50",
+        "name": "Angle route des Ananas / chemin de la Source",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.913687,55.483888,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.480129,
+          -20.909246
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_51",
+        "name": "Angle chemin Bancoul / chemin de l'Ylang-Ylang",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.909246,55.480129,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.482156,
+          -20.906026
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_52",
+        "name": "Rue du Bosquet - Près du rond point rue Roger Guichard",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.906026,55.482156,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.490013,
+          -20.905801
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_53",
+        "name": "Avenue Marcel Hoarau - Face à la rue de la Gascogne",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.905801,55.490013,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.492236,
+          -20.90143
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_54",
+        "name": "Avenue Marcel Hoarau - Face au Leader Price",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.90143,55.492236,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.476017,
+          -20.917054
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_55",
+        "name": "Chemin des Ananas - Près de l'école éléméntaire de Bois de Nèfles",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.917054,55.476017,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.477834,
+          -20.916704
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_56",
+        "name": "Angle chemin des Ananas / Chemin des Vetivers Devant la Salle Polyvalente",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.916704,55.477834,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.475179,
+          -20.917298
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_57",
+        "name": "Angle Route de Bois de Nèfles / Rue Notre Dame de Lourdes",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.917298,55.475179,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.476927,
+          -20.913509
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_58",
+        "name": "Angle chemin des Pêchers / Chemin des Grenadiers",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.913509,55.476927,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.476898,
+          -20.90634
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_59",
+        "name": "173 Route de Bois de Nèfles - Face à l'allée des Tecks",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.90634,55.476898,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.474974,
+          -20.89922
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_60",
+        "name": "Rue des Artisans - Près du rond point avenue Stanislas Gimart",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bois de Nefles",
+        "street_view": "https://www.google.com/maps/@-20.89922,55.474974,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.459232,
+          -20.916491
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_61",
+        "name": "Route de Saint François - Près de la mairie annexe",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Saint François",
+        "street_view": "https://www.google.com/maps/@-20.916491,55.459232,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.468251,
+          -20.903891
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_62",
+        "name": "Impasse des Girimbelles - Parking",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.903891,55.468251,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.468911,
+          -20.898779
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_63",
+        "name": "Angle route de Montgaillard / chemin du Stade / boulevard Notre Dame de la Trinité",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.898779,55.468911,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.467779,
+          -20.89464
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_64",
+        "name": "Boulevard Notre Dame de la Trinité - Face à l'église de la Trinité",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.89464,55.467779,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465164,
+          -20.897574
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_65",
+        "name": "Angle rue du Verger / rue des Camélias",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.897574,55.465164,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.461841,
+          -20.899101
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_66",
+        "name": "Boulevard de Saint-François - Près de la résidence Aloès",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.899101,55.461841,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.461888,
+          -20.893757
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_67",
+        "name": "Allée des Cocos",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Montgaillard",
+        "street_view": "https://www.google.com/maps/@-20.893757,55.461888,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.466746,
+          -20.893466
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_68",
+        "name": "Boulevard Notre Dame de la Trinité - Près de la mairie annexe de Montgaillard",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Providence",
+        "street_view": "https://www.google.com/maps/@-20.893466,55.466746,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.460367,
+          -20.893396
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_69",
+        "name": "Avenue Jean Albany - Près du rond point rue Monseigneur Mondon",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Providence",
+        "street_view": "https://www.google.com/maps/@-20.893396,55.460367,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.458635,
+          -20.886913
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_70",
+        "name": "Angle rue Monthyon / rue d'Après",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Providence",
+        "street_view": "https://www.google.com/maps/@-20.886913,55.458635,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.464335,
+          -20.887761
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_71",
+        "name": "Boulevard Vauban - Près de la maison de quartier",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Providence",
+        "street_view": "https://www.google.com/maps/@-20.887761,55.464335,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.461031,
+          -20.89222
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_72",
+        "name": "Angle Trinité & Doret",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Providence",
+        "street_view": "https://www.google.com/maps/@-20.89222,55.461031,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.452725,
+          -20.890885
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_73",
+        "name": "Rue Ruisseau des Noirs - Près du centre municipal",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.890885,55.452725,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.49347,
+          -20.926796
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_74",
+        "name": "Route Gabriel Macé - Près du Collectif de la Bretagne",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bretagne",
+        "street_view": "https://www.google.com/maps/@-20.926796,55.49347,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.448198,
+          -20.890293
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_75",
+        "name": "Rue de la Source - Près du plateau noir",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.890293,55.448198,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.448526,
+          -20.889285
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_76",
+        "name": "Rue de la Source - Face école Gabriel Macé",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.889285,55.448526,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.452626,
+          -20.888217
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_77",
+        "name": "Intersection rues Bertin & Malartic",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.888217,55.452626,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.450593,
+          -20.885829
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_78",
+        "name": "Intersection rue de la Source & Genéral de Gaulle",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.885829,55.450593,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.446894,
+          -20.895973
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_79",
+        "name": "Angle allée des Topazes / boulevard Gaston Monnerville",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bellepierre",
+        "street_view": "https://www.google.com/maps/@-20.895973,55.446894,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.449492,
+          -20.896622
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_80",
+        "name": "Boulevard Gaston Monnerville - Plateau vert",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bellepierre",
+        "street_view": "https://www.google.com/maps/@-20.896622,55.449492,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44289,
+          -20.893427
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_81",
+        "name": "Intersection Allée des Topazes - Aigues Marine (Oncle Sam)",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bellepierre",
+        "street_view": "https://www.google.com/maps/@-20.893427,55.44289,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443099,
+          -20.896547
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_82",
+        "name": "Intersection Allée des Topazes & Grenats",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bellepierre",
+        "street_view": "https://www.google.com/maps/@-20.896547,55.443099,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.451154,
+          -20.893949
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_83",
+        "name": "Intersection Boulevard Gaston de Monnerville - Allée des Azurites",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Bellepierre",
+        "street_view": "https://www.google.com/maps/@-20.893949,55.451154,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.434821,
+          -20.922864
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_84",
+        "name": "Chemin des Frangipaniers - Près de la mairie annexe",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Brulé",
+        "street_view": "https://www.google.com/maps/@-20.922864,55.434821,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.447028,
+          -20.885599
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_85",
+        "name": "Intersection rues Tourette & Général de Gaulle",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.885599,55.447028,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.445288,
+          -20.888793
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_86",
+        "name": "Angle boulevard du Prince Vinh-San / rue Gibert des Molières",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Source",
+        "street_view": "https://www.google.com/maps/@-20.888793,55.445288,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.485999,
+          -20.91261
+        ]
+      },
+      "properties": {
+        "id": "saint_denis_reunion_87",
+        "name": "Rue des Eglantines",
+        "city": "Saint-Denis",
+        "type": "Affichage libre",
+        "notes": "Moufia",
+        "street_view": "https://www.google.com/maps/@-20.91261,55.485999,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

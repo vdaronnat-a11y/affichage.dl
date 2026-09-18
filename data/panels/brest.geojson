@@ -1,0 +1,3232 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Brest Métropole",
+    "department": "29 - Finistère",
+    "count": 179
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490546,
+          48.385478
+        ]
+      },
+      "properties": {
+        "id": "brest_1",
+        "name": "square de la Déportation face au 31 rue traverse",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.385478,-4.490546,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48715,
+          48.38621
+        ]
+      },
+      "properties": {
+        "id": "brest_2",
+        "name": "rue du Château angle rue Jean Macé près de l'école Jean Macé",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.38621,-4.48715,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.489059,
+          48.389143
+        ]
+      },
+      "properties": {
+        "id": "brest_3",
+        "name": "Halles St-Louis-sur le mur des halles près de la porte côté L.Pasteur",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.3 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.389143,-4.489059,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.489722,
+          48.39213
+        ]
+      },
+      "properties": {
+        "id": "brest_4",
+        "name": "rue de l'hateloire, près de la rampe de la M. P. T. de l'Harteloire",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.39213,-4.489722,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490495,
+          48.392138
+        ]
+      },
+      "properties": {
+        "id": "brest_5",
+        "name": "rue de l'Harteloire - sq. Edouard Mazé, contre le mur de l'inspection académique",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.392138,-4.490495,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49597,
+          48.393813
+        ]
+      },
+      "properties": {
+        "id": "brest_6",
+        "name": "Pont de l'Harteloire - rive gauche dans le sens centre Ville-Saint Pierre",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.393813,-4.49597,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473693,
+          48.390333
+        ]
+      },
+      "properties": {
+        "id": "brest_7",
+        "name": "place Sané - face au 88 de la rue Richelieu",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.390333,-4.473693,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.514388,
+          48.380783
+        ]
+      },
+      "properties": {
+        "id": "brest_8",
+        "name": "rue Psichari - place de l'église de Kerbonne",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.380783,-4.514388,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523198,
+          48.395694
+        ]
+      },
+      "properties": {
+        "id": "brest_9",
+        "name": "rue Mozart près de l'entrée du Lycée de la Cavale Blanche",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.395694,-4.523198,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.520432,
+          48.389644
+        ]
+      },
+      "properties": {
+        "id": "brest_10",
+        "name": "Angle rue de Guilers et Talin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.389644,-4.520432,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506597,
+          48.382724
+        ]
+      },
+      "properties": {
+        "id": "brest_11",
+        "name": "36 rue Pierre Loti",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.382724,-4.506597,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54292,
+          48.379237
+        ]
+      },
+      "properties": {
+        "id": "brest_12",
+        "name": "route du Conquet intersection avec le Bd de Plymouth",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.379237,-4.54292,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532315,
+          48.377322
+        ]
+      },
+      "properties": {
+        "id": "brest_13",
+        "name": "18 rue de Pouléder - devant la maison familiale d'accueil",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.377322,-4.532315,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.513514,
+          48.374487
+        ]
+      },
+      "properties": {
+        "id": "brest_14",
+        "name": "127 route de la Corniche angle de la rue Amiral Nicol",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.374487,-4.513514,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.527338,
+          48.381752
+        ]
+      },
+      "properties": {
+        "id": "brest_15",
+        "name": "rue Anatole France angle de la rue Emile Rousse",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.381752,-4.527338,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.526945,
+          48.380362
+        ]
+      },
+      "properties": {
+        "id": "brest_16",
+        "name": "113 avenue de l'Ecole Navale près de l'angle de la rue Bernanos",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.380362,-4.526945,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.528288,
+          48.376371
+        ]
+      },
+      "properties": {
+        "id": "brest_17",
+        "name": "rue de Bruxelles, angle de la rue Mistral",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.376371,-4.528288,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.510298,
+          48.401063
+        ]
+      },
+      "properties": {
+        "id": "brest_18",
+        "name": "rue du Duc d'Aumale -centre commercial de Kergoat",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.401063,-4.510298,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506526,
+          48.399626
+        ]
+      },
+      "properties": {
+        "id": "brest_19",
+        "name": "rue Paul Vibert près de l'entrée du R.U. de Kergoat",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "5.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.399626,-4.506526,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.503249,
+          48.409344
+        ]
+      },
+      "properties": {
+        "id": "brest_20",
+        "name": "rue du chatellier près de l'entrée du stade municipal du bergot",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.409344,-4.503249,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.509003,
+          48.405885
+        ]
+      },
+      "properties": {
+        "id": "brest_21",
+        "name": "rue du Quercy près de la Maison Pour Tous",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.405885,-4.509003,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.493969,
+          48.417042
+        ]
+      },
+      "properties": {
+        "id": "brest_22",
+        "name": "13 rue de Bohars angle rue Marion Deschart",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.417042,-4.493969,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492916,
+          48.404643
+        ]
+      },
+      "properties": {
+        "id": "brest_23",
+        "name": "31 rue du Cdt Drogou à l'entrée de l'espace sportif de Kérinou",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.404643,-4.492916,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491189,
+          48.412786
+        ]
+      },
+      "properties": {
+        "id": "brest_24",
+        "name": "place de Bretagne à l'angle des rue J. Lesven et Robespierre",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.412786,-4.491189,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490921,
+          48.410599
+        ]
+      },
+      "properties": {
+        "id": "brest_25",
+        "name": "rue Robespierre angle de la rue Chopin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.410599,-4.490921,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475457,
+          48.41567
+        ]
+      },
+      "properties": {
+        "id": "brest_26",
+        "name": "boulevard de l'Europe angle de la Général Paulet",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.41567,-4.475457,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.365116,
+          48.377199
+        ]
+      },
+      "properties": {
+        "id": "brest_27",
+        "name": "Rue guivarch apres maison de retraite vers centre ville droite.",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.377199,-4.365116,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.368877,
+          48.371323
+        ]
+      },
+      "properties": {
+        "id": "brest_28",
+        "name": "Rue wesport parking asterie. venant du centre ville gauche",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.371323,-4.368877,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.370374,
+          48.37218
+        ]
+      },
+      "properties": {
+        "id": "brest_29",
+        "name": "Rue fournier pres mairie sortie college st anne droite",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.37218,-4.370374,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.376579,
+          48.378882
+        ]
+      },
+      "properties": {
+        "id": "brest_30",
+        "name": "Parking ecole keravel SVD",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.378882,-4.376579,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.396234,
+          48.382839
+        ]
+      },
+      "properties": {
+        "id": "brest_31",
+        "name": "Keraliou SVD",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.382839,-4.396234,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.465233,
+          48.453134
+        ]
+      },
+      "properties": {
+        "id": "brest_32",
+        "name": "Place de la gare",
+        "city": "Gouesnou",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Gouesnou",
+        "street_view": "https://www.google.com/maps/@48.453134,-4.465233,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.407375,
+          48.436805
+        ]
+      },
+      "properties": {
+        "id": "brest_33",
+        "name": "parking des vestiaires, entrée de Pontanné",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.436805,-4.407375,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.392346,
+          48.441559
+        ]
+      },
+      "properties": {
+        "id": "brest_34",
+        "name": "école maternelle Louis Pergaud",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.441559,-4.392346,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.406106,
+          48.430647
+        ]
+      },
+      "properties": {
+        "id": "brest_35",
+        "name": "groupe scolaire Jacques Prévert",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.430647,-4.406106,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35036,
+          48.41467
+        ]
+      },
+      "properties": {
+        "id": "brest_36",
+        "name": "devant la salle municipale du Douvez",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.41467,-4.35036,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.43422,
+          48.39534
+        ]
+      },
+      "properties": {
+        "id": "brest_37",
+        "name": "Rue Eugène Bérest/Plage du Moulin Blanc",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.39534,-4.43422,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480104,
+          48.40877
+        ]
+      },
+      "properties": {
+        "id": "brest_38",
+        "name": "105 rue Jules Lesven - entrée du stade du petit Kerzu",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.40877,-4.480104,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47586,
+          48.40678
+        ]
+      },
+      "properties": {
+        "id": "brest_39",
+        "name": "rue Choiseul - près du carrefour avec le boulevard Montaigne",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.40678,-4.47586,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471758,
+          48.398786
+        ]
+      },
+      "properties": {
+        "id": "brest_40",
+        "name": "Halles du pilier Rouge-Sébastopol",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.398786,-4.471758,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46586,
+          48.399687
+        ]
+      },
+      "properties": {
+        "id": "brest_41",
+        "name": "rue de Valmy angle rue de la Duchesse Anne contre les grilles du lycée",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.399687,-4.46586,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.464513,
+          48.399761
+        ]
+      },
+      "properties": {
+        "id": "brest_42",
+        "name": "rue Duchesse Anne à l'entrée du Lycée face à la rue Lesage",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.399761,-4.464513,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.466226,
+          48.402096
+        ]
+      },
+      "properties": {
+        "id": "brest_43",
+        "name": "Place de Strasbourg-entrée Lycée",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.402096,-4.466226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.444665,
+          48.40011
+        ]
+      },
+      "properties": {
+        "id": "brest_44",
+        "name": "route de Quimper angle de la rue Albert Samain",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.40011,-4.444665,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.462404,
+          48.391943
+        ]
+      },
+      "properties": {
+        "id": "brest_45",
+        "name": "rue Montcalm près de la Maison Pour Tous du Guelmeur",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.391943,-4.462404,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.459234,
+          48.4002
+        ]
+      },
+      "properties": {
+        "id": "brest_46",
+        "name": "rue de la Duchesse Anne près de l'angle de la rue Beg Avel",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.4002,-4.459234,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.394299,
+          48.407387
+        ]
+      },
+      "properties": {
+        "id": "brest_47",
+        "name": "Bourg Pont SNCF",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.407387,-4.394299,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.396931,
+          48.400219
+        ]
+      },
+      "properties": {
+        "id": "brest_48",
+        "name": "Rue jean Zay",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.400219,-4.396931,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.414876,
+          48.402998
+        ]
+      },
+      "properties": {
+        "id": "brest_49",
+        "name": "Rpt de Kermadec",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.402998,-4.414876,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.403219,
+          48.407453
+        ]
+      },
+      "properties": {
+        "id": "brest_50",
+        "name": "Devant Bricorama",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.407453,-4.403219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.466178,
+          48.450317
+        ]
+      },
+      "properties": {
+        "id": "brest_51",
+        "name": "Place des fusillers",
+        "city": "Gouesnou",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Gouesnou",
+        "street_view": "https://www.google.com/maps/@48.450317,-4.466178,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.561338,
+          48.429296
+        ]
+      },
+      "properties": {
+        "id": "brest_52",
+        "name": "Nouveau cimetière",
+        "city": "Guilers",
+        "type": "Affichage libre",
+        "notes": "3.8 m² - Guilers",
+        "street_view": "https://www.google.com/maps/@48.429296,-4.561338,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.557847,
+          48.423832
+        ]
+      },
+      "properties": {
+        "id": "brest_53",
+        "name": "Centre Bourg-Place de la Libération",
+        "city": "Guilers",
+        "type": "Affichage libre",
+        "notes": "3.8 m² - Guilers",
+        "street_view": "https://www.google.com/maps/@48.423832,-4.557847,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.556619,
+          48.423197
+        ]
+      },
+      "properties": {
+        "id": "brest_54",
+        "name": "Gymnase de Kerdrel",
+        "city": "Guilers",
+        "type": "Affichage libre",
+        "notes": "3.8 m² - Guilers",
+        "street_view": "https://www.google.com/maps/@48.423197,-4.556619,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56557,
+          48.424789
+        ]
+      },
+      "properties": {
+        "id": "brest_55",
+        "name": "Bois de Kermengleuz",
+        "city": "Guilers",
+        "type": "Affichage libre",
+        "notes": "3.8 m² - Guilers",
+        "street_view": "https://www.google.com/maps/@48.424789,-4.56557,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.515562,
+          48.428366
+        ]
+      },
+      "properties": {
+        "id": "brest_56",
+        "name": "Rue Prosper Salaun",
+        "city": "Bohars",
+        "type": "Affichage libre",
+        "notes": "9.0 m² - Bohars",
+        "street_view": "https://www.google.com/maps/@48.428366,-4.515562,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617622,
+          48.38037
+        ]
+      },
+      "properties": {
+        "id": "brest_57",
+        "name": "Centre Social - allée des Ajoncs d'Or",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.38037,-4.617622,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.618608,
+          48.379321
+        ]
+      },
+      "properties": {
+        "id": "brest_58",
+        "name": "Ecole du Bourg - Route du Minou",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.379321,-4.618608,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.622281,
+          48.382141
+        ]
+      },
+      "properties": {
+        "id": "brest_59",
+        "name": "Eglise - Rue Gonidec",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.382141,-4.622281,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617521,
+          48.381332
+        ]
+      },
+      "properties": {
+        "id": "brest_60",
+        "name": "Angle de la Rue Tregor, Route de la Trinité",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.381332,-4.617521,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.605056,
+          48.382133
+        ]
+      },
+      "properties": {
+        "id": "brest_61",
+        "name": "Avenue Prévert, face à l'espace ERIC TABARLY",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.382133,-4.605056,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.588236,
+          48.368957
+        ]
+      },
+      "properties": {
+        "id": "brest_62",
+        "name": "Rue de Brest, Angle Avenue de Gaulle",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.368957,-4.588236,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.59107,
+          48.372232
+        ]
+      },
+      "properties": {
+        "id": "brest_63",
+        "name": "Angle rue des Myosotis, Avenue de Gaulle",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.372232,-4.59107,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.586479,
+          48.371342
+        ]
+      },
+      "properties": {
+        "id": "brest_64",
+        "name": "Parking salle polyvalente rue de Kerallan",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.371342,-4.586479,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.584546,
+          48.362715
+        ]
+      },
+      "properties": {
+        "id": "brest_65",
+        "name": "croas ar Go",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.362715,-4.584546,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.583596,
+          48.36645
+        ]
+      },
+      "properties": {
+        "id": "brest_66",
+        "name": "Echangeur Dellec , Entrée Trinité",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.36645,-4.583596,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.598661,
+          48.380229
+        ]
+      },
+      "properties": {
+        "id": "brest_67",
+        "name": "Face Gendarmerie, rue du 8 mai 1945",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.380229,-4.598661,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.470345,
+          48.399524
+        ]
+      },
+      "properties": {
+        "id": "brest_68",
+        "name": "Rue Sébastopol en face de l'école du Pilier Rouge",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.399524,-4.470345,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463439,
+          48.427491
+        ]
+      },
+      "properties": {
+        "id": "brest_69",
+        "name": "Lambé transfo edf rue Gaston Planté N° 65",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Lambezellec",
+        "street_view": "https://www.google.com/maps/@48.427491,-4.463439,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488801,
+          48.402014
+        ]
+      },
+      "properties": {
+        "id": "brest_70",
+        "name": "",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.402014,-4.488801,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.518946,
+          48.387077
+        ]
+      },
+      "properties": {
+        "id": "brest_71",
+        "name": "Station de tram Polygone Arena",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.387077,-4.518946,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.499744,
+          48.38415
+        ]
+      },
+      "properties": {
+        "id": "brest_72",
+        "name": "bas rue de la porte station tram face au bar le National N° 132",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.38415,-4.499744,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479471,
+          48.396415
+        ]
+      },
+      "properties": {
+        "id": "brest_73",
+        "name": "place Guérin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.396415,-4.479471,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479866,
+          48.394866
+        ]
+      },
+      "properties": {
+        "id": "brest_74",
+        "name": "1 rue st Martin devant l'église N° 48",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394866,-4.479866,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488573,
+          48.391226
+        ]
+      },
+      "properties": {
+        "id": "brest_75",
+        "name": "angle Duquesne et bd Clémenceau N° 45",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.391226,-4.488573,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488968,
+          48.39175
+        ]
+      },
+      "properties": {
+        "id": "brest_76",
+        "name": "bd Clémenceau. fac de lettres N° 46",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.39175,-4.488968,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48117,
+          48.396211
+        ]
+      },
+      "properties": {
+        "id": "brest_77",
+        "name": "halles St Martin N° 41",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.396211,-4.48117,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492692,
+          48.385263
+        ]
+      },
+      "properties": {
+        "id": "brest_78",
+        "name": "station tramway bas de siam droite en descendant N° 56",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.385263,-4.492692,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482798,
+          48.392313
+        ]
+      },
+      "properties": {
+        "id": "brest_79",
+        "name": "Station tramway Coat ar Gueven N° 53",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.392313,-4.482798,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480046,
+          48.394122
+        ]
+      },
+      "properties": {
+        "id": "brest_80",
+        "name": "Station tramway St Martin N° 55",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394122,-4.480046,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.468051,
+          48.402022
+        ]
+      },
+      "properties": {
+        "id": "brest_81",
+        "name": "Station tramway Strasbourg N° 36",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.402022,-4.468051,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.470675,
+          48.390217
+        ]
+      },
+      "properties": {
+        "id": "brest_82",
+        "name": "rue Le Guen (sous le pont du Forestou)",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "16.0 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.390217,-4.470675,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.503516,
+          48.392054
+        ]
+      },
+      "properties": {
+        "id": "brest_83",
+        "name": "Angle Maissin sortie du pont de L'Harteloire N° 130",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "",
+        "street_view": "https://www.google.com/maps/@48.392054,-4.503516,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479049,
+          48.396932
+        ]
+      },
+      "properties": {
+        "id": "brest_84",
+        "name": "place Guérin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.5 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.396932,-4.479049,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.518169,
+          48.392134
+        ]
+      },
+      "properties": {
+        "id": "brest_85",
+        "name": "place Jack London",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.392134,-4.518169,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.503226,
+          48.387045
+        ]
+      },
+      "properties": {
+        "id": "brest_86",
+        "name": "rue de Maissin - près de la piscine de Recouvrance",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.387045,-4.503226,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.519184,
+          48.394788
+        ]
+      },
+      "properties": {
+        "id": "brest_87",
+        "name": "angle avenue de la Libération et rue Mozart",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.394788,-4.519184,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.514847,
+          48.386486
+        ]
+      },
+      "properties": {
+        "id": "brest_88",
+        "name": "rue Beaumanoir à l'entrée du parking arrière du gymn. Beaumanoir",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.386486,-4.514847,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532632,
+          48.384615
+        ]
+      },
+      "properties": {
+        "id": "brest_89",
+        "name": "rue Pierre Ricard près du centre social de Kérourien",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.384615,-4.532632,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.534367,
+          48.379056
+        ]
+      },
+      "properties": {
+        "id": "brest_90",
+        "name": "route des 4 pompes sur la place de St Pierre Quilbignon",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "7.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.379056,-4.534367,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.514336,
+          48.396938
+        ]
+      },
+      "properties": {
+        "id": "brest_91",
+        "name": "rue de l'Anse Saupin angle de la rue Général Margueritte",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "6.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.396938,-4.514336,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.510373,
+          48.407663
+        ]
+      },
+      "properties": {
+        "id": "brest_92",
+        "name": "avenue Le Gorgeu angle de la rue du Chatellier",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.407663,-4.510373,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.515514,
+          48.408164
+        ]
+      },
+      "properties": {
+        "id": "brest_93",
+        "name": "3 rue de Saint Brieuc",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "8.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.408164,-4.515514,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.515666,
+          48.405956
+        ]
+      },
+      "properties": {
+        "id": "brest_94",
+        "name": "20 rue du Languedoc",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "8.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.405956,-4.515666,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.507664,
+          48.401181
+        ]
+      },
+      "properties": {
+        "id": "brest_95",
+        "name": "Rue Duc d'Aumale-mur école Dupouy",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Bellevue",
+        "street_view": "https://www.google.com/maps/@48.401181,-4.507664,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.509167,
+          48.390486
+        ]
+      },
+      "properties": {
+        "id": "brest_96",
+        "name": "rue Camille Vallaux sur le mur du G.S. Quéliverzan face au L.E.P.",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "16.0 m² - Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.390486,-4.509167,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.489997,
+          48.389785
+        ]
+      },
+      "properties": {
+        "id": "brest_97",
+        "name": "Halles St-Louis-sur le mur des halles près de la porte côté Duquesne",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.3 m² - Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.389785,-4.489997,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.407207,
+          48.395452
+        ]
+      },
+      "properties": {
+        "id": "brest_98",
+        "name": "Frisbee",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.395452,-4.407207,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.366668,
+          48.379672
+        ]
+      },
+      "properties": {
+        "id": "brest_99",
+        "name": "Rue Goarem Coz. Angle rue morvan sortie ecole droit.",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.379672,-4.366668,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.50598,
+          48.403239
+        ]
+      },
+      "properties": {
+        "id": "brest_100",
+        "name": "Centre Social Bellevue-sur mur côté Tarente",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Bellevue",
+        "street_view": "https://www.google.com/maps/@48.403239,-4.50598,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485376,
+          48.382538
+        ]
+      },
+      "properties": {
+        "id": "brest_101",
+        "name": "Quai de la Douane",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.382538,-4.485376,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48962,
+          48.415501
+        ]
+      },
+      "properties": {
+        "id": "brest_102",
+        "name": "11 rue Yves Giloux angle de la rue de Coetlogon",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.415501,-4.48962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.556013,
+          48.427569
+        ]
+      },
+      "properties": {
+        "id": "brest_103",
+        "name": "Complexe sportif de kerampennec",
+        "city": "Guilers",
+        "type": "Affichage libre",
+        "notes": "3.8 m² - Guilers",
+        "street_view": "https://www.google.com/maps/@48.427569,-4.556013,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.588361,
+          48.373284
+        ]
+      },
+      "properties": {
+        "id": "brest_104",
+        "name": "Angle rue des Myosotis, rue de Kerallan",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.373284,-4.588361,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.583162,
+          48.365049
+        ]
+      },
+      "properties": {
+        "id": "brest_105",
+        "name": "Echangeur Dellec, Sortie vers Brest",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.365049,-4.583162,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.566225,
+          48.360961
+        ]
+      },
+      "properties": {
+        "id": "brest_106",
+        "name": "Technopole, face entree ENIB",
+        "city": "Plouzané",
+        "type": "Affichage libre",
+        "notes": "1.9 m² - Plouzané",
+        "street_view": "https://www.google.com/maps/@48.360961,-4.566225,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.367646,
+          48.381225
+        ]
+      },
+      "properties": {
+        "id": "brest_107",
+        "name": "Rue du pere gwenael. Ancien leclerc vers quimper droit",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.381225,-4.367646,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.364034,
+          48.371014
+        ]
+      },
+      "properties": {
+        "id": "brest_108",
+        "name": "Route de la fontaine blanche. venant du college droite",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.371014,-4.364034,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475219,
+          48.396306
+        ]
+      },
+      "properties": {
+        "id": "brest_109",
+        "name": "Angle rue de Kérivin-St Marc N° 106",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.396306,-4.475219,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51353,
+          48.408414
+        ]
+      },
+      "properties": {
+        "id": "brest_110",
+        "name": "10 rue de Vannes N° 78",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "8.0 m² - Bellevue",
+        "street_view": "https://www.google.com/maps/@48.408414,-4.51353,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488801,
+          48.402014
+        ]
+      },
+      "properties": {
+        "id": "brest_111",
+        "name": "N° 69 angle moulin à poudre. A Kervern (2)",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.402014,-4.488801,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.510229,
+          48.390581
+        ]
+      },
+      "properties": {
+        "id": "brest_112",
+        "name": "station tram Dupuy de Lôme",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.390581,-4.510229,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.518776,
+          48.387217
+        ]
+      },
+      "properties": {
+        "id": "brest_113",
+        "name": "Station de tram Polygone Arena",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.387217,-4.518776,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.499413,
+          48.38428
+        ]
+      },
+      "properties": {
+        "id": "brest_114",
+        "name": "bas rue de la porte station tram N°131",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.38428,-4.499413,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.527979,
+          48.383089
+        ]
+      },
+      "properties": {
+        "id": "brest_115",
+        "name": "Angle E Rousse. JF Tartu transfo EDF N° 125",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.383089,-4.527979,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479487,
+          48.394736
+        ]
+      },
+      "properties": {
+        "id": "brest_116",
+        "name": "2, rue St martin N°49",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394736,-4.479487,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479387,
+          48.392994
+        ]
+      },
+      "properties": {
+        "id": "brest_117",
+        "name": "angle Collet.Kergorju N° 50",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.392994,-4.479387,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480942,
+          48.393298
+        ]
+      },
+      "properties": {
+        "id": "brest_118",
+        "name": "angle Jaurés.Kergorju N° 51",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.393298,-4.480942,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485991,
+          48.378164
+        ]
+      },
+      "properties": {
+        "id": "brest_119",
+        "name": "entrée digue Aldéric Lecomte N°38",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.378164,-4.485991,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477229,
+          48.397812
+        ]
+      },
+      "properties": {
+        "id": "brest_120",
+        "name": "rue Kerfautras sortie parking n°42",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.397812,-4.477229,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488366,
+          48.381249
+        ]
+      },
+      "properties": {
+        "id": "brest_121",
+        "name": "Angle malbert quai douane n33",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.381249,-4.488366,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530786,
+          48.397562
+        ]
+      },
+      "properties": {
+        "id": "brest_122",
+        "name": "Bd Tanguy Prigent angle Mozart",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "St Pierre",
+        "street_view": "https://www.google.com/maps/@48.397562,-4.530786,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.465125,
+          48.397938
+        ]
+      },
+      "properties": {
+        "id": "brest_123",
+        "name": "angle valmy_verdun",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - St marc",
+        "street_view": "https://www.google.com/maps/@48.397938,-4.465125,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.367617,
+          48.369056
+        ]
+      },
+      "properties": {
+        "id": "brest_124",
+        "name": "Rue kerbrat vers le stade EVG",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.369056,-4.367617,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.37051,
+          48.375079
+        ]
+      },
+      "properties": {
+        "id": "brest_125",
+        "name": "Terre plein Louis Nicolle pk musee vers centre ville droite",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.375079,-4.37051,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379041,
+          48.370521
+        ]
+      },
+      "properties": {
+        "id": "brest_126",
+        "name": "Bd filiger / j. Corre SVD",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.370521,-4.379041,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.356534,
+          48.381841
+        ]
+      },
+      "properties": {
+        "id": "brest_127",
+        "name": "Croas ar bis SVG",
+        "city": "Plougastel-Daoulas",
+        "type": "Affichage libre",
+        "notes": "2.1 m² - Plougastel",
+        "street_view": "https://www.google.com/maps/@48.381841,-4.356534,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.436738,
+          48.405163
+        ]
+      },
+      "properties": {
+        "id": "brest_128",
+        "name": "rond-point Coataudon/Le Rody",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.405163,-4.436738,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40034,
+          48.437933
+        ]
+      },
+      "properties": {
+        "id": "brest_129",
+        "name": "entrée du parking du stade Éric Lamour",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.437933,-4.40034,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.397426,
+          48.434101
+        ]
+      },
+      "properties": {
+        "id": "brest_130",
+        "name": "salle omnisports Charcot",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.434101,-4.397426,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45096,
+          48.41309
+        ]
+      },
+      "properties": {
+        "id": "brest_131",
+        "name": "aux feux à Tourbian-Coataudon",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.41309,-4.45096,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44689,
+          48.415212
+        ]
+      },
+      "properties": {
+        "id": "brest_132",
+        "name": "entre l’école Maurice Henensal et la Maison de quartier de Coataudon",
+        "city": "Guipavas",
+        "type": "Affichage libre",
+        "notes": "Guipavas",
+        "street_view": "https://www.google.com/maps/@48.415212,-4.44689,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.470926,
+          48.392762
+        ]
+      },
+      "properties": {
+        "id": "brest_133",
+        "name": "Angle Jules Guesdes et Sully Prud'homme",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.392762,-4.470926,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506791,
+          48.403308
+        ]
+      },
+      "properties": {
+        "id": "brest_134",
+        "name": "Sortie Pace Napoléon III en face du labo",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Bellevue",
+        "street_view": "https://www.google.com/maps/@48.403308,-4.506791,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53369,
+          48.383257
+        ]
+      },
+      "properties": {
+        "id": "brest_135",
+        "name": "Rue de Kerourien n°13, acccès pompiers",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Pierre",
+        "street_view": "https://www.google.com/maps/@48.383257,-4.53369,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48459,
+          48.392938
+        ]
+      },
+      "properties": {
+        "id": "brest_136",
+        "name": "Angle Glasgow et Kérabecam",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.392938,-4.48459,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48702,
+          48.397048
+        ]
+      },
+      "properties": {
+        "id": "brest_137",
+        "name": "Fac Medecine entrée Camille Desmoulins",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.397048,-4.48702,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475122,
+          48.385731
+        ]
+      },
+      "properties": {
+        "id": "brest_138",
+        "name": "Rpt Pl.des Formes-Victor Fenoux",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.385731,-4.475122,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47583,
+          48.389543
+        ]
+      },
+      "properties": {
+        "id": "brest_139",
+        "name": "Angle Hugo-Gambetta, après le feu",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.389543,-4.47583,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478323,
+          48.39438
+        ]
+      },
+      "properties": {
+        "id": "brest_140",
+        "name": "Angle Y Collet-rue Saint Martin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.39438,-4.478323,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484055,
+          48.396233
+        ]
+      },
+      "properties": {
+        "id": "brest_141",
+        "name": "Angle Glasgow-Desmoulins",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.396233,-4.484055,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.493795,
+          48.394042
+        ]
+      },
+      "properties": {
+        "id": "brest_142",
+        "name": "Angle rue Tourville et Delobeau",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394042,-4.493795,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.489329,
+          48.388248
+        ]
+      },
+      "properties": {
+        "id": "brest_143",
+        "name": "Rue Etienne Dolet côté Siam",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.388248,-4.489329,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490016,
+          48.384161
+        ]
+      },
+      "properties": {
+        "id": "brest_144",
+        "name": "Rue du chateau (beaux arts)-angle Duguay Trouin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.384161,-4.490016,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.494383,
+          48.384933
+        ]
+      },
+      "properties": {
+        "id": "brest_145",
+        "name": "Angle Français libres-Siam-Mur Havana café",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.384933,-4.494383,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480779,
+          48.387679
+        ]
+      },
+      "properties": {
+        "id": "brest_146",
+        "name": "Entrée parking Gare SNCF",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.387679,-4.480779,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467351,
+          48.403065
+        ]
+      },
+      "properties": {
+        "id": "brest_147",
+        "name": "place de Strasbourg route de Gouesnou N°102",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.403065,-4.467351,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48981,
+          48.416964
+        ]
+      },
+      "properties": {
+        "id": "brest_148",
+        "name": "2 cité richepin angle de la rue Paul Bourget devant poste EDF",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "4.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.416964,-4.48981,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.496563,
+          48.408352
+        ]
+      },
+      "properties": {
+        "id": "brest_149",
+        "name": "rue Grety angle de la rue Pen ar Ménez",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.408352,-4.496563,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.498001,
+          48.412916
+        ]
+      },
+      "properties": {
+        "id": "brest_150",
+        "name": "boulevard de l'Europe angle rue du Lannoc",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.412916,-4.498001,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488319,
+          48.401933
+        ]
+      },
+      "properties": {
+        "id": "brest_151",
+        "name": "24 rue Charles Péguy près de l'entrée du parking",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Lambézellec",
+        "street_view": "https://www.google.com/maps/@48.401933,-4.488319,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484709,
+          48.405478
+        ]
+      },
+      "properties": {
+        "id": "brest_152",
+        "name": "17 boulevard Léon Blum près de l'entrée du lycée de Kerichen",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.405478,-4.484709,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479322,
+          48.406693
+        ]
+      },
+      "properties": {
+        "id": "brest_153",
+        "name": "34 rue Jules Lesven près de l'entrée de Kérichen",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.406693,-4.479322,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469871,
+          48.41251
+        ]
+      },
+      "properties": {
+        "id": "brest_154",
+        "name": "rue Daumier - angle rue Deveria",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Europe",
+        "street_view": "https://www.google.com/maps/@48.41251,-4.469871,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463069,
+          48.40344
+        ]
+      },
+      "properties": {
+        "id": "brest_155",
+        "name": "rue d'Audierne angle de la rue de Sein face à l'école du Petit Paris",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.40344,-4.463069,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.461415,
+          48.396881
+        ]
+      },
+      "properties": {
+        "id": "brest_156",
+        "name": "rue de Maleyssie angle de la rue du Carpeaux",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.396881,-4.461415,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.454266,
+          48.39933
+        ]
+      },
+      "properties": {
+        "id": "brest_157",
+        "name": "place Vinet près de l'école Maternelle de Saint Marc",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "3.5 m² - Saint Marc",
+        "street_view": "https://www.google.com/maps/@48.39933,-4.454266,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388312,
+          48.405647
+        ]
+      },
+      "properties": {
+        "id": "brest_158",
+        "name": "Place de Metz",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.405647,-4.388312,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.393788,
+          48.397256
+        ]
+      },
+      "properties": {
+        "id": "brest_159",
+        "name": "Camfrout",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.397256,-4.393788,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.419683,
+          48.400944
+        ]
+      },
+      "properties": {
+        "id": "brest_160",
+        "name": "Place Sainte Barbe",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.400944,-4.419683,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490665,
+          48.387861
+        ]
+      },
+      "properties": {
+        "id": "brest_161",
+        "name": "Square Marc Sangnier, face au n°35 Louis Pasteur",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.387861,-4.490665,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482532,
+          48.387298
+        ]
+      },
+      "properties": {
+        "id": "brest_162",
+        "name": "Angle Réveillère-RPT Tanguy",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.387298,-4.482532,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478209,
+          48.39175
+        ]
+      },
+      "properties": {
+        "id": "brest_163",
+        "name": "Pl.Sanquer-rue Gasté,entrée du jardin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.39175,-4.478209,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474752,
+          48.394142
+        ]
+      },
+      "properties": {
+        "id": "brest_164",
+        "name": "Angle Tourot-Richelieu-sur le mur du cimetiere",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394142,-4.474752,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.483736,
+          48.389847
+        ]
+      },
+      "properties": {
+        "id": "brest_165",
+        "name": "Angle Carbonière-Branda à droite des escaliers du jardin",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.389847,-4.483736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482512,
+          48.397717
+        ]
+      },
+      "properties": {
+        "id": "brest_166",
+        "name": "Angle Masson-Donnart",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.397717,-4.482512,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481842,
+          48.395417
+        ]
+      },
+      "properties": {
+        "id": "brest_167",
+        "name": "Rue Malakoff, parking des rémouleurs",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.395417,-4.481842,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491242,
+          48.383115
+        ]
+      },
+      "properties": {
+        "id": "brest_168",
+        "name": "Angle Chateau-Brossolette",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.383115,-4.491242,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482171,
+          48.388002
+        ]
+      },
+      "properties": {
+        "id": "brest_169",
+        "name": "Angle Kerros-RPT Tanguy",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.388002,-4.482171,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481779,
+          48.387253
+        ]
+      },
+      "properties": {
+        "id": "brest_170",
+        "name": "Face sortie gare pietons parking",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.387253,-4.481779,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.406978,
+          48.40337
+        ]
+      },
+      "properties": {
+        "id": "brest_171",
+        "name": "Route de Kerscao",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.40337,-4.406978,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40072,
+          48.41063
+        ]
+      },
+      "properties": {
+        "id": "brest_172",
+        "name": "Devant cimetière",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.41063,-4.40072,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.394794,
+          48.412943
+        ]
+      },
+      "properties": {
+        "id": "brest_173",
+        "name": "Route de Keroumen (haut)",
+        "city": "Le Relecq-Kerhuon",
+        "type": "Affichage libre",
+        "notes": "2.6 m² - Kerhuon",
+        "street_view": "https://www.google.com/maps/@48.412943,-4.394794,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.468254,
+          48.448591
+        ]
+      },
+      "properties": {
+        "id": "brest_174",
+        "name": "Centre Henri Queffelec",
+        "city": "Gouesnou",
+        "type": "Affichage libre",
+        "notes": "2.0 m² - Gouesnou",
+        "street_view": "https://www.google.com/maps/@48.448591,-4.468254,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492528,
+          48.385394
+        ]
+      },
+      "properties": {
+        "id": "brest_175",
+        "name": "station tramway bas de siam gauche en descendant N° 57",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.385394,-4.492528,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482798,
+          48.392313
+        ]
+      },
+      "properties": {
+        "id": "brest_176",
+        "name": "Station tramway Coat ar Gueven N° 52",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.392313,-4.482798,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480046,
+          48.394122
+        ]
+      },
+      "properties": {
+        "id": "brest_177",
+        "name": "Station tramway St Martin N° 54",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.394122,-4.480046,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.468051,
+          48.402022
+        ]
+      },
+      "properties": {
+        "id": "brest_178",
+        "name": "Station tramway Strasbourg N° 37",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.402022,-4.468051,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487962,
+          48.389402
+        ]
+      },
+      "properties": {
+        "id": "brest_179",
+        "name": "Angle Siam - Algesiras N° 44",
+        "city": "Brest",
+        "type": "Affichage libre",
+        "notes": "Centre Ville",
+        "street_view": "https://www.google.com/maps/@48.389402,-4.487962,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

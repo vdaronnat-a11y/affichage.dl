@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Le Haillan",
+    "department": "33 - Gironde",
+    "count": 11
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.674422,
+          44.885641
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_1",
+        "name": "57 rue du Médoc",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Espace de la Sablière (2m2)",
+        "street_view": "https://www.google.com/maps/@44.885641,-0.674422,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.678295,
+          44.885048
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_2",
+        "name": "chemin de la Gravière",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Chemin de la Gravière (2m2)",
+        "street_view": "https://www.google.com/maps/@44.885048,-0.678295,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.676073,
+          44.871016
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_3",
+        "name": "120 avenue Pasteur",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Square Condorcet (2m2)",
+        "street_view": "https://www.google.com/maps/@44.871016,-0.676073,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.677181,
+          44.876241
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_4",
+        "name": "rue Georges Clémenceau",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Georges Clemenceau (2m2)",
+        "street_view": "https://www.google.com/maps/@44.876241,-0.677181,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.678736,
+          44.868035
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_5",
+        "name": "44 rue de la Morandière",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Morandière (2m2)",
+        "street_view": "https://www.google.com/maps/@44.868035,-0.678736,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.67262,
+          44.873135
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_6",
+        "name": "allée Jarousse de Sillac",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Jarousse de Sillac (2m2)",
+        "street_view": "https://www.google.com/maps/@44.873135,-0.67262,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.677141,
+          44.87818
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_7",
+        "name": "rue Bernède",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Victor Hugo (2m2)",
+        "street_view": "https://www.google.com/maps/@44.87818,-0.677141,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.670158,
+          44.861752
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_8",
+        "name": "5 résidence Edmond Rostand",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: residence Edmond Rostand (4m2)",
+        "street_view": "https://www.google.com/maps/@44.861752,-0.670158,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.67735,
+          44.873965
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_9",
+        "name": "rue Alcide Vergne",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Henri Bos (2m2)",
+        "street_view": "https://www.google.com/maps/@44.873965,-0.67735,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.680717,
+          44.88072
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_10",
+        "name": "rue Sainte Christine",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Sainte Christine (2m2)",
+        "street_view": "https://www.google.com/maps/@44.88072,-0.680717,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.681933,
+          44.870689
+        ]
+      },
+      "properties": {
+        "id": "le_haillan_11",
+        "name": "4 promenade des Girondins",
+        "city": "Le Haillan",
+        "type": "Affichage libre",
+        "notes": "Repère: Promenade des Girondins (2m2)",
+        "street_view": "https://www.google.com/maps/@44.870689,-0.681933,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Échirolles",
+    "department": "38 - Isère",
+    "count": 26
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.715976,
+          45.15196
+        ]
+      },
+      "properties": {
+        "id": "echirolles_1",
+        "name": "Rue Fernand Pelloutier",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.15196,5.715976,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.709239,
+          45.151009
+        ]
+      },
+      "properties": {
+        "id": "echirolles_2",
+        "name": "Avenue D Honhoue",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.151009,5.709239,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.706135,
+          45.149207
+        ]
+      },
+      "properties": {
+        "id": "echirolles_3",
+        "name": "Cours Jean Jaures",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Double Face - 1,90 x 1,20 m - 2 panneaux",
+        "street_view": "https://www.google.com/maps/@45.149207,5.706135,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.704344,
+          45.145036
+        ]
+      },
+      "properties": {
+        "id": "echirolles_4",
+        "name": "Cours Jean Jaures",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Double Face - 1,90 x 1,20 m - 2 panneaux",
+        "street_view": "https://www.google.com/maps/@45.145036,5.704344,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.707648,
+          45.145403
+        ]
+      },
+      "properties": {
+        "id": "echirolles_5",
+        "name": "Avenue Auguste Ferrier",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.145403,5.707648,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71281,
+          45.148082
+        ]
+      },
+      "properties": {
+        "id": "echirolles_6",
+        "name": "Rue Paul Heroult",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.148082,5.71281,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71417,
+          45.14332
+        ]
+      },
+      "properties": {
+        "id": "echirolles_7",
+        "name": "Rue Missak Manouchian",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Double Face - 1,90 x 1,20 m - 2 panneaux",
+        "street_view": "https://www.google.com/maps/@45.14332,5.71417,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.716824,
+          45.13732
+        ]
+      },
+      "properties": {
+        "id": "echirolles_8",
+        "name": "Rue De Stalingrad",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.13732,5.716824,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.709712,
+          45.151215
+        ]
+      },
+      "properties": {
+        "id": "echirolles_9",
+        "name": "Avenue Victor Hugo",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,30 x 0,90 m",
+        "street_view": "https://www.google.com/maps/@45.151215,5.709712,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.719992,
+          45.149545
+        ]
+      },
+      "properties": {
+        "id": "echirolles_10",
+        "name": "Avenue De Grugliasco",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.149545,5.719992,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.708497,
+          45.157382
+        ]
+      },
+      "properties": {
+        "id": "echirolles_11",
+        "name": "Cours Jean Jaures",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Double Face - 1,90 x 1,20 m - 2 panneaux",
+        "street_view": "https://www.google.com/maps/@45.157382,5.708497,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.700596,
+          45.154202
+        ]
+      },
+      "properties": {
+        "id": "echirolles_12",
+        "name": "Quai Roger Carrajat",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.154202,5.700596,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.699262,
+          45.144666
+        ]
+      },
+      "properties": {
+        "id": "echirolles_13",
+        "name": "Rue De L Ecureuil",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Double Face - 1,90 x 1,20 m - 2 panneaux",
+        "street_view": "https://www.google.com/maps/@45.144666,5.699262,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.701833,
+          45.149159
+        ]
+      },
+      "properties": {
+        "id": "echirolles_14",
+        "name": "Avenue Paul Vaillant Couturier",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.149159,5.701833,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729871,
+          45.152234
+        ]
+      },
+      "properties": {
+        "id": "echirolles_15",
+        "name": "Rue De Lorraine",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.152234,5.729871,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.723315,
+          45.155875
+        ]
+      },
+      "properties": {
+        "id": "echirolles_16",
+        "name": "Rue Du Berry",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.155875,5.723315,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72495,
+          45.156906
+        ]
+      },
+      "properties": {
+        "id": "echirolles_17",
+        "name": "Rue Salvador Allende",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.156906,5.72495,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.720125,
+          45.142968
+        ]
+      },
+      "properties": {
+        "id": "echirolles_18",
+        "name": "Rue Gabriel Didier",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.142968,5.720125,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.718307,
+          45.143045
+        ]
+      },
+      "properties": {
+        "id": "echirolles_19",
+        "name": "Rue Normandie Niemen",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.143045,5.718307,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.715002,
+          45.138685
+        ]
+      },
+      "properties": {
+        "id": "echirolles_20",
+        "name": "Rue Galilee",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.138685,5.715002,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725914,
+          45.147208
+        ]
+      },
+      "properties": {
+        "id": "echirolles_21",
+        "name": "Rue De La Liberte",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.147208,5.725914,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73223,
+          45.147069
+        ]
+      },
+      "properties": {
+        "id": "echirolles_22",
+        "name": "Avenue De Kimberley",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.147069,5.73223,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.732507,
+          45.14363
+        ]
+      },
+      "properties": {
+        "id": "echirolles_23",
+        "name": "Avenue Frederic Joliot Curie",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.14363,5.732507,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728852,
+          45.14309
+        ]
+      },
+      "properties": {
+        "id": "echirolles_24",
+        "name": "Rue De La Liberte",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.14309,5.728852,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.720125,
+          45.139647
+        ]
+      },
+      "properties": {
+        "id": "echirolles_25",
+        "name": "Place Baille Barelle",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1 x 1,30 m",
+        "street_view": "https://www.google.com/maps/@45.139647,5.720125,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.701471,
+          45.147859
+        ]
+      },
+      "properties": {
+        "id": "echirolles_26",
+        "name": "Avenue Danielle Casanova",
+        "city": "Échirolles",
+        "type": "Affichage libre",
+        "notes": "Simple Face - 1,90 x 1,20 m",
+        "street_view": "https://www.google.com/maps/@45.147859,5.701471,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

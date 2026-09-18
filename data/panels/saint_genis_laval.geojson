@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Saint-Genis-Laval",
+    "department": "69 - Rhône",
+    "count": 4
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.786389,
+          45.680417
+        ]
+      },
+      "properties": {
+        "id": "saint_genis_laval_1",
+        "name": "20 Avenue Charles de Gaulle",
+        "city": "Saint-Genis-Laval",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) A proximité du P’tit quignon",
+        "street_view": "https://www.google.com/maps/@45.680417,4.786389,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.777648,
+          45.717173
+        ]
+      },
+      "properties": {
+        "id": "saint_genis_laval_2",
+        "name": "Chemin de Beaunant",
+        "city": "Saint-Genis-Laval",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) Vers l’école de Beaunant",
+        "street_view": "https://www.google.com/maps/@45.717173,4.777648,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.782943,
+          45.69674
+        ]
+      },
+      "properties": {
+        "id": "saint_genis_laval_3",
+        "name": "2 Chemin de Beauversant",
+        "city": "Saint-Genis-Laval",
+        "type": "Affichage libre",
+        "notes": "Mural | Recto (1,76 x 2,30) En faut de la rue des Martyrs",
+        "street_view": "https://www.google.com/maps/@45.69674,4.782943,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.806412,
+          45.692626
+        ]
+      },
+      "properties": {
+        "id": "saint_genis_laval_4",
+        "name": "Place des Collnges",
+        "city": "Saint-Genis-Laval",
+        "type": "Affichage libre",
+        "notes": "Sur pied | Recto-verso (1,76 x 2,30) A l’entrée du parking",
+        "street_view": "https://www.google.com/maps/@45.692626,4.806412,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}

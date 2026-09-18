@@ -1,0 +1,550 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "Villeurbanne",
+    "department": "69 - Rhône",
+    "count": 30
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891615,
+          45.779467
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_1",
+        "name": "Angle Rue Professeur Emile Bouvier / Rue du 8 Mai 1945",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V",
+        "street_view": "https://www.google.com/maps/@45.779467,4.891615,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9043,
+          45.754153
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_2",
+        "name": "Angle Avenue Paul Kruger / Rue Pierre Bressat",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur la place d’Espagne",
+        "street_view": "https://www.google.com/maps/@45.754153,4.9043,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877393,
+          45.755954
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_3",
+        "name": "Place des Maisons Neuves",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V",
+        "street_view": "https://www.google.com/maps/@45.755954,4.877393,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.902341,
+          45.778656
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_4",
+        "name": "Angle Petite Rue du Roulet / Rue de l'Epi de Blé",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur l'Allée Paulette Cornu",
+        "street_view": "https://www.google.com/maps/@45.778656,4.902341,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.863504,
+          45.774215
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_5",
+        "name": "Angle Rue Jacques Brel / Rue Henri Rolland",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Dans la partie en sable",
+        "street_view": "https://www.google.com/maps/@45.774215,4.863504,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.867899,
+          45.774516
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_6",
+        "name": "57 Avenue Condorcet",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du mur de l’immeuble",
+        "street_view": "https://www.google.com/maps/@45.774516,4.867899,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.865521,
+          45.772319
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_7",
+        "name": "28 Cours André Philip",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du mur de clôture de l’hôpital",
+        "street_view": "https://www.google.com/maps/@45.772319,4.865521,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.865004,
+          45.776381
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_8",
+        "name": "Angle Avenue Galine / Rue du Tonkin",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Devant pan coupé du parking",
+        "street_view": "https://www.google.com/maps/@45.776381,4.865004,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880176,
+          45.775138
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_9",
+        "name": "49 Rue Edouard Vaillant",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au Square des Poulettes",
+        "street_view": "https://www.google.com/maps/@45.775138,4.880176,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891074,
+          45.782519
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_10",
+        "name": "Trémie du pont de Croix Luizet",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'ouest du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.782519,4.891074,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891471,
+          45.782655
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_11",
+        "name": "Trémie du pont de Croix Luizet",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'est du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.782655,4.891471,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899381,
+          45.766153
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_12",
+        "name": "Place Victor Balland",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long du transfo EDF",
+        "street_view": "https://www.google.com/maps/@45.766153,4.899381,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910504,
+          45.753642
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_13",
+        "name": "Angle Rue Nicolas Garnier / Rue Jean Voillot",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Le long de la barrière en bois",
+        "street_view": "https://www.google.com/maps/@45.753642,4.910504,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.902734,
+          45.752058
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_14",
+        "name": "241 Route de Genas",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Angle Rue de Cyprian / Route de Genas",
+        "street_view": "https://www.google.com/maps/@45.752058,4.902734,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90713,
+          45.751348
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_15",
+        "name": "Angle Périphérique / Route de Genas",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'ouest du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.751348,4.90713,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907903,
+          45.75125
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_16",
+        "name": "Angle Périphérique / Route de Genas",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A l'est du périphérique Laurent Bonnevay",
+        "street_view": "https://www.google.com/maps/@45.75125,4.907903,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.878608,
+          45.758881
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_17",
+        "name": "33 Avenue Antoine de Saint Exupéry",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Parking centre commercial",
+        "street_view": "https://www.google.com/maps/@45.758881,4.878608,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88415,
+          45.768901
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_18",
+        "name": "Angle Rue Anatole France / Avenue du Commandant Lherminier",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au parking du supermarché Carrefour, Place Georges Lévy",
+        "street_view": "https://www.google.com/maps/@45.768901,4.88415,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884551,
+          45.765566
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_19",
+        "name": "Face au 58 Rue Docteur Rollet",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30)",
+        "street_view": "https://www.google.com/maps/@45.765566,4.884551,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8883,
+          45.769691
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_20",
+        "name": "Angle Rue Anatole France / Rue Gérard Maire",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30)",
+        "street_view": "https://www.google.com/maps/@45.769691,4.8883,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873983,
+          45.767054
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_21",
+        "name": "Au droit du 57 Cours de la République",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers l'entrée du parking sousterrain de la résidence",
+        "street_view": "https://www.google.com/maps/@45.767054,4.873983,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.864134,
+          45.770769
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_22",
+        "name": "Face au 20 Cours Emile Zola",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) A la sortie du métro Charpennes",
+        "street_view": "https://www.google.com/maps/@45.770769,4.864134,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892299,
+          45.76453
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_23",
+        "name": "166 Rue du 4 Août 1789",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Devant la station Velo’V, vers la Rue de la Baïsse",
+        "street_view": "https://www.google.com/maps/@45.76453,4.892299,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.889426,
+          45.759473
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_24",
+        "name": "Place Jules Grandclément",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au bureau de poste",
+        "street_view": "https://www.google.com/maps/@45.759473,4.889426,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890952,
+          45.755617
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_25",
+        "name": "Angle Avenue du Général Leclerc / Rue George Sand",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face à la piste cyclable",
+        "street_view": "https://www.google.com/maps/@45.755617,4.890952,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9022,
+          45.776467
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_26",
+        "name": "Angle Rue Saint Jean / Rue de l'Epi de Blé",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Mural (1,76 x 1,50) Le long du transformateur EDF",
+        "street_view": "https://www.google.com/maps/@45.776467,4.9022,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862896,
+          45.779397
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_27",
+        "name": "Angle Boulevard du 11 novembre / Avenue Roberto Rossellini",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Vers la station Velo’V à l’entrée de l’INSA",
+        "street_view": "https://www.google.com/maps/@45.779397,4.862896,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873524,
+          45.779103
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_28",
+        "name": "Angle Boulevard du 11 Novembre 1918 / Rue Léon Fabre",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face à la résidence \"La Doua\"",
+        "street_view": "https://www.google.com/maps/@45.779103,4.873524,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.879533,
+          45.778308
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_29",
+        "name": "Angle Avenue Roger Salengro / Rue Edouard Vaillant",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Sur la placette",
+        "street_view": "https://www.google.com/maps/@45.778308,4.879533,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884461,
+          45.781173
+        ]
+      },
+      "properties": {
+        "id": "villeurbanne_30",
+        "name": "Angle Avenue Roger Salengro / Rue du Luizet",
+        "city": "Villeurbanne",
+        "type": "Affichage libre",
+        "notes": "Pied (1,76 x 2,30) Face au bureau de poste",
+        "street_view": "https://www.google.com/maps/@45.781173,4.884461,3a,75y,0h,90t/data=!3m4!1e1!3m2!1s!2e0"
+      }
+    }
+  ]
+}
