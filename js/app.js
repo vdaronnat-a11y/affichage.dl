@@ -34,6 +34,7 @@ class TourApp {
     this.initDOM();
     await this.loadCities();
     this.setupEventListeners();
+    await this.checkUrlTourParams();
   }
 
   initMapAndServices() {
@@ -107,6 +108,20 @@ class TourApp {
     this.btnCountMinusEl = document.getElementById("btn-count-minus");
     this.btnCountPlusEl = document.getElementById("btn-count-plus");
     this.countPillBtns = document.querySelectorAll(".count-pill-btn");
+
+    // Éléments de sauvegarde et partage de la tournée
+    this.btnSaveTourEl = document.getElementById("btn-save-tour");
+    this.modalShareEl = document.getElementById("modal-share-tour");
+    this.btnCloseShareEl = document.getElementById("btn-close-share-modal");
+    this.btnCloseShareFooterEl = document.getElementById("btn-close-share-modal-footer");
+    this.shareTourSummaryEl = document.getElementById("share-tour-summary");
+    this.shareQrcodeEl = document.getElementById("share-qrcode");
+    this.shareTourUrlEl = document.getElementById("share-tour-url");
+    this.btnCopyTourUrlEl = document.getElementById("btn-copy-tour-url");
+    this.shareCopyStatusEl = document.getElementById("share-copy-status");
+    this.btnNativeShareEl = document.getElementById("btn-native-share");
+    this.btnGmailShareEl = document.getElementById("btn-gmail-share");
+    this.btnEmailShareEl = document.getElementById("btn-email-share");
   }
 
   async loadCities() {
@@ -134,10 +149,16 @@ class TourApp {
 
     this.renderCitiesDropdown();
 
-    // Sélectionner la première ville (Lyon si disponible, ou Nantes)
-    const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
-    if (defaultCity) {
-      this.selectCity(defaultCity.id);
+    // Vérifier si un itinéraire est passé dans l'URL pour ne pas charger inutilement la ville par défaut
+    const searchStr = window.location.search || (window.location.hash && window.location.hash.includes("?") ? window.location.hash.substring(window.location.hash.indexOf("?")) : "");
+    const urlParams = new URLSearchParams(searchStr);
+    const hasTourParam = urlParams.has("p");
+
+    if (!hasTourParam) {
+      const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
+      if (defaultCity) {
+        await this.selectCity(defaultCity.id);
+      }
     }
   }
 
@@ -517,7 +538,32 @@ class TourApp {
       if (e.key === "Escape" && infoModal && infoModal.classList.contains("active")) {
         infoModal.classList.remove("active");
       }
+      if (e.key === "Escape" && this.modalShareEl && this.modalShareEl.classList.contains("active")) {
+        this.closeShareModal();
+      }
     });
+
+    // Sauvegarde et Partage de la tournée
+    if (this.btnSaveTourEl) {
+      this.btnSaveTourEl.addEventListener("click", () => this.openShareModal());
+    }
+    if (this.btnCloseShareEl) {
+      this.btnCloseShareEl.addEventListener("click", () => this.closeShareModal());
+    }
+    if (this.btnCloseShareFooterEl) {
+      this.btnCloseShareFooterEl.addEventListener("click", () => this.closeShareModal());
+    }
+    if (this.modalShareEl) {
+      this.modalShareEl.addEventListener("click", (e) => {
+        if (e.target === this.modalShareEl) this.closeShareModal();
+      });
+    }
+    if (this.btnCopyTourUrlEl) {
+      this.btnCopyTourUrlEl.addEventListener("click", () => this.copyShareUrl());
+    }
+    if (this.btnNativeShareEl) {
+      this.btnNativeShareEl.addEventListener("click", () => this.triggerNativeShare());
+    }
   }
 
   async geolocateUser() {
@@ -844,6 +890,369 @@ class TourApp {
       `;
     }
     this.congratsModalEl.classList.add("active");
+  }
+
+  /**
+   * Ouvre la modale de partage, prépare le lien, le QR code et notifie Google Sheets
+   */
+  openShareModal() {
+    if (!this.orderedPanels || this.orderedPanels.length === 0) {
+      alert("Veuillez d'abord générer une tournée avant de la sauvegarder.");
+      return;
+    }
+
+    // 1. Construction de l'URL directe autonome
+    const url = new URL(window.location.origin + window.location.pathname);
+    if (this.activeCity && this.activeCity.id) {
+      url.searchParams.set("city", this.activeCity.id);
+    }
+    if (this.startCoord) {
+      url.searchParams.set("start", `${this.startCoord[0].toFixed(5)},${this.startCoord[1].toFixed(5)}`);
+    }
+    if (this.startAddress && this.startAddress.trim()) {
+      url.searchParams.set("addr", this.startAddress.trim());
+    }
+    const panelIds = this.orderedPanels.map(p => p.properties.id).join(",");
+    url.searchParams.set("p", panelIds);
+
+    const fullShareUrl = url.toString();
+
+    // 2. Alimentation du champ d'URL
+    if (this.shareTourUrlEl) {
+      this.shareTourUrlEl.value = fullShareUrl;
+    }
+    if (this.shareCopyStatusEl) {
+      this.shareCopyStatusEl.textContent = "";
+    }
+
+    // 3. Résumé visuel dans la modale
+    if (this.shareTourSummaryEl) {
+      this.shareTourSummaryEl.innerHTML = `
+        <div class="share-summary-item">
+          <span class="share-summary-val">${this.orderedPanels.length}</span>
+          <span class="share-summary-lbl">Panneaux</span>
+        </div>
+        <div class="share-summary-item">
+          <span class="share-summary-val">${this.summaryDistanceEl ? this.summaryDistanceEl.textContent : ''}</span>
+          <span class="share-summary-lbl">Distance</span>
+        </div>
+        <div class="share-summary-item">
+          <span class="share-summary-val">${this.summaryTimeEl ? this.summaryTimeEl.textContent : ''}</span>
+          <span class="share-summary-lbl">Temps estimé</span>
+        </div>
+      `;
+    }
+
+    // 4. Génération du QR Code autonome
+    if (this.shareQrcodeEl) {
+      this.shareQrcodeEl.innerHTML = "";
+      if (typeof QRCode !== "undefined") {
+        try {
+          new QRCode(this.shareQrcodeEl, {
+            text: fullShareUrl,
+            width: 140,
+            height: 140,
+            colorDark: "#0f172a",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.M
+          });
+        } catch (err) {
+          console.warn("Erreur QRCode:", err);
+        }
+      }
+    }
+
+    // 5. Liens e-mail prêts à l'emploi (Gmail Web & Client natif)
+    const cityName = this.activeCity ? this.activeCity.name : "d'affichage";
+    const subject = `Tournée d'affichage - ${cityName}`;
+    const dist = this.summaryDistanceEl ? this.summaryDistanceEl.textContent : "";
+    const duration = this.summaryTimeEl ? this.summaryTimeEl.textContent : "";
+    const body = `Bonjour,\n\nVoici l'itinéraire préparé pour la tournée d'affichage à ${cityName} :\n` +
+                 `• ${this.orderedPanels.length} panneaux\n` +
+                 (dist ? `• Distance : ${dist}\n` : "") +
+                 (duration ? `• Durée estimée : ${duration}\n` : "") +
+                 (this.startAddress ? `• Départ : ${this.startAddress}\n\n` : "\n") +
+                 `Clique sur ce lien pour ouvrir la tournée et démarrer le guidage GPS :\n` +
+                 `${fullShareUrl}\n\nBonne tournée !`;
+
+    // 5. Liens e-mail prêts à l'emploi (Client natif & Gmail Web sur vrai PC)
+    const isDesktopPC = window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+    const emailContainer = this.modalShareEl ? this.modalShareEl.querySelector(".share-email-buttons") : null;
+
+    if (this.btnGmailShareEl) {
+      if (isDesktopPC) {
+        const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        this.btnGmailShareEl.href = gmailUrl;
+        this.btnGmailShareEl.style.display = "inline-flex";
+        if (emailContainer) {
+          emailContainer.style.display = "grid";
+          emailContainer.style.gridTemplateColumns = "1fr 1fr";
+        }
+      } else {
+        // Appareils tactiles (smartphones & tablettes) : bouton Gmail Web masqué
+        this.btnGmailShareEl.style.display = "none";
+        if (emailContainer) {
+          emailContainer.style.display = "flex";
+          emailContainer.style.flexDirection = "column";
+        }
+      }
+    }
+
+    if (this.btnEmailShareEl) {
+      this.btnEmailShareEl.href = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      this.btnEmailShareEl.style.width = isDesktopPC ? "" : "100%";
+    }
+
+    // 6. Sauvegarde silencieuse en tâche de fond dans Google Sheets
+    if (this.tracker) {
+      try {
+        const tourData = {
+          city: this.activeCity ? this.activeCity.name : "",
+          city_id: this.activeCity ? this.activeCity.id : "",
+          start_address: this.startAddress || "",
+          start_coords: this.startCoord,
+          panel_count: this.orderedPanels.length,
+          distance_km: this.summaryDistanceEl ? this.summaryDistanceEl.textContent : "",
+          duration_min: this.summaryTimeEl ? this.summaryTimeEl.textContent : "",
+          tour_url: fullShareUrl,
+          panels_summary: this.orderedPanels.map((p, i) => `${i + 1}. ${p.properties.name || p.properties.id}`).join(" | ")
+        };
+        this.tracker.logTourSaved(tourData);
+      } catch (e) {
+        console.warn("Erreur archivage sheet:", e);
+      }
+    }
+
+    // 7. Affichage de la modale
+    if (this.modalShareEl) {
+      this.modalShareEl.classList.add("active");
+    }
+  }
+
+  closeShareModal() {
+    if (this.modalShareEl) {
+      this.modalShareEl.classList.remove("active");
+    }
+  }
+
+  copyShareUrl() {
+    if (!this.shareTourUrlEl || !this.shareTourUrlEl.value) return;
+    const url = this.shareTourUrlEl.value;
+
+    const onSuccess = () => {
+      if (this.shareCopyStatusEl) {
+        this.shareCopyStatusEl.textContent = "✅ Lien copié dans le presse-papier !";
+        setTimeout(() => {
+          if (this.shareCopyStatusEl) this.shareCopyStatusEl.textContent = "";
+        }, 3200);
+      }
+      this.showToast("📋 Lien copié !");
+    };
+
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(onSuccess).catch(() => {
+        this.fallbackCopyText(url, onSuccess);
+      });
+    } else {
+      this.fallbackCopyText(url, onSuccess);
+    }
+  }
+
+  fallbackCopyText(text, callback) {
+    const textArea = document.createElement("textarea");
+    textArea.value = text;
+    textArea.style.position = "fixed";
+    textArea.style.left = "-9999px";
+    textArea.style.top = "0";
+    textArea.setAttribute("readonly", "");
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    textArea.setSelectionRange(0, 99999);
+    try {
+      const successful = document.execCommand("copy");
+      if (successful && callback) callback();
+    } catch (e) {
+      console.warn("fallback copy failed:", e);
+    }
+    document.body.removeChild(textArea);
+  }
+
+  async triggerNativeShare() {
+    const url = this.shareTourUrlEl ? this.shareTourUrlEl.value : window.location.href;
+    const cityName = this.activeCity ? this.activeCity.name : "Affichage";
+    const title = `Tournée d'affichage - ${cityName}`;
+    const text = `Voici l'itinéraire préparé pour notre tournée d'affichage (${this.orderedPanels.length} panneaux) :`;
+
+    // 1. Partage natif du système (ouvre la feuille Android/iOS permettant de choisir l'application)
+    if (navigator.share) {
+      try {
+        const shareData = {
+          title: title,
+          text: `${text}\n${url}`,
+          url: url
+        };
+        if (navigator.canShare && !navigator.canShare(shareData)) {
+          delete shareData.title;
+        }
+        await navigator.share(shareData);
+        return;
+      } catch (err) {
+        if (err.name === "AbortError") return; // Annulation normale par l'utilisateur
+        console.warn("navigator.share a échoué :", err);
+      }
+    }
+
+    // 2. Repli si le navigateur bloque l'API (ex: test local en HTTP Wi-Fi non sécurisé)
+    this.copyShareUrl();
+    this.showToast("📋 Lien copié ! (Le menu de choix d'application requiert HTTPS en ligne)");
+  }
+
+  showToast(message) {
+    let toast = document.getElementById("app-toast-banner");
+    if (!toast) {
+      toast = document.createElement("div");
+      toast.id = "app-toast-banner";
+      toast.className = "toast-banner";
+      document.body.appendChild(toast);
+    }
+    toast.textContent = message;
+    toast.classList.add("show");
+    setTimeout(() => {
+      toast.classList.remove("show");
+    }, 3800);
+  }
+
+  /**
+   * Détecte et restaure une tournée si des paramètres d'URL sont présents
+   */
+  async checkUrlTourParams() {
+    const searchStr = window.location.search || (window.location.hash && window.location.hash.includes("?") ? window.location.hash.substring(window.location.hash.indexOf("?")) : "");
+    if (!searchStr) return;
+
+    const urlParams = new URLSearchParams(searchStr);
+    const cityId = urlParams.get("city");
+    const panelsParam = urlParams.get("p");
+    const startParam = urlParams.get("start");
+    const addrParam = urlParams.get("addr");
+
+    if (!panelsParam) return;
+
+    const panelIds = panelsParam.split(",").map(id => id.trim()).filter(Boolean);
+    if (panelIds.length === 0) return;
+
+    try {
+      // 1. Résolution de la commune ciblée
+      let targetCity = null;
+      if (cityId) {
+        targetCity = this.cities.find(c => c.id === cityId);
+      }
+      // Repli intelligent si l'URL ne mentionnait pas city (déduction depuis le préfixe de l'ID panneau)
+      if (!targetCity && panelIds.length > 0) {
+        const firstId = panelIds[0];
+        targetCity = this.cities.find(c => firstId.startsWith(c.id));
+      }
+      if (!targetCity) {
+        targetCity = this.activeCity || this.cities[0];
+      }
+      if (!targetCity) return;
+
+      // Charger proprement la commune et ses panneaux
+      await this.selectCity(targetCity.id);
+
+      // 2. Point de départ
+      if (startParam) {
+        const parts = startParam.split(",").map(s => parseFloat(s.trim()));
+        if (parts.length === 2 && !isNaN(parts[0]) && !isNaN(parts[1])) {
+          this.startCoord = [parts[0], parts[1]];
+        }
+      }
+      if (!this.startCoord) {
+        this.startCoord = targetCity.center;
+      }
+
+      // 3. Adresse de départ
+      if (addrParam) {
+        this.startAddress = decodeURIComponent(addrParam);
+      } else {
+        this.startAddress = `Centre-ville de ${targetCity.name}`;
+      }
+      if (this.addressInputEl) {
+        this.addressInputEl.value = this.startAddress;
+      }
+      this.updateClearBtnVisibility();
+      this.map.setStartPoint(this.startCoord, this.startAddress);
+
+      // 4. Correspondance des panneaux selon les IDs ordonnés
+      if (!this.activePanelsData || !this.activePanelsData.features) {
+        console.warn("Données panneaux indisponibles pour la ville", targetCity);
+        return;
+      }
+
+      const panelMap = new Map();
+      this.activePanelsData.features.forEach(f => {
+        if (f.properties && f.properties.id) {
+          panelMap.set(String(f.properties.id).trim(), f);
+        }
+      });
+
+      const restoredPanels = panelIds.map(id => panelMap.get(String(id).trim())).filter(Boolean);
+      if (restoredPanels.length === 0) {
+        console.warn("Aucun panneau correspondant trouvé pour les IDs de la tournée :", panelIds);
+        return;
+      }
+
+      this.selectedPanels = [...restoredPanels];
+      this.orderedPanels = [...restoredPanels];
+
+      // 5. Calcul du tracé respectant rigoureusement cet ordre fixé
+      const result = await this.router.computeFixedRoute(this.startCoord, this.orderedPanels);
+
+      // Mise à jour de la carte (tracé et marqueurs actifs / inactifs)
+      this.map.setRoutePolyline(result.polylineCoordinates);
+      this.map.setActivePanels(this.orderedPanels);
+
+      const activeIds = new Set(this.orderedPanels.map(p => p.properties.id));
+      const unusedPanels = this.activePanelsData.features.filter(p => !activeIds.has(p.properties.id));
+      this.map.setUnusedPanels(unusedPanels);
+
+      // Statistiques de la tournée
+      if (this.summaryCountEl) this.summaryCountEl.textContent = this.orderedPanels.length;
+      if (this.summaryDistanceEl) this.summaryDistanceEl.textContent = `${result.distanceKm} km`;
+
+      const totalMin = result.durationMinutes;
+      let formattedTime = `${totalMin} min`;
+      if (totalMin >= 60) {
+        const hours = Math.floor(totalMin / 60);
+        const mins = totalMin % 60;
+        formattedTime = mins > 0 ? `${hours}h${mins.toString().padStart(2, '0')}` : `${hours}h`;
+      }
+      if (this.summaryTimeEl) {
+        this.summaryTimeEl.textContent = formattedTime;
+        this.summaryTimeEl.title = `Dont ${result.drivingMinutes || 0} min de trajet et ${this.orderedPanels.length * 8} min de collage`;
+      }
+
+      this.renderPanelsList();
+
+      // Ajuster la vue de la carte sur l'ensemble du tracé
+      if (result.polylineCoordinates && result.polylineCoordinates.length > 0) {
+        const bounds = L.latLngBounds(result.polylineCoordinates.map(c => [c[1], c[0]]));
+        this.map.map.fitBounds(bounds, { padding: [40, 40], maxZoom: 15 });
+      }
+
+      // Bascule directe sur l'Étape 2 (Révision de la tournée)
+      if (this.configStepEl) this.configStepEl.style.display = "none";
+      if (this.reviewStepEl) this.reviewStepEl.style.display = "flex";
+      if (this.sidePanelEl) {
+        this.sidePanelEl.classList.remove("collapsed");
+        this.sidePanelEl.classList.add("review-active");
+      }
+      this.triggerPeekBounce();
+
+      this.showToast(`✨ Tournée de ${this.orderedPanels.length} panneaux chargée !`);
+    } catch (e) {
+      console.error("Erreur lors de la restauration de la tournée :", e);
+    }
   }
 }
 

@@ -116,6 +116,65 @@ export class TourRouter {
   }
 
   /**
+   * Calcule le tracé d'un itinéraire avec un ordre fixé de panneaux (ex: tournée chargée depuis un lien URL)
+   */
+  async computeFixedRoute(startCoord, orderedPanels) {
+    if (!orderedPanels || orderedPanels.length === 0) {
+      return {
+        orderedPanels: [],
+        polylineCoordinates: [],
+        distanceKm: 0,
+        durationMinutes: 0
+      };
+    }
+
+    const allCoords = [startCoord, ...orderedPanels.map(p => p.geometry.coordinates), startCoord];
+    const coordsString = allCoords.map(c => `${c[0].toFixed(6)},${c[1].toFixed(6)}`).join(";");
+
+    try {
+      const url = `${this.osrmBaseUrl}/route/v1/driving/${coordsString}?overview=full&geometries=geojson`;
+      const resp = await fetch(url);
+      if (resp.ok) {
+        const data = await resp.json();
+        if (data.code === "Ok" && data.routes && data.routes.length > 0) {
+          const route = data.routes[0];
+          const distKm = (route.distance / 1000).toFixed(1);
+          const drivingMin = Math.round(route.duration / 60);
+          const durationMin = drivingMin + (orderedPanels.length * 8);
+
+          return {
+            orderedPanels: orderedPanels,
+            polylineCoordinates: route.geometry.coordinates,
+            distanceKm: parseFloat(distKm),
+            durationMinutes: durationMin,
+            drivingMinutes: drivingMin,
+            isLoop: true
+          };
+        }
+      }
+    } catch (e) {
+      console.warn("Erreur OSRM route ordonnée, repli géométrique :", e);
+    }
+
+    // Repli géométrique si OSRM est indisponible
+    let distKm = 0;
+    for (let i = 0; i < allCoords.length - 1; i++) {
+      distKm += this.getDistanceKm(allCoords[i], allCoords[i + 1]);
+    }
+    const drivingMin = Math.round((distKm / 25) * 60);
+    const durationMin = drivingMin + (orderedPanels.length * 8);
+
+    return {
+      orderedPanels: orderedPanels,
+      polylineCoordinates: allCoords,
+      distanceKm: parseFloat(distKm.toFixed(1)),
+      durationMinutes: durationMin,
+      drivingMinutes: drivingMin,
+      isLoop: true
+    };
+  }
+
+  /**
    * Algorithme de secours local pour boucle fermée (Plus proche voisin + 2-opt décroisement)
    */
   async fallbackOptimizeLoop(startCoord, selectedPanels) {

@@ -20,7 +20,53 @@ function doPost(e) {
     var ss = SpreadsheetApp.getActiveSpreadsheet();
     var sheet = ss.getActiveSheet();
 
-    // Initialisation des en-têtes si la feuille est vide
+    // Traitement spécifique pour la sauvegarde d'une tournée planifiée
+    if (data.event === "SAVE_TOUR") {
+      var saveSheet = ss.getSheetByName("Tournées sauvegardées");
+      if (!saveSheet) {
+        saveSheet = ss.insertSheet("Tournées sauvegardées");
+        var saveHeaders = [
+          "Date / Heure",
+          "Terminal ID",
+          "Tournée ID",
+          "Commune",
+          "Point de départ",
+          "Nb panneaux",
+          "Distance estimée",
+          "Temps estimé",
+          "Lien URL de la tournée",
+          "Détails des étapes"
+        ];
+        saveSheet.appendRow(saveHeaders);
+        saveSheet.getRange(1, 1, 1, saveHeaders.length).setFontWeight("bold").setBackground("#0d9488").setFontColor("#ffffff");
+        saveSheet.setFrozenRows(1);
+      }
+
+      var detailsObj = {};
+      try {
+        detailsObj = typeof data.details === "string" ? JSON.parse(data.details) : (data.details || {});
+      } catch (e) {}
+
+      var saveRow = [
+        nowFormatted,
+        data.device_id || "Inconnu",
+        data.tour_id || ("TRN-" + Utilities.formatDate(new Date(), "Europe/Paris", "yyyyMMdd-HHmmss")),
+        data.city || detailsObj.city || "",
+        detailsObj.start_address || "",
+        detailsObj.panel_count || 0,
+        detailsObj.distance_km || "",
+        detailsObj.duration_min || "",
+        detailsObj.tour_url || "",
+        detailsObj.panels_summary || ""
+      ];
+
+      saveSheet.appendRow(saveRow);
+
+      return ContentService.createTextOutput(JSON.stringify({ status: "success", type: "tour_saved", row: saveSheet.getLastRow() }))
+        .setMimeType(ContentService.MimeType.JSON);
+    }
+
+    // Initialisation des en-têtes de télémétrie si la feuille active est vide
     if (sheet.getLastRow() === 0) {
       var headers = [
         "Date / Heure",
