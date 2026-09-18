@@ -92,12 +92,35 @@ export class TourTracker {
    * Événement : Sauvegarde et planification d'une tournée (archivage d'équipe)
    */
   logTourSaved(tourData = {}) {
-    const tourId = this.currentTourId || this.generateTourId();
+    const tourId = tourData.tour_id || this.currentTourId || this.generateTourId();
+    this.currentTourId = tourId;
     const payload = {
       device_id: this.deviceId,
       tour_id: tourId,
       event: "SAVE_TOUR",
       step: "PLANIFICATION",
+      panel_name: `${tourData.panel_count || 0} panneaux`,
+      city: tourData.city || "",
+      coords: tourData.start_coords || null,
+      elapsed_since_last: "",
+      details: JSON.stringify(tourData)
+    };
+
+    this.sendEvent(payload);
+    return tourId;
+  }
+
+  /**
+   * Événement : Restauration et ouverture d'une tournée sauvegardée via URL
+   */
+  logTourRestored(tourData = {}) {
+    const tourId = tourData.tour_id || this.currentTourId || this.generateTourId();
+    this.currentTourId = tourId;
+    const payload = {
+      device_id: this.deviceId,
+      tour_id: tourId,
+      event: "RESTORE_TOUR",
+      step: "OUVERTURE",
       panel_name: `${tourData.panel_count || 0} panneaux`,
       city: tourData.city || "",
       coords: tourData.start_coords || null,

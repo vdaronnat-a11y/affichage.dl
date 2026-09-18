@@ -5,8 +5,8 @@
  * 1. Ouvrez votre Google Sheet (ou créez-en un nouveau sur sheets.new).
  * 2. Dans le menu, cliquez sur "Extensions" > "Apps Script".
  * 3. Effacez le code existant et collez TOUT le contenu de ce fichier.
- * 4. Cliquez sur "Déployer" (en haut à droite) > "Nouveau déploiement".
- * 5. Type : sélectionnez "Application Web" (via l'icône engrenage).
+ * 4. Cliquez sur "Déployer" (en haut à droite) > "Gérer les déploiements" > crayon "Modifier" (ou "Nouveau déploiement").
+ * 5. Type : sélectionnez "Application Web".
  * 6. Configuration :
  *    - Description : "Webhook Tournée Affiches"
  *    - Exécuter en tant que : "Moi (votre adresse email)"
@@ -20,53 +20,7 @@ function doPost(e) {
     var ss = SpreadsheetApp.getActiveSpreadsheet();
     var sheet = ss.getActiveSheet();
 
-    // Traitement spécifique pour la sauvegarde d'une tournée planifiée
-    if (data.event === "SAVE_TOUR") {
-      var saveSheet = ss.getSheetByName("Tournées sauvegardées");
-      if (!saveSheet) {
-        saveSheet = ss.insertSheet("Tournées sauvegardées");
-        var saveHeaders = [
-          "Date / Heure",
-          "Terminal ID",
-          "Tournée ID",
-          "Commune",
-          "Point de départ",
-          "Nb panneaux",
-          "Distance estimée",
-          "Temps estimé",
-          "Lien URL de la tournée",
-          "Détails des étapes"
-        ];
-        saveSheet.appendRow(saveHeaders);
-        saveSheet.getRange(1, 1, 1, saveHeaders.length).setFontWeight("bold").setBackground("#0d9488").setFontColor("#ffffff");
-        saveSheet.setFrozenRows(1);
-      }
-
-      var detailsObj = {};
-      try {
-        detailsObj = typeof data.details === "string" ? JSON.parse(data.details) : (data.details || {});
-      } catch (e) {}
-
-      var saveRow = [
-        nowFormatted,
-        data.device_id || "Inconnu",
-        data.tour_id || ("TRN-" + Utilities.formatDate(new Date(), "Europe/Paris", "yyyyMMdd-HHmmss")),
-        data.city || detailsObj.city || "",
-        detailsObj.start_address || "",
-        detailsObj.panel_count || 0,
-        detailsObj.distance_km || "",
-        detailsObj.duration_min || "",
-        detailsObj.tour_url || "",
-        detailsObj.panels_summary || ""
-      ];
-
-      saveSheet.appendRow(saveRow);
-
-      return ContentService.createTextOutput(JSON.stringify({ status: "success", type: "tour_saved", row: saveSheet.getLastRow() }))
-        .setMimeType(ContentService.MimeType.JSON);
-    }
-
-    // Initialisation des en-têtes de télémétrie si la feuille active est vide
+    // 1. Initialisation des en-têtes si la feuille est vide
     if (sheet.getLastRow() === 0) {
       var headers = [
         "Date / Heure",
@@ -85,12 +39,12 @@ function doPost(e) {
       sheet.setFrozenRows(1);
     }
 
-    // Parsing du payload
-    var data;
+    // 2. Parsing du payload JSON
+    var data = {};
     if (e && e.postData && e.postData.contents) {
       data = JSON.parse(e.postData.contents);
     } else {
-      return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "Aucune donnée" }))
+      return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "Aucune donnée reçue" }))
         .setMimeType(ContentService.MimeType.JSON);
     }
 
@@ -103,6 +57,7 @@ function doPost(e) {
       return v;
     }
 
+    // 3. Écriture directe de la ligne dans les colonnes existantes (colonne Événement pour SAVE_TOUR, RESTORE_TOUR, etc.)
     var row = [
       nowFormatted,
       data.device_id || "Inconnu",
@@ -118,7 +73,7 @@ function doPost(e) {
 
     sheet.appendRow(row);
 
-    return ContentService.createTextOutput(JSON.stringify({ status: "success", row: sheet.getLastRow() }))
+    return ContentService.createTextOutput(JSON.stringify({ status: "success", row: sheet.getLastRow(), event: data.event }))
       .setMimeType(ContentService.MimeType.JSON);
 
   } catch (err) {

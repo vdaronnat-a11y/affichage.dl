@@ -908,6 +908,9 @@ class TourApp {
 
     // 1. Construction de l'URL directe autonome
     const url = new URL(window.location.origin + window.location.pathname);
+    const tourId = this.tracker ? this.tracker.generateTourId() : `TRN-${Date.now()}`;
+    url.searchParams.set("tid", tourId);
+
     if (this.activeCity && this.activeCity.id) {
       url.searchParams.set("city", this.activeCity.id);
     }
@@ -1012,6 +1015,7 @@ class TourApp {
     if (this.tracker) {
       try {
         const tourData = {
+          tour_id: tourId,
           city: this.activeCity ? this.activeCity.name : "",
           city_id: this.activeCity ? this.activeCity.id : "",
           start_address: this.startAddress || "",
@@ -1136,6 +1140,7 @@ class TourApp {
     if (!searchStr) return;
 
     const urlParams = new URLSearchParams(searchStr);
+    const tourIdParam = urlParams.get("tid") || urlParams.get("id");
     const cityId = urlParams.get("city");
     const panelsParam = urlParams.get("p");
     const startParam = urlParams.get("start");
@@ -1255,6 +1260,27 @@ class TourApp {
       this.triggerPeekBounce();
 
       this.showToast(`✨ Tournée de ${this.orderedPanels.length} panneaux chargée !`);
+
+      // 6. Enregistrement silencieux de la restauration / ouverture de la tournée dans Google Sheets
+      if (this.tracker) {
+        try {
+          const tourRestoreData = {
+            tour_id: tourIdParam || "",
+            city: targetCity ? targetCity.name : "",
+            city_id: targetCity ? targetCity.id : "",
+            start_address: this.startAddress || "",
+            start_coords: this.startCoord,
+            panel_count: this.orderedPanels.length,
+            distance_km: `${result.distanceKm} km`,
+            duration_min: formattedTime,
+            tour_url: window.location.href,
+            panels_summary: this.orderedPanels.map((p, i) => `${i + 1}. ${p.properties.name || p.properties.id}`).join(" | ")
+          };
+          this.tracker.logTourRestored(tourRestoreData);
+        } catch (e) {
+          console.warn("Erreur log restauration tournée:", e);
+        }
+      }
     } catch (e) {
       console.error("Erreur lors de la restauration de la tournée :", e);
     }
