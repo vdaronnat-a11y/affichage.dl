@@ -10,7 +10,7 @@ Application web mobile-first conçue pour les équipes de collage d'affiches cit
 - **Respect du réseau routier** : Moteur d'optimisation automobile (OSRM driving) respectant les sens uniques, sens interdits, ronds-points et tourne-à-gauche.
 - **Données officielles Open Data préchargées** :
   - **Lyon (Ville intra-muros)** : 76 panneaux d'affichage d'opinion.
-  - **Métropole de Lyon (Grand Lyon)** : 275 panneaux (Lyon, Bron, Villeurbanne, Vaulx-en-Velin, Givors, Rillieux, Caluire, etc.).
+  - **Lyon (Métropole)** : 275 panneaux (Lyon, Bron, Villeurbanne, Vaulx-en-Velin, Givors, Rillieux, Caluire, etc.).
   - **Nantes Métropole** : 490 panneaux.
   - **Issy-les-Moulineaux** : 21 panneaux.
   - **Fleury-sur-Orne** : 4 panneaux.

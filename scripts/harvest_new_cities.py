@@ -528,8 +528,12 @@ def main():
     for r in results:
         existing_index[r["id"]] = r
 
+    import unicodedata
+    def sort_key(city):
+        return "".join(c for c in unicodedata.normalize("NFD", city["name"].lower()) if unicodedata.category(c) != "Mn")
+
     final_list = list(existing_index.values())
-    final_list.sort(key=lambda x: x["name"].lower())
+    final_list.sort(key=sort_key)
 
     with open(cities_file, "w", encoding="utf-8") as f:
         json.dump(final_list, f, ensure_ascii=False, indent=2)

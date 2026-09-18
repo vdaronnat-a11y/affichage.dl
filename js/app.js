@@ -147,6 +147,9 @@ class TourApp {
       }
     }
 
+    // Tri alphabétique insensible aux accents (Dardilly -> Échirolles -> Écully -> Fleury...)
+    this.cities.sort((a, b) => a.name.localeCompare(b.name, "fr", { sensitivity: "base" }));
+
     this.renderCitiesDropdown();
 
     // Vérifier si un itinéraire est passé dans l'URL pour ne pas charger inutilement la ville par défaut
@@ -167,7 +170,9 @@ class TourApp {
     this.cities.forEach(city => {
       const opt = document.createElement("option");
       opt.value = city.id;
-      opt.textContent = `${city.name} (${city.count} 🪧)`;
+      // Retirer la majuscule accentuée uniquement dans la liste déroulante pour faciliter la frappe et le tri au clavier
+      const displayName = city.name.replace(/^É/, "E");
+      opt.textContent = `${displayName} (${city.count} 🪧)`;
       this.citySelectEl.appendChild(opt);
     });
   }

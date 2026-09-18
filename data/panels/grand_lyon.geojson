@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "city": "Métropole de Lyon (Grand Lyon)",
+    "city": "Lyon (Métropole)",
     "count": 275,
     "source": "https://data.grandlyon.com/portail/fr/jeux-de-donnees/panneaux-affichage-libre-metropole-lyon/telechargements"
   },

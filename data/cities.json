@@ -143,6 +143,28 @@
     "file": "panels/dardilly.geojson"
   },
   {
+    "id": "echirolles",
+    "name": "Échirolles",
+    "department": "38 - Isère",
+    "count": 26,
+    "center": [
+      5.7154,
+      45.1475
+    ],
+    "file": "panels/echirolles.geojson"
+  },
+  {
+    "id": "ecully",
+    "name": "Écully",
+    "department": "69 - Rhône",
+    "count": 8,
+    "center": [
+      4.7787,
+      45.7796
+    ],
+    "file": "panels/ecully.geojson"
+  },
+  {
     "id": "fleury_sur_orne",
     "name": "Fleury-sur-Orne",
     "department": "14 - Calvados",
@@ -198,6 +220,17 @@
     "file": "panels/le_havre.geojson"
   },
   {
+    "id": "grand_lyon",
+    "name": "Lyon (Métropole)",
+    "department": "69 - Rhône",
+    "count": 275,
+    "center": [
+      4.845,
+      45.77
+    ],
+    "file": "panels/grand_lyon.geojson"
+  },
+  {
     "id": "lyon",
     "name": "Lyon (Ville)",
     "department": "69 - Rhône",
@@ -229,17 +262,6 @@
       47.7511
     ],
     "file": "panels/mulhouse.geojson"
-  },
-  {
-    "id": "grand_lyon",
-    "name": "Métropole de Lyon (Grand Lyon)",
-    "department": "69 - Rhône",
-    "count": 275,
-    "center": [
-      4.845,
-      45.77
-    ],
-    "file": "panels/grand_lyon.geojson"
   },
   {
     "id": "nantes",
@@ -449,27 +471,5 @@
       45.7685
     ],
     "file": "panels/villeurbanne.geojson"
-  },
-  {
-    "id": "echirolles",
-    "name": "Échirolles",
-    "department": "38 - Isère",
-    "count": 26,
-    "center": [
-      5.7154,
-      45.1475
-    ],
-    "file": "panels/echirolles.geojson"
-  },
-  {
-    "id": "ecully",
-    "name": "Écully",
-    "department": "69 - Rhône",
-    "count": 8,
-    "center": [
-      4.7787,
-      45.7796
-    ],
-    "file": "panels/ecully.geojson"
   }
 ]

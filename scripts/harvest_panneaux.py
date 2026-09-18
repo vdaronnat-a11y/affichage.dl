@@ -137,7 +137,7 @@ def harvest():
 
             cities_index.append({
                 "id": "grand_lyon",
-                "name": "Métropole de Lyon (Grand Lyon)",
+                "name": "Lyon (Métropole)",
                 "department": "69 - Rhône",
                 "count": len(features_grand_lyon),
                 "center": [4.8450, 45.7700],

@@ -77,7 +77,7 @@ def update():
     grand_lyon_geojson = {
         "type": "FeatureCollection",
         "metadata": {
-            "city": "Métropole de Lyon (Grand Lyon)",
+            "city": "Lyon (Métropole)",
             "count": len(features),
             "source": "https://data.grandlyon.com/portail/fr/jeux-de-donnees/panneaux-affichage-libre-metropole-lyon/telechargements"
         },
@@ -95,7 +95,7 @@ def update():
     for c in cities:
         if c["id"] == "grand_lyon":
             c["count"] = len(features)
-            c["name"] = "Métropole de Lyon (Grand Lyon)"
+            c["name"] = "Lyon (Métropole)"
             break
 
     with open(cities_file, "w", encoding="utf-8") as f:
