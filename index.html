@@ -224,9 +224,55 @@
           ✅ C'est collé ! Panneau suivant ➡️
         </button>
 
+        <!-- Bouton de signalement panneau non collé / non trouvé -->
+        <button id="btn-panel-not-found" class="btn-panel-not-found" type="button">
+          ⚠️ Pas trouvé / Non collé...
+        </button>
+
       </div>
     </div>
   </main>
+
+  <!-- Modale Signalement Panneau Pas Trouvé / Non Collé -->
+  <div id="not-found-modal" class="modal-backdrop">
+    <div class="modal-card" style="max-width: 480px;">
+      <div class="modal-header">
+        <h3 style="color: #fbbf24; display: flex; align-items: center; gap: 8px;">
+          <span>⚠️</span> Panneau non collé
+        </h3>
+        <button id="btn-close-not-found" class="btn-close" type="button" aria-label="Fermer">✕</button>
+      </div>
+      <div class="modal-body" style="padding: 20px;">
+        <p id="not-found-panel-title" style="font-weight: 600; margin-bottom: 14px; color: var(--text-primary); font-size: 0.95rem;">
+          <!-- Rempli en JS avec le nom/adresse du panneau -->
+        </p>
+
+        <label style="display: block; font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 8px; font-weight: 600;">
+          Motif rapide :
+        </label>
+        <div class="quick-reasons-grid" id="quick-reasons-chips">
+          <button type="button" class="chip-reason" data-reason="Panneau introuvable / inexistant">🔍 Introuvable</button>
+          <button type="button" class="chip-reason" data-reason="Inaccessible / Travaux">🚧 Travaux / Inaccessible</button>
+          <button type="button" class="chip-reason" data-reason="Panneau démonté / supprimé">❌ Panneau démonté</button>
+          <button type="button" class="chip-reason" data-reason="Collage impossible">🚫 Collage impossible</button>
+        </div>
+
+        <label for="not-found-comment" style="display: block; font-size: 0.85rem; color: var(--text-secondary); margin-top: 14px; margin-bottom: 6px; font-weight: 600;">
+          Commentaire (optionnel) :
+        </label>
+        <textarea id="not-found-comment" class="textarea-comment" rows="3" placeholder="Précisez un détail utile (ex: numéro inexistant, zone en travaux, nouvel aménagement...)"></textarea>
+
+        <div style="display: flex; gap: 10px; margin-top: 20px;">
+          <button id="btn-cancel-not-found" type="button" class="btn-secondary" style="flex: 1;">
+            Annuler
+          </button>
+          <button id="btn-confirm-not-found" type="button" class="btn-warning-action" style="flex: 2;">
+            Enregistrer & Suivant ➡️
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- Modale Administration & Export -->
   <div id="admin-modal" class="modal-backdrop">

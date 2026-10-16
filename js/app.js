@@ -888,11 +888,24 @@ class TourApp {
     }
     const statsEl = document.getElementById("congrats-stats-box");
     if (statsEl) {
-      statsEl.innerHTML = `
-        <div class="stat-box"><span class="stat-val">${stats.totalPanels}</span><span class="stat-label">Affiches collées</span></div>
-        <div class="stat-box"><span class="stat-val">${this.summaryDistanceEl.textContent}</span><span class="stat-label">Parcourus</span></div>
-        <div class="stat-box"><span class="stat-val">100%</span><span class="stat-label">Objectif atteint</span></div>
-      `;
+      const total = stats.totalPanels || 0;
+      const pasted = stats.pastedCount !== undefined ? stats.pastedCount : total;
+      const notFound = stats.notFoundCount || 0;
+      const rate = total > 0 ? Math.round((pasted / total) * 100) : 100;
+
+      if (notFound > 0) {
+        statsEl.innerHTML = `
+          <div class="stat-box"><span class="stat-val" style="color: #10b981;">${pasted}/${total}</span><span class="stat-label">Collées</span></div>
+          <div class="stat-box"><span class="stat-val" style="color: #fbbf24;">${notFound}</span><span class="stat-label">Non trouvées</span></div>
+          <div class="stat-box"><span class="stat-val">${this.summaryDistanceEl.textContent}</span><span class="stat-label">Parcourus</span></div>
+        `;
+      } else {
+        statsEl.innerHTML = `
+          <div class="stat-box"><span class="stat-val">${total}</span><span class="stat-label">Affiches collées</span></div>
+          <div class="stat-box"><span class="stat-val">${this.summaryDistanceEl.textContent}</span><span class="stat-label">Parcourus</span></div>
+          <div class="stat-box"><span class="stat-val">100%</span><span class="stat-label">Objectif atteint</span></div>
+        `;
+      }
     }
     this.congratsModalEl.classList.add("active");
   }

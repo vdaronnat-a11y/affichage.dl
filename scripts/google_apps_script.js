@@ -57,7 +57,12 @@ function doPost(e) {
       return v;
     }
 
-    // 3. Écriture directe de la ligne dans les colonnes existantes (colonne Événement pour SAVE_TOUR, RESTORE_TOUR, etc.)
+    // 3. Écriture directe de la ligne dans les colonnes existantes (colonne Événement pour COLLÉ, PAS_TROUVÉ, SAVE_TOUR, etc.)
+    var details = data.details || "";
+    if (data.comment && details.indexOf(data.comment) === -1) {
+      details = (details ? details + " | " : "") + "Commentaire : " + data.comment;
+    }
+
     var row = [
       nowFormatted,
       data.device_id || "Inconnu",
@@ -68,7 +73,7 @@ function doPost(e) {
       data.city || "",
       data.coords ? (data.coords[1] + ", " + data.coords[0]) : "",
       safeText(data.elapsed_since_last || ""),
-      data.details || ""
+      details
     ];
 
     sheet.appendRow(row);

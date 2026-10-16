@@ -158,16 +158,19 @@ export class TourAdmin {
 
       if (coords && coords.length >= 2) {
         const props = item.properties || item;
-        const name = props.name || props.adresse || props.libelle || `Panneau #${idx + 1}`;
-        features.append({
+        let name = props.name || props.adresse || props.libelle || `Panneau #${idx + 1}`;
+        // Nettoyage de la ville si déjà présente dans le nom
+        if (cityName && name.endsWith(`, ${cityName}`)) {
+          name = name.slice(0, -(cityName.length + 2)).trim();
+        }
+        features.push({
           type: "Feature",
           geometry: { type: "Point", coordinates: [parseFloat(coords[0]), parseFloat(coords[1])] },
           properties: {
             id: String(props.id || idx + 1),
-            name: `${name}, ${cityName}`,
-            city: cityName,
-            type: "Affichage libre",
-            notes: props.notes || props.type || ""
+            name: name,
+            city: props.city || props.commune || cityName,
+            notes: props.notes || props.precision || ""
           }
         });
       }
@@ -186,6 +189,7 @@ export class TourAdmin {
     const latIdx = headers.findIndex(h => ["latitude", "lat", "y"].includes(h));
     const lonIdx = headers.findIndex(h => ["longitude", "lon", "lng", "x"].includes(h));
     const nameIdx = headers.findIndex(h => ["nom", "name", "adresse", "emplacement", "libelle"].includes(h));
+    const notesIdx = headers.findIndex(h => ["notes", "note", "remarque", "remarques", "precision", "support", "description"].includes(h));
 
     if (latIdx === -1 || lonIdx === -1) {
       alert("Le fichier CSV doit contenir des colonnes 'latitude' et 'longitude' (ou 'lat'/'lng').");
@@ -202,17 +206,20 @@ export class TourAdmin {
 
       if (isNaN(lat) || isNaN(lon)) continue;
 
-      const name = (nameIdx !== -1 && parts[nameIdx]) ? parts[nameIdx] : `Panneau #${i}`;
+      let name = (nameIdx !== -1 && parts[nameIdx]) ? parts[nameIdx] : `Panneau #${i}`;
+      if (cityName && name.endsWith(`, ${cityName}`)) {
+        name = name.slice(0, -(cityName.length + 2)).trim();
+      }
+      const notes = (notesIdx !== -1 && parts[notesIdx]) ? parts[notesIdx] : "";
 
       features.push({
         type: "Feature",
         geometry: { type: "Point", coordinates: [lon, lat] },
         properties: {
           id: `csv_${i}`,
-          name: `${name}, ${cityName}`,
+          name: name,
           city: cityName,
-          type: "Affichage libre",
-          notes: ""
+          notes: notes
         }
       });
     }

@@ -189,6 +189,54 @@ export class TourTracker {
   }
 
   /**
+   * 2 bis. Événement : Panneau non trouvé / non collé avec commentaire
+   */
+  logPanelNotPasted(stepNumber, totalPanels, panel = {}, comment = "", reason = "") {
+    if (!this.currentTourId) {
+      this.currentTourId = this.generateTourId();
+      this.tourStartTime = Date.now();
+      this.lastStopTime = this.tourStartTime;
+    }
+
+    const now = Date.now();
+    const elapsedMinutes = this.lastStopTime ? Math.round((now - this.lastStopTime) / 60000) : 0;
+    this.lastStopTime = now;
+
+    const props = panel.properties || {};
+    const coords = panel.geometry && panel.geometry.coordinates ? panel.geometry.coordinates : null;
+
+    let fullDetails = "";
+    if (reason && comment) {
+      fullDetails = `${reason} — ${comment}`;
+    } else if (reason) {
+      fullDetails = reason;
+    } else if (comment) {
+      fullDetails = comment;
+    } else {
+      fullDetails = "Panneau introuvable ou non collé";
+    }
+
+    if (props.notes) {
+      fullDetails += ` (Réf: ${props.notes})`;
+    }
+
+    const payload = {
+      device_id: this.deviceId,
+      tour_id: this.currentTourId,
+      event: "PAS_TROUVÉ",
+      step: `${stepNumber}/${totalPanels}`,
+      panel_name: props.name || `Panneau n°${stepNumber}`,
+      city: props.commune || props.city || "",
+      coords: coords,
+      elapsed_since_last: elapsedMinutes > 0 ? `'+${elapsedMinutes} min` : "'< 1 min",
+      details: fullDetails,
+      comment: comment || reason || ""
+    };
+
+    this.sendEvent(payload);
+  }
+
+  /**
    * 3. Événement : Fin de tournée (retour au point de départ)
    */
   logTourCompleted(totalPanels, details = {}) {
