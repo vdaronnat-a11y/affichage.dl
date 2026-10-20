@@ -12,8 +12,11 @@ import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
 class TourApp {
   constructor() {
     this.cities = [];
+    this.selectedCityIds = new Set();
+    this.activeCities = [];
     this.activeCity = null;
-    this.activePanelsData = null; // Collection GeoJSON complète de la ville
+    this.cityGeoJsonCache = new Map();
+    this.activePanelsData = null; // Collection GeoJSON complète des communes sélectionnées
     this.selectedPanels = []; // Panneaux retenus pour la tournée
     this.orderedPanels = []; // Panneaux ordonnés dans la boucle
     this.startCoord = null; // [lon, lat]
@@ -60,14 +63,23 @@ class TourApp {
     this.admin = new TourAdmin({
       onCityAdded: (newCity, geojsonData) => {
         this.cities.unshift(newCity);
-        this.renderCitiesDropdown();
+        this.renderCitiesList();
         this.selectCity(newCity.id);
       }
     });
   }
 
   initDOM() {
-    this.citySelectEl = document.getElementById("city-select");
+    this.btnToggleCitiesEl = document.getElementById("btn-toggle-cities");
+    this.citiesPopoverEl = document.getElementById("cities-popover");
+    this.cityTriggerLabelEl = document.getElementById("city-trigger-label");
+    this.selectedCitiesCountEl = document.getElementById("selected-cities-count");
+    this.citiesSearchInputEl = document.getElementById("cities-search-input");
+    this.btnSelectAllCitiesEl = document.getElementById("btn-select-all-cities");
+    this.btnDeselectAllCitiesEl = document.getElementById("btn-deselect-all-cities");
+    this.citiesCheckboxesListEl = document.getElementById("cities-checkboxes-list");
+    this.btnApplyCitiesEl = document.getElementById("btn-apply-cities");
+
     this.activeCityBadgeEl = document.getElementById("active-city-badge");
     this.addressInputEl = document.getElementById("start-address");
     this.btnClearAddressEl = document.getElementById("btn-clear-address");
@@ -150,54 +162,239 @@ class TourApp {
     // Tri alphabétique insensible aux accents (Dardilly -> Échirolles -> Écully -> Fleury...)
     this.cities.sort((a, b) => a.name.localeCompare(b.name, "fr", { sensitivity: "base" }));
 
-    this.renderCitiesDropdown();
-
-    // Vérifier si un itinéraire est passé dans l'URL pour ne pas charger inutilement la ville par défaut
+    // Vérifier si des communes ou un itinéraire sont passés dans l'URL
     const searchStr = window.location.search || (window.location.hash && window.location.hash.includes("?") ? window.location.hash.substring(window.location.hash.indexOf("?")) : "");
     const urlParams = new URLSearchParams(searchStr);
     const hasTourParam = urlParams.has("p");
+    const citiesParam = urlParams.get("cities");
+    const cityParam = urlParams.get("city");
 
-    if (!hasTourParam) {
+    if (citiesParam) {
+      const ids = citiesParam.split(",").map(s => s.trim()).filter(id => this.cities.some(c => c.id === id));
+      if (ids.length > 0) {
+        this.selectedCityIds = new Set(ids);
+      }
+    } else if (cityParam && this.cities.some(c => c.id === cityParam)) {
+      this.selectedCityIds = new Set([cityParam]);
+    }
+
+    if (this.selectedCityIds.size === 0) {
       const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
       if (defaultCity) {
-        await this.selectCity(defaultCity.id);
+        this.selectedCityIds = new Set([defaultCity.id]);
       }
+    }
+
+    this.renderCitiesList();
+
+    if (!hasTourParam) {
+      await this.loadPanelsForSelectedCities(true);
     }
   }
 
-  renderCitiesDropdown() {
-    this.citySelectEl.innerHTML = "";
+  renderCitiesList(filterQuery = "") {
+    if (!this.citiesCheckboxesListEl) return;
+    this.citiesCheckboxesListEl.innerHTML = "";
+
+    const query = (filterQuery || "").toLowerCase().trim();
+
     this.cities.forEach(city => {
-      const opt = document.createElement("option");
-      opt.value = city.id;
-      // Retirer la majuscule accentuée uniquement dans la liste déroulante pour faciliter la frappe et le tri au clavier
-      const displayName = city.name.replace(/^É/, "E");
-      opt.textContent = `${displayName} (${city.count} 🪧)`;
-      this.citySelectEl.appendChild(opt);
+      const matchName = city.name.toLowerCase().includes(query);
+      const matchDept = city.department && city.department.toLowerCase().includes(query);
+      if (query && !matchName && !matchDept) return;
+
+      const isChecked = this.selectedCityIds.has(city.id);
+      const itemEl = document.createElement("label");
+      itemEl.className = `city-checkbox-item ${isChecked ? "checked" : ""}`;
+      itemEl.dataset.cityId = city.id;
+
+      const deptCode = city.department ? city.department.split(" - ")[0] : "";
+
+      itemEl.innerHTML = `
+        <input type="checkbox" value="${city.id}" class="city-checkbox-input" ${isChecked ? "checked" : ""}>
+        <div class="city-checkbox-label">
+          <span class="city-checkbox-name">${city.name}</span>
+          <span class="city-checkbox-count">${city.count} 🪧</span>
+        </div>
+        ${deptCode ? `<span class="city-checkbox-dept">${deptCode}</span>` : ""}
+      `;
+
+      const inputEl = itemEl.querySelector("input");
+      inputEl.addEventListener("change", (e) => {
+        if (e.target.checked) {
+          this.selectedCityIds.add(city.id);
+          itemEl.classList.add("checked");
+        } else {
+          // Empêcher de tout décocher si c'était la dernière
+          if (this.selectedCityIds.size <= 1) {
+            e.target.checked = true;
+            alert("Au moins une commune doit rester sélectionnée.");
+            return;
+          }
+          this.selectedCityIds.delete(city.id);
+          itemEl.classList.remove("checked");
+        }
+        this.updateCityLabels();
+      });
+
+      this.citiesCheckboxesListEl.appendChild(itemEl);
     });
+
+    this.updateCityLabels();
+  }
+
+  updateCityLabels() {
+    this.activeCities = this.cities.filter(c => this.selectedCityIds.has(c.id));
+    this.activeCity = this.activeCities[0] || null;
+
+    const count = this.activeCities.length;
+    const totalPanels = this.activeCities.reduce((sum, c) => sum + (c.count || 0), 0);
+
+    let labelText = "";
+    if (count === 0) {
+      labelText = "Sélectionner des communes...";
+    } else if (count === 1) {
+      labelText = `📍 ${this.activeCities[0].name} (${this.activeCities[0].count} 🪧)`;
+    } else if (count === 2) {
+      labelText = `📍 ${this.activeCities.map(c => c.name).join(", ")} (${totalPanels} 🪧)`;
+    } else {
+      labelText = `📍 ${count} communes (${totalPanels} 🪧)`;
+    }
+
+    if (this.cityTriggerLabelEl) {
+      this.cityTriggerLabelEl.textContent = labelText;
+    }
+    if (this.activeCityBadgeEl) {
+      this.activeCityBadgeEl.innerHTML = labelText;
+    }
+    if (this.selectedCitiesCountEl) {
+      this.selectedCitiesCountEl.textContent = count > 1 ? `${count} communes` : `1 commune`;
+    }
+    if (this.btnApplyCitiesEl) {
+      this.btnApplyCitiesEl.textContent = `Valider (${count} commune${count > 1 ? 's' : ''} • ${totalPanels} 🪧)`;
+    }
   }
 
   async selectCity(cityId) {
-    const city = this.cities.find(c => c.id === cityId);
-    if (!city) return;
+    this.selectedCityIds.clear();
+    this.selectedCityIds.add(cityId);
+    this.renderCitiesList();
+    await this.loadPanelsForSelectedCities(true);
+  }
 
-    this.activeCity = city;
-    this.citySelectEl.value = city.id;
-    this.activeCityBadgeEl.innerHTML = `📍 ${city.name} (${city.count} 🪧)`;
+  async loadPanelsForSelectedCities(zoomToFit = true) {
+    if (this.selectedCityIds.size === 0) {
+      const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
+      if (defaultCity) this.selectedCityIds.add(defaultCity.id);
+    }
 
-    // Recentrer la carte
-    this.map.focusCity(city.center, 13);
+    this.activeCities = this.cities.filter(c => this.selectedCityIds.has(c.id));
+    this.activeCity = this.activeCities[0] || null;
+    this.updateCityLabels();
 
-    // Charger les panneaux GeoJSON de la ville
-    await this.loadPanelsData(city);
+    const featuresList = [];
 
-    // Initialiser par défaut le point de départ au centre de la ville si aucun point n'est défini
-    if (!this.startCoord) {
-      this.startCoord = city.center;
-      this.startAddress = `Centre-ville de ${city.name}`;
+    for (const city of this.activeCities) {
+      let geojson = this.cityGeoJsonCache.get(city.id);
+      if (!geojson) {
+        // Vérifier le localStorage pour les villes personnalisées
+        const customKey = `city_${city.id}`;
+        const customItem = localStorage.getItem(customKey);
+        if (customItem) {
+          try {
+            geojson = JSON.parse(customItem).geojson;
+          } catch (e) {}
+        }
+
+        if (!geojson) {
+          try {
+            const resp = await fetch(`data/${city.file}`);
+            if (resp.ok) {
+              geojson = await resp.json();
+            }
+          } catch (e) {
+            console.warn(`Erreur chargement ${city.name}:`, e);
+          }
+        }
+
+        if (geojson) {
+          this.cityGeoJsonCache.set(city.id, geojson);
+        }
+      }
+
+      if (geojson && Array.isArray(geojson.features)) {
+        featuresList.push(...geojson.features);
+      }
+    }
+
+    // Déduplication par coordonnées GPS
+    const seen = new Set();
+    const uniqueFeatures = [];
+    featuresList.forEach((feat, idx) => {
+      const coordsKey = feat.geometry && feat.geometry.coordinates 
+        ? `${feat.geometry.coordinates[0].toFixed(5)},${feat.geometry.coordinates[1].toFixed(5)}` 
+        : `idx_${idx}`;
+      if (!seen.has(coordsKey)) {
+        seen.add(coordsKey);
+        uniqueFeatures.push(feat);
+      }
+    });
+
+    this.activePanelsData = {
+      type: "FeatureCollection",
+      features: uniqueFeatures
+    };
+
+    // Mettre à jour les panneaux sur la carte
+    this.map.setUnusedPanels(this.activePanelsData.features);
+
+    // Mettre à jour les contrôles de quantité (max disponible)
+    this.updateCountControls();
+
+    // Ajuster le zoom de la carte pour englober toutes les communes choisies
+    if (zoomToFit && uniqueFeatures.length > 0) {
+      this.map.focusPanels(uniqueFeatures);
+    }
+
+    // Initialiser par défaut le point de départ au centre de la première ville si aucun point n'est défini
+    if (!this.startCoord && this.activeCity) {
+      this.startCoord = this.activeCity.center;
+      this.startAddress = `Centre de ${this.activeCity.name}`;
       this.addressInputEl.value = this.startAddress;
       this.updateClearBtnVisibility();
       this.map.setStartPoint(this.startCoord, this.startAddress);
+    }
+  }
+
+  toggleCitiesPopover() {
+    if (!this.citiesPopoverEl) return;
+    const isClosed = this.citiesPopoverEl.style.display === "none";
+    if (isClosed) {
+      this.openCitiesPopover();
+    } else {
+      this.closeCitiesPopover();
+      this.loadPanelsForSelectedCities(false);
+    }
+  }
+
+  openCitiesPopover() {
+    if (!this.citiesPopoverEl) return;
+    this.citiesPopoverEl.style.display = "flex";
+    if (this.btnToggleCitiesEl) {
+      this.btnToggleCitiesEl.classList.add("active");
+      this.btnToggleCitiesEl.setAttribute("aria-expanded", "true");
+    }
+    if (this.citiesSearchInputEl) {
+      setTimeout(() => this.citiesSearchInputEl.focus(), 60);
+    }
+  }
+
+  closeCitiesPopover() {
+    if (!this.citiesPopoverEl) return;
+    this.citiesPopoverEl.style.display = "none";
+    if (this.btnToggleCitiesEl) {
+      this.btnToggleCitiesEl.classList.remove("active");
+      this.btnToggleCitiesEl.setAttribute("aria-expanded", "false");
     }
   }
 
@@ -211,8 +408,8 @@ class TourApp {
     if (this.activePanelsData && Array.isArray(this.activePanelsData.features)) {
       return this.activePanelsData.features.length;
     }
-    if (this.activeCity && typeof this.activeCity.count === 'number') {
-      return this.activeCity.count;
+    if (this.activeCities && this.activeCities.length > 0) {
+      return this.activeCities.reduce((sum, c) => sum + (c.count || 0), 0);
     }
     return 20;
   }
@@ -263,43 +460,75 @@ class TourApp {
     }
   }
 
-  async loadPanelsData(city) {
-    // Vérifier d'abord le localStorage pour une ville personnalisée
-    const customKey = `city_${city.id}`;
-    const customItem = localStorage.getItem(customKey);
-    if (customItem) {
-      try {
-        const parsed = JSON.parse(customItem);
-        this.activePanelsData = parsed.geojson;
-        this.map.setUnusedPanels(this.activePanelsData.features);
-        this.updateCountControls();
-        return;
-      } catch (e) {}
-    }
-
-    // Sinon charger le fichier statique data/panels/...
-    try {
-      const resp = await fetch(`data/${city.file}`);
-      if (resp.ok) {
-        this.activePanelsData = await resp.json();
-        this.map.setUnusedPanels(this.activePanelsData.features);
-      }
-    } catch (e) {
-      console.error("Erreur chargement des panneaux de la ville:", e);
-    }
-    this.updateCountControls();
-  }
-
   setupEventListeners() {
-    // Changement de ville
-    this.citySelectEl.addEventListener("change", (e) => {
-      this.startCoord = null;
-      this.selectCity(e.target.value);
-    });
+    // Bouton déroulant du choix des villes
+    if (this.btnToggleCitiesEl) {
+      this.btnToggleCitiesEl.addEventListener("click", (e) => {
+        e.stopPropagation();
+        this.toggleCitiesPopover();
+      });
+    }
 
-    // Clic sur le badge de ville pour ouvrir le sélecteur
-    this.activeCityBadgeEl.addEventListener("click", () => {
-      this.citySelectEl.focus();
+    // Clic sur le badge de ville dans l'en-tête pour ouvrir le sélecteur
+    if (this.activeCityBadgeEl) {
+      this.activeCityBadgeEl.addEventListener("click", () => {
+        if (this.sidePanelEl.classList.contains("collapsed")) {
+          this.sidePanelEl.classList.remove("collapsed");
+        }
+        this.openCitiesPopover();
+        if (this.btnToggleCitiesEl) {
+          this.btnToggleCitiesEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        }
+      });
+    }
+
+    // Recherche / filtrage en direct dans le volet des communes
+    if (this.citiesSearchInputEl) {
+      this.citiesSearchInputEl.addEventListener("input", (e) => {
+        this.renderCitiesList(e.target.value);
+      });
+    }
+
+    // Action "Tout cocher"
+    if (this.btnSelectAllCitiesEl) {
+      this.btnSelectAllCitiesEl.addEventListener("click", () => {
+        const query = this.citiesSearchInputEl ? this.citiesSearchInputEl.value.toLowerCase().trim() : "";
+        this.cities.forEach(city => {
+          if (!query || city.name.toLowerCase().includes(query) || (city.department && city.department.toLowerCase().includes(query))) {
+            this.selectedCityIds.add(city.id);
+          }
+        });
+        this.renderCitiesList(query);
+      });
+    }
+
+    // Action "Tout décocher"
+    if (this.btnDeselectAllCitiesEl) {
+      this.btnDeselectAllCitiesEl.addEventListener("click", () => {
+        const first = this.cities[0]?.id || "lyon";
+        this.selectedCityIds.clear();
+        this.selectedCityIds.add(first);
+        const query = this.citiesSearchInputEl ? this.citiesSearchInputEl.value.toLowerCase().trim() : "";
+        this.renderCitiesList(query);
+      });
+    }
+
+    // Validation de la sélection
+    if (this.btnApplyCitiesEl) {
+      this.btnApplyCitiesEl.addEventListener("click", async () => {
+        this.closeCitiesPopover();
+        await this.loadPanelsForSelectedCities(true);
+      });
+    }
+
+    // Fermer le volet déroulant si clic en dehors
+    document.addEventListener("click", (e) => {
+      if (this.citiesPopoverEl && this.citiesPopoverEl.style.display !== "none") {
+        if (!e.target.closest(".city-multiselect-wrapper") && !e.target.closest("#active-city-badge")) {
+          this.closeCitiesPopover();
+          this.loadPanelsForSelectedCities(false);
+        }
+      }
     });
 
     // Boutons de quantité de panneaux (10, 15, 20, Tous)
@@ -924,6 +1153,9 @@ class TourApp {
     const tourId = this.tracker ? this.tracker.generateTourId() : `TRN-${Date.now()}`;
     url.searchParams.set("tid", tourId);
 
+    if (this.selectedCityIds && this.selectedCityIds.size > 0) {
+      url.searchParams.set("cities", Array.from(this.selectedCityIds).join(","));
+    }
     if (this.activeCity && this.activeCity.id) {
       url.searchParams.set("city", this.activeCity.id);
     }
@@ -1180,8 +1412,21 @@ class TourApp {
       }
       if (!targetCity) return;
 
-      // Charger proprement la commune et ses panneaux
-      await this.selectCity(targetCity.id);
+      // Charger proprement les communes et leurs panneaux
+      const citiesParam = urlParams.get("cities");
+      if (citiesParam) {
+        const ids = citiesParam.split(",").map(s => s.trim()).filter(id => this.cities.some(c => c.id === id));
+        if (ids.length > 0) {
+          this.selectedCityIds = new Set(ids);
+        }
+      } else if (cityId && this.cities.some(c => c.id === cityId)) {
+        this.selectedCityIds = new Set([cityId]);
+      } else if (targetCity) {
+        this.selectedCityIds = new Set([targetCity.id]);
+      }
+
+      this.renderCitiesList();
+      await this.loadPanelsForSelectedCities(false);
 
       // 2. Point de départ
       if (startParam) {

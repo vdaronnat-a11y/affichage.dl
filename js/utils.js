@@ -34,3 +34,25 @@ export function formatPanelDisplayName(panel, isMultiCity) {
   }
   return name;
 }
+
+/**
+ * Détecte les caractéristiques de l'appareil courant (Mobile / Tablette / Desktop, iOS, Android, Mac)
+ * @returns {Object}
+ */
+export function getDeviceInfo() {
+  const ua = (typeof navigator !== "undefined" ? navigator.userAgent : "") || "";
+  const isIOS = /iPhone|iPad|iPod/i.test(ua) || 
+                (typeof navigator !== "undefined" && navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const isAndroid = /Android/i.test(ua);
+  const hasTouch = (typeof window !== "undefined" && window.matchMedia("(pointer: coarse)").matches) || 
+                   (typeof navigator !== "undefined" && navigator.maxTouchPoints > 0);
+  const isMobile = isIOS || isAndroid || (hasTouch && typeof window !== "undefined" && window.innerWidth < 1024);
+
+  return {
+    isMobile: isMobile,
+    isDesktop: !isMobile,
+    isIOS: isIOS,
+    isAndroid: isAndroid,
+    isMac: /Macintosh|Mac OS X/i.test(ua) && !isIOS
+  };
+}

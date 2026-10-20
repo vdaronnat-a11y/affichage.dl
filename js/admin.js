@@ -227,10 +227,16 @@ export class TourAdmin {
   }
 
   exportCurrentCityToMyMaps() {
-    if (window.tourApp && window.tourApp.activeCity && window.tourApp.activePanelsData) {
-      this.exportToGoogleMyMapsCSV(window.tourApp.activeCity.name, window.tourApp.activePanelsData.features);
+    if (window.tourApp && window.tourApp.activePanelsData) {
+      let exportName = "Panneaux";
+      if (window.tourApp.activeCities && window.tourApp.activeCities.length > 0) {
+        exportName = window.tourApp.activeCities.map(c => c.name).join("_");
+      } else if (window.tourApp.activeCity) {
+        exportName = window.tourApp.activeCity.name;
+      }
+      this.exportToGoogleMyMapsCSV(exportName, window.tourApp.activePanelsData.features);
     } else {
-      alert("Veuillez sélectionner une ville pour exporter ses panneaux.");
+      alert("Veuillez sélectionner au moins une ville pour exporter ses panneaux.");
     }
   }
 

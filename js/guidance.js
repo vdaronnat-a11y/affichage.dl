@@ -3,7 +3,67 @@
  * Gestion étape par étape, deep-linking Google Maps / Waze, signaux sonores et boucle de retour
  */
 
-import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
+import { checkIsMultiCityTour, formatPanelDisplayName, getDeviceInfo } from "./utils.js?v=3.3";
+
+export const NAV_APPS = {
+  gmaps: {
+    id: "gmaps",
+    name: "Google Maps",
+    shortName: "Google Maps",
+    icon: "🗺️",
+    desc: "Itinéraire & trafic en temps réel",
+    gradient: "linear-gradient(135deg, #1a73e8, #4285f4)",
+    isAvailable: () => true,
+    getUrl: (lat, lon, dev) => `https://www.google.com/maps/dir/?api=1&destination=${lat.toFixed(6)},${lon.toFixed(6)}&travelmode=driving`
+  },
+  waze: {
+    id: "waze",
+    name: "Waze",
+    shortName: "Waze",
+    icon: "🚙",
+    desc: "Alertes communautaires et trafic",
+    gradient: "linear-gradient(135deg, #00b0ff, #0088cc)",
+    isAvailable: () => true,
+    getUrl: (lat, lon, dev) => {
+      if (dev && dev.isMobile) {
+        return `https://waze.com/ul?ll=${lat.toFixed(6)},${lon.toFixed(6)}&navigate=yes`;
+      }
+      return `https://www.waze.com/live-map/directions?to=ll.${lat.toFixed(6)}%2C${lon.toFixed(6)}`;
+    }
+  },
+  apple: {
+    id: "apple",
+    name: "Apple Plans",
+    shortName: "Apple Plans",
+    icon: "🍎",
+    desc: "Application intégrée Apple",
+    gradient: "linear-gradient(135deg, #a855f7, #6366f1)",
+    isAvailable: (dev) => dev && (dev.isIOS || dev.isMac),
+    getUrl: (lat, lon, dev) => `https://maps.apple.com/?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&dirflg=d`
+  },
+  roote: {
+    id: "roote",
+    name: "Roote",
+    shortName: "Roote",
+    icon: "🏍️",
+    desc: "GPS communautaire spécial motards",
+    gradient: "linear-gradient(135deg, #f97316, #ea580c)",
+    isAvailable: (dev) => dev && dev.isMobile,
+    isCustomScheme: true,
+    getUrl: (lat, lon, dev) => `roote://navigate?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}`
+  },
+  system: {
+    id: "system",
+    name: "GPS Système (au choix)",
+    shortName: "GPS Système",
+    icon: "🧭",
+    desc: "Sélecteur d'applications Android",
+    gradient: "linear-gradient(135deg, #64748b, #475569)",
+    isAvailable: (dev) => dev && dev.isAndroid,
+    isCustomScheme: true,
+    getUrl: (lat, lon, dev) => `geo:${lat.toFixed(6)},${lon.toFixed(6)}?q=${lat.toFixed(6)},${lon.toFixed(6)}`
+  }
+};
 
 export class TourGuidance {
   constructor(options) {
@@ -21,6 +81,9 @@ export class TourGuidance {
     this.panelStatuses = []; // Historique des statuts { panel, status: 'pasted' | 'not_found', comment, reason }
     this.audioCtx = null;
 
+    this.currentTargetLat = null;
+    this.currentTargetLon = null;
+
     this.initElements();
   }
 
@@ -29,11 +92,25 @@ export class TourGuidance {
     this.progressBarEl = document.getElementById("guidance-progress-bar");
     this.addressEl = document.getElementById("guidance-address");
     this.notesEl = document.getElementById("guidance-notes");
-    this.btnGmapsEl = document.getElementById("btn-nav-gmaps");
-    this.btnWazeEl = document.getElementById("btn-nav-waze");
+
+    // Boutons de navigation GPS
+    this.btnNavMainEl = document.getElementById("btn-nav-main");
+    this.btnNavIconEl = document.getElementById("btn-nav-icon");
+    this.btnNavLabelEl = document.getElementById("btn-nav-label");
+    this.btnNavSettingsEl = document.getElementById("btn-nav-settings");
+
+    // Modale choix GPS
+    this.gpsModalEl = document.getElementById("gps-choice-modal");
+    this.btnCloseGpsModalEl = document.getElementById("btn-close-gps-modal");
+    this.gpsOptionsListEl = document.getElementById("gps-options-list");
+    this.chkRememberGpsEl = document.getElementById("chk-remember-gps");
+
     this.btnPastedEl = document.getElementById("btn-pasted-giant");
     this.btnNotFoundEl = document.getElementById("btn-panel-not-found");
     this.btnExitEl = document.getElementById("btn-exit-guidance");
+    this.btnMinimizeGuidanceEl = document.getElementById("btn-minimize-guidance");
+    this.guidancePullHandleEl = document.getElementById("guidance-pull-handle");
+    this.guidanceSheetHandleEl = document.getElementById("guidance-sheet-handle");
 
     // Éléments de la modale Pas Trouvé
     this.notFoundModalEl = document.getElementById("not-found-modal");
@@ -52,6 +129,96 @@ export class TourGuidance {
     }
     if (this.btnExitEl) {
       this.btnExitEl.addEventListener("click", () => this.exit());
+    }
+
+    // Gestion du clic sur le bouton de navigation principal
+    if (this.btnNavMainEl) {
+      this.btnNavMainEl.addEventListener("click", (e) => {
+        const currentAppId = this.getPreferredNavAppId();
+        if (!currentAppId) {
+          e.preventDefault();
+          this.openGpsModal();
+          return;
+        }
+        const app = NAV_APPS[currentAppId];
+        if (app && app.isCustomScheme) {
+          e.preventDefault();
+          if (this.currentTargetLat != null && this.currentTargetLon != null) {
+            const dev = getDeviceInfo();
+            const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
+            window.location.href = url;
+          }
+        }
+      });
+    }
+
+    // Bouton de configuration du GPS
+    if (this.btnNavSettingsEl) {
+      this.btnNavSettingsEl.addEventListener("click", () => this.openGpsModal());
+    }
+
+    // Fermeture de la modale GPS
+    if (this.btnCloseGpsModalEl) {
+      this.btnCloseGpsModalEl.addEventListener("click", () => this.closeGpsModal());
+    }
+    if (this.gpsModalEl) {
+      this.gpsModalEl.addEventListener("click", (e) => {
+        if (e.target === this.gpsModalEl) {
+          this.closeGpsModal();
+        }
+      });
+    }
+
+    // Réduction du guidage via le bouton '▼ Réduire'
+    if (this.btnMinimizeGuidanceEl) {
+      this.btnMinimizeGuidanceEl.addEventListener("click", () => this.collapse());
+    }
+
+    // Réduction du guidage via la tirette / barre supérieure
+    if (this.guidancePullHandleEl) {
+      this.guidancePullHandleEl.addEventListener("click", () => this.collapse());
+
+      let pullStartY = null;
+      this.guidancePullHandleEl.addEventListener("touchstart", (e) => {
+        pullStartY = e.touches[0].clientY;
+      }, { passive: true });
+
+      this.guidancePullHandleEl.addEventListener("touchmove", (e) => {
+        if (pullStartY === null) return;
+        const diff = e.touches[0].clientY - pullStartY;
+        if (diff > 15) {
+          this.collapse();
+          pullStartY = null;
+        }
+      }, { passive: true });
+
+      this.guidancePullHandleEl.addEventListener("touchend", () => {
+        pullStartY = null;
+      }, { passive: true });
+    }
+
+    // Réouverture du guidage via la poignée flottante basse
+    if (this.guidanceSheetHandleEl) {
+      this.guidanceSheetHandleEl.addEventListener("click", () => this.expand());
+
+      let touchStartY = null;
+      this.guidanceSheetHandleEl.addEventListener("touchstart", (e) => {
+        touchStartY = e.touches[0].clientY;
+      }, { passive: true });
+
+      this.guidanceSheetHandleEl.addEventListener("touchmove", (e) => {
+        if (touchStartY === null) return;
+        const currentY = e.touches[0].clientY;
+        const diff = touchStartY - currentY;
+        if (diff > 15) {
+          this.expand();
+          touchStartY = null;
+        }
+      }, { passive: true });
+
+      this.guidanceSheetHandleEl.addEventListener("touchend", () => {
+        touchStartY = null;
+      }, { passive: true });
     }
 
     // Gestion des événements de la modale Pas Trouvé
@@ -83,6 +250,45 @@ export class TourGuidance {
           }
         });
       });
+    }
+  }
+
+  /**
+   * Réduit la popup de guidage pour dégager la carte
+   */
+  collapse() {
+    if (this.container) {
+      this.container.classList.add("collapsed");
+    }
+    this.updateCollapsedHandleText();
+    if (this.guidanceSheetHandleEl) {
+      this.guidanceSheetHandleEl.style.display = "flex";
+    }
+  }
+
+  /**
+   * Ré-affiche la popup de guidage au premier plan
+   */
+  expand() {
+    if (this.container) {
+      this.container.classList.remove("collapsed");
+    }
+    if (this.guidanceSheetHandleEl) {
+      this.guidanceSheetHandleEl.style.display = "none";
+    }
+  }
+
+  /**
+   * Met à jour le libellé de la poignée basse quand le guidage est replié
+   */
+  updateCollapsedHandleText() {
+    if (!this.guidanceSheetHandleEl) return;
+    const isReturnStep = this.currentIndex === this.panels.length;
+    if (isReturnStep) {
+      this.guidanceSheetHandleEl.innerHTML = `▲ Retour au départ ▲`;
+    } else {
+      const stepNum = this.currentIndex + 1;
+      this.guidanceSheetHandleEl.innerHTML = `▲ Panneau ${stepNum}/${this.panels.length} ▲`;
     }
   }
 
@@ -193,6 +399,7 @@ export class TourGuidance {
     }
 
     this.container.style.display = "flex";
+    this.expand();
     this.renderCurrentStep();
   }
 
@@ -325,14 +532,136 @@ export class TourGuidance {
     this.addressEl.textContent = targetTitle;
     this.notesEl.textContent = targetNotes;
 
-    // Liens profonds GPS
-    // Google Maps Navigation URL universelle (ouvre directement l'appli sur Android/iOS)
-    const gmapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${targetLat.toFixed(6)},${targetLon.toFixed(6)}&travelmode=driving`;
-    this.btnGmapsEl.href = gmapsUrl;
+    // Mise à jour de la cible courante pour la navigation GPS
+    this.currentTargetLat = targetLat;
+    this.currentTargetLon = targetLon;
+    this.updateNavButton();
 
-    // Waze Navigation URL universelle
-    const wazeUrl = `https://waze.com/ul?ll=${targetLat.toFixed(6)},${targetLon.toFixed(6)}&navigate=yes`;
-    this.btnWazeEl.href = wazeUrl;
+    // Mise à jour du texte de la poignée repliée
+    this.updateCollapsedHandleText();
+  }
+
+  /**
+   * Retourne l'identifiant de l'application GPS préférée
+   * @returns {string|null}
+   */
+  getPreferredNavAppId() {
+    const dev = getDeviceInfo();
+    const saved = localStorage.getItem("preferred_nav_app");
+    if (saved && NAV_APPS[saved] && NAV_APPS[saved].isAvailable(dev)) {
+      return saved;
+    }
+    // Sur desktop (PC / Mac), Google Maps est présélectionné par défaut si aucun choix n'a été fait
+    if (dev && dev.isDesktop) {
+      return "gmaps";
+    }
+    return null;
+  }
+
+  /**
+   * Met à jour le bouton principal de navigation selon l'application préférée et l'étape courante
+   */
+  updateNavButton() {
+    if (!this.btnNavMainEl) return;
+    const dev = getDeviceInfo();
+    const currentAppId = this.getPreferredNavAppId();
+    const app = NAV_APPS[currentAppId];
+
+    if (app && this.currentTargetLat != null && this.currentTargetLon != null) {
+      const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
+      this.btnNavMainEl.href = url;
+      if (this.btnNavIconEl) this.btnNavIconEl.textContent = app.icon;
+      if (this.btnNavLabelEl) this.btnNavLabelEl.textContent = `Naviguer avec ${app.shortName}`;
+      this.btnNavMainEl.style.background = app.gradient;
+      this.btnNavMainEl.title = `Ouvrir l'itinéraire dans ${app.name}`;
+    } else {
+      this.btnNavMainEl.href = "#";
+      if (this.btnNavIconEl) this.btnNavIconEl.textContent = "🧭";
+      if (this.btnNavLabelEl) this.btnNavLabelEl.textContent = "Choisir mon GPS...";
+      this.btnNavMainEl.style.background = "linear-gradient(135deg, #0284c7, #2563eb)";
+      this.btnNavMainEl.title = "Sélectionner une application GPS";
+    }
+  }
+
+  /**
+   * Ouvre la modale de sélection de l'application GPS
+   */
+  openGpsModal() {
+    if (!this.gpsModalEl || !this.gpsOptionsListEl) return;
+    const dev = getDeviceInfo();
+    const currentAppId = this.getPreferredNavAppId();
+
+    this.gpsOptionsListEl.innerHTML = "";
+
+    Object.values(NAV_APPS).forEach(app => {
+      if (!app.isAvailable(dev)) return;
+
+      const isCurrent = (currentAppId === app.id);
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = `gps-option-btn ${isCurrent ? "selected" : ""}`;
+      btn.innerHTML = `
+        <span class="gps-option-icon">${app.icon}</span>
+        <div class="gps-option-info">
+          <div class="gps-option-title-row">
+            <span class="gps-option-title">${app.name}</span>
+            ${isCurrent ? '<span class="gps-option-badge current">Actif</span>' : ''}
+          </div>
+          <span class="gps-option-desc">${app.desc}</span>
+        </div>
+      `;
+
+      btn.addEventListener("click", () => {
+        this.selectNavApp(app.id, true);
+      });
+
+      this.gpsOptionsListEl.appendChild(btn);
+    });
+
+    this.gpsModalEl.classList.add("active");
+  }
+
+  /**
+   * Ferme la modale de sélection GPS
+   */
+  closeGpsModal() {
+    if (this.gpsModalEl) {
+      this.gpsModalEl.classList.remove("active");
+    }
+  }
+
+  /**
+   * Sélectionne une application GPS (avec ou sans mémorisation) et lance éventuellement la navigation
+   * @param {string} appId
+   * @param {boolean} openNow
+   */
+  selectNavApp(appId, openNow = false) {
+    const app = NAV_APPS[appId];
+    if (!app) return;
+
+    const shouldRemember = this.chkRememberGpsEl ? this.chkRememberGpsEl.checked : true;
+    if (shouldRemember) {
+      try {
+        localStorage.setItem("preferred_nav_app", appId);
+      } catch (e) {}
+    } else {
+      try {
+        localStorage.removeItem("preferred_nav_app");
+      } catch (e) {}
+    }
+
+    this.closeGpsModal();
+    this.updateNavButton();
+
+    if (openNow && this.currentTargetLat != null && this.currentTargetLon != null) {
+      const dev = getDeviceInfo();
+      const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
+      if (app.isCustomScheme) {
+        window.location.href = url;
+      } else {
+        window.open(url, "_blank");
+      }
+    }
   }
 
   nextStep() {
@@ -364,7 +693,11 @@ export class TourGuidance {
   }
 
   finish() {
+    this.expand();
     this.container.style.display = "none";
+    if (this.guidanceSheetHandleEl) {
+      this.guidanceSheetHandleEl.style.display = "none";
+    }
 
     const pastedCount = this.panelStatuses.filter(s => s.status === "pasted").length;
     const notFoundCount = this.panelStatuses.filter(s => s.status === "not_found").length;
@@ -399,7 +732,11 @@ export class TourGuidance {
         } catch (e) {}
       }
 
+      this.expand();
       this.container.style.display = "none";
+      if (this.guidanceSheetHandleEl) {
+        this.guidanceSheetHandleEl.style.display = "none";
+      }
       if (this.onExit) this.onExit();
     }
   }

@@ -210,4 +210,16 @@ export class TourMap {
   focusCity(centerCoords, zoom = 13) {
     this.map.setView([centerCoords[1], centerCoords[0]], zoom, { animate: true });
   }
+
+  /**
+   * Ajuste la vue pour englober l'ensemble des panneaux fournis (multi-villes)
+   */
+  focusPanels(panels) {
+    if (!panels || panels.length === 0) return;
+    const coords = panels.map(p => [p.geometry.coordinates[1], p.geometry.coordinates[0]]);
+    const bounds = L.latLngBounds(coords);
+    if (bounds.isValid()) {
+      this.map.fitBounds(bounds, { padding: [40, 40], maxZoom: 15 });
+    }
+  }
 }
