@@ -8,10 +8,10 @@ import { checkIsMultiCityTour, formatPanelDisplayName, getDeviceInfo } from "./u
 export const NAV_APPS = {
   system: {
     id: "system",
-    name: "GPS Système (Android)",
+    name: "GPS Système (au choix)",
     shortName: "GPS Système",
     icon: "🧭",
-    desc: "Sélecteur natif d'Android (Maps, Waze, etc.)",
+    desc: "Ouvre Roote, Waze, Maps... selon vos préférences Android",
     gradient: "linear-gradient(135deg, #0284c7, #2563eb)",
     isAvailable: (dev) => dev && dev.isAndroid,
     isCustomScheme: true,
@@ -64,17 +64,6 @@ export const NAV_APPS = {
     isAvailable: (dev) => dev && (dev.isIOS || dev.isMac),
     isCustomScheme: false,
     getUrl: (lat, lon) => `https://maps.apple.com/?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&dirflg=d`
-  },
-  roote: {
-    id: "roote",
-    name: "Roote",
-    shortName: "Roote",
-    icon: "🏍️",
-    desc: "Application Roote native",
-    gradient: "linear-gradient(135deg, #f97316, #ea580c)",
-    isAvailable: (dev) => dev && dev.isMobile,
-    isCustomScheme: true,
-    getUrl: (lat, lon) => `roote://navigate?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}`
   }
 };
 
