@@ -4,7 +4,7 @@
 
 import { TourMap } from "./map.js?v=3.3";
 import { TourRouter } from "./router.js?v=3.2";
-import { TourGuidance } from "./guidance.js?v=3.4";
+import { TourGuidance } from "./guidance.js?v=3.5";
 import { TourAdmin } from "./admin.js?v=3.2";
 import { TourTracker } from "./tracker.js?v=3.2";
 import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";

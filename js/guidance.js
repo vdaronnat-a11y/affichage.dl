@@ -11,7 +11,7 @@ export const NAV_APPS = {
     name: "GPS Système (au choix)",
     shortName: "GPS Système",
     icon: "🧭",
-    desc: "Ouvre Roote, Waze, Maps... selon vos préférences Android",
+    desc: "Ouvre l'application de votre choix (Waze, Google Maps, etc.)",
     gradient: "linear-gradient(135deg, #0284c7, #2563eb)",
     isAvailable: (dev) => dev && dev.isAndroid,
     isCustomScheme: true,
@@ -547,7 +547,10 @@ export class TourGuidance {
   getPreferredNavAppId() {
     const dev = getDeviceInfo();
     const saved = localStorage.getItem("preferred_nav_app");
-    if (saved && NAV_APPS[saved] && NAV_APPS[saved].isAvailable(dev)) {
+    if (saved === "roote") {
+      try { localStorage.removeItem("preferred_nav_app"); } catch (e) {}
+    }
+    if (saved && saved !== "roote" && NAV_APPS[saved] && NAV_APPS[saved].isAvailable(dev)) {
       return saved;
     }
     // Sur Android par défaut : le sélecteur d'application système natif geo:
@@ -567,7 +570,7 @@ export class TourGuidance {
 
   /**
    * Lance la navigation vers l'application GPS ciblée
-   * Sur mobile ou schémas d'apps natives (google.navigation:, waze:, roote:, geo:),
+   * Sur mobile ou schémas d'apps natives (google.navigation:, waze:, geo:),
    * l'assignation de window.location.href déclenche directement l'application sans ouvrir de page web.
    * @param {string} url
    * @param {Object} dev
