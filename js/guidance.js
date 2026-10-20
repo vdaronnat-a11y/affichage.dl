@@ -6,27 +6,50 @@
 import { checkIsMultiCityTour, formatPanelDisplayName, getDeviceInfo } from "./utils.js?v=3.3";
 
 export const NAV_APPS = {
+  system: {
+    id: "system",
+    name: "GPS Système (Android)",
+    shortName: "GPS Système",
+    icon: "🧭",
+    desc: "Sélecteur natif d'Android (Maps, Waze, etc.)",
+    gradient: "linear-gradient(135deg, #0284c7, #2563eb)",
+    isAvailable: (dev) => dev && dev.isAndroid,
+    isCustomScheme: true,
+    getUrl: (lat, lon) => `geo:${lat.toFixed(6)},${lon.toFixed(6)}?q=${lat.toFixed(6)},${lon.toFixed(6)}`
+  },
   gmaps: {
     id: "gmaps",
     name: "Google Maps",
     shortName: "Google Maps",
     icon: "🗺️",
-    desc: "Itinéraire & trafic en temps réel",
+    desc: "Application Google Maps native",
     gradient: "linear-gradient(135deg, #1a73e8, #4285f4)",
     isAvailable: () => true,
-    getUrl: (lat, lon, dev) => `https://www.google.com/maps/dir/?api=1&destination=${lat.toFixed(6)},${lon.toFixed(6)}&travelmode=driving`
+    isCustomScheme: true,
+    getUrl: (lat, lon, dev) => {
+      if (dev && dev.isAndroid) {
+        // Lance directement l'app native Google Maps en guidage virage par virage
+        return `google.navigation:q=${lat.toFixed(6)},${lon.toFixed(6)}&mode=d`;
+      }
+      if (dev && dev.isIOS) {
+        return `comgooglemaps://?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&directionsmode=driving`;
+      }
+      return `https://www.google.com/maps/dir/?api=1&destination=${lat.toFixed(6)},${lon.toFixed(6)}&travelmode=driving`;
+    }
   },
   waze: {
     id: "waze",
     name: "Waze",
     shortName: "Waze",
     icon: "🚙",
-    desc: "Alertes communautaires et trafic",
+    desc: "Application Waze native",
     gradient: "linear-gradient(135deg, #00b0ff, #0088cc)",
     isAvailable: () => true,
+    isCustomScheme: true,
     getUrl: (lat, lon, dev) => {
       if (dev && dev.isMobile) {
-        return `https://waze.com/ul?ll=${lat.toFixed(6)},${lon.toFixed(6)}&navigate=yes`;
+        // Lance directement l'app native Waze
+        return `waze://?ll=${lat.toFixed(6)},${lon.toFixed(6)}&navigate=yes`;
       }
       return `https://www.waze.com/live-map/directions?to=ll.${lat.toFixed(6)}%2C${lon.toFixed(6)}`;
     }
@@ -36,32 +59,22 @@ export const NAV_APPS = {
     name: "Apple Plans",
     shortName: "Apple Plans",
     icon: "🍎",
-    desc: "Application intégrée Apple",
+    desc: "Application native Apple",
     gradient: "linear-gradient(135deg, #a855f7, #6366f1)",
     isAvailable: (dev) => dev && (dev.isIOS || dev.isMac),
-    getUrl: (lat, lon, dev) => `https://maps.apple.com/?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&dirflg=d`
+    isCustomScheme: false,
+    getUrl: (lat, lon) => `https://maps.apple.com/?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&dirflg=d`
   },
   roote: {
     id: "roote",
     name: "Roote",
     shortName: "Roote",
     icon: "🏍️",
-    desc: "GPS communautaire spécial motards",
+    desc: "Application Roote native",
     gradient: "linear-gradient(135deg, #f97316, #ea580c)",
     isAvailable: (dev) => dev && dev.isMobile,
     isCustomScheme: true,
-    getUrl: (lat, lon, dev) => `roote://navigate?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}`
-  },
-  system: {
-    id: "system",
-    name: "GPS Système (au choix)",
-    shortName: "GPS Système",
-    icon: "🧭",
-    desc: "Sélecteur d'applications Android",
-    gradient: "linear-gradient(135deg, #64748b, #475569)",
-    isAvailable: (dev) => dev && dev.isAndroid,
-    isCustomScheme: true,
-    getUrl: (lat, lon, dev) => `geo:${lat.toFixed(6)},${lon.toFixed(6)}?q=${lat.toFixed(6)},${lon.toFixed(6)}`
+    getUrl: (lat, lon) => `roote://navigate?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}`
   }
 };
 
@@ -134,20 +147,17 @@ export class TourGuidance {
     // Gestion du clic sur le bouton de navigation principal
     if (this.btnNavMainEl) {
       this.btnNavMainEl.addEventListener("click", (e) => {
+        e.preventDefault();
         const currentAppId = this.getPreferredNavAppId();
         if (!currentAppId) {
-          e.preventDefault();
           this.openGpsModal();
           return;
         }
         const app = NAV_APPS[currentAppId];
-        if (app && app.isCustomScheme) {
-          e.preventDefault();
-          if (this.currentTargetLat != null && this.currentTargetLon != null) {
-            const dev = getDeviceInfo();
-            const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
-            window.location.href = url;
-          }
+        if (app && this.currentTargetLat != null && this.currentTargetLon != null) {
+          const dev = getDeviceInfo();
+          const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
+          this.launchNavigation(url, dev);
         }
       });
     }
@@ -551,11 +561,35 @@ export class TourGuidance {
     if (saved && NAV_APPS[saved] && NAV_APPS[saved].isAvailable(dev)) {
       return saved;
     }
-    // Sur desktop (PC / Mac), Google Maps est présélectionné par défaut si aucun choix n'a été fait
+    // Sur Android par défaut : le sélecteur d'application système natif geo:
+    if (dev && dev.isAndroid) {
+      return "system";
+    }
+    // Sur desktop (PC / Mac), Google Maps est présélectionné par défaut
     if (dev && dev.isDesktop) {
       return "gmaps";
     }
+    // Sur iOS par défaut : Apple Plans
+    if (dev && dev.isIOS) {
+      return "apple";
+    }
     return null;
+  }
+
+  /**
+   * Lance la navigation vers l'application GPS ciblée
+   * Sur mobile ou schémas d'apps natives (google.navigation:, waze:, roote:, geo:),
+   * l'assignation de window.location.href déclenche directement l'application sans ouvrir de page web.
+   * @param {string} url
+   * @param {Object} dev
+   */
+  launchNavigation(url, dev) {
+    if (!url) return;
+    if (dev && (dev.isMobile || !url.startsWith("http"))) {
+      window.location.href = url;
+    } else {
+      window.open(url, "_blank");
+    }
   }
 
   /**
@@ -573,7 +607,7 @@ export class TourGuidance {
       if (this.btnNavIconEl) this.btnNavIconEl.textContent = app.icon;
       if (this.btnNavLabelEl) this.btnNavLabelEl.textContent = `Naviguer avec ${app.shortName}`;
       this.btnNavMainEl.style.background = app.gradient;
-      this.btnNavMainEl.title = `Ouvrir l'itinéraire dans ${app.name}`;
+      this.btnNavMainEl.title = `Ouvrir ${app.name}`;
     } else {
       this.btnNavMainEl.href = "#";
       if (this.btnNavIconEl) this.btnNavIconEl.textContent = "🧭";
@@ -631,7 +665,7 @@ export class TourGuidance {
   }
 
   /**
-   * Sélectionne une application GPS (avec ou sans mémorisation) et lance éventuellement la navigation
+   * Sélectionne une application GPS (avec ou sans mémorisation) et lance immédiatement la navigation
    * @param {string} appId
    * @param {boolean} openNow
    */
@@ -656,11 +690,7 @@ export class TourGuidance {
     if (openNow && this.currentTargetLat != null && this.currentTargetLon != null) {
       const dev = getDeviceInfo();
       const url = app.getUrl(this.currentTargetLat, this.currentTargetLon, dev);
-      if (app.isCustomScheme) {
-        window.location.href = url;
-      } else {
-        window.open(url, "_blank");
-      }
+      this.launchNavigation(url, dev);
     }
   }
 

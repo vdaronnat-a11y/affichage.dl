@@ -23,10 +23,10 @@ export class TourMap {
   }
 
   initMap() {
-    // Initialisation centrée sur Lyon par défaut
+    // Initialisation centrée sur la France par défaut
     this.map = L.map(this.containerId, {
       zoomControl: false
-    }).setView([45.7640, 4.8357], 13);
+    }).setView([46.603354, 1.888334], 6);
 
     // Repositionner le contrôle de zoom en haut à droite
     L.control.zoom({ position: "topright" }).addTo(this.map);

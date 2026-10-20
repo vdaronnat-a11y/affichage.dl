@@ -9,7 +9,7 @@
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="css/style.css?v=5.2">
+  <link rel="stylesheet" href="css/style.css?v=5.3">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 3 2%22><rect width=%221%22 height=%222%22 fill=%22%23002654%22/><rect width=%221%22 height=%222%22 x=%221%22 fill=%22%23FFFFFF%22/><rect width=%221%22 height=%222%22 x=%222%22 fill=%22%23CE1126%22/></svg>">
 </head>
 <body>
@@ -28,8 +28,8 @@
     </div>
     
     <div class="header-actions">
-      <button id="active-city-badge" class="badge-city" title="Changer de ville">
-        📍 Lyon (76 🪧)
+      <button id="active-city-badge" class="badge-city" title="Choisir les zones">
+        📍 Choisir des zones...
       </button>
       <button id="btn-admin" class="btn-icon" title="Administration & Export" style="display: none;">
         ⚙️
@@ -56,30 +56,30 @@
           <img src="img/logo_ne.png" alt="Nouvelle Énergie" class="panel-header-logo" title="À propos de cette initiative" role="button" tabindex="0">
         </div>
 
-        <!-- 1. Choix des villes / secteurs (Multi-sélection) -->
+        <!-- 1. Choix des zones / secteurs (Multi-sélection) -->
         <div class="form-group city-multiselect-group">
           <div class="form-label" style="display: flex; justify-content: space-between; align-items: baseline;">
-            <label for="btn-toggle-cities">1. Villes / Secteurs</label>
-            <span id="selected-cities-count" class="count-max-hint">1 commune</span>
+            <label for="btn-toggle-cities">1. Zones / Villes</label>
+            <span id="selected-cities-count" class="count-max-hint">0 zone</span>
           </div>
 
           <div class="city-multiselect-wrapper">
             <button type="button" id="btn-toggle-cities" class="city-multiselect-trigger" aria-haspopup="true" aria-expanded="false">
-              <span id="city-trigger-label" class="city-trigger-text">📍 Lyon (76 🪧)</span>
+              <span id="city-trigger-label" class="city-trigger-text">Choisir des zones...</span>
               <span class="city-trigger-chevron">▾</span>
             </button>
 
             <!-- Volet déroulant / Popover des communes -->
             <div id="cities-popover" class="cities-popover" style="display: none;">
               <div class="cities-popover-search">
-                <input type="text" id="cities-search-input" class="cities-search-input" placeholder="🔍 Filtrer une commune..." autocomplete="off">
+                <input type="text" id="cities-search-input" class="cities-search-input" placeholder="🔍 Filtrer une zone..." autocomplete="off">
               </div>
               <div class="cities-popover-actions">
                 <button type="button" id="btn-select-all-cities" class="btn-popover-action">Tout cocher</button>
                 <span class="popover-action-sep">•</span>
                 <button type="button" id="btn-deselect-all-cities" class="btn-popover-action">Tout décocher</button>
               </div>
-              <div id="cities-checkboxes-list" class="cities-checkboxes-list" role="group" aria-label="Liste des communes">
+              <div id="cities-checkboxes-list" class="cities-checkboxes-list" role="group" aria-label="Liste des zones">
                 <!-- Rempli dynamiquement -->
               </div>
               <div class="cities-popover-footer">
@@ -251,9 +251,9 @@
 
         <!-- Navigation GPS principale avec choix mémorisé -->
         <div class="nav-action-wrapper">
-          <a id="btn-nav-main" class="btn-nav-main" href="#" target="_blank" rel="noopener">
+          <a id="btn-nav-main" class="btn-nav-main" href="#" role="button">
             <span id="btn-nav-icon">🚗</span>
-            <span id="btn-nav-label">Ouvrir dans Google Maps</span>
+            <span id="btn-nav-label">Ouvrir le GPS</span>
           </a>
           <button type="button" id="btn-nav-settings" class="btn-nav-settings" title="Changer d'application GPS">
             <span style="font-size: 1.1rem; line-height: 1;">⚙️</span>
@@ -552,7 +552,7 @@
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <!-- Application JS (versionnée anti-cache) -->
-  <script type="module" src="js/app.js?v=5.2"></script>
+  <script type="module" src="js/app.js?v=5.3"></script>
 
 </body>
 </html>

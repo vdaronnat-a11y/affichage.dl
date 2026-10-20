@@ -178,13 +178,6 @@ class TourApp {
       this.selectedCityIds = new Set([cityParam]);
     }
 
-    if (this.selectedCityIds.size === 0) {
-      const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
-      if (defaultCity) {
-        this.selectedCityIds = new Set([defaultCity.id]);
-      }
-    }
-
     this.renderCitiesList();
 
     if (!hasTourParam) {
@@ -225,12 +218,6 @@ class TourApp {
           this.selectedCityIds.add(city.id);
           itemEl.classList.add("checked");
         } else {
-          // Empêcher de tout décocher si c'était la dernière
-          if (this.selectedCityIds.size <= 1) {
-            e.target.checked = true;
-            alert("Au moins une commune doit rester sélectionnée.");
-            return;
-          }
           this.selectedCityIds.delete(city.id);
           itemEl.classList.remove("checked");
         }
@@ -252,13 +239,13 @@ class TourApp {
 
     let labelText = "";
     if (count === 0) {
-      labelText = "Sélectionner des communes...";
+      labelText = "Choisir des zones...";
     } else if (count === 1) {
       labelText = `📍 ${this.activeCities[0].name} (${this.activeCities[0].count} 🪧)`;
     } else if (count === 2) {
       labelText = `📍 ${this.activeCities.map(c => c.name).join(", ")} (${totalPanels} 🪧)`;
     } else {
-      labelText = `📍 ${count} communes (${totalPanels} 🪧)`;
+      labelText = `📍 ${count} zones (${totalPanels} 🪧)`;
     }
 
     if (this.cityTriggerLabelEl) {
@@ -268,10 +255,14 @@ class TourApp {
       this.activeCityBadgeEl.innerHTML = labelText;
     }
     if (this.selectedCitiesCountEl) {
-      this.selectedCitiesCountEl.textContent = count > 1 ? `${count} communes` : `1 commune`;
+      this.selectedCitiesCountEl.textContent = count > 1 ? `${count} zones` : `${count} zone`;
     }
     if (this.btnApplyCitiesEl) {
-      this.btnApplyCitiesEl.textContent = `Valider (${count} commune${count > 1 ? 's' : ''} • ${totalPanels} 🪧)`;
+      if (count === 0) {
+        this.btnApplyCitiesEl.textContent = "Valider (0 zone)";
+      } else {
+        this.btnApplyCitiesEl.textContent = `Valider (${count} zone${count > 1 ? 's' : ''} • ${totalPanels} 🪧)`;
+      }
     }
   }
 
@@ -284,8 +275,16 @@ class TourApp {
 
   async loadPanelsForSelectedCities(zoomToFit = true) {
     if (this.selectedCityIds.size === 0) {
-      const defaultCity = this.cities.find(c => c.id === "lyon") || this.cities[0];
-      if (defaultCity) this.selectedCityIds.add(defaultCity.id);
+      this.activeCities = [];
+      this.activeCity = null;
+      this.activePanelsData = {
+        type: "FeatureCollection",
+        features: []
+      };
+      this.map.setUnusedPanels([]);
+      this.updateCityLabels();
+      this.updateCountControls();
+      return;
     }
 
     this.activeCities = this.cities.filter(c => this.selectedCityIds.has(c.id));
@@ -505,9 +504,7 @@ class TourApp {
     // Action "Tout décocher"
     if (this.btnDeselectAllCitiesEl) {
       this.btnDeselectAllCitiesEl.addEventListener("click", () => {
-        const first = this.cities[0]?.id || "lyon";
         this.selectedCityIds.clear();
-        this.selectedCityIds.add(first);
         const query = this.citiesSearchInputEl ? this.citiesSearchInputEl.value.toLowerCase().trim() : "";
         this.renderCitiesList(query);
       });
@@ -938,7 +935,8 @@ class TourApp {
 
   async generateTour() {
     if (!this.activePanelsData || !this.activePanelsData.features.length) {
-      alert("Aucun panneau disponible pour cette ville.");
+      alert("Veuillez sélectionner au moins une zone dans la liste pour générer une tournée.");
+      this.openCitiesPopover();
       return;
     }
 
