@@ -4,7 +4,7 @@
 
 import { TourMap } from "./map.js?v=3.3";
 import { TourRouter } from "./router.js?v=3.2";
-import { TourGuidance } from "./guidance.js?v=3.5";
+import { TourGuidance } from "./guidance.js?v=3.6";
 import { TourAdmin } from "./admin.js?v=3.2";
 import { TourTracker } from "./tracker.js?v=3.2";
 import { checkIsMultiCityTour, formatPanelDisplayName } from "./utils.js?v=3.3";
@@ -75,6 +75,7 @@ class TourApp {
     this.cityTriggerLabelEl = document.getElementById("city-trigger-label");
     this.selectedCitiesCountEl = document.getElementById("selected-cities-count");
     this.citiesSearchInputEl = document.getElementById("cities-search-input");
+    this.btnClearCitiesSearchEl = document.getElementById("btn-clear-cities-search");
     this.btnSelectAllCitiesEl = document.getElementById("btn-select-all-cities");
     this.btnDeselectAllCitiesEl = document.getElementById("btn-deselect-all-cities");
     this.citiesCheckboxesListEl = document.getElementById("cities-checkboxes-list");
@@ -239,7 +240,7 @@ class TourApp {
 
     let labelText = "";
     if (count === 0) {
-      labelText = "Choisir des zones...";
+      labelText = "Ville ou n° de département";
     } else if (count === 1) {
       labelText = `📍 ${this.activeCities[0].name} (${this.activeCities[0].count} 🪧)`;
     } else if (count === 2) {
@@ -383,9 +384,7 @@ class TourApp {
       this.btnToggleCitiesEl.classList.add("active");
       this.btnToggleCitiesEl.setAttribute("aria-expanded", "true");
     }
-    if (this.citiesSearchInputEl) {
-      setTimeout(() => this.citiesSearchInputEl.focus(), 60);
-    }
+    this.updateClearCitiesSearchVisibility();
   }
 
   closeCitiesPopover() {
@@ -400,6 +399,13 @@ class TourApp {
   updateClearBtnVisibility() {
     if (this.btnClearAddressEl) {
       this.btnClearAddressEl.style.display = this.addressInputEl && this.addressInputEl.value.trim().length > 0 ? "flex" : "none";
+    }
+  }
+
+  updateClearCitiesSearchVisibility() {
+    if (this.btnClearCitiesSearchEl) {
+      const hasValue = Boolean(this.citiesSearchInputEl && this.citiesSearchInputEl.value.trim().length > 0);
+      this.btnClearCitiesSearchEl.style.display = hasValue ? "flex" : "none";
     }
   }
 
@@ -485,6 +491,18 @@ class TourApp {
     if (this.citiesSearchInputEl) {
       this.citiesSearchInputEl.addEventListener("input", (e) => {
         this.renderCitiesList(e.target.value);
+        this.updateClearCitiesSearchVisibility();
+      });
+    }
+
+    // Effacement de la recherche de zones via la croix ✕
+    if (this.btnClearCitiesSearchEl) {
+      this.btnClearCitiesSearchEl.addEventListener("click", () => {
+        if (this.citiesSearchInputEl) {
+          this.citiesSearchInputEl.value = "";
+        }
+        this.renderCitiesList("");
+        this.updateClearCitiesSearchVisibility();
       });
     }
 

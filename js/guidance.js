@@ -28,8 +28,8 @@ export const NAV_APPS = {
     isCustomScheme: true,
     getUrl: (lat, lon, dev) => {
       if (dev && dev.isAndroid) {
-        // Lance directement l'app native Google Maps en guidage virage par virage
-        return `google.navigation:q=${lat.toFixed(6)},${lon.toFixed(6)}&mode=d`;
+        // Force le ciblage direct de l'application Google Maps native sans déclencher le sélecteur d'applications Android
+        return `intent:q=${lat.toFixed(6)},${lon.toFixed(6)}&mode=d#Intent;scheme=google.navigation;package=com.google.android.apps.maps;end`;
       }
       if (dev && dev.isIOS) {
         return `comgooglemaps://?daddr=${lat.toFixed(6)},${lon.toFixed(6)}&directionsmode=driving`;

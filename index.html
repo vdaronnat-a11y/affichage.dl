@@ -29,7 +29,7 @@
     
     <div class="header-actions">
       <button id="active-city-badge" class="badge-city" title="Choisir les zones">
-        📍 Choisir des zones...
+        📍 Ville ou n° de département
       </button>
       <button id="btn-admin" class="btn-icon" title="Administration & Export" style="display: none;">
         ⚙️
@@ -65,14 +65,15 @@
 
           <div class="city-multiselect-wrapper">
             <button type="button" id="btn-toggle-cities" class="city-multiselect-trigger" aria-haspopup="true" aria-expanded="false">
-              <span id="city-trigger-label" class="city-trigger-text">Choisir des zones...</span>
+              <span id="city-trigger-label" class="city-trigger-text">Ville ou n° de département</span>
               <span class="city-trigger-chevron">▾</span>
             </button>
 
             <!-- Volet déroulant / Popover des communes -->
             <div id="cities-popover" class="cities-popover" style="display: none;">
               <div class="cities-popover-search">
-                <input type="text" id="cities-search-input" class="cities-search-input" placeholder="🔍 Filtrer une zone..." autocomplete="off">
+                <input type="text" id="cities-search-input" class="cities-search-input" placeholder="🔍 Ville ou n° de département" autocomplete="off">
+                <button type="button" id="btn-clear-cities-search" class="btn-clear-cities-search" title="Effacer la recherche" aria-label="Effacer">✕</button>
               </div>
               <div class="cities-popover-actions">
                 <button type="button" id="btn-select-all-cities" class="btn-popover-action">Tout cocher</button>
@@ -552,7 +553,7 @@
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <!-- Application JS (versionnée anti-cache) -->
-  <script type="module" src="js/app.js?v=5.5"></script>
+  <script type="module" src="js/app.js?v=5.6"></script>
 
 </body>
 </html>
