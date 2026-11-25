@@ -1,0 +1,17 @@
+# Tournée Affiches
+
+> Application web gratuite et mobile-first qui calcule une tournée routière optimisée en boucle fermée pour coller des affiches sur les panneaux d'affichage libre, avec guidage pas à pas vers Google Maps ou Waze.
+
+Tournée Affiches s'adresse aux équipes de colleurs d'affiches bénévoles (citoyens, associations, militants). Elle est indépendante et gratuite, sans compte ni abonnement.
+
+## Comment l'utiliser
+
+- Choisir la ville ou le département dont on veut couvrir les panneaux d'affichage libre (données Open Data préchargées : Lyon, métropole de Lyon, Nantes Métropole, Issy-les-Moulineaux, etc.).
+- Indiquer son point de départ par recherche d'adresse (API Adresse officielle) ou par géolocalisation GPS, et le nombre de panneaux à traiter.
+- Obtenir un itinéraire en boucle (départ et retour au même endroit) qui respecte le code de la route (sens uniques, interdictions), puis ajuster les panneaux sur la carte.
+- Lancer le mode guidage : un panneau à la fois, ouverture dans Google Maps ou Waze, bouton « C'est collé ! Suivant » jusqu'à la fin de la tournée.
+
+## Liens
+
+- [Application](https://tournee-collage.projetlisnard.fr/): l'outil en ligne
+- [Projet Lisnard](https://www.projetlisnard.fr/): tous les outils du projet
