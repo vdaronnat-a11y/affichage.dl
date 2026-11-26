@@ -2,7 +2,7 @@
  * Contrôleur principal de l'application Tournée Affiches
  */
 
-import { TourMap } from "./map.js?v=3.3";
+import { TourMap } from "./map.js?v=3.5";
 import { TourRouter } from "./router.js?v=3.2";
 import { TourGuidance } from "./guidance.js?v=3.6";
 import { TourAdmin } from "./admin.js?v=3.2";

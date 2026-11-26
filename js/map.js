@@ -31,11 +31,28 @@ export class TourMap {
     // Repositionner le contrôle de zoom en haut à droite
     L.control.zoom({ position: "topright" }).addTo(this.map);
 
-    // Fond de carte OpenStreetMap clair/standard haute lisibilité
-    L.tileLayer("https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png", {
+    // Fond de carte OpenStreetMap standard haute lisibilité avec secours automatique Plan IGN v2 (Géoplateforme)
+    const primaryTiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       maxZoom: 19
     }).addTo(this.map);
+
+    let tileErrors = 0;
+    let fallbackActive = false;
+    primaryTiles.on("tileerror", () => {
+      tileErrors++;
+      if (!fallbackActive && tileErrors >= 3) {
+        fallbackActive = true;
+        this.map.removeLayer(primaryTiles);
+        L.tileLayer(
+          "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&FORMAT=image/png&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+          {
+            attribution: '&copy; <a href="https://www.ign.fr/">IGN-F/Géoplateforme</a>',
+            maxZoom: 19
+          }
+        ).addTo(this.map);
+      }
+    });
 
     this.activePanelsGroup = L.layerGroup().addTo(this.map);
     this.unusedPanelsGroup = L.layerGroup().addTo(this.map);
